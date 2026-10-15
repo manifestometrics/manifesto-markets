@@ -1,0 +1,322 @@
+[
+  {
+    "id": "invest-like-the-best",
+    "name": "Invest Like the Best",
+    "kind": "podcast",
+    "url": "https://investlikethebest.com",
+    "focus": ["investing", "interviews", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Patrick O'Shaughnessy interviews the most thoughtful investors, operators, and thinkers in the industry. Long-form, deeply researched conversations cover capital allocation, business building, decision-making, and the personalities behind top firms. Required listening for allocators and operators trying to understand how the best actually think about risk and edge."
+  },
+  {
+    "id": "capital-allocators",
+    "name": "Capital Allocators",
+    "kind": "podcast",
+    "url": "https://capitalallocators.com",
+    "focus": ["institutional", "allocators", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ted Seides interviews leading allocators — pensions, endowments, foundations, and family offices — on how they actually construct portfolios. Deep dives on manager selection, governance, incentive structures, and the institutional mindset behind long-term stewardship. A direct line into the thinking of the world's most sophisticated pools of capital."
+  },
+  {
+    "id": "bg2-pod",
+    "name": "BG2 Pod",
+    "kind": "podcast",
+    "url": "https://bg2pod.com",
+    "focus": ["macro", "tech", "investing"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Brad Gerstner and Bill Gurley cover markets, technology, and macro in unscripted long-form. Two veteran investors — one public-markets, one late-stage private — debate the headlines from a fundamentals-first, growth-oriented perspective. Their conversations have become a regular touchstone for tech-focused allocators and operators trying to make sense of the cycle."
+  },
+  {
+    "id": "the-investors-podcast",
+    "name": "The Investors Podcast",
+    "kind": "podcast",
+    "url": "https://theinvestorspodcast.com",
+    "focus": ["investing", "education", "principles"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Stig Brodersen and Preston Pysh break down investing principles, study historical billionaires, and analyze individual stocks in long-form episodes. Educational and accessible, with a multi-generational framework aimed at building long-term wealth. The flagship show sits alongside the popular We Study Billionaires deep-dive series."
+  },
+  {
+    "id": "masters-in-business",
+    "name": "Masters in Business",
+    "kind": "podcast",
+    "url": "https://ritholtz.com/category/the-masters-of-business-administration-with-barry-ritholtz/",
+    "focus": ["investing", "interviews", "macro"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Barry Ritholtz interviews the world's top investors, economists, and traders on Bloomberg Radio. Sharp, focused interviews with a veteran host who asks the questions practitioners actually care about — positioning, risk, conviction, and process. Long-running and one of the most-downloaded business interviews on the Bloomberg network."
+  },
+  {
+    "id": "the-market-huddle",
+    "name": "The Market Huddle",
+    "kind": "podcast",
+    "url": "https://themarkethuddle.com",
+    "focus": ["trading", "tactics", "technical"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kevin Myler and Jody Lapp interview active traders and money managers each week. Tactical, chart-based discussions for traders focused on positioning, risk management, and execution. The hosts are candid about wins and losses, which is rare in the trading-podcast space. A useful companion show for technical analysts."
+  },
+  {
+    "id": "animal-spirits",
+    "name": "Animal Spirits",
+    "kind": "podcast",
+    "url": "https://animalspiritspod.com",
+    "focus": ["behavioral", "markets", "commentary"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Michael Batnick and Ben Carlson riff on markets, behavioral finance, and the absurdities of finance with a humor-first approach. Funny, smart, and accessible — equal parts research and standup. Comes out of the Ritholtz Wealth Management ecosystem and pairs naturally with the more serious Masters in Business interviews."
+  },
+  {
+    "id": "prof-g-pod",
+    "name": "The Prof G Pod",
+    "kind": "podcast",
+    "url": "https://www.profgbypod.com",
+    "focus": ["tech", "macro", "commentary"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Scott Galloway — NYU Stern professor and Pivot co-host — covers business, tech, and the macro economy with a sharp pro-consumer, anti-monopoly lens. Direct takes on the digital economy, sharp predictions on winners and losers, and pointed commentary on inequality and regulation. One of the most-listened-to business voices online."
+  },
+  {
+    "id": "the-knowledge-project",
+    "name": "The Knowledge Project",
+    "kind": "podcast",
+    "url": "https://shaneparrish.com/the-knowledge-project/",
+    "focus": ["decision-making", "mental-models", "interviews"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Shane Parrish interviews top performers on decision-making, mental models, learning, and the habits of high-impact people. Wide-ranging guest list — investors, athletes, scientists, military leaders, founders. A masterclass in how thoughtful people actually think under pressure. Pairs with Farnam Street's blog and book club for the full ecosystem."
+  },
+  {
+    "id": "chat-with-traders",
+    "name": "Chat With Traders",
+    "kind": "podcast",
+    "url": "https://chatwithtraders.com",
+    "focus": ["trading", "process", "interviews"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Aaron Fifield interviews proprietary traders, hedge fund managers, and market researchers on process, edge, and risk. Tactical conversations focused on what works and what doesn't across asset classes and timeframes. A strong reference for traders who care more about implementation and discipline than theory."
+  },
+  {
+    "id": "real-vision",
+    "name": "Real Vision",
+    "kind": "podcast",
+    "url": "https://realvision.com",
+    "focus": ["macro", "interviews", "cross-asset"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Raoul Pal and a deep bench of guests cover macro, crypto, and markets from a global allocator's perspective. Subscription-heavy video interviews aimed at institutional and sophisticated retail investors. Useful for the cross-asset investor who wants to hear one of the more thoughtful global-macro voices of the past decade."
+  },
+  {
+    "id": "top-traders-unplugged",
+    "name": "Top Traders Unplugged",
+    "kind": "podcast",
+    "url": "https://toptradersunplugged.com",
+    "focus": ["systematic", "trend-following", "futures"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kevin Muir — known online as the Coconut — interviews systematic traders, CTAs, and quantitative managers. Deep dives into how rules-based and trend-following strategies actually perform across cycles. The reference show for managed-futures education, with a strong emphasis on performance attribution and what does and doesn't work."
+  },
+  {
+    "id": "meb-faber-show",
+    "name": "The Meb Faber Show",
+    "kind": "podcast",
+    "url": "https://mebfaber.com/podcast/",
+    "focus": ["value", "asset-allocation", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Meb Faber — founder of Cambria Investment Management — interviews investors, economists, and authors on long-term investing, asset allocation, and trend-following. Research-driven episodes with a value tilt and a healthy skepticism of efficient markets. The companion podcast to The Idea Farm newsletter and Cambria's research library."
+  },
+  {
+    "id": "we-study-billionaires",
+    "name": "We Study Billionaires",
+    "kind": "podcast",
+    "url": "https://theinvestorspodcast.com/we-study-billionaires/",
+    "focus": ["principles", "biographies", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Preston Pysh and Stig Brodersen deep-dive into the investment frameworks of history's top wealth-builders. Episode-per-investor breakdowns of Warren Buffett, Charlie Munger, Howard Marks, and others. Companion show to The Investors Podcast — useful for investors who want to study how the legends actually made decisions."
+  },
+  {
+    "id": "forward-guidance",
+    "name": "Forward Guidance",
+    "kind": "podcast",
+    "url": "https://seekingalpha.com/podcast/forward-guidance",
+    "focus": ["macro", "allocators", "global"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Hosted by Tadas Viskanta — founder of Investor's Cafe — and Tariq Dennison, with deep coverage of markets, macro, and investing. Plain-spoken conversations with global allocators, family offices, and asset managers. A strong complement to the US-centric finance podcast canon — useful for non-US audiences and globally minded allocators."
+  },
+  {
+    "id": "acquired",
+    "name": "Acquired",
+    "kind": "podcast",
+    "url": "https://acquired.fm",
+    "focus": ["tech", "company-history", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ben Gilbert and David Rosenthal tell the stories behind the world's greatest companies — Amazon, NVIDIA, Apple, Shopify — and what made them win. Best-in-class long-form business storytelling with deep research, primary sources, and a clear analytical framework. Required listening for operators, founders, and capital allocators."
+  },
+  {
+    "id": "stratechery-dithering",
+    "name": "Stratechery / Dithering",
+    "kind": "podcast",
+    "url": "https://ditheringpodcast.com",
+    "focus": ["tech", "strategy", "platforms"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ben Thompson — Stratechery's founder — and rotating guests analyze tech strategy, platforms, and the macro of the digital economy. Dithering is the audio companion to the Stratechery newsletter. The reference for thinking about how tech ecosystems actually work, and how regulation and antitrust reshape them."
+  },
+  {
+    "id": "a16z-podcast",
+    "name": "a16z Podcast",
+    "kind": "podcast",
+    "url": "https://a16z.com/podcasts/",
+    "focus": ["tech", "vc", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Marc Andreessen, Ben Horowitz, and a16z partners cover tech, culture, software, bio, and crypto across multiple feed channels. Wide-ranging interviews and short-form monologues from a top-tier venture firm. Useful for operators and investors looking for the Silicon Valley mainstream view of where the industry is going next."
+  },
+  {
+    "id": "hard-fork",
+    "name": "Hard Fork",
+    "kind": "podcast",
+    "url": "https://www.nytimes.com/column/hard-fork",
+    "focus": ["tech", "ai", "current-events"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kevin Roose and Casey Newton cover the intersection of tech, business, and culture for the New York Times. Sharp, current, and listener-friendly reporting on AI, platforms, and the people shaping them. The reference weekly podcast for staying current on the most important tech stories without wading through the news cycle."
+  },
+  {
+    "id": "pivot",
+    "name": "Pivot",
+    "kind": "podcast",
+    "url": "https://www.nytimes.com/podcasts/pivot",
+    "focus": ["tech", "media", "interviews"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kara Swisher and Scott Galloway interview the biggest names in tech and media each week. Direct, unfiltered questions and a willingness to name winners and losers in public. The defining tech interview podcast of the decade — required listening for anyone who wants to know what operators actually think off the record."
+  },
+  {
+    "id": "founders-journal",
+    "name": "Founder's Journal",
+    "kind": "podcast",
+    "url": "https://www.ycombinator.com/library",
+    "focus": ["startups", "yc", "operations"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Y Combinator's official podcast — short, founder-focused episodes covering startup operations, growth, hiring, and fundraising. Practical lessons drawn from working with thousands of YC companies over two decades. Useful for early-stage founders looking for tactical advice from operators in the trenches."
+  },
+  {
+    "id": "lennys-pod",
+    "name": "Lenny's Pod",
+    "kind": "podcast",
+    "url": "https://www.lennyspodcast.com",
+    "focus": ["product", "growth", "pm"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Lenny Rachitsky — former Airbnb, Lyft, and Facebook — interviews product leaders on growth, retention, and career. Deep dives on PM practice with frameworks, dashboards, and case studies. The reference podcast for modern product management. Required listening for PMs and founders who care about building product that compounds."
+  },
+  {
+    "id": "the-full-ratchet",
+    "name": "The Full Ratchet",
+    "kind": "podcast",
+    "url": "https://fullratchet.net",
+    "focus": ["vc", "emerging-managers", "angel"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Nick Moran interviews angels, VCs, and emerging managers on deal-making, fund construction, and allocator dynamics. The reference podcast for the emerging-manager side of venture and private markets. Required listening for new managers building their first fund and LPs curious about the next generation."
+  },
+  {
+    "id": "my-first-million",
+    "name": "My First Million",
+    "kind": "podcast",
+    "url": "https://www.myfirstmillionpod.com",
+    "focus": ["business-ideas", "trends", "commentary"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Sam Parr and Shaan Puri brainstorm business ideas, trends, and money-making opportunities in an entertainment-forward format. Idea-dense and fast-paced — useful for operators curious about adjacent business models and trends before they hit the mainstream. Less serious, more playful than the rest of this list."
+  },
+  {
+    "id": "macro-musings",
+    "name": "Macro Musings",
+    "kind": "podcast",
+    "url": "https://www.mercatus.org/macro-musings",
+    "focus": ["macro", "policy", "monetary"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Hosted by David Beckworth at the Mercatus Center — interviews economists, Fed watchers, and policy researchers on monetary economics, inflation, and the macro outlook. Academic-grade conversations with a strong policy lens and a willingness to engage heterodox voices. The reference podcast for serious monetary economics without needing an econ PhD."
+  },
+  {
+    "id": "the-indicator",
+    "name": "The Indicator",
+    "kind": "podcast",
+    "url": "https://www.npr.org/podcasts/510310/the-indicator-from-planet-money",
+    "focus": ["business", "daily", "short-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "NPR's daily short-form companion to Planet Money — quick takes on a single indicator or business trend each weekday. Ten-minute episodes. The fastest way to keep up with business headlines and understand the data behind them. Pairs naturally with the longer Planet Money episodes and a morning-news stack."
+  },
+  {
+    "id": "planet-money",
+    "name": "Planet Money",
+    "kind": "podcast",
+    "url": "https://www.npr.org/podcasts/510289/planet-money",
+    "focus": ["economics", "storytelling", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "NPR's flagship economics podcast — accessible storytelling about how the economy actually works. Episodes cover markets, policy, and economic history through short narrative arcs. A standard reference for anyone wanting a friendly on-ramp to economic concepts without slogging through textbooks."
+  },
+  {
+    "id": "the-daily",
+    "name": "The Daily",
+    "kind": "podcast",
+    "url": "https://www.nytimes.com/the-daily",
+    "focus": ["news", "daily", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "The New York Times flagship daily news podcast hosted by Michael Barbaro. Twenty-minute deep-dive on one story per weekday. Required listening for current-events coverage of markets, politics, and policy. Pairs naturally with FT News Briefing for a balanced morning-news stack."
+  },
+  {
+    "id": "ft-news-briefing",
+    "name": "FT News Briefing",
+    "kind": "podcast",
+    "url": "https://www.ft.com/podcasts/ft-news-briefing",
+    "focus": ["global", "briefing", "morning"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "The Financial Times' morning brief — global markets, policy, and business headlines in ten minutes. Reliable, neutral, and essential for non-US audiences and globally minded investors. Pairs naturally with The Daily and The Indicator as a balanced morning stack."
+  },
+  {
+    "id": "bankless",
+    "name": "Bankless",
+    "kind": "podcast",
+    "url": "https://www.banklesshq.com",
+    "focus": ["ethereum", "defi", "on-chain"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ryan Sean Adams and David Hoffman cover Ethereum, DeFi, and on-chain finance in long-form episodes. The flagship podcast for the Ethereum-aligned crypto audience. Deep coverage of protocol economics, governance, and on-chain investing. The reference show if you want to think about crypto beyond price action."
+  },
+  {
+    "id": "the-defiant",
+    "name": "The Defiant",
+    "kind": "podcast",
+    "url": "https://thedefiant.io",
+    "focus": ["defi", "crypto", "news"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Camila Russo and team cover DeFi, stablecoins, and on-chain markets with a news-led format. Required listening for tracking the crypto-native financial system beyond Bitcoin and Ethereum price action. Strong reporting on the protocol layer and the institutions being built on top of it."
+  },
+  {
+    "id": "unchained",
+    "name": "Unchained",
+    "kind": "podcast",
+    "url": "https://unchainedpodcast.com",
+    "focus": ["crypto", "interviews", "long-form"],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Laura Shin — former Forbes — interviews crypto founders, VCs, and policy makers. Long-form and accessible — the reference podcast for thoughtful crypto interviews across Bitcoin, Ethereum, and DeFi. Useful for institutional audiences and operators who want depth without the hype."
+  }
+]
