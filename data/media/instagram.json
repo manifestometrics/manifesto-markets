@@ -1,0 +1,200 @@
+[
+  {
+    "id": "bloomberg-instagram",
+    "name": "Bloomberg",
+    "handle": "@bloomberg",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/bloomberg",
+    "focus": ["markets", "news", "business"],
+    "audience": 6400000,
+    "addedAt": "2026-02-15",
+    "bio": "Bloomberg's main Instagram feed — breaking markets visuals, infographic-style explainers, and on-the-ground reporting from bureaus worldwide. Mix of short videos, market reaction shots, and data-led carousels tied to live coverage. Useful for the pulse on global news flow and how financial stories are framed for non-specialist audiences."
+  },
+  {
+    "id": "financialtimes-instagram",
+    "name": "Financial Times",
+    "handle": "@financialtimes",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/financialtimes",
+    "focus": ["markets", "policy", "business"],
+    "audience": 2000000,
+    "addedAt": "2026-02-15",
+    "bio": "Visual companion to the FT: front-page graphics, weekend long reads via carousel, and reporter explainers rendered as headlines plus art. Strong on European markets and policy coverage. Posts skew photo-led but feature sharp chart work and occasional video interviews from FT Live events."
+  },
+  {
+    "id": "theeconomist-instagram",
+    "name": "The Economist",
+    "handle": "@theeconomist",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/theeconomist",
+    "focus": ["economics", "business", "politics"],
+    "audience": 3600000,
+    "addedAt": "2026-02-15",
+    "bio": "Illustration-heavy feed that turns weekly print ideas into shareable graphics and short explainers. Maintains the magazine's signature visual identity while adapting essays for vertical scroll. Reliable mix spanning economics, business, science, and global politics with a consistent cadence."
+  },
+  {
+    "id": "wsj-instagram",
+    "name": "Wall Street Journal",
+    "handle": "@wsj",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/wsj",
+    "focus": ["markets", "policy", "business"],
+    "audience": 3400000,
+    "addedAt": "2026-02-15",
+    "bio": "Photojournalism-led coverage of US markets, policy, and corporate news. Heavy on Capitol Hill reporting, earnings visuals, and lifestyle-business crossover pieces. Mixes straight news posts with branded video series and occasional data explainers tied to WSJ print covers."
+  },
+  {
+    "id": "businessinsider-instagram",
+    "name": "Business Insider",
+    "handle": "@businessinsider",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/businessinsider",
+    "focus": ["tech", "careers", "business"],
+    "audience": 4600000,
+    "addedAt": "2026-02-15",
+    "bio": "Fast-paced feed covering tech, finance, careers, and lifestyle-business stories. Mix of studio-shot explainers, employee interviews, and behind-the-scenes reporting. Higher posting cadence than legacy outlets; useful for tracking younger-skewing coverage angles and trending workplace and economy narratives."
+  },
+  {
+    "id": "marketwatch-instagram",
+    "name": "MarketWatch",
+    "handle": "@marketwatch",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/marketwatch",
+    "focus": ["markets", "personal-finance", "news"],
+    "audience": 1100000,
+    "addedAt": "2026-02-15",
+    "bio": "Markets-focused visuals from the Dow Jones-owned outlet. Carousels on personal finance, daily market recaps, and feature stories targeted at retail investors. Tone blends breaking news with practical money advice; useful for tracking how the mainstream US financial conversation shifts week to week."
+  },
+  {
+    "id": "forbes-instagram",
+    "name": "Forbes",
+    "handle": "@forbes",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/forbes",
+    "focus": ["business", "tech", "wealth"],
+    "audience": 5200000,
+    "addedAt": "2026-02-15",
+    "bio": "Brand-driven feed spanning business, technology, lifestyle, and Under 30 coverage. Mix of cover artwork, founder and CEO profiles via short-form video, and explainer graphics around current Forbes lists. Cadence is higher than print and skews toward entrepreneur and wealth content."
+  },
+  {
+    "id": "fortune-instagram",
+    "name": "Fortune",
+    "handle": "@fortunemagazine",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/fortunemagazine",
+    "focus": ["business", "leadership", "tech"],
+    "audience": 2000000,
+    "addedAt": "2026-02-15",
+    "bio": "Coverage of global business leadership, with photo-led reporting on Fortune 500, tech CEOs, and the conference circuit. Carousel explainers for the Fortune 500, 40 Under 40, and 100 Best Companies franchises. Visual pace is slower than peers; photos carry the brand."
+  },
+  {
+    "id": "nytimes-instagram",
+    "name": "The New York Times",
+    "handle": "@nytimes",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/nytimes",
+    "focus": ["news", "business", "policy"],
+    "audience": 7500000,
+    "addedAt": "2026-02-15",
+    "bio": "Visuals from the NYT newsroom: photojournalism, front-page graphics, and short documentary-style video pieces. Strongest feed for global news breadth and on-the-ground conflict coverage. Skews more general news than finance-specific, with dedicated business explainers surfacing during market-moving days."
+  },
+  {
+    "id": "reuters-instagram",
+    "name": "Reuters",
+    "handle": "@reuters",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/reuters",
+    "focus": ["news", "markets", "world"],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Wire-service photojournalism at scale: raw global news visuals updated multiple times a day. Minimal styling and no branded video — every post is a single image or short video caption. Best follow for unfiltered news photography covering markets, politics, conflict, and sport."
+  },
+  {
+    "id": "morningbrew-instagram",
+    "name": "Morning Brew",
+    "handle": "@morningbrew",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/morningbrew",
+    "focus": ["markets", "business", "newsletter"],
+    "audience": 870000,
+    "addedAt": "2026-02-20",
+    "bio": "Visual home of the Morning Brew daily newsletter: explainer carousels, market memes, and branded illustrations. Tone is casual and Gen-Z-leaning, with a consistent visual identity. Useful for tracking how financial literacy is repackaged for younger audiences and what memes are trending in the space."
+  },
+  {
+    "id": "yahoofinance-instagram",
+    "name": "Yahoo Finance",
+    "handle": "@yahoofinance",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/yahoofinance",
+    "focus": ["markets", "video", "personal-finance"],
+    "audience": 1800000,
+    "addedAt": "2026-02-20",
+    "bio": "Market news and personal-finance explainers with a strong video presence. Mix of in-studio anchor segments, reporter-on-the-street clips, and chart-driven carousel explainers. Higher cadence and broader scope than Bloomberg or Reuters; useful for tracking retail-investor talking points and platform-trending stocks."
+  },
+  {
+    "id": "investopedia-instagram",
+    "name": "Investopedia",
+    "handle": "@investopedia",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/investopedia",
+    "focus": ["education", "personal-finance", "markets"],
+    "audience": 370000,
+    "addedAt": "2026-02-20",
+    "bio": "Education-first feed: term-of-the-day carousels, money-planning guides, and short-form video explainers. Skews beginner to intermediate finance literacy. Useful for tracking how legacy personal-finance topics — credit, taxes, retirement — are repackaged visually for social-native audiences."
+  },
+  {
+    "id": "thestreet-instagram",
+    "name": "TheStreet",
+    "handle": "@thestreet",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/thestreet",
+    "focus": ["markets", "investing", "personal-finance"],
+    "audience": 250000,
+    "addedAt": "2026-02-20",
+    "bio": "Markets and investing commentary from TheStreet's newsroom. Mix of photo-led news posts, short market commentary videos, and feature explainers. Cadence is moderate; the feed leans practical trading and investing viewpoints from staff columnists and reporter profiles."
+  },
+  {
+    "id": "moneymagazine-instagram",
+    "name": "Money Magazine",
+    "handle": "@moneymagazine",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/moneymagazine",
+    "focus": ["personal-finance", "household", "wealth"],
+    "audience": 150000,
+    "addedAt": "2026-02-20",
+    "bio": "Long-form personal finance visuals tied to Money's monthly coverage: retirement, taxes, housing, and lifestyle-money crossover. Carousel-driven and photo-led, with a slower posting cadence than peers. Best follow for the mainstream US household-finance angle rather than pure markets coverage."
+  },
+  {
+    "id": "kylascanlon-instagram",
+    "name": "Kyla Scanlon",
+    "handle": "@kylascanlon",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/kylascanlon",
+    "focus": ["education", "macro", "markets"],
+    "audience": 340000,
+    "addedAt": "2026-03-01",
+    "bio": "Creator-led explainer feed from a finance communicator known for breaking down macro and markets topics visually. Mix of illustrated carousels, talking-head commentary clips, and memes about jobs, inflation, and rates. Tone is wry and theory-forward; a primary source for how finance content is shaped for 2024-2026 social audiences."
+  },
+  {
+    "id": "andreijikh-instagram",
+    "name": "Andrei Jikh",
+    "handle": "@andrei.jikh",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/andrei.jikh",
+    "focus": ["investing", "personal-finance", "education"],
+    "audience": 1100000,
+    "addedAt": "2026-03-01",
+    "bio": "Personal-finance and investing creator. Short-form videos cover dividends, ETFs, and macro topics in plain language, paired with talking-head clips and stock breakdowns. Strong appetite for evergreen wealth-building content; cadence is consistent and explanatory rather than reactive to breaking news."
+  },
+  {
+    "id": "grahamstephan-instagram",
+    "name": "Graham Stephan",
+    "handle": "@grahamstephan",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/grahamstephan",
+    "focus": ["real-estate", "wealth", "personal-finance"],
+    "audience": 2200000,
+    "addedAt": "2026-03-01",
+    "bio": "Real-estate and wealth-building creator with crossover into personal finance. Talking-head clips and storytime-style posts dominate, with periodic lifestyle and homes-of-the-rich photo content. Useful primary source for tracking how the real-estate-as-wealth niche evolved and how creator finance accounts maintain consistent posting cadence at scale."
+  }
+]
