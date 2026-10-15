@@ -1,0 +1,402 @@
+[
+  {
+    "id": "bloomberg-news",
+    "name": "Bloomberg News",
+    "kind": "publication",
+    "url": "https://www.bloomberg.com",
+    "focus": ["markets", "finance", "global", "breaking", "data"],
+    "audience": 150000000,
+    "addedAt": "2026-02-15",
+    "bio": "The largest dedicated business newsroom in the world, with terminals on nearly every trading desk and reporters in 150+ countries. Covers global markets, M&A, central banks, and corporate earnings at breakneck speed; its data terminals set the canonical price source for professional money."
+  },
+  {
+    "id": "reuters",
+    "name": "Reuters",
+    "kind": "publication",
+    "url": "https://www.reuters.com",
+    "focus": ["markets", "global", "breaking", "policy", "finance"],
+    "audience": 110000000,
+    "addedAt": "2026-02-15",
+    "bio": "Wire service founded in 1851 and now the upstream news feed for most of the financial press. Combines deep general-assignment reporting with a world-class markets desk covering FX, rates, commodities, and corporate news in near real time."
+  },
+  {
+    "id": "wsj",
+    "name": "The Wall Street Journal",
+    "kind": "publication",
+    "url": "https://www.wsj.com",
+    "focus": ["markets", "finance", "us", "policy", "breaking"],
+    "audience": 65000000,
+    "addedAt": "2026-02-15",
+    "bio": "Dow Jones flagship and the default read for US institutional money. The print edition built the modern business newspaper; the digital subscription bundle mixes markets coverage with broader US policy, Washington, and lifestyle reporting."
+  },
+  {
+    "id": "ft",
+    "name": "Financial Times",
+    "kind": "publication",
+    "url": "https://www.ft.com",
+    "focus": ["markets", "finance", "europe", "global", "longform"],
+    "audience": 40000000,
+    "addedAt": "2026-02-15",
+    "bio": "Pink-paper daily owned by Nikkei with deep penetration across European finance, the City of London, and the global policy elite. Known for scoops on central banks, M&A leaks, and long-form analysis that gets cited by every other business outlet within hours."
+  },
+  {
+    "id": "nyt",
+    "name": "The New York Times",
+    "kind": "publication",
+    "url": "https://www.nytimes.com",
+    "focus": ["us", "policy", "global", "longform", "markets"],
+    "audience": 100000000,
+    "addedAt": "2026-02-15",
+    "bio": "General-interest paper of record whose business, DealBook, and tech desks increasingly drive the global agenda. DealBook in particular sets the daily conversation for US executives, fund managers, and policy makers before the open."
+  },
+  {
+    "id": "the-economist",
+    "name": "The Economist",
+    "kind": "publication",
+    "url": "https://www.economist.com",
+    "focus": ["global", "policy", "macro", "longform", "finance"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Weekly newsmagazine famous for its leader-style editorial voice and unmatched breadth. Coverage spans geopolitics, macro, finance, science, and technology; its annual Big Mac Index and The World Ahead are cited more than read."
+  },
+  {
+    "id": "forbes",
+    "name": "Forbes",
+    "kind": "publication",
+    "url": "https://www.forbes.com",
+    "focus": ["us", "markets", "finance", "longform"],
+    "audience": 150000000,
+    "addedAt": "2026-02-15",
+    "bio": "Business magazine built around the Forbes list franchise and a vast contributor network. Heavy on wealth, entrepreneurship, and consumer brands, with a markets and investing desk that mixes news with opinion-driven stock coverage."
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "kind": "publication",
+    "url": "https://fortune.com",
+    "focus": ["us", "markets", "policy", "tech", "finance"],
+    "audience": 40000000,
+    "addedAt": "2026-02-15",
+    "bio": "Business magazine whose Fortune 500, CEO Initiative, and Brainstorm Tech conferences anchor the corporate elite calendar. Strong on US boardrooms, M&A, and the crossover between policy, tech, and capital markets."
+  },
+  {
+    "id": "business-insider",
+    "name": "Business Insider",
+    "kind": "publication",
+    "url": "https://www.businessinsider.com",
+    "focus": ["us", "tech", "markets", "finance", "breaking"],
+    "audience": 80000000,
+    "addedAt": "2026-02-15",
+    "bio": "Digital-first outlet built on scoops and personality-driven stories across markets, tech, strategy, and lifestyle. Outsized influence on retail-investor conversation; founder and CEO coverage tends to break first here."
+  },
+  {
+    "id": "barrons",
+    "name": "Barron's",
+    "kind": "publication",
+    "url": "https://www.barrons.com",
+    "focus": ["us", "markets", "finance", "data"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Weekly sister to the Wall Street Journal aimed at active retail and advisor readers. Known for stock-picking roundtables, earnings previews, and market outlook covers that move individual names on Monday open."
+  },
+  {
+    "id": "marketwatch",
+    "name": "MarketWatch",
+    "kind": "publication",
+    "url": "https://www.marketwatch.com",
+    "focus": ["us", "markets", "finance", "breaking", "macro"],
+    "audience": 60000000,
+    "addedAt": "2026-02-15",
+    "bio": "Dow Jones-owned financial news site aimed squarely at retail investors and personal-finance readers. Real-time market pulse, earnings reactions, and the Need to Know newsletter are the daily read for a large US trading audience."
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "kind": "publication",
+    "url": "https://www.cnbc.com",
+    "focus": ["us", "markets", "breaking", "finance", "macro"],
+    "audience": 80000000,
+    "addedAt": "2026-02-15",
+    "bio": "The cable business network that sets the daytime market conversation in the US. Squawk Box, Closing Bell, and Mad Money drive intraday moves in retail-heavy names; the site mirrors the broadcast with constant market chatter."
+  },
+  {
+    "id": "axios",
+    "name": "Axios",
+    "kind": "publication",
+    "url": "https://www.axios.com",
+    "focus": ["us", "policy", "tech", "breaking", "finance"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Digital-first outlet built on the Smart Brevity style and a deep Washington roster. Axios Markets, Axios Macro, and the Pro franchises focus on insider-driven reporting on policy, deals, and the industries shaping the next quarter."
+  },
+  {
+    "id": "semafor",
+    "name": "Semafor",
+    "kind": "publication",
+    "url": "https://www.semafor.com",
+    "focus": ["global", "policy", "finance", "breaking"],
+    "audience": 5000000,
+    "addedAt": "2026-02-15",
+    "bio": "Founded in 2022 by former Bloomberg and NYT editors to cover the cross-border story behind the headlines. Flagship Flagship briefing and sector verticals cluster the global business, money, and policy flow into one read."
+  },
+  {
+    "id": "the-information",
+    "name": "The Information",
+    "kind": "publication",
+    "url": "https://www.theinformation.com",
+    "focus": ["tech", "finance", "breaking"],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Subscription tech business outlet that originated most of the scoop journalism on AI funding, Big Tech strategy, and startup financings of the last five years. Read almost exclusively inside the industry it covers."
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "kind": "publication",
+    "url": "https://techcrunch.com",
+    "focus": ["tech", "finance", "breaking"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Startup and venture site founded in 2005 and now part of Yahoo. The TechCrunch Disrupt conference and a relentless deal-scoop pace make it the default read for founders, VCs, and tech operators globally."
+  },
+  {
+    "id": "wired",
+    "name": "Wired",
+    "kind": "publication",
+    "url": "https://www.wired.com",
+    "focus": ["tech", "longform", "policy"],
+    "audience": 25000000,
+    "addedAt": "2026-02-15",
+    "bio": "Magazine and site that defined modern tech and internet coverage since 1993. Long-form features on AI, cybersecurity, platform power, and the business of the internet still drive the cultural conversation around tech."
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge",
+    "kind": "publication",
+    "url": "https://www.theverge.com",
+    "focus": ["tech", "policy", "breaking"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Vox Media tech outlet covering consumer electronics, platforms, AI, and the policy fights around them. Notifier daily email and high-frequency product scoops make it the front page of the consumer tech internet."
+  },
+  {
+    "id": "politico",
+    "name": "Politico",
+    "kind": "publication",
+    "url": "https://www.politico.com",
+    "focus": ["policy", "us", "global", "breaking"],
+    "audience": 25000000,
+    "addedAt": "2026-02-15",
+    "bio": "Inside-Washington outlet that turned political journalism into a real-time industry. Politico Pro subscriptions on financial services, tech, energy, and defense drive the news cycle for lobbyists, executives, and reporters alike."
+  },
+  {
+    "id": "foreign-affairs",
+    "name": "Foreign Affairs",
+    "kind": "publication",
+    "url": "https://www.foreignaffairs.com",
+    "focus": ["policy", "global", "longform", "macro"],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Bimonthly journal of the Council on Foreign Relations, founded in 1922. Long-form essays by former officials, central bankers, and academics shape how Washington and Wall Street frame geopolitics, trade, and macro."
+  },
+  {
+    "id": "nikkei-asia",
+    "name": "Nikkei Asia",
+    "kind": "publication",
+    "url": "https://asia.nikkei.com",
+    "focus": ["asia", "markets", "finance", "tech", "policy"],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "English-language arm of Nikkei Inc., the parent of the Financial Times. Essential for corporate, supply-chain, and policy reporting on Japan, China, India, and Southeast Asia; the Asia desk most US and European newsrooms call first."
+  },
+  {
+    "id": "caixin",
+    "name": "Caixin",
+    "kind": "publication",
+    "url": "https://www.caixinglobal.com",
+    "focus": ["asia", "finance", "policy", "macro"],
+    "audience": 15000000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent Chinese business outlet known for investigative reporting on shadow banking, local government debt, and the opaque corners of the Chinese financial system. The Caixin China Manufacturing PMI is a leading macro signal."
+  },
+  {
+    "id": "scmp",
+    "name": "South China Morning Post",
+    "kind": "publication",
+    "url": "https://www.scmp.com",
+    "focus": ["asia", "finance", "policy", "breaking"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Hong Kong-based English daily owned by Alibaba Group, covering China business, Greater Bay Area development, and cross-border flows between China, Southeast Asia, and the rest of the world."
+  },
+  {
+    "id": "the-guardian",
+    "name": "The Guardian",
+    "kind": "publication",
+    "url": "https://www.theguardian.com",
+    "focus": ["europe", "global", "policy", "longform"],
+    "audience": 180000000,
+    "addedAt": "2026-02-15",
+    "bio": "British daily with US and Australia editions and an unusually global pool of investigative reporters. Strong on climate, tax, and corporate accountability, with a business section that doubles as the liberal UK paper of record."
+  },
+  {
+    "id": "washington-post",
+    "name": "The Washington Post",
+    "kind": "publication",
+    "url": "https://www.washingtonpost.com",
+    "focus": ["us", "policy", "breaking", "global"],
+    "audience": 80000000,
+    "addedAt": "2026-02-15",
+    "bio": "Jeff Bezos-owned US daily long associated with the Watergate model of investigative reporting. Covers the White House, regulators, and federal contractors in depth; its financial desk is small but moves policy stories."
+  },
+  {
+    "id": "npr",
+    "name": "NPR",
+    "kind": "publication",
+    "url": "https://www.npr.org",
+    "focus": ["us", "policy", "macro"],
+    "audience": 60000000,
+    "addedAt": "2026-02-15",
+    "bio": "US public radio network whose Planet Money, Marketplace, and Indicator podcasts arguably built the modern popular-finance audience. Tells the macro and labor-market story in plain language; the daily brief sets agenda for many markets desks."
+  },
+  {
+    "id": "bbc-business",
+    "name": "BBC Business",
+    "kind": "publication",
+    "url": "https://www.bbc.com/business",
+    "focus": ["global", "markets", "finance", "breaking", "europe"],
+    "audience": 150000000,
+    "addedAt": "2026-02-15",
+    "bio": "The business desk of the BBC across its global sites and the World Service. Heavy on UK, European, and emerging-market angles; the morning and end-of-day business strands on BBC radio long set the European market open narrative."
+  },
+  {
+    "id": "the-atlantic",
+    "name": "The Atlantic",
+    "kind": "publication",
+    "url": "https://www.theatlantic.com",
+    "focus": ["us", "policy", "longform", "tech"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "American magazine of ideas whose coverage extends from politics to the economics of culture, tech, and the Atlantic economy. Long-form pieces by staff and contributors keep shaping how executives talk about AI, antitrust, and American decline."
+  },
+  {
+    "id": "vox",
+    "name": "Vox",
+    "kind": "publication",
+    "url": "https://www.vox.com",
+    "focus": ["us", "policy", "longform", "tech"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Vox Media explanatory site whose cards-and-scroll explainer format turned policy and economics reporting into a mass medium. Recode lineage lives on inside Vox for Big Tech, antitrust, and platform-labor coverage."
+  },
+  {
+    "id": "bloomberg-businessweek",
+    "name": "Bloomberg Businessweek",
+    "kind": "publication",
+    "url": "https://www.bloomberg.com/businessweek",
+    "focus": ["global", "finance", "longform", "markets"],
+    "audience": 50000000,
+    "addedAt": "2026-02-15",
+    "bio": "Print weekly inside the Bloomberg ecosystem. Long-form features and company profiles that go deeper than the terminal news flow; the cover story alone moves small-cap names on occasion."
+  },
+  {
+    "id": "new-yorker",
+    "name": "The New Yorker",
+    "kind": "publication",
+    "url": "https://www.newyorker.com",
+    "focus": ["us", "longform", "policy", "finance"],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Literary magazine whose finance, tech, and politics reporting punches well above its circulation. Profiles of CEOs and central bankers routinely set the broader cultural framing of a market moment."
+  },
+  {
+    "id": "investors-business-daily",
+    "name": "Investor's Business Daily",
+    "kind": "publication",
+    "url": "https://www.investors.com",
+    "focus": ["us", "markets", "finance", "data"],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "US daily built around William O'Neil's CAN SLIM methodology and heavy use of relative-strength charts. Tracks large-cap US stocks and ETFs daily with a quantitative tilt; widely read by active retail traders."
+  },
+  {
+    "id": "globenewswire",
+    "name": "GlobeNewswire",
+    "kind": "publication",
+    "url": "https://www.globenewswire.com",
+    "focus": ["breaking", "finance", "global"],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "One of the two dominant wire services for corporate press releases, alongside Business Wire. Where earnings, M&A announcements, and SEC disclosures are first published; the raw firehose of event-driven markets news."
+  },
+  {
+    "id": "pr-newswire",
+    "name": "PR Newswire",
+    "kind": "publication",
+    "url": "https://www.prnewswire.com",
+    "focus": ["breaking", "finance", "global"],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "Cision-owned wire and the original US corporate news distribution network. Trades earnings releases, product launches, and government announcements with GlobeNewswire; the back end of nearly every earnings recap."
+  },
+  {
+    "id": "seeking-alpha",
+    "name": "Seeking Alpha",
+    "kind": "publication",
+    "url": "https://seekingalpha.com",
+    "focus": ["markets", "finance", "data"],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "Crowd-sourced equity research platform with a large community of buy-side contributors and retail investors. Long-form and short-form stock theses, quant ratings, and transcripts give a useful contrarian counterweight to sell-side notes."
+  },
+  {
+    "id": "morningstar",
+    "name": "Morningstar",
+    "kind": "publication",
+    "url": "https://www.morningstar.com",
+    "focus": ["markets", "finance", "data", "esg"],
+    "audience": 25000000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent investment research firm whose equity ratings, fund star ratings, and fair-value estimates anchor much of the independent advisor and 401(k) world. Premium Morningstar Direct tools sit alongside the public news site."
+  },
+  {
+    "id": "pitchbook",
+    "name": "PitchBook",
+    "kind": "publication",
+    "url": "https://pitchbook.com",
+    "focus": ["finance", "data", "tech"],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Private-market data platform and newsdesk from Morningstar. The default source for VC, growth, and PE deal multiples, fund raises, and exits; the daily newswire is a must-read inside every fund and corporate venture team."
+  },
+  {
+    "id": "crunchbase",
+    "name": "Crunchbase",
+    "kind": "publication",
+    "url": "https://www.crunchbase.com",
+    "focus": ["tech", "finance", "data"],
+    "audience": 15000000,
+    "addedAt": "2026-02-15",
+    "bio": "Tech company and funding database that spun out of TechCrunch. Tracks startups, rounds, acquirers, and exits in near real time; the standard reference when triangulating a private-company story across the rest of the tech press."
+  },
+  {
+    "id": "rest-of-world",
+    "name": "Rest of World",
+    "kind": "publication",
+    "url": "https://restofworld.org",
+    "focus": ["tech", "global", "longform", "policy"],
+    "audience": 5000000,
+    "addedAt": "2026-02-15",
+    "bio": "Non-profit outlet founded in 2019 covering how technology is actually built and used outside Silicon America and China. Long-form reporting on startups, regulation, and labor in Latin America, Africa, the Middle East, and South Asia."
+  },
+  {
+    "id": "puck-news",
+    "name": "Puck News",
+    "kind": "publication",
+    "url": "https://puck.news",
+    "focus": ["us", "media", "finance", "breaking"],
+    "audience": 2000000,
+    "addedAt": "2026-02-15",
+    "bio": "Subscription insider outlet launched in 2021 covering the intersection of media, money, and power. Founders include Dylan Byers and Jon Kelly; vertical-specific newsletters drive much of the Hollywood and Wall Street scoop cycle."
+  }
+]
