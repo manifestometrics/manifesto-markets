@@ -5,11 +5,13 @@ import {
   getTickers,
   getNews,
   getPrices,
+  getIndices,
   isMarketCode,
 } from "@/lib/markets";
 import { TickerCard } from "@/components/TickerCard";
 import { NewsItemRow } from "@/components/NewsItem";
 import { MarketNav } from "@/components/MarketNav";
+import type { IndexQuote } from "@/lib/types";
 
 // Mock prices used as a fallback when prices.json hasn't been generated
 // yet for a ticker. Once the daily cron has run, real Yahoo quotes take over.
@@ -43,6 +45,7 @@ export default async function MarketHomePage({
   const tickers = await getTickers(params.code);
   const news = await getNews(params.code);
   const prices = await getPrices(params.code);
+  const indices = await getIndices();
   const topPicks = tickers.slice(0, 10);
 
   // Find the most recent asOf timestamp across all prices for the freshness chip.
@@ -52,33 +55,71 @@ export default async function MarketHomePage({
     .sort();
   const lastUpdated = asOfList.at(-1);
 
+  // The 4-tile strip always shows the same macro context regardless of which
+  // market the user is browsing: S&P 500, NASDAQ, 10Y, USD Index. Each tile
+  // gracefully falls back to "—" when the daily refresh hasn't fetched that
+  // symbol yet (e.g. Yahoo rate-limit or first-run before the cron).
+  const INDEX_TILES: Array<{
+    symbol: "^GSPC" | "^IXIC" | "^TNX" | "DX-Y.NYB";
+    label: string;
+  }> = [
+    { symbol: "^GSPC", label: "S&P 500" },
+    { symbol: "^IXIC", label: "NASDAQ" },
+    { symbol: "^TNX", label: "10Y" },
+    { symbol: "DX-Y.NYB", label: "USD Index" },
+  ];
+
   return (
     <div>
       <MarketNav market={market} active="home" />
 
       {/* Index snapshot strip */}
       <section className="mt-6 grid grid-cols-2 gap-3 md:grid-cols-4">
-        {[
-          { label: market.primaryIndex, value: "—", change: "+0.00%" },
-          { label: "Volatility", value: "—", change: "—" },
-          { label: "10Y", value: "—", change: "—" },
-          { label: "USD Index", value: "—", change: "—" },
-        ].map((s) => (
-          <div
-            key={s.label}
-            className="rounded-md border border-line bg-surface p-4"
-          >
-            <p className="text-[10px] uppercase tracking-widest text-ink-faint">
-              {s.label}
-            </p>
-            <p className="ticker mt-1 text-xl font-medium tabular-nums text-ink">
-              {s.value}
-            </p>
-            <p className="ticker mt-1 text-xs tabular-nums text-ink-soft">
-              {s.change}
-            </p>
-          </div>
-        ))}
+        {INDEX_TILES.map((tile) => {
+          const q = indices[tile.symbol] as IndexQuote | undefined;
+          const tone =
+            !q ? "neutral" : q.changePct > 0 ? "up" : q.changePct < 0 ? "down" : "neutral";
+          const sign = q && q.changePct > 0 ? "+" : "";
+
+          // ^TNX is already a percent (e.g. 4.32 → "4.32%"); the others are
+          // raw price levels and use thousands separators.
+          const value = q
+            ? q.format === "percent"
+              ? `${q.price.toFixed(2)}%`
+              : q.price.toLocaleString("en-US", {
+                  minimumFractionDigits: 2,
+                  maximumFractionDigits: 2,
+                })
+            : "—";
+          const change = q
+            ? `${sign}${q.changePct.toFixed(2)}%`
+            : "—";
+          const changeColor =
+            tone === "up"
+              ? "text-up"
+              : tone === "down"
+                ? "text-down"
+                : "text-ink-soft";
+
+          return (
+            <div
+              key={tile.symbol}
+              className="rounded-md border border-line bg-surface p-4"
+            >
+              <p className="text-[10px] uppercase tracking-widest text-ink-faint">
+                {tile.label}
+              </p>
+              <p className="ticker mt-1 text-xl font-medium tabular-nums text-ink">
+                {value}
+              </p>
+              <p
+                className={`ticker mt-1 text-xs tabular-nums ${changeColor}`}
+              >
+                {change}
+              </p>
+            </div>
+          );
+        })}
       </section>
 
       {/* Curated top picks */}

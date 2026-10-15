@@ -60,6 +60,12 @@ export function TickerCard({ ticker, price, changePct, series }: TickerCardProps
           ))}
         </div>
       )}
+
+      {ticker.description && (
+        <p className="mt-2 text-xs text-ink-soft leading-snug line-clamp-2">
+          {ticker.description}
+        </p>
+      )}
     </a>
   );
 }
