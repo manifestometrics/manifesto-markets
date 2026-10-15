@@ -1536,5 +1536,1381 @@
     "addedAt": "2026-02-15",
     "isin": "DE000WCH8881",
     "index": "MDAX"
+  },
+  {
+    "symbol": "AOF.DE",
+    "name": "ATOSS Software",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Software",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "ATOSS Software SE is a publicly listed company that provides software for workforce management.",
+    "themes": [
+      "tec-dax",
+      "workforce-management",
+      "enterprise-software"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "DRW3.DE",
+    "name": "Drägerwerk",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Drägerwerk AG & Co. KGaA, commonly known as Dräger, is a publicly listed company based in Lübeck, Germany. It develops, manufactures, and sells devices and systems in the fields of medical and safety technology.",
+    "themes": [
+      "tec-dax",
+      "medical-devices",
+      "safety"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "EUZ.DE",
+    "name": "Eckert & Ziegler",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Radiopharma",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Eckert & Ziegler SE is a German specialist in isotope technology for medical, scientific, and industrial applications. The company develops and produces components and devices used in nuclear medicine, radiation therapy (especially cancer diagnostics and therapy), and industrial measurement.",
+    "themes": [
+      "tec-dax",
+      "radiopharma",
+      "nuclear-medicine"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "EVT.DE",
+    "name": "Evotec",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Biotech",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Evotec SE is a publicly listed drug discovery and development company headquartered in Hamburg, Germany. The company operates globally, largely through external alliances with pharmaceutical and biotechnology companies, academic institutions, patient advocacy groups, and venture capitalists. As of 31 December 2021 Evotec had a market capitalization of €7.5 billion and a pipeline of more than 130 partnered programs in discovery, pre-clinical development and clinical development.",
+    "themes": [
+      "tec-dax",
+      "biotech",
+      "drug-discovery",
+      "contract-research"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "KTN.DE",
+    "name": "Kontron",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Industrial Computing",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Kontron AG is an Austrian-based multinational group headquartered in Linz, specialising in IoT technologies and embedded computer solutions.",
+    "themes": [
+      "tec-dax",
+      "iot",
+      "embedded-computing"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "OHB.DE",
+    "name": "OHB SE",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Aerospace",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "OHB SE, headquartered in Bremen, is a European space and technology group specializing in the development and implementation of complete space systems, the production of components for various launcher programs as well as the operation of satellite systems and the processing and provision of the data collected. The company employs over 3,000 people at 15 locations in ten countries, most of them in Europe. Subsidiaries include OHB Sweden operating from Kista.",
+    "themes": [
+      "tec-dax",
+      "space",
+      "satellites",
+      "aerospace"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "OBCK.DE",
+    "name": "Ottobock",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Prosthetics",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Ottobock SE & Co. KGaA, formerly Otto Bock, is an international company based in Duderstadt Germany, that operates in the field of orthopedic technology. It is considered the world market leader in the field of prosthetics and one of the leading suppliers in orthotics, wheelchairs and exoskeletons.",
+    "themes": [
+      "tec-dax",
+      "prosthetics",
+      "medical-devices"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "TPE.DE",
+    "name": "PVA TePla",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "PVA TePla AG is a German worldwide system engineering company, providing solutions for materials and measurement technology.",
+    "themes": [
+      "tec-dax",
+      "semiconductor-equipment",
+      "metrology"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "S92.DE",
+    "name": "SMA Solar Technology",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Solar Inverters",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "SMA Solar Technology AG is a German solar energy equipment supplier founded in 1981 and headquartered in Niestetal, Northern Hesse, Germany. SMA is a producer and manufacturer of solar inverters for photovoltaics systems with grid connection, off-grid power supply and backup operations.",
+    "themes": [
+      "tec-dax",
+      "solar",
+      "renewable-energy",
+      "inverters"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "TMV.DE",
+    "name": "TeamViewer",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Remote Software",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "TeamViewer SE is an international technology company headquartered in Göppingen, Germany. The company became known for the TeamViewer remote access and support software of the same name. Within the TeamViewer software, customers can connect, monitor, and control computers, machines, and other devices. It can be used in various industries, for example, to digitalize processes along the industrial value chain. The company is listed on the stock exchange and is a member of SDAX and TecDAX.",
+    "themes": [
+      "tec-dax",
+      "remote-software",
+      "it-support"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "VBK.DE",
+    "name": "Verbio",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Biofuels",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Verbio SE, based in Zörbig, Germany, is a company that produces biofuels and chemical products from rapeseed oil, rye, wheat, triticale, maize and straw. Administration and management are located in Leipzig, Germany. The company employs 1,180 people and has sites in Germany, India, the United States, Canada, Poland and Hungary.",
+    "themes": [
+      "tec-dax",
+      "biofuels",
+      "biomethane",
+      "renewable-energy"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "TecDAX"
+  },
+  {
+    "symbol": "ACT.DE",
+    "name": "Alzchem",
+    "exchange": "XETRA",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Alzchem Group AG is a German specialty chemicals company based in Trostberg, Bavaria. It manufactures chemical products based on calcium carbide and cyanamide, with applications in agriculture, nutrition, pharma, fine chemicals, and metallurgy.",
+    "themes": [
+      "sdax",
+      "chemicals",
+      "specialty"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "1AST.DE",
+    "name": "Asta Energy Solutions",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Energy Services",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "ASTA Energy Solutions AG ist ein österreichisches Industrieunternehmen mit Hauptsitz in Oed in Niederösterreich. Das Unternehmen entwickelt und produziert Komponenten aus Kupfer für Anwendungen in der elektrischen Energietechnik, insbesondere hochisolierte Kupferwickeldrähte und Roebelstäbe für Transformatoren, elektrische Generatoren und Elektromotoren. Die Aktien des Unternehmens werden seit Jänner 2026 im Prime Standard der Frankfurter Wertpapierbörse gehandelt.",
+    "themes": [
+      "sdax",
+      "energy-services"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "BSL.DE",
+    "name": "Basler",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Industrial Imaging",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Basler AG is a German manufacturer of industrial image processing components, including digital cameras, frame grabbers, and software for machine vision and factory automation.",
+    "themes": [
+      "sdax",
+      "machine-vision",
+      "industrial-imaging"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "BFSA.DE",
+    "name": "Befesa",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Recycling",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Abengoa, S.A. was a Spanish multinational company in the green infrastructure, energy and water sectors. The company was founded in 1941 by Javier Benjumea Puigcerver and José Manuel Abaurre Fernández-Pasalagua, and was based in Seville, Spain. Its current chairman is Gonzalo Urquijo Fernández de Araoz. After repeated bankruptcies and rescues, it declared insolvency in February 2021 amid various regulatory and financial charges against the board and management, the second-largest corporate collapse in Spanish history.",
+    "themes": [
+      "sdax",
+      "recycling",
+      "steel-dust"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "COK.DE",
+    "name": "Cancom",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "IT Services",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Shaw Satellite Services Inc., dba Shaw Broadcast Services, is the division of Canadian telecommunications company Shaw Communications that is responsible for providing and managing the distribution of television channels to cable companies via satellite. Shaw Communications also operates Shaw Direct, a Canadian direct broadcast satellite service.",
+    "themes": [
+      "sdax",
+      "it-services",
+      "cloud"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "CWC.DE",
+    "name": "Cewe",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Photo Printing",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Cewe Stiftung & Co. KGaA is a German photo printing and commercial printing company headquartered in Oldenburg. It is best known for its CEWE Photo Books and operates photo retail brands across Europe.",
+    "themes": [
+      "sdax",
+      "photo-printing",
+      "consumer"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "DMP.DE",
+    "name": "Dermapharm",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Pharma",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Dermapharm Holding SE is a German pharmaceutical company headquartered in Grünwald near Munich. It focuses on the development, in-licensing, and sale of branded generics, primarily in Germany and selected European markets.",
+    "themes": [
+      "sdax",
+      "pharma",
+      "branded-generics"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "DBAN.DE",
+    "name": "Deutsche Beteiligungs AG",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Private Equity",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Beteiligungs AG (DBAG) is a publicly listed German investment company based in Frankfurt am Main. It manages private equity funds and invests in mid-market companies (Mittelstand) in Germany, Austria and Switzerland, and especially on well-positioned companies offering growth potential. DBAG’s sector focus is on manufacturers, industrial service providers and IndustryTech enterprises – businesses whose products facilitate automation, robotics and digitalisation – as well as on companies from the business services, IT services, software, healthcare, and environment, energy and infrastructure sectors. The assets managed or advised by the DBAG Group amounted to EUR 2.7 billion as of 2025.",
+    "themes": [
+      "sdax",
+      "private-equity",
+      "buyout"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "DEQ.DE",
+    "name": "Deutsche EuroShop",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "Retail REIT",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche EuroShop SE is an internationally active German real estate investment company headquartered in Hamburg. It is the largest German investor in shopping centers, and the country's only publicly traded company to do so exclusively. Deutsche EuroShop was spun off from Deutsche Bank in 2000 and has been one of the largest real estate companies listed on the Frankfurt Stock Exchange since 2001. At the end of 2025, the firm held investments in 21 properties in Germany, Austria, Poland, the Czech Republic and Hungary.",
+    "themes": [
+      "sdax",
+      "retail-property",
+      "reit"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "PBB.DE",
+    "name": "Deutsche Pfandbriefbank",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Bank",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Pfandbriefbank AG is a German bank that specialises in real estate and public sector financing. As of 2016, it is a constituent of the SDAX trading index of German small-cap companies. It is based in Garching in Bayern, a suburb of Munich. Pfandbriefe is a German term for bonds issued in property financing.",
+    "themes": [
+      "sdax",
+      "bank",
+      "commercial-real-estate"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "DOU.DE",
+    "name": "Douglas",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Beauty Retail",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Douglas AG, doing business as Douglas Group, is a German multinational company specializing in perfumery and cosmetics. Its headquarters are located in Düsseldorf, Germany. The first perfumery to carry the name \"Parfümerie Douglas\" opened in Hamburg in 1910. Douglas GmbH was part of the Douglas Holding, but as of 1 June 2015, 85 percent belongs to the financial investor CVC Capital Partners, and 15 percent to the Kreke family.",
+    "themes": [
+      "sdax",
+      "beauty",
+      "retail"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "DUE.DE",
+    "name": "Dürr",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Industrial Automation",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Dürr AG is a global mechanical and plant engineering firm. The company, founded by Paul Dürr (1871–1936) as a metal shop for roof flashing in Bad Cannstatt in 1895, has been listed on the Frankfurt Stock Exchange since 4 January 1990. Meanwhile, the shares are listed in the MDAX and Stoxx 600. The customers of Dürr AG include almost all familiar automobile manufacturers and their suppliers. Other market segments include, for example, the mechanical engineering, chemical and pharmaceutical industries and – since the takeover of HOMAG Group AG in October 2014 – the woodworking industry. The company is registered in Stuttgart, but its actual location has been in Bietigheim-Bissingen since 1 August 2009 after the relocation of various business units.",
+    "themes": [
+      "sdax",
+      "industrial-automation",
+      "paint-shop"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "EIN.DE",
+    "name": "Einhell Germany",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Power Tools",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Einhell Germany AG is a German manufacturer of power tools, garden equipment, and accessories for DIY and professional users. The company is headquartered in Landau an der Isar.",
+    "themes": [
+      "sdax",
+      "power-tools",
+      "consumer"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "EKT.DE",
+    "name": "Energiekontor",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Wind Power",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Energiekontor is a German company specialized in the development and management of wind farms and solar parks. The main activities are concentrated in Germany, Portugal and in the United Kingdom. The company sells developed facilities or takes the ownership. Energiekontor manages external wind farms for clients as well.",
+    "themes": [
+      "sdax",
+      "wind",
+      "renewable-energy"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "FIE.DE",
+    "name": "Fielmann",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Optical Retail",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Fielmann Group AG is a German eyewear company. Fielmann stock is listed in the German SDAX index. With 6% of all optical stores, Fielmann has achieved a 25% sales market share and a 57% market share in terms of units sold. Fielmann is the market leader in Germany and Europe's largest optician.",
+    "themes": [
+      "sdax",
+      "optical",
+      "retail"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "VH2.DE",
+    "name": "Friedrich Vorwerk Group",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Energy Infrastructure",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Friedrich Vorwerk Group SE is a German infrastructure supplier based in Tostedt, specializing in natural gas, electricity, and hydrogen pipelines as well as energy transition infrastructure.",
+    "themes": [
+      "sdax",
+      "energy-infrastructure",
+      "pipeline"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "GFT.DE",
+    "name": "GFT Technologies",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "IT Consulting",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "GFT Technologies SE (Gesellschaft für Technologietransfer) ist ein international tätiger Informationstechnik-Dienstleister und Softwareentwickler für die Industrie sowie die Finanz- und Versicherungsbranche mit Hauptsitz in Stuttgart, Deutschland. Im Geschäftsjahr 2024 erwirtschaftete das Unternehmen über 870 Mio. EUR und beschäftigte international über 11.500 Mitarbeiter. Seit 1999 ist die GFT-Aktie an der Frankfurter Wertpapierbörse notiert, seit 2021 sind die Aktien Bestandteil des SDAX.",
+    "themes": [
+      "sdax",
+      "it-consulting",
+      "banking-software"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "GYC.DE",
+    "name": "Grand City Properties",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "Residential REIT",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Grand City Properties S.A. ist mit 61.040 Einheiten. ein Wohnimmobilienunternehmen mit Sitz in Luxemburg und operativem Hauptsitz in Berlin-Tegel.",
+    "themes": [
+      "sdax",
+      "residential",
+      "reit"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "GLJ.DE",
+    "name": "Grenke",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Leasing",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Grenke AG is a German manufacturer-independent leasing company which is specialized in office communication-products, including printers, copiers, telephone systems, servers and laptop computers. Besides its leasing-activities, Grenke makes a notable portion of its revenue with factoring services. By acquiring the German private bank Hesse Newman in 2009, the company obtained a banking license. The most important markets for the company are Germany, France and Italy.",
+    "themes": [
+      "sdax",
+      "leasing",
+      "fintech"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "HABA.DE",
+    "name": "Hamborner REIT",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "Retail REIT",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hamborner REIT AG is a German stock-listed real estate company focused exclusively on commercial properties in German metropolitan regions. It holds a diversified portfolio of office, retail, and logistics assets.",
+    "themes": [
+      "sdax",
+      "retail-property",
+      "reit"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "HDD.DE",
+    "name": "Heidelberger Druckmaschinen",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Printing",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Heidelberger Druckmaschinen AG, sometimes referred to as Heidelberg or Heideldruck for short, is a German precision mechanical engineering company with registered offices in Heidelberg (Baden-Württemberg) and headquarters in nearby Wiesloch-Walldorf (Baden-Württemberg). The company offers products and services along the entire process and value chain for printing products and is the largest global manufacturer of offset printing presses. Heidelberg further produces equipment for prepress, press and postpress.",
+    "themes": [
+      "sdax",
+      "printing",
+      "packaging"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "HFG.DE",
+    "name": "HelloFresh",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Meal Kits",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "HelloFresh SE is a German multinational meal-kit company based in Berlin. Founded in 2011, it is one of the largest meal-kit providers in the world, operating in Australia, Canada, New Zealand, the United States, and Western Europe. Aside from its flagship brand, the company also owns and operates subsidiary brands such as Green Chef, EveryPlate and Factor.",
+    "themes": [
+      "sdax",
+      "meal-kits",
+      "food-tech"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "HBH.DE",
+    "name": "Hornbach Holding",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "DIY Retail",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hornbach Holding AG & Co. KGaA is the parent company of the Hornbach retail group, one of Europe's largest operators of DIY home improvement megastores combined with garden centers.",
+    "themes": [
+      "sdax",
+      "diy",
+      "retail"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "HYQ.DE",
+    "name": "Hypoport",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Fintech",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hypoport SE is a German fintech company based in Lübeck. Its subsidiaries operate platforms and services for mortgage finance, insurance, real estate, and corporate financing, including Europace, the leading German mortgage transaction platform.",
+    "themes": [
+      "sdax",
+      "fintech",
+      "mortgage-tech"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "INH.DE",
+    "name": "Indus Holding",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Holdings",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Indus Holding AG is a German industrial holding company based in Bergisch Gladbach. It acquires and develops mid-market industrial enterprises in the German-speaking Mittelstand.",
+    "themes": [
+      "sdax",
+      "holdings",
+      "mid-market"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "IXX.DE",
+    "name": "INIT Innovation",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Transport IT",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "INIT Innovation in Traffic Systems SE is a German IT company headquartered in Karlsruhe. It provides integrated planning, dispatching, ticketing, and settlement systems for public transport authorities and mobility providers worldwide.",
+    "themes": [
+      "sdax",
+      "transport-it",
+      "ticketing"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "JST.DE",
+    "name": "Jost Werke",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Truck Components",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Jost Werke SE is a manufacturer of systems for commercial vehicles based in Neu-Isenburg, Germany. Jost Werke is a leading international manufacturer and supplier for the trucking industry. The company focuses on the manufacture of safety-related systems for tractors, semi-trailers and trailers. The company has been listed on the Frankfurt Stock Exchange since July 20, 2017.",
+    "themes": [
+      "sdax",
+      "truck-components",
+      "commercial-vehicles"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "JUN3.DE",
+    "name": "Jungheinrich",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Material Handling",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Jungheinrich AG is a German company active in the material handling equipment, warehousing and material flow engineering sectors. In these segments, the company is ranked in second place in Europe, and third in the world.",
+    "themes": [
+      "sdax",
+      "forklift",
+      "material-handling"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "KSB.DE",
+    "name": "KSB",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Pumps & Valves",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "KSB SE & Co. KGaA is a German multinational manufacturer of pumps, valves with headquarters in Frankenthal (Pfalz), Germany. The KSB Group has manufacturing plants, sales and marketing organizations, and service operations on every continent except Antarctica.",
+    "themes": [
+      "sdax",
+      "pumps",
+      "valves"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "KWS.DE",
+    "name": "KWS Saat",
+    "exchange": "XETRA",
+    "sector": "Basic Materials",
+    "industry": "Seed",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "KWS SAAT SE & Co. KGaA is a European independent and family-owned company based in Germany that focuses on plant breeding, with breeding and distribution activities in about 70 countries. KWS is one of the largest seed producer worldwide. The product range includes seed varieties for sugar beet, corn, cereals and vegetables. KWS stands for Klein Wanzlebener Saatzucht, which means seed breeding from Klein Wanzleben. The company's original headquarters were in Klein Wanzleben, an East German town located near the city of Magdeburg. Since 1945, the company is headquartered in Einbeck, Germany. Its main markets are in Europe, North and South America as well as Asia.",
+    "themes": [
+      "sdax",
+      "seed",
+      "agriculture"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "LPK.DE",
+    "name": "LPKF Laser & Electronics",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Laser Systems",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "LPKF Laser & Electronics SE is a German technology company based in Garbsen that develops and manufactures laser systems used in electronics manufacturing, in particular for PCB prototyping, micromachining, and plastic welding.",
+    "themes": [
+      "sdax",
+      "laser",
+      "pcb"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "MBB.DE",
+    "name": "MBB",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Industrial Holdings",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "MBB SE is a family-run mid sized group of companies, headquartered in Berlin. The company name derives from a former subsidiary MBB Gelma Industrieelektronik GmbH, taken over in 1997 from Daimler-Benz Aerospace AG.",
+    "themes": [
+      "sdax",
+      "holdings",
+      "mittelstand"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "ILM1.DE",
+    "name": "Medios",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Specialty Pharma",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Medios AG is a German specialty pharmaceutical company based in Hamburg that focuses on the manufacture of patient-specific medications and the supply of specialty pharma products to pharmacies across Germany.",
+    "themes": [
+      "sdax",
+      "specialty-pharma",
+      "compounding"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "MLP.DE",
+    "name": "MLP",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Financial Advisory",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "MLP SE is a German corporation providing financial services, especially personal financial planning advisory. It is based in Wiesloch, Baden-Württemberg and was founded on 1 January 1971 in Heidelberg by Eicke Marschollek and Manfred Lautenschläger.",
+    "themes": [
+      "sdax",
+      "financial-advisory",
+      "wealth-mgmt"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "MUX.DE",
+    "name": "Mutares",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Special Situations",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Mutares SE & Co. KGaA is an international private equity investor focused on special situations, particularly acquiring parts of large corporations (carve-outs) and companies in transitional phases.",
+    "themes": [
+      "sdax",
+      "special-situations",
+      "turnaround"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "NA9.DE",
+    "name": "Nagarro",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "IT Services",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Nagarro SE is a German IT service provider based in Munich, Bavaria, Germany. The company's activities include digital products and IT services, particularly for the automotive, energy and telecommunications industries.",
+    "themes": [
+      "sdax",
+      "it-services",
+      "digital-engineering"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "NOEJ.DE",
+    "name": "Norma Group",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Industrial Connectors",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Norma Group SE is a German manufacturer of machine joining components, such as hose couplings, clamps and quick connectors. The company's products are used in industries such as automotive, aviation, construction and shipping, and for purposes such as cooling, emission outputs, hoses, water pipes and sterile pharmaceuticals production.",
+    "themes": [
+      "sdax",
+      "connectors",
+      "industrial-components"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "PAT.DE",
+    "name": "Patrizia",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Real Estate Asset Mgmt",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Patrizia is a German investment management company focused on the real estate market across Europe. Based in Augsburg, Germany, the company is listed on the Frankfurt stock exchange and, among others, is a member of the SDAX and MSCI World Small Cap Index.",
+    "themes": [
+      "sdax",
+      "real-estate",
+      "asset-mgmt"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "PNE3.DE",
+    "name": "PNE",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Wind Project Dev",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "PNE AG is a German company based in Cuxhaven that develops wind farms on land and at sea (offshore).",
+    "themes": [
+      "sdax",
+      "wind",
+      "project-development"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "RDC.DE",
+    "name": "Redcare Pharmacy",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Online Pharmacy",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Redcare Pharmacy N.V. is a publicly listed mail-order pharmacy retailer headquartered in Sevenum, Netherlands.",
+    "themes": [
+      "sdax",
+      "online-pharmacy",
+      "e-commerce"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SFQ.DE",
+    "name": "SAF-Holland",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Truck Components",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "SAF-HOLLAND SE is a German supplier of trailer and truck components, headquartered in Bessenbach, with leading positions in axle systems, fifth wheels, coupling systems, and suspension technology for commercial vehicles.",
+    "themes": [
+      "sdax",
+      "truck-components",
+      "trailer"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "1SXP.DE",
+    "name": "Schott Pharma",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Pharma Packaging",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Schott Pharma is a provider of drug containment solutions and delivery systems for injectable drugs. Originally a division of glass manufacturer Schott AG, the company went public on the Frankfurt Stock Exchange in 2023. Headquartered in Mainz, Germany, the company operates in 14 countries.",
+    "themes": [
+      "sdax",
+      "pharma-packaging",
+      "glass"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "YSN.DE",
+    "name": "secunet Security Networks",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Cybersecurity",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "secunet Security Networks AG is a German cybersecurity company headquartered in Essen. It develops information-security products and services for public authorities, defence and security organisations, critical infrastructure operators and businesses. The company develops the SINA secure-networking system, which was commissioned by the German Federal Office for Information Security (BSI) in 1999 and is used in government, security-cleared businesses and critical infrastructure.",
+    "themes": [
+      "sdax",
+      "cybersecurity",
+      "encryption"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "F3C.DE",
+    "name": "SFC Energy",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Fuel Cells",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "SFC Energy is a manufacturer of direct methanol and hydrogen fuel cells based in Brunnthal near Munich. The company also develops solutions for off-grid and stationary power generation and distribution. This also includes the production of voltage converters and switching power supplies. The fuel cells are produced at the headquarters in Brunnthal. Other production sites are located in Almelo in the Netherlands, in Romania and in Canada.",
+    "themes": [
+      "sdax",
+      "fuel-cells",
+      "hydrogen"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SLYG.DE",
+    "name": "Shelly Group",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "IoT",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Shelly Group SE ist ein international tätiger bulgarischer Technologiekonzern mit Sitz in Sofia, der auf die Entwicklung und Herstellung von Produkten für den Bereich Smart Home sowie für das Internet der Dinge (IoT) spezialisiert ist. Das Unternehmen firmiert seit 2024 als Societas Europaea (SE) und ist an den Börsen in Sofia und Frankfurt gelistet.",
+    "themes": [
+      "sdax",
+      "iot",
+      "smart-home"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SIX2.DE",
+    "name": "Sixt",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Mobility Services",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Sixt SE is a German multinational car rental and mobility service provider with about 2,000 locations in more than 100 countries. Sixt SE acts as a parent and holding company of the Sixt Group, which is internationally active in the business areas of vehicle rental, car sharing, ride-hailing, and subscription. The majority of the company is owned by the Sixt family, who manage the company. The remaining share is tradeable stock: SIX2 (XETRA).",
+    "themes": [
+      "sdax",
+      "mobility",
+      "car-rental"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SPG.DE",
+    "name": "Springer Nature",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Academic Publishing",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Springer Nature is a German-British academic publishing company created by the May 2015 merger of Springer Science+Business Media and Holtzbrinck Publishing Group's Nature Publishing Group, Palgrave Macmillan, and Macmillan Education.",
+    "themes": [
+      "sdax",
+      "publishing",
+      "academic"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "STM.DE",
+    "name": "Stabilus",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Motion Control",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Stabilus SE is a globally active company based in Koblenz that supplies products and systems for motion control, including gas springs, hydraulic dampers, and electromechanical drives for the automotive, industrial, and mobility sectors.",
+    "themes": [
+      "sdax",
+      "motion-control",
+      "gas-springs"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "STO3.DE",
+    "name": "Sto",
+    "exchange": "XETRA",
+    "sector": "Basic Materials",
+    "industry": "Building Materials",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Sto SE & Co. KGaA is a German manufacturer of building products, including paints, plasters, lacquers, coating systems, and external thermal insulation composite systems. The company is headquartered in Stühlingen, Baden-Württemberg.",
+    "themes": [
+      "sdax",
+      "building-materials",
+      "facade"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SBS.DE",
+    "name": "Stratec",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Diagnostics",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "STRATEC SE is a company with worldwide operations that designs and manufactures fully automated analyzer systems for partners in clinical diagnostics and biotechnology - particularly in the field of in-vitro-diagnostics.",
+    "themes": [
+      "sdax",
+      "diagnostics",
+      "ivd"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SAX.DE",
+    "name": "Ströer",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Out-of-Home Ads",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Ströer SE & Co. KGaA is a German outdoor advertising and digital out-of-home media company based in Cologne. It operates one of the largest out-of-home advertising portfolios in Germany and digital marketing platforms.",
+    "themes": [
+      "sdax",
+      "outdoor-ads",
+      "media"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SZU.DE",
+    "name": "Südzucker",
+    "exchange": "XETRA",
+    "sector": "Consumer Staples",
+    "industry": "Sugar",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Südzucker AG is a German company, the largest sugar producer in the world, with an annual production of around 4.8 million tonnes.",
+    "themes": [
+      "sdax",
+      "sugar",
+      "food"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "TNIE.DE",
+    "name": "Tonies",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Toys",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Tonies SE is a toy production company based in Düsseldorf and Luxembourg City. The company's main product is the Toniebox, a cube-shaped digital audio device designed for children.",
+    "themes": [
+      "sdax",
+      "toys",
+      "audio"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "V1NC.DE",
+    "name": "Vincorion",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Defense Electronics",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Vincorion ist ein deutsches Technologieunternehmen mit Sitz in Wedel. Das börsennotierte Unternehmen entwickelt und produziert mechatronische Komponenten für Anwendungen in der Verteidigungs- und der Luftfahrtindustrie.",
+    "themes": [
+      "sdax",
+      "defense-electronics",
+      "power-systems"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "VOS.DE",
+    "name": "Vossloh",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Rail Infrastructure",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Vossloh AG is a rail technology company based in Werdohl in the state of North Rhine-Westphalia, Germany. The SDAX-listed group achieved sales of around €930 million in 2016 and, as of 2017, had more than 4,000 employees.",
+    "themes": [
+      "sdax",
+      "rail",
+      "infrastructure"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "WAC.DE",
+    "name": "Wacker Neuson",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Construction Equipment",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Wacker Neuson SE is a German manufacturer of light and compact construction equipment. It is headquartered in Munich and listed on the Frankfurt Stock Exchange (SDAX). Founded in 1848 as a blacksmith’s workshop in Dresden, the company has since grown into an international group that includes the brands Wacker Neuson, Kramer, Weidemann, and Enar. The group operates production sites in Germany, Austria, the United States, China, and Serbia.",
+    "themes": [
+      "sdax",
+      "construction-equipment",
+      "compacts"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "1U1.DE",
+    "name": "1&1 AG",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Telecommunications",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "1&1 AG is a German telecommunications service and landline and mobile telecommunications provider headquartered in Montabaur, Rhineland-Palatinate and listed on the TecDAX. Since 2017, the majority of the company has belonged to United Internet.",
+    "themes": [
+      "sdax",
+      "telecom",
+      "broadband",
+      "isp"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "AFX.DE",
+    "name": "Carl Zeiss Meditec",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Medical Technology",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Carl Zeiss Meditec AG is a multinational medical technology company. Headquartered in Jena, Germany, the company operates as part of the larger Carl Zeiss Group. Doing business as ZEISS Medical Technology, the company develops and manufactures solutions for ophthalmology, dentistry, oncology, neurosurgery, microsurgery, and other medical applications.",
+    "themes": [
+      "sdax",
+      "medical-technology",
+      "ophthalmology",
+      "microsurgery"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "ADV.DE",
+    "name": "Adtran Networks SE",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Telecom Equipment",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Adtran, Inc. is an American fiber networking and telecommunications company headquartered in Huntsville, Alabama. It is a vendor of both residential and enterprise networking equipment, along with administrative software for network management and deployment. Its customers include communications service providers, governments, enterprises and utilities.",
+    "themes": [
+      "sdax",
+      "telecom-equipment",
+      "optical-networking",
+      "broadband"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "BYW6.DE",
+    "name": "BayWa",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Trading & Agriculture",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "BayWa AG is an internationally active group headquartered in Munich, Germany. Originally founded to support domestic agriculture, the company expanded its activities to the construction and energy sectors. BayWa is represented in more than 50 countries through its subsidiaries and holdings. The shareholder structure is still determined by the cooperative sector, which has shaped the corporate culture since its founding.",
+    "themes": [
+      "sdax",
+      "agriculture",
+      "trading",
+      "energy"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "BVB.DE",
+    "name": "Borussia Dortmund",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Sports & Entertainment",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Ballspielverein Borussia 09 e. V. Dortmund, often known simply as Borussia Dortmund or by its initialism BVB, or just Dortmund by international fans, is a German professional sports club based in Dortmund, North Rhine-Westphalia. It is best known for its men's professional football team, which plays in the Bundesliga, the top tier of the German football league system.",
+    "themes": [
+      "sdax",
+      "football",
+      "sports",
+      "media-rights"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "KCO.DE",
+    "name": "Klöckner & Co",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Steel Distribution",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Klöckner & Co SE is a producer-independent processor of steel and metal products. With a network of 110 warehousing and processing locations, Klöckner & Co supplies over 60,000 customers, mainly in Europe and North America.",
+    "themes": [
+      "sdax",
+      "steel",
+      "distribution",
+      "metals"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "PFV.DE",
+    "name": "Pfeiffer Vacuum Technology",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Vacuum Technology",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Pfeiffer Vacuum Technology AG is a German manufacturer of vacuum pumps. It is headquartered in Aßlar in Germany with 70% of the total production catering to the export market.",
+    "themes": [
+      "sdax",
+      "vacuum",
+      "semiconductor-equipment",
+      "analytics"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "PSM.DE",
+    "name": "ProSiebenSat.1 Media",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Broadcasting",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "ProSiebenSat.1 Media SE is a German mass media and digital company based in Unterföhring near Munich. MediaForEurope owns 75.61% of the company. It operates in three segments: Entertainment, Dating and Commerce & Ventures. The company is listed on the Frankfurt Stock Exchange.",
+    "themes": [
+      "sdax",
+      "broadcasting",
+      "tv",
+      "entertainment"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "SGL.DE",
+    "name": "SGL Carbon",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Carbon & Graphite",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "SGL Carbon SE is a European company based in Germany. It is one of the world's leading manufacturers of products from carbon.",
+    "themes": [
+      "sdax",
+      "carbon",
+      "graphite",
+      "composites"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "TTK.DE",
+    "name": "Takkt",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "B2B Distribution",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Takkt AG is a listed business-to-business company for business equipment, based in Stuttgart, Germany. The holding Franz Haniel & Cie. is the largest shareholder with a stake of 65.0%. In 2022, the company generated revenue of 1,337 million euros with 2,437 employees.",
+    "themes": [
+      "sdax",
+      "b2b",
+      "furniture-distribution",
+      "mail-order"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "CEC.DE",
+    "name": "Ceconomy",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Consumer Electronics Retail",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Ceconomy AG is an international retail company headquartered in Düsseldorf, Germany. Its history goes back to the Metro Group. Ceconomy operates more than 1,000 consumer electronics stores in eleven countries. In addition to MediaMarkt and Saturn, the group owns Deutsche Technikberatung. Approximately 24 % of its sales are generated online.",
+    "themes": [
+      "sdax",
+      "electronics-retail",
+      "consumer",
+      "media-markt"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "DWNI.DE",
+    "name": "Deutsche Wohnen",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "Residential Real Estate",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Wohnen SE is a German property company, and one of the 30 companies that compose the DAX index. Previously listed on the MDAX, it replaced Lufthansa on the DAX after Lufthansa was downgraded to the MDAX because of losses during the COVID-19 pandemic. Germany's largest real estate company for private apartments Vonovia took over Deutsche Wohnen, the second largest German company in 2021. Vonovia acquired additional shares and now holds 87.6 percent of Deutsche Wohnen. This created a European real estate giant with around 568,000 apartments.",
+    "themes": [
+      "sdax",
+      "residential",
+      "real-estate",
+      "berlin"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
+  },
+  {
+    "symbol": "WUW.DE",
+    "name": "Wüstenrot & Württembergische",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Insurance",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Wüstenrot & Württembergische AG (W&W) is a German insurance and financial services group based in Kornwestheim, comprising Wüstenrot Bausparkasse and Württembergische Versicherung.",
+    "themes": [
+      "sdax",
+      "insurance",
+      "financial-services",
+      "building-savings"
+    ],
+    "addedAt": "2026-02-15",
+    "index": "SDAX"
   }
 ]
