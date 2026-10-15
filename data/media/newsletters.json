@@ -1,0 +1,659 @@
+[
+  {
+    "id": "stratechery",
+    "name": "Stratechery",
+    "kind": "newsletter",
+    "url": "https://stratechery.com",
+    "handle": null,
+    "focus": [
+      "tech",
+      "strategy",
+      "media",
+      "platforms"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Ben Thompson's weekly Stratechery newsletter remains required reading for tech and media strategy. Each essay untangles the economics of platforms (Apple, Google, Meta, Microsoft) with framework-grade clarity. Paid tier adds the Stratechery Plus weekly podcast and private Discord."
+  },
+  {
+    "id": "doomberg",
+    "name": "Doomberg",
+    "kind": "newsletter",
+    "url": "https://doomberg.substack.com",
+    "handle": null,
+    "focus": [
+      "energy",
+      "commodities",
+      "macro",
+      "esg"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Anonymous macro newsletter from a former energy-industry insider. Doomberg dissects commodities, central-bank policy, and the energy transition with sharp charts and no-vendor takes. Particularly good on oil, natural gas, and the shenanigans of ESG capitalism. Free on Substack."
+  },
+  {
+    "id": "bear-cave",
+    "name": "The Bear Cave",
+    "kind": "newsletter",
+    "url": "https://thebearcave.substack.com",
+    "handle": null,
+    "focus": [
+      "short-selling",
+      "due-diligence",
+      "small-mid",
+      "research"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Edwin Dorsey's weekly short-selling due diligence letter. Each issue profiles a public-company accounting concern, governance red flag, or business-model crack. Paid; trial issues and the David vs Goliath Twitter thread are public."
+  },
+  {
+    "id": "macrovoices",
+    "name": "MacroVoices Weekly Digest",
+    "kind": "newsletter",
+    "url": "https://macrovoices.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "interviews",
+      "long-form",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Patrick Ceresna's long-form interview podcast with hedge-fund managers, CIOs, and macro strategists. The weekly digest email rounds up recent episodes and links to charts and transcripts. Free; also offers a paid Dark Side of the Hedge Fund series."
+  },
+  {
+    "id": "topdown-charts",
+    "name": "Topdown Charts",
+    "kind": "newsletter",
+    "url": "https://topdowncharts.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "charts",
+      "technical",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Callum Thomas' macro research on the go. Topdown Charts pairs clean charts with short commentary on liquidity, central-bank policy, and risk-asset crosses. Daily free chart email plus the paid Weekly Macro Letter."
+  },
+  {
+    "id": "kobeissi-letter",
+    "name": "The Kobeissi Letter",
+    "kind": "newsletter",
+    "url": "https://kobeissiletter.com",
+    "handle": null,
+    "focus": [
+      "markets",
+      "trading",
+      "commodities",
+      "fx"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Adam Kobeissi's daily markets letter covering crude oil, FX, equities, and commodities. Read by traders, hedge funds, and front-office desks for intraday takes and chart analysis. Paid subscription; sometimes sparked by a Reddit thread he started."
+  },
+  {
+    "id": "geopolitical-futures",
+    "name": "Geopolitical Futures",
+    "kind": "newsletter",
+    "url": "https://geopoliticalfutures.com",
+    "handle": null,
+    "focus": [
+      "geo",
+      "forecasting",
+      "policy",
+      "strategy"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Founded by George Friedman, Geopolitical Futures is a forecasting subscription that maps risk across the major theaters — US, China, Middle East, Europe — with weekly long-form reports and a shorter-form daily note."
+  },
+  {
+    "id": "mauldin-outside-the-box",
+    "name": "Outside the Box (Mauldin Economics)",
+    "kind": "newsletter",
+    "url": "https://mauldineconomics.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "policy",
+      "markets",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "John Mauldin's curated weekly macro letter, edited by his team. Each issue synthesizes a dozen outside sources — bond desks, central-bank notes, geopolitical dispatches — into one brief. Required reading for cross-asset allocators."
+  },
+  {
+    "id": "bloomberg-unhedged",
+    "name": "Unhedged (Bloomberg)",
+    "kind": "newsletter",
+    "url": "https://www.bloomberg.com/opinion/articles/unhedged",
+    "handle": null,
+    "focus": [
+      "markets",
+      "commentary",
+      "weekly",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Bloomberg Markets' daily newsletter covering what's moving equity, bond, FX, and commodity markets — and why. Free with a Bloomberg account. The desk often co-broadcasts live on the same theme with publishers past and present including Matt Levine."
+  },
+  {
+    "id": "the-daily-shot",
+    "name": "The Daily Shot",
+    "kind": "newsletter",
+    "url": "https://dailyshot.com",
+    "handle": null,
+    "focus": [
+      "markets",
+      "charts",
+      "daily",
+      "macro"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Alexander Crawford's daily markets chart email. One clean chart each morning with a short blurb explaining what it means for the session ahead. Free; mirror accounts on Twitter and LinkedIn."
+  },
+  {
+    "id": "finimize",
+    "name": "Finimize",
+    "kind": "newsletter",
+    "url": "https://finimize.com",
+    "handle": null,
+    "focus": [
+      "finance",
+      "education",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Daily 3-minute briefing explaining one finance headline in plain English. Free email and app. Widely read by career-changers and early-career bankers; longer-form explainers live on the site. Now backed by Abrdn."
+  },
+  {
+    "id": "mish-talk",
+    "name": "Mish Talk",
+    "kind": "newsletter",
+    "url": "https://mishtalk.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "markets",
+      "commentary",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Mike Shedlock's blog and newsletter, bent on contrarian macro takes. Tracks Federal Reserve policy, the bond market, and sentiment shifts with daily posts. Long-running back-catalog useful for context and citation."
+  },
+  {
+    "id": "bear-traps-report",
+    "name": "Bear Traps Report",
+    "kind": "newsletter",
+    "url": "https://beartrapsreport.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "fixed-income",
+      "cross-asset",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Larry McDonald's weekly macro cross-asset letter. Ex-bank analyst turned publisher; widely cited by hedge funds and family offices. Paid; covers rates, FX, commodities, and credit in one place, with occasional podcasts and event commentary."
+  },
+  {
+    "id": "apollo-slok",
+    "name": "Apollo Slok — Thinking Things Over",
+    "kind": "newsletter",
+    "url": "https://www.apollo.com/insights",
+    "handle": null,
+    "focus": [
+      "macro",
+      "charts",
+      "fed",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Torsten Slok, Apollo's chief economist, publishes a weekly charts-of-the-week report on global macro, rates, and Fed-policy cross-currents. Free at Apollo's insights page and through Apollo's institutional email list, with a bonus deck attached."
+  },
+  {
+    "id": "hindenburg-research",
+    "name": "Hindenburg Research",
+    "kind": "newsletter",
+    "url": "https://hindenburgresearch.com",
+    "handle": null,
+    "focus": [
+      "short-selling",
+      "forensic",
+      "research",
+      "activist"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Nathan Anderson's short-selling research firm. Publishes forensic short reports on US-listed companies with governance, fraud, or business-model concerns. Their reports routinely move names intraday, including the 2023-2024 moves on Adani and Icahn Enterprises."
+  },
+  {
+    "id": "variant-perception",
+    "name": "Variant Perception",
+    "kind": "newsletter",
+    "url": "https://variantperception.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "research",
+      "paid",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Vincent Deluard's paid institutional macro research service. Frequent cross-asset calls on equities, rates, FX, and commodities, anchored in a 'providers-of-liquidity' framework. Subscribers include sovereign-wealth funds and macro hedge funds, plus long-only desks."
+  },
+  {
+    "id": "platformer",
+    "name": "Platformer",
+    "kind": "newsletter",
+    "url": "https://www.platformer.news",
+    "handle": null,
+    "focus": [
+      "tech",
+      "policy",
+      "social-media",
+      "AI",
+      "platforms"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Casey Newton's subscription on how big tech meets the public interest. Daily pieces on platforms, AI, content moderation, and the creator economy. Required reading in DC, Brussels, and Bay-Away corridor board rooms."
+  },
+  {
+    "id": "lennys-newsletter",
+    "name": "Lenny's Newsletter",
+    "kind": "newsletter",
+    "url": "https://www.lennysnewsletter.com",
+    "handle": null,
+    "focus": [
+      "product",
+      "growth",
+      "saas",
+      "careers"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Lenny Rachitsky (formerly Airbnb) publishes every two weeks on growth, product management, hiring, and SaaS metrics. Free on Substack; one of the largest product-management communities on the open web, with regular webinars and Q&A threads."
+  },
+  {
+    "id": "pragmatic-engineer",
+    "name": "The Pragmatic Engineer",
+    "kind": "newsletter",
+    "url": "https://newsletter.pragmaticengineer.com",
+    "handle": null,
+    "focus": [
+      "engineering",
+      "tech-industry",
+      "platforms",
+      "careers"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Gergely Orosz's deep dive on the software engineering profession. Big-tech cultures, EU vs US engineering orgs, careers, and the platform economy. One of the few publications quoted by senior engineers."
+  },
+  {
+    "id": "bytebytego",
+    "name": "ByteByteGo",
+    "kind": "newsletter",
+    "url": "https://blog.bytebytego.com",
+    "handle": null,
+    "focus": [
+      "system-design",
+      "tech",
+      "engineering",
+      "education"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Alex Xu (formerly Alibaba and Microsoft) writes illustrated system-design tutorials. Each issue breaks down one distributed-systems pattern with diagrams. Companion site for his bestselling 'System Design Interview' book series and the paid System Design School course."
+  },
+  {
+    "id": "import-ai",
+    "name": "Import AI",
+    "kind": "newsletter",
+    "url": "https://importai.substack.com",
+    "handle": null,
+    "focus": [
+      "AI",
+      "policy",
+      "research",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Jack Clark (Anthropic co-founder) compiles the week's biggest AI research papers, model releases, and policy moves. Free; widely cited by AI labs and safety researchers as a Friday-morning must-read, with a politics-of-AI angle baked in."
+  },
+  {
+    "id": "growth-design",
+    "name": "Growth.Design",
+    "kind": "newsletter",
+    "url": "https://growth.design",
+    "handle": null,
+    "focus": [
+      "design",
+      "product",
+      "growth",
+      "ux"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Jon Snow's weekly teardowns of product onboarding, pricing pages, and growth surfaces. Free; popular with PMs and designers wanting real before-and-after design walkthroughs. Best for the first month of a new designer's onboarding."
+  },
+  {
+    "id": "demand-curve",
+    "name": "Demand Curve",
+    "kind": "newsletter",
+    "url": "https://www.demandcurve.com",
+    "handle": null,
+    "focus": [
+      "growth",
+      "marketing",
+      "saas",
+      "advertising"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Paid growth-and-marketing course library plus a weekly digest. Teaches paid acquisition, lifecycle, and conversion-rate optimization. Built by growth operators; widely cited on Twitter and LinkedIn, with detailed case studies and templated playbooks."
+  },
+  {
+    "id": "the-information",
+    "name": "The Information",
+    "kind": "newsletter",
+    "url": "https://www.theinformation.com",
+    "handle": null,
+    "focus": [
+      "tech",
+      "media",
+      "industry",
+      "premium"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Premium subscription tech news outlet founded by Jessica Lessin. Daily morning briefings on AI, semiconductors, and platform shifts, plus long-form investigations. A must-read across VCs and tech execs; paywalled since launch."
+  },
+  {
+    "id": "fintech-brainfood",
+    "name": "Fintech Brainfood",
+    "kind": "newsletter",
+    "url": "https://www.fintechbrainfood.com",
+    "handle": null,
+    "focus": [
+      "fintech",
+      "embedded",
+      "payments",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Simon Taylor's weekly fintech digest. Combines product teardowns with deep dives on payments, embedded finance, and the platform banking stack. Free on Substack; the podcast is optional but worth the bonus episodes."
+  },
+  {
+    "id": "benedict-evans",
+    "name": "Benedict Evans",
+    "kind": "newsletter",
+    "url": "https://www.ben-evans.com/newsletter",
+    "handle": null,
+    "focus": [
+      "tech",
+      "strategy",
+      "platforms",
+      "analysis"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Independent tech analyst's annual letter and shorter weekly notes. Covers the macro shape of the tech industry — AI, smartphones, platforms, and computing cycles. His 'Three Eras of Computing' essay set a benchmark for the AI era."
+  },
+  {
+    "id": "daring-fireball",
+    "name": "Daring Fireball",
+    "kind": "newsletter",
+    "url": "https://daringfireball.net",
+    "handle": null,
+    "focus": [
+      "apple",
+      "tech",
+      "commentary",
+      "design"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "John Gruber's weekly Apple-and-tech opinion blog. Famous for live-blogging Apple keynotes; his link-summarizing style, in which he curates and links to outside pieces with commentary, has shaped a generation of tech writing."
+  },
+  {
+    "id": "the-neuron",
+    "name": "The Neuron",
+    "kind": "newsletter",
+    "url": "https://www.theneuron.ai",
+    "handle": null,
+    "focus": [
+      "AI",
+      "tools",
+      "industry",
+      "daily"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Daily AI newsletter with three short stories each morning plus a weekend deep dive. Free; popular with AI-curious professionals outside the tech industry. Also known as 'The Neuron Daily', with email-grade readability."
+  },
+  {
+    "id": "the-defiant",
+    "name": "The Defiant",
+    "kind": "newsletter",
+    "url": "https://thedefiant.io",
+    "handle": null,
+    "focus": [
+      "defi",
+      "crypto",
+      "industry",
+      "daily"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Camila Faber's daily crypto coverage. Now covers the full stack: protocols, regulation, stablecoins, on-chain alpha, and restaking. Free email; the Defiant Show podcast ships three nights a week, with archive of guests going back years."
+  },
+  {
+    "id": "milk-road",
+    "name": "Milk Road",
+    "kind": "newsletter",
+    "url": "https://milkroad.com/newsletter",
+    "handle": null,
+    "focus": [
+      "crypto",
+      "education",
+      "beginner",
+      "daily"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Casual daily crypto briefing written for non-coders. Each issue opens with one core story, follows up with three smaller news bites, and ends with a glossary entry. Free; the team also publishes longer explainers on the site."
+  },
+  {
+    "id": "bankless",
+    "name": "Bankless",
+    "kind": "newsletter",
+    "url": "https://www.bankless.com",
+    "handle": null,
+    "focus": [
+      "defi",
+      "crypto",
+      "ethereum",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Ryan Sean Adams and David Hoffman's flagship crypto newsletter. Long-form essays on Ethereum, DeFi, rollups, and the on-chain future. Free weekly with a paid tier that unlocks the Rollup podcast."
+  },
+  {
+    "id": "crypto-pragmatist",
+    "name": "Crypto Pragmatist",
+    "kind": "newsletter",
+    "url": "https://cryptopragmatist.io",
+    "handle": null,
+    "focus": [
+      "crypto",
+      "commentary",
+      "regulation",
+      "bitcoin"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Joe Carlasare's commentary on Bitcoin and crypto adoption through the lens of a retirement-account investor and entrepreneur. Conservative sound-money framing plus regular interviews with Bitcoin builders and miners, plus policy takes."
+  },
+  {
+    "id": "bitcoin-layer",
+    "name": "The Bitcoin Layer",
+    "kind": "newsletter",
+    "url": "https://bitcoinlayer.substack.com",
+    "handle": null,
+    "focus": [
+      "bitcoin",
+      "technical",
+      "protocol",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Weekly newsletter on Bitcoin protocol engineering — BIPs, soft-fork proposals, library updates, and Lightning developments. Built for Bitcoin-OG engineers; companion to in-person meetups at Amsterdam and London conferences, and to the Bitcoin Core open issues list."
+  },
+  {
+    "id": "glassnode-insights",
+    "name": "Glassnode Insights",
+    "kind": "newsletter",
+    "url": "https://insights.glassnode.com",
+    "handle": null,
+    "focus": [
+      "on-chain",
+      "analytics",
+      "research",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Weekly on-chain analytics notes from Glassnode. Covers BTC and ETH flows, derivatives, realized caps, exchange reserves, and ETF flow dashboards. Widely cited by institutional desks and cited by BTC-OPEC narratives."
+  },
+  {
+    "id": "messari",
+    "name": "Messari Newsletter",
+    "kind": "newsletter",
+    "url": "https://messari.io",
+    "handle": null,
+    "focus": [
+      "crypto",
+      "research",
+      "industry",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Messari's flagship daily/weekly research email. Token unlocks, regulatory moves, and sector deep-dives (DeFi, AI-x-crypto, RWAs). Free summary with the paid Hub offering dashboards, analyst calls to institutions, and the Annual Messari Report PDF."
+  },
+  {
+    "id": "gzero-daily",
+    "name": "GZERO Daily",
+    "kind": "newsletter",
+    "url": "https://www.gzeromedia.com",
+    "handle": null,
+    "focus": [
+      "geo",
+      "policy",
+      "daily",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Ian Bremmer's geopolitics brief, mailed each weekday morning. Short takes with a 'global power map' framing — Russia, China, US elections, and the Global South — plus a short companion video."
+  },
+  {
+    "id": "foreign-affairs-today",
+    "name": "Foreign Affairs Today",
+    "kind": "newsletter",
+    "url": "https://www.foreignaffairs.com",
+    "handle": null,
+    "focus": [
+      "foreign-policy",
+      "analysis",
+      "weekly",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Foreign Affairs magazine's daily and weekly note. Picks one piece of analysis off the site (long-form review essay, regional case study) plus a list of the week's top reads. Free email signup; full archive behind paywall."
+  },
+  {
+    "id": "morning-brew",
+    "name": "Morning Brew",
+    "kind": "newsletter",
+    "url": "https://www.morningbrew.com",
+    "handle": null,
+    "focus": [
+      "business",
+      "news",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Morning Brew's weekday newsletter covering business, markets, tech, and culture in a snarky-to-the-point voice. Five-minute read; widely cited by Gen-Z and early-career knowledge workers. Now part of a broader media group."
+  },
+  {
+    "id": "axios-today",
+    "name": "Axios Today",
+    "kind": "newsletter",
+    "url": "https://www.axios.com/newsletters/axios-today",
+    "handle": null,
+    "focus": [
+      "news",
+      "policy",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Axios's flagship AM brief. Five short stories across business, politics, tech, and world written in the Axios 'Smart Brevity' style. Free; sponsored at the bottom. Now joined by AI Today, Markets, and Climate Brief variants."
+  },
+  {
+    "id": "economist-espresso",
+    "name": "The Economist Espresso",
+    "kind": "newsletter",
+    "url": "https://www.economist.com/espresso",
+    "handle": null,
+    "focus": [
+      "global",
+      "news",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "The Economist's daily morning brief. Five short takes — one global macro, one US, one Asia, one Europe/MENA, one culture/curiosity. Five-minute read; subscription required for full archive and the companion app."
+  },
+  {
+    "id": "cipher-brief",
+    "name": "The Cipher Brief",
+    "kind": "newsletter",
+    "url": "https://www.thecipherbrief.com",
+    "handle": null,
+    "focus": [
+      "intelligence",
+      "national-security",
+      "commentary",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Former senior US national-security officials turned publishers. Weekly notes on the hot theaters (Iran, China, Russia, the Arctic) plus long-form expert interviews. Widely read across Washington think tanks and intelligence-community veterans."
+  }
+]

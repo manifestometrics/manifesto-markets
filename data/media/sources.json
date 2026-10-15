@@ -1,1 +1,2380 @@
-[]
+[
+  {
+    "id": "bloomberg-news",
+    "name": "Bloomberg News",
+    "kind": "publication",
+    "url": "https://www.bloomberg.com",
+    "focus": [
+      "markets",
+      "finance",
+      "global",
+      "breaking",
+      "data"
+    ],
+    "audience": 150000000,
+    "addedAt": "2026-02-15",
+    "bio": "The largest dedicated business newsroom in the world, with terminals on nearly every trading desk and reporters in 150+ countries. Covers global markets, M&A, central banks, and corporate earnings at breakneck speed; its data terminals set the canonical price source for professional money."
+  },
+  {
+    "id": "reuters",
+    "name": "Reuters",
+    "kind": "publication",
+    "url": "https://www.reuters.com",
+    "focus": [
+      "markets",
+      "global",
+      "breaking",
+      "policy",
+      "finance"
+    ],
+    "audience": 110000000,
+    "addedAt": "2026-02-15",
+    "bio": "Wire service founded in 1851 and now the upstream news feed for most of the financial press. Combines deep general-assignment reporting with a world-class markets desk covering FX, rates, commodities, and corporate news in near real time."
+  },
+  {
+    "id": "wsj",
+    "name": "The Wall Street Journal",
+    "kind": "publication",
+    "url": "https://www.wsj.com",
+    "focus": [
+      "markets",
+      "finance",
+      "us",
+      "policy",
+      "breaking"
+    ],
+    "audience": 65000000,
+    "addedAt": "2026-02-15",
+    "bio": "Dow Jones flagship and the default read for US institutional money. The print edition built the modern business newspaper; the digital subscription bundle mixes markets coverage with broader US policy, Washington, and lifestyle reporting."
+  },
+  {
+    "id": "ft",
+    "name": "Financial Times",
+    "kind": "publication",
+    "url": "https://www.ft.com",
+    "focus": [
+      "markets",
+      "finance",
+      "europe",
+      "global",
+      "longform"
+    ],
+    "audience": 40000000,
+    "addedAt": "2026-02-15",
+    "bio": "Pink-paper daily owned by Nikkei with deep penetration across European finance, the City of London, and the global policy elite. Known for scoops on central banks, M&A leaks, and long-form analysis that gets cited by every other business outlet within hours."
+  },
+  {
+    "id": "nyt",
+    "name": "The New York Times",
+    "kind": "publication",
+    "url": "https://www.nytimes.com",
+    "focus": [
+      "us",
+      "policy",
+      "global",
+      "longform",
+      "markets"
+    ],
+    "audience": 100000000,
+    "addedAt": "2026-02-15",
+    "bio": "General-interest paper of record whose business, DealBook, and tech desks increasingly drive the global agenda. DealBook in particular sets the daily conversation for US executives, fund managers, and policy makers before the open."
+  },
+  {
+    "id": "the-economist",
+    "name": "The Economist",
+    "kind": "publication",
+    "url": "https://www.economist.com",
+    "focus": [
+      "global",
+      "policy",
+      "macro",
+      "longform",
+      "finance"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Weekly newsmagazine famous for its leader-style editorial voice and unmatched breadth. Coverage spans geopolitics, macro, finance, science, and technology; its annual Big Mac Index and The World Ahead are cited more than read."
+  },
+  {
+    "id": "forbes",
+    "name": "Forbes",
+    "kind": "publication",
+    "url": "https://www.forbes.com",
+    "focus": [
+      "us",
+      "markets",
+      "finance",
+      "longform"
+    ],
+    "audience": 150000000,
+    "addedAt": "2026-02-15",
+    "bio": "Business magazine built around the Forbes list franchise and a vast contributor network. Heavy on wealth, entrepreneurship, and consumer brands, with a markets and investing desk that mixes news with opinion-driven stock coverage."
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "kind": "publication",
+    "url": "https://fortune.com",
+    "focus": [
+      "us",
+      "markets",
+      "policy",
+      "tech",
+      "finance"
+    ],
+    "audience": 40000000,
+    "addedAt": "2026-02-15",
+    "bio": "Business magazine whose Fortune 500, CEO Initiative, and Brainstorm Tech conferences anchor the corporate elite calendar. Strong on US boardrooms, M&A, and the crossover between policy, tech, and capital markets."
+  },
+  {
+    "id": "business-insider",
+    "name": "Business Insider",
+    "kind": "publication",
+    "url": "https://www.businessinsider.com",
+    "focus": [
+      "us",
+      "tech",
+      "markets",
+      "finance",
+      "breaking"
+    ],
+    "audience": 80000000,
+    "addedAt": "2026-02-15",
+    "bio": "Digital-first outlet built on scoops and personality-driven stories across markets, tech, strategy, and lifestyle. Outsized influence on retail-investor conversation; founder and CEO coverage tends to break first here."
+  },
+  {
+    "id": "barrons",
+    "name": "Barron's",
+    "kind": "publication",
+    "url": "https://www.barrons.com",
+    "focus": [
+      "us",
+      "markets",
+      "finance",
+      "data"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Weekly sister to the Wall Street Journal aimed at active retail and advisor readers. Known for stock-picking roundtables, earnings previews, and market outlook covers that move individual names on Monday open."
+  },
+  {
+    "id": "marketwatch",
+    "name": "MarketWatch",
+    "kind": "publication",
+    "url": "https://www.marketwatch.com",
+    "focus": [
+      "us",
+      "markets",
+      "finance",
+      "breaking",
+      "macro"
+    ],
+    "audience": 60000000,
+    "addedAt": "2026-02-15",
+    "bio": "Dow Jones-owned financial news site aimed squarely at retail investors and personal-finance readers. Real-time market pulse, earnings reactions, and the Need to Know newsletter are the daily read for a large US trading audience."
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "kind": "publication",
+    "url": "https://www.cnbc.com",
+    "focus": [
+      "us",
+      "markets",
+      "breaking",
+      "finance",
+      "macro"
+    ],
+    "audience": 80000000,
+    "addedAt": "2026-02-15",
+    "bio": "The cable business network that sets the daytime market conversation in the US. Squawk Box, Closing Bell, and Mad Money drive intraday moves in retail-heavy names; the site mirrors the broadcast with constant market chatter."
+  },
+  {
+    "id": "axios",
+    "name": "Axios",
+    "kind": "publication",
+    "url": "https://www.axios.com",
+    "focus": [
+      "us",
+      "policy",
+      "tech",
+      "breaking",
+      "finance"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Digital-first outlet built on the Smart Brevity style and a deep Washington roster. Axios Markets, Axios Macro, and the Pro franchises focus on insider-driven reporting on policy, deals, and the industries shaping the next quarter."
+  },
+  {
+    "id": "semafor",
+    "name": "Semafor",
+    "kind": "publication",
+    "url": "https://www.semafor.com",
+    "focus": [
+      "global",
+      "policy",
+      "finance",
+      "breaking"
+    ],
+    "audience": 5000000,
+    "addedAt": "2026-02-15",
+    "bio": "Founded in 2022 by former Bloomberg and NYT editors to cover the cross-border story behind the headlines. Flagship Flagship briefing and sector verticals cluster the global business, money, and policy flow into one read."
+  },
+  {
+    "id": "the-information",
+    "name": "The Information",
+    "kind": "publication",
+    "url": "https://www.theinformation.com",
+    "focus": [
+      "tech",
+      "finance",
+      "breaking"
+    ],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Subscription tech business outlet that originated most of the scoop journalism on AI funding, Big Tech strategy, and startup financings of the last five years. Read almost exclusively inside the industry it covers."
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "kind": "publication",
+    "url": "https://techcrunch.com",
+    "focus": [
+      "tech",
+      "finance",
+      "breaking"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Startup and venture site founded in 2005 and now part of Yahoo. The TechCrunch Disrupt conference and a relentless deal-scoop pace make it the default read for founders, VCs, and tech operators globally."
+  },
+  {
+    "id": "wired",
+    "name": "Wired",
+    "kind": "publication",
+    "url": "https://www.wired.com",
+    "focus": [
+      "tech",
+      "longform",
+      "policy"
+    ],
+    "audience": 25000000,
+    "addedAt": "2026-02-15",
+    "bio": "Magazine and site that defined modern tech and internet coverage since 1993. Long-form features on AI, cybersecurity, platform power, and the business of the internet still drive the cultural conversation around tech."
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge",
+    "kind": "publication",
+    "url": "https://www.theverge.com",
+    "focus": [
+      "tech",
+      "policy",
+      "breaking"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Vox Media tech outlet covering consumer electronics, platforms, AI, and the policy fights around them. Notifier daily email and high-frequency product scoops make it the front page of the consumer tech internet."
+  },
+  {
+    "id": "politico",
+    "name": "Politico",
+    "kind": "publication",
+    "url": "https://www.politico.com",
+    "focus": [
+      "policy",
+      "us",
+      "global",
+      "breaking"
+    ],
+    "audience": 25000000,
+    "addedAt": "2026-02-15",
+    "bio": "Inside-Washington outlet that turned political journalism into a real-time industry. Politico Pro subscriptions on financial services, tech, energy, and defense drive the news cycle for lobbyists, executives, and reporters alike."
+  },
+  {
+    "id": "foreign-affairs",
+    "name": "Foreign Affairs",
+    "kind": "publication",
+    "url": "https://www.foreignaffairs.com",
+    "focus": [
+      "policy",
+      "global",
+      "longform",
+      "macro"
+    ],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Bimonthly journal of the Council on Foreign Relations, founded in 1922. Long-form essays by former officials, central bankers, and academics shape how Washington and Wall Street frame geopolitics, trade, and macro."
+  },
+  {
+    "id": "nikkei-asia",
+    "name": "Nikkei Asia",
+    "kind": "publication",
+    "url": "https://asia.nikkei.com",
+    "focus": [
+      "asia",
+      "markets",
+      "finance",
+      "tech",
+      "policy"
+    ],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "English-language arm of Nikkei Inc., the parent of the Financial Times. Essential for corporate, supply-chain, and policy reporting on Japan, China, India, and Southeast Asia; the Asia desk most US and European newsrooms call first."
+  },
+  {
+    "id": "caixin",
+    "name": "Caixin",
+    "kind": "publication",
+    "url": "https://www.caixinglobal.com",
+    "focus": [
+      "asia",
+      "finance",
+      "policy",
+      "macro"
+    ],
+    "audience": 15000000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent Chinese business outlet known for investigative reporting on shadow banking, local government debt, and the opaque corners of the Chinese financial system. The Caixin China Manufacturing PMI is a leading macro signal."
+  },
+  {
+    "id": "scmp",
+    "name": "South China Morning Post",
+    "kind": "publication",
+    "url": "https://www.scmp.com",
+    "focus": [
+      "asia",
+      "finance",
+      "policy",
+      "breaking"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Hong Kong-based English daily owned by Alibaba Group, covering China business, Greater Bay Area development, and cross-border flows between China, Southeast Asia, and the rest of the world."
+  },
+  {
+    "id": "the-guardian",
+    "name": "The Guardian",
+    "kind": "publication",
+    "url": "https://www.theguardian.com",
+    "focus": [
+      "europe",
+      "global",
+      "policy",
+      "longform"
+    ],
+    "audience": 180000000,
+    "addedAt": "2026-02-15",
+    "bio": "British daily with US and Australia editions and an unusually global pool of investigative reporters. Strong on climate, tax, and corporate accountability, with a business section that doubles as the liberal UK paper of record."
+  },
+  {
+    "id": "washington-post",
+    "name": "The Washington Post",
+    "kind": "publication",
+    "url": "https://www.washingtonpost.com",
+    "focus": [
+      "us",
+      "policy",
+      "breaking",
+      "global"
+    ],
+    "audience": 80000000,
+    "addedAt": "2026-02-15",
+    "bio": "Jeff Bezos-owned US daily long associated with the Watergate model of investigative reporting. Covers the White House, regulators, and federal contractors in depth; its financial desk is small but moves policy stories."
+  },
+  {
+    "id": "npr",
+    "name": "NPR",
+    "kind": "publication",
+    "url": "https://www.npr.org",
+    "focus": [
+      "us",
+      "policy",
+      "macro"
+    ],
+    "audience": 60000000,
+    "addedAt": "2026-02-15",
+    "bio": "US public radio network whose Planet Money, Marketplace, and Indicator podcasts arguably built the modern popular-finance audience. Tells the macro and labor-market story in plain language; the daily brief sets agenda for many markets desks."
+  },
+  {
+    "id": "bbc-business",
+    "name": "BBC Business",
+    "kind": "publication",
+    "url": "https://www.bbc.com/business",
+    "focus": [
+      "global",
+      "markets",
+      "finance",
+      "breaking",
+      "europe"
+    ],
+    "audience": 150000000,
+    "addedAt": "2026-02-15",
+    "bio": "The business desk of the BBC across its global sites and the World Service. Heavy on UK, European, and emerging-market angles; the morning and end-of-day business strands on BBC radio long set the European market open narrative."
+  },
+  {
+    "id": "the-atlantic",
+    "name": "The Atlantic",
+    "kind": "publication",
+    "url": "https://www.theatlantic.com",
+    "focus": [
+      "us",
+      "policy",
+      "longform",
+      "tech"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "American magazine of ideas whose coverage extends from politics to the economics of culture, tech, and the Atlantic economy. Long-form pieces by staff and contributors keep shaping how executives talk about AI, antitrust, and American decline."
+  },
+  {
+    "id": "vox",
+    "name": "Vox",
+    "kind": "publication",
+    "url": "https://www.vox.com",
+    "focus": [
+      "us",
+      "policy",
+      "longform",
+      "tech"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Vox Media explanatory site whose cards-and-scroll explainer format turned policy and economics reporting into a mass medium. Recode lineage lives on inside Vox for Big Tech, antitrust, and platform-labor coverage."
+  },
+  {
+    "id": "bloomberg-businessweek",
+    "name": "Bloomberg Businessweek",
+    "kind": "publication",
+    "url": "https://www.bloomberg.com/businessweek",
+    "focus": [
+      "global",
+      "finance",
+      "longform",
+      "markets"
+    ],
+    "audience": 50000000,
+    "addedAt": "2026-02-15",
+    "bio": "Print weekly inside the Bloomberg ecosystem. Long-form features and company profiles that go deeper than the terminal news flow; the cover story alone moves small-cap names on occasion."
+  },
+  {
+    "id": "new-yorker",
+    "name": "The New Yorker",
+    "kind": "publication",
+    "url": "https://www.newyorker.com",
+    "focus": [
+      "us",
+      "longform",
+      "policy",
+      "finance"
+    ],
+    "audience": 30000000,
+    "addedAt": "2026-02-15",
+    "bio": "Literary magazine whose finance, tech, and politics reporting punches well above its circulation. Profiles of CEOs and central bankers routinely set the broader cultural framing of a market moment."
+  },
+  {
+    "id": "investors-business-daily",
+    "name": "Investor's Business Daily",
+    "kind": "publication",
+    "url": "https://www.investors.com",
+    "focus": [
+      "us",
+      "markets",
+      "finance",
+      "data"
+    ],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "US daily built around William O'Neil's CAN SLIM methodology and heavy use of relative-strength charts. Tracks large-cap US stocks and ETFs daily with a quantitative tilt; widely read by active retail traders."
+  },
+  {
+    "id": "globenewswire",
+    "name": "GlobeNewswire",
+    "kind": "publication",
+    "url": "https://www.globenewswire.com",
+    "focus": [
+      "breaking",
+      "finance",
+      "global"
+    ],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "One of the two dominant wire services for corporate press releases, alongside Business Wire. Where earnings, M&A announcements, and SEC disclosures are first published; the raw firehose of event-driven markets news."
+  },
+  {
+    "id": "pr-newswire",
+    "name": "PR Newswire",
+    "kind": "publication",
+    "url": "https://www.prnewswire.com",
+    "focus": [
+      "breaking",
+      "finance",
+      "global"
+    ],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "Cision-owned wire and the original US corporate news distribution network. Trades earnings releases, product launches, and government announcements with GlobeNewswire; the back end of nearly every earnings recap."
+  },
+  {
+    "id": "seeking-alpha",
+    "name": "Seeking Alpha",
+    "kind": "publication",
+    "url": "https://seekingalpha.com",
+    "focus": [
+      "markets",
+      "finance",
+      "data"
+    ],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "Crowd-sourced equity research platform with a large community of buy-side contributors and retail investors. Long-form and short-form stock theses, quant ratings, and transcripts give a useful contrarian counterweight to sell-side notes."
+  },
+  {
+    "id": "morningstar",
+    "name": "Morningstar",
+    "kind": "publication",
+    "url": "https://www.morningstar.com",
+    "focus": [
+      "markets",
+      "finance",
+      "data",
+      "esg"
+    ],
+    "audience": 25000000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent investment research firm whose equity ratings, fund star ratings, and fair-value estimates anchor much of the independent advisor and 401(k) world. Premium Morningstar Direct tools sit alongside the public news site."
+  },
+  {
+    "id": "pitchbook",
+    "name": "PitchBook",
+    "kind": "publication",
+    "url": "https://pitchbook.com",
+    "focus": [
+      "finance",
+      "data",
+      "tech"
+    ],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Private-market data platform and newsdesk from Morningstar. The default source for VC, growth, and PE deal multiples, fund raises, and exits; the daily newswire is a must-read inside every fund and corporate venture team."
+  },
+  {
+    "id": "crunchbase",
+    "name": "Crunchbase",
+    "kind": "publication",
+    "url": "https://www.crunchbase.com",
+    "focus": [
+      "tech",
+      "finance",
+      "data"
+    ],
+    "audience": 15000000,
+    "addedAt": "2026-02-15",
+    "bio": "Tech company and funding database that spun out of TechCrunch. Tracks startups, rounds, acquirers, and exits in near real time; the standard reference when triangulating a private-company story across the rest of the tech press."
+  },
+  {
+    "id": "rest-of-world",
+    "name": "Rest of World",
+    "kind": "publication",
+    "url": "https://restofworld.org",
+    "focus": [
+      "tech",
+      "global",
+      "longform",
+      "policy"
+    ],
+    "audience": 5000000,
+    "addedAt": "2026-02-15",
+    "bio": "Non-profit outlet founded in 2019 covering how technology is actually built and used outside Silicon America and China. Long-form reporting on startups, regulation, and labor in Latin America, Africa, the Middle East, and South Asia."
+  },
+  {
+    "id": "puck-news",
+    "name": "Puck News",
+    "kind": "publication",
+    "url": "https://puck.news",
+    "focus": [
+      "us",
+      "media",
+      "finance",
+      "breaking"
+    ],
+    "audience": 2000000,
+    "addedAt": "2026-02-15",
+    "bio": "Subscription insider outlet launched in 2021 covering the intersection of media, money, and power. Founders include Dylan Byers and Jon Kelly; vertical-specific newsletters drive much of the Hollywood and Wall Street scoop cycle."
+  },
+  {
+    "id": "stratechery",
+    "name": "Stratechery",
+    "kind": "newsletter",
+    "url": "https://stratechery.com",
+    "handle": null,
+    "focus": [
+      "tech",
+      "strategy",
+      "media",
+      "platforms"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Ben Thompson's weekly Stratechery newsletter remains required reading for tech and media strategy. Each essay untangles the economics of platforms (Apple, Google, Meta, Microsoft) with framework-grade clarity. Paid tier adds the Stratechery Plus weekly podcast and private Discord."
+  },
+  {
+    "id": "doomberg",
+    "name": "Doomberg",
+    "kind": "newsletter",
+    "url": "https://doomberg.substack.com",
+    "handle": null,
+    "focus": [
+      "energy",
+      "commodities",
+      "macro",
+      "esg"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Anonymous macro newsletter from a former energy-industry insider. Doomberg dissects commodities, central-bank policy, and the energy transition with sharp charts and no-vendor takes. Particularly good on oil, natural gas, and the shenanigans of ESG capitalism. Free on Substack."
+  },
+  {
+    "id": "bear-cave",
+    "name": "The Bear Cave",
+    "kind": "newsletter",
+    "url": "https://thebearcave.substack.com",
+    "handle": null,
+    "focus": [
+      "short-selling",
+      "due-diligence",
+      "small-mid",
+      "research"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Edwin Dorsey's weekly short-selling due diligence letter. Each issue profiles a public-company accounting concern, governance red flag, or business-model crack. Paid; trial issues and the David vs Goliath Twitter thread are public."
+  },
+  {
+    "id": "macrovoices",
+    "name": "MacroVoices Weekly Digest",
+    "kind": "newsletter",
+    "url": "https://macrovoices.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "interviews",
+      "long-form",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Patrick Ceresna's long-form interview podcast with hedge-fund managers, CIOs, and macro strategists. The weekly digest email rounds up recent episodes and links to charts and transcripts. Free; also offers a paid Dark Side of the Hedge Fund series."
+  },
+  {
+    "id": "topdown-charts",
+    "name": "Topdown Charts",
+    "kind": "newsletter",
+    "url": "https://topdowncharts.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "charts",
+      "technical",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Callum Thomas' macro research on the go. Topdown Charts pairs clean charts with short commentary on liquidity, central-bank policy, and risk-asset crosses. Daily free chart email plus the paid Weekly Macro Letter."
+  },
+  {
+    "id": "kobeissi-letter",
+    "name": "The Kobeissi Letter",
+    "kind": "newsletter",
+    "url": "https://kobeissiletter.com",
+    "handle": null,
+    "focus": [
+      "markets",
+      "trading",
+      "commodities",
+      "fx"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Adam Kobeissi's daily markets letter covering crude oil, FX, equities, and commodities. Read by traders, hedge funds, and front-office desks for intraday takes and chart analysis. Paid subscription; sometimes sparked by a Reddit thread he started."
+  },
+  {
+    "id": "geopolitical-futures",
+    "name": "Geopolitical Futures",
+    "kind": "newsletter",
+    "url": "https://geopoliticalfutures.com",
+    "handle": null,
+    "focus": [
+      "geo",
+      "forecasting",
+      "policy",
+      "strategy"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Founded by George Friedman, Geopolitical Futures is a forecasting subscription that maps risk across the major theaters — US, China, Middle East, Europe — with weekly long-form reports and a shorter-form daily note."
+  },
+  {
+    "id": "mauldin-outside-the-box",
+    "name": "Outside the Box (Mauldin Economics)",
+    "kind": "newsletter",
+    "url": "https://mauldineconomics.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "policy",
+      "markets",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "John Mauldin's curated weekly macro letter, edited by his team. Each issue synthesizes a dozen outside sources — bond desks, central-bank notes, geopolitical dispatches — into one brief. Required reading for cross-asset allocators."
+  },
+  {
+    "id": "bloomberg-unhedged",
+    "name": "Unhedged (Bloomberg)",
+    "kind": "newsletter",
+    "url": "https://www.bloomberg.com/opinion/articles/unhedged",
+    "handle": null,
+    "focus": [
+      "markets",
+      "commentary",
+      "weekly",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Bloomberg Markets' daily newsletter covering what's moving equity, bond, FX, and commodity markets — and why. Free with a Bloomberg account. The desk often co-broadcasts live on the same theme with publishers past and present including Matt Levine."
+  },
+  {
+    "id": "the-daily-shot",
+    "name": "The Daily Shot",
+    "kind": "newsletter",
+    "url": "https://dailyshot.com",
+    "handle": null,
+    "focus": [
+      "markets",
+      "charts",
+      "daily",
+      "macro"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Alexander Crawford's daily markets chart email. One clean chart each morning with a short blurb explaining what it means for the session ahead. Free; mirror accounts on Twitter and LinkedIn."
+  },
+  {
+    "id": "finimize",
+    "name": "Finimize",
+    "kind": "newsletter",
+    "url": "https://finimize.com",
+    "handle": null,
+    "focus": [
+      "finance",
+      "education",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Daily 3-minute briefing explaining one finance headline in plain English. Free email and app. Widely read by career-changers and early-career bankers; longer-form explainers live on the site. Now backed by Abrdn."
+  },
+  {
+    "id": "mish-talk",
+    "name": "Mish Talk",
+    "kind": "newsletter",
+    "url": "https://mishtalk.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "markets",
+      "commentary",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Mike Shedlock's blog and newsletter, bent on contrarian macro takes. Tracks Federal Reserve policy, the bond market, and sentiment shifts with daily posts. Long-running back-catalog useful for context and citation."
+  },
+  {
+    "id": "bear-traps-report",
+    "name": "Bear Traps Report",
+    "kind": "newsletter",
+    "url": "https://beartrapsreport.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "fixed-income",
+      "cross-asset",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Larry McDonald's weekly macro cross-asset letter. Ex-bank analyst turned publisher; widely cited by hedge funds and family offices. Paid; covers rates, FX, commodities, and credit in one place, with occasional podcasts and event commentary."
+  },
+  {
+    "id": "apollo-slok",
+    "name": "Apollo Slok — Thinking Things Over",
+    "kind": "newsletter",
+    "url": "https://www.apollo.com/insights",
+    "handle": null,
+    "focus": [
+      "macro",
+      "charts",
+      "fed",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Torsten Slok, Apollo's chief economist, publishes a weekly charts-of-the-week report on global macro, rates, and Fed-policy cross-currents. Free at Apollo's insights page and through Apollo's institutional email list, with a bonus deck attached."
+  },
+  {
+    "id": "hindenburg-research",
+    "name": "Hindenburg Research",
+    "kind": "newsletter",
+    "url": "https://hindenburgresearch.com",
+    "handle": null,
+    "focus": [
+      "short-selling",
+      "forensic",
+      "research",
+      "activist"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Nathan Anderson's short-selling research firm. Publishes forensic short reports on US-listed companies with governance, fraud, or business-model concerns. Their reports routinely move names intraday, including the 2023-2024 moves on Adani and Icahn Enterprises."
+  },
+  {
+    "id": "variant-perception",
+    "name": "Variant Perception",
+    "kind": "newsletter",
+    "url": "https://variantperception.com",
+    "handle": null,
+    "focus": [
+      "macro",
+      "research",
+      "paid",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Vincent Deluard's paid institutional macro research service. Frequent cross-asset calls on equities, rates, FX, and commodities, anchored in a 'providers-of-liquidity' framework. Subscribers include sovereign-wealth funds and macro hedge funds, plus long-only desks."
+  },
+  {
+    "id": "platformer",
+    "name": "Platformer",
+    "kind": "newsletter",
+    "url": "https://www.platformer.news",
+    "handle": null,
+    "focus": [
+      "tech",
+      "policy",
+      "social-media",
+      "AI",
+      "platforms"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Casey Newton's subscription on how big tech meets the public interest. Daily pieces on platforms, AI, content moderation, and the creator economy. Required reading in DC, Brussels, and Bay-Away corridor board rooms."
+  },
+  {
+    "id": "lennys-newsletter",
+    "name": "Lenny's Newsletter",
+    "kind": "newsletter",
+    "url": "https://www.lennysnewsletter.com",
+    "handle": null,
+    "focus": [
+      "product",
+      "growth",
+      "saas",
+      "careers"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Lenny Rachitsky (formerly Airbnb) publishes every two weeks on growth, product management, hiring, and SaaS metrics. Free on Substack; one of the largest product-management communities on the open web, with regular webinars and Q&A threads."
+  },
+  {
+    "id": "pragmatic-engineer",
+    "name": "The Pragmatic Engineer",
+    "kind": "newsletter",
+    "url": "https://newsletter.pragmaticengineer.com",
+    "handle": null,
+    "focus": [
+      "engineering",
+      "tech-industry",
+      "platforms",
+      "careers"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Gergely Orosz's deep dive on the software engineering profession. Big-tech cultures, EU vs US engineering orgs, careers, and the platform economy. One of the few publications quoted by senior engineers."
+  },
+  {
+    "id": "bytebytego",
+    "name": "ByteByteGo",
+    "kind": "newsletter",
+    "url": "https://blog.bytebytego.com",
+    "handle": null,
+    "focus": [
+      "system-design",
+      "tech",
+      "engineering",
+      "education"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Alex Xu (formerly Alibaba and Microsoft) writes illustrated system-design tutorials. Each issue breaks down one distributed-systems pattern with diagrams. Companion site for his bestselling 'System Design Interview' book series and the paid System Design School course."
+  },
+  {
+    "id": "import-ai",
+    "name": "Import AI",
+    "kind": "newsletter",
+    "url": "https://importai.substack.com",
+    "handle": null,
+    "focus": [
+      "AI",
+      "policy",
+      "research",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Jack Clark (Anthropic co-founder) compiles the week's biggest AI research papers, model releases, and policy moves. Free; widely cited by AI labs and safety researchers as a Friday-morning must-read, with a politics-of-AI angle baked in."
+  },
+  {
+    "id": "growth-design",
+    "name": "Growth.Design",
+    "kind": "newsletter",
+    "url": "https://growth.design",
+    "handle": null,
+    "focus": [
+      "design",
+      "product",
+      "growth",
+      "ux"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Jon Snow's weekly teardowns of product onboarding, pricing pages, and growth surfaces. Free; popular with PMs and designers wanting real before-and-after design walkthroughs. Best for the first month of a new designer's onboarding."
+  },
+  {
+    "id": "demand-curve",
+    "name": "Demand Curve",
+    "kind": "newsletter",
+    "url": "https://www.demandcurve.com",
+    "handle": null,
+    "focus": [
+      "growth",
+      "marketing",
+      "saas",
+      "advertising"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Paid growth-and-marketing course library plus a weekly digest. Teaches paid acquisition, lifecycle, and conversion-rate optimization. Built by growth operators; widely cited on Twitter and LinkedIn, with detailed case studies and templated playbooks."
+  },
+  {
+    "id": "the-information",
+    "name": "The Information",
+    "kind": "newsletter",
+    "url": "https://www.theinformation.com",
+    "handle": null,
+    "focus": [
+      "tech",
+      "media",
+      "industry",
+      "premium"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Premium subscription tech news outlet founded by Jessica Lessin. Daily morning briefings on AI, semiconductors, and platform shifts, plus long-form investigations. A must-read across VCs and tech execs; paywalled since launch."
+  },
+  {
+    "id": "fintech-brainfood",
+    "name": "Fintech Brainfood",
+    "kind": "newsletter",
+    "url": "https://www.fintechbrainfood.com",
+    "handle": null,
+    "focus": [
+      "fintech",
+      "embedded",
+      "payments",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Simon Taylor's weekly fintech digest. Combines product teardowns with deep dives on payments, embedded finance, and the platform banking stack. Free on Substack; the podcast is optional but worth the bonus episodes."
+  },
+  {
+    "id": "benedict-evans",
+    "name": "Benedict Evans",
+    "kind": "newsletter",
+    "url": "https://www.ben-evans.com/newsletter",
+    "handle": null,
+    "focus": [
+      "tech",
+      "strategy",
+      "platforms",
+      "analysis"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Independent tech analyst's annual letter and shorter weekly notes. Covers the macro shape of the tech industry — AI, smartphones, platforms, and computing cycles. His 'Three Eras of Computing' essay set a benchmark for the AI era."
+  },
+  {
+    "id": "daring-fireball",
+    "name": "Daring Fireball",
+    "kind": "newsletter",
+    "url": "https://daringfireball.net",
+    "handle": null,
+    "focus": [
+      "apple",
+      "tech",
+      "commentary",
+      "design"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "John Gruber's weekly Apple-and-tech opinion blog. Famous for live-blogging Apple keynotes; his link-summarizing style, in which he curates and links to outside pieces with commentary, has shaped a generation of tech writing."
+  },
+  {
+    "id": "the-neuron",
+    "name": "The Neuron",
+    "kind": "newsletter",
+    "url": "https://www.theneuron.ai",
+    "handle": null,
+    "focus": [
+      "AI",
+      "tools",
+      "industry",
+      "daily"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Daily AI newsletter with three short stories each morning plus a weekend deep dive. Free; popular with AI-curious professionals outside the tech industry. Also known as 'The Neuron Daily', with email-grade readability."
+  },
+  {
+    "id": "the-defiant",
+    "name": "The Defiant",
+    "kind": "newsletter",
+    "url": "https://thedefiant.io",
+    "handle": null,
+    "focus": [
+      "defi",
+      "crypto",
+      "industry",
+      "daily"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Camila Faber's daily crypto coverage. Now covers the full stack: protocols, regulation, stablecoins, on-chain alpha, and restaking. Free email; the Defiant Show podcast ships three nights a week, with archive of guests going back years."
+  },
+  {
+    "id": "milk-road",
+    "name": "Milk Road",
+    "kind": "newsletter",
+    "url": "https://milkroad.com/newsletter",
+    "handle": null,
+    "focus": [
+      "crypto",
+      "education",
+      "beginner",
+      "daily"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Casual daily crypto briefing written for non-coders. Each issue opens with one core story, follows up with three smaller news bites, and ends with a glossary entry. Free; the team also publishes longer explainers on the site."
+  },
+  {
+    "id": "bankless",
+    "name": "Bankless",
+    "kind": "newsletter",
+    "url": "https://www.bankless.com",
+    "handle": null,
+    "focus": [
+      "defi",
+      "crypto",
+      "ethereum",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Ryan Sean Adams and David Hoffman's flagship crypto newsletter. Long-form essays on Ethereum, DeFi, rollups, and the on-chain future. Free weekly with a paid tier that unlocks the Rollup podcast."
+  },
+  {
+    "id": "crypto-pragmatist",
+    "name": "Crypto Pragmatist",
+    "kind": "newsletter",
+    "url": "https://cryptopragmatist.io",
+    "handle": null,
+    "focus": [
+      "crypto",
+      "commentary",
+      "regulation",
+      "bitcoin"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Joe Carlasare's commentary on Bitcoin and crypto adoption through the lens of a retirement-account investor and entrepreneur. Conservative sound-money framing plus regular interviews with Bitcoin builders and miners, plus policy takes."
+  },
+  {
+    "id": "bitcoin-layer",
+    "name": "The Bitcoin Layer",
+    "kind": "newsletter",
+    "url": "https://bitcoinlayer.substack.com",
+    "handle": null,
+    "focus": [
+      "bitcoin",
+      "technical",
+      "protocol",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Weekly newsletter on Bitcoin protocol engineering — BIPs, soft-fork proposals, library updates, and Lightning developments. Built for Bitcoin-OG engineers; companion to in-person meetups at Amsterdam and London conferences, and to the Bitcoin Core open issues list."
+  },
+  {
+    "id": "glassnode-insights",
+    "name": "Glassnode Insights",
+    "kind": "newsletter",
+    "url": "https://insights.glassnode.com",
+    "handle": null,
+    "focus": [
+      "on-chain",
+      "analytics",
+      "research",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Weekly on-chain analytics notes from Glassnode. Covers BTC and ETH flows, derivatives, realized caps, exchange reserves, and ETF flow dashboards. Widely cited by institutional desks and cited by BTC-OPEC narratives."
+  },
+  {
+    "id": "messari",
+    "name": "Messari Newsletter",
+    "kind": "newsletter",
+    "url": "https://messari.io",
+    "handle": null,
+    "focus": [
+      "crypto",
+      "research",
+      "industry",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Messari's flagship daily/weekly research email. Token unlocks, regulatory moves, and sector deep-dives (DeFi, AI-x-crypto, RWAs). Free summary with the paid Hub offering dashboards, analyst calls to institutions, and the Annual Messari Report PDF."
+  },
+  {
+    "id": "gzero-daily",
+    "name": "GZERO Daily",
+    "kind": "newsletter",
+    "url": "https://www.gzeromedia.com",
+    "handle": null,
+    "focus": [
+      "geo",
+      "policy",
+      "daily",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Ian Bremmer's geopolitics brief, mailed each weekday morning. Short takes with a 'global power map' framing — Russia, China, US elections, and the Global South — plus a short companion video."
+  },
+  {
+    "id": "foreign-affairs-today",
+    "name": "Foreign Affairs Today",
+    "kind": "newsletter",
+    "url": "https://www.foreignaffairs.com",
+    "handle": null,
+    "focus": [
+      "foreign-policy",
+      "analysis",
+      "weekly",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Foreign Affairs magazine's daily and weekly note. Picks one piece of analysis off the site (long-form review essay, regional case study) plus a list of the week's top reads. Free email signup; full archive behind paywall."
+  },
+  {
+    "id": "morning-brew",
+    "name": "Morning Brew",
+    "kind": "newsletter",
+    "url": "https://www.morningbrew.com",
+    "handle": null,
+    "focus": [
+      "business",
+      "news",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Morning Brew's weekday newsletter covering business, markets, tech, and culture in a snarky-to-the-point voice. Five-minute read; widely cited by Gen-Z and early-career knowledge workers. Now part of a broader media group."
+  },
+  {
+    "id": "axios-today",
+    "name": "Axios Today",
+    "kind": "newsletter",
+    "url": "https://www.axios.com/newsletters/axios-today",
+    "handle": null,
+    "focus": [
+      "news",
+      "policy",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Axios's flagship AM brief. Five short stories across business, politics, tech, and world written in the Axios 'Smart Brevity' style. Free; sponsored at the bottom. Now joined by AI Today, Markets, and Climate Brief variants."
+  },
+  {
+    "id": "economist-espresso",
+    "name": "The Economist Espresso",
+    "kind": "newsletter",
+    "url": "https://www.economist.com/espresso",
+    "handle": null,
+    "focus": [
+      "global",
+      "news",
+      "daily",
+      "brief"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "The Economist's daily morning brief. Five short takes — one global macro, one US, one Asia, one Europe/MENA, one culture/curiosity. Five-minute read; subscription required for full archive and the companion app."
+  },
+  {
+    "id": "cipher-brief",
+    "name": "The Cipher Brief",
+    "kind": "newsletter",
+    "url": "https://www.thecipherbrief.com",
+    "handle": null,
+    "focus": [
+      "intelligence",
+      "national-security",
+      "commentary",
+      "weekly"
+    ],
+    "audience": 0,
+    "addedAt": "2026-10-16",
+    "bio": "Former senior US national-security officials turned publishers. Weekly notes on the hot theaters (Iran, China, Russia, the Arctic) plus long-form expert interviews. Widely read across Washington think tanks and intelligence-community veterans."
+  },
+  {
+    "id": "invest-like-the-best",
+    "name": "Invest Like the Best",
+    "kind": "podcast",
+    "url": "https://investlikethebest.com",
+    "focus": [
+      "investing",
+      "interviews",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Patrick O'Shaughnessy interviews the most thoughtful investors, operators, and thinkers in the industry. Long-form, deeply researched conversations cover capital allocation, business building, decision-making, and the personalities behind top firms. Required listening for allocators and operators trying to understand how the best actually think about risk and edge."
+  },
+  {
+    "id": "capital-allocators",
+    "name": "Capital Allocators",
+    "kind": "podcast",
+    "url": "https://capitalallocators.com",
+    "focus": [
+      "institutional",
+      "allocators",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ted Seides interviews leading allocators — pensions, endowments, foundations, and family offices — on how they actually construct portfolios. Deep dives on manager selection, governance, incentive structures, and the institutional mindset behind long-term stewardship. A direct line into the thinking of the world's most sophisticated pools of capital."
+  },
+  {
+    "id": "bg2-pod",
+    "name": "BG2 Pod",
+    "kind": "podcast",
+    "url": "https://bg2pod.com",
+    "focus": [
+      "macro",
+      "tech",
+      "investing"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Brad Gerstner and Bill Gurley cover markets, technology, and macro in unscripted long-form. Two veteran investors — one public-markets, one late-stage private — debate the headlines from a fundamentals-first, growth-oriented perspective. Their conversations have become a regular touchstone for tech-focused allocators and operators trying to make sense of the cycle."
+  },
+  {
+    "id": "the-investors-podcast",
+    "name": "The Investors Podcast",
+    "kind": "podcast",
+    "url": "https://theinvestorspodcast.com",
+    "focus": [
+      "investing",
+      "education",
+      "principles"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Stig Brodersen and Preston Pysh break down investing principles, study historical billionaires, and analyze individual stocks in long-form episodes. Educational and accessible, with a multi-generational framework aimed at building long-term wealth. The flagship show sits alongside the popular We Study Billionaires deep-dive series."
+  },
+  {
+    "id": "masters-in-business",
+    "name": "Masters in Business",
+    "kind": "podcast",
+    "url": "https://ritholtz.com/category/the-masters-of-business-administration-with-barry-ritholtz/",
+    "focus": [
+      "investing",
+      "interviews",
+      "macro"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Barry Ritholtz interviews the world's top investors, economists, and traders on Bloomberg Radio. Sharp, focused interviews with a veteran host who asks the questions practitioners actually care about — positioning, risk, conviction, and process. Long-running and one of the most-downloaded business interviews on the Bloomberg network."
+  },
+  {
+    "id": "the-market-huddle",
+    "name": "The Market Huddle",
+    "kind": "podcast",
+    "url": "https://themarkethuddle.com",
+    "focus": [
+      "trading",
+      "tactics",
+      "technical"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kevin Myler and Jody Lapp interview active traders and money managers each week. Tactical, chart-based discussions for traders focused on positioning, risk management, and execution. The hosts are candid about wins and losses, which is rare in the trading-podcast space. A useful companion show for technical analysts."
+  },
+  {
+    "id": "animal-spirits",
+    "name": "Animal Spirits",
+    "kind": "podcast",
+    "url": "https://animalspiritspod.com",
+    "focus": [
+      "behavioral",
+      "markets",
+      "commentary"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Michael Batnick and Ben Carlson riff on markets, behavioral finance, and the absurdities of finance with a humor-first approach. Funny, smart, and accessible — equal parts research and standup. Comes out of the Ritholtz Wealth Management ecosystem and pairs naturally with the more serious Masters in Business interviews."
+  },
+  {
+    "id": "prof-g-pod",
+    "name": "The Prof G Pod",
+    "kind": "podcast",
+    "url": "https://www.profgbypod.com",
+    "focus": [
+      "tech",
+      "macro",
+      "commentary"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Scott Galloway — NYU Stern professor and Pivot co-host — covers business, tech, and the macro economy with a sharp pro-consumer, anti-monopoly lens. Direct takes on the digital economy, sharp predictions on winners and losers, and pointed commentary on inequality and regulation. One of the most-listened-to business voices online."
+  },
+  {
+    "id": "the-knowledge-project",
+    "name": "The Knowledge Project",
+    "kind": "podcast",
+    "url": "https://shaneparrish.com/the-knowledge-project/",
+    "focus": [
+      "decision-making",
+      "mental-models",
+      "interviews"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Shane Parrish interviews top performers on decision-making, mental models, learning, and the habits of high-impact people. Wide-ranging guest list — investors, athletes, scientists, military leaders, founders. A masterclass in how thoughtful people actually think under pressure. Pairs with Farnam Street's blog and book club for the full ecosystem."
+  },
+  {
+    "id": "chat-with-traders",
+    "name": "Chat With Traders",
+    "kind": "podcast",
+    "url": "https://chatwithtraders.com",
+    "focus": [
+      "trading",
+      "process",
+      "interviews"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Aaron Fifield interviews proprietary traders, hedge fund managers, and market researchers on process, edge, and risk. Tactical conversations focused on what works and what doesn't across asset classes and timeframes. A strong reference for traders who care more about implementation and discipline than theory."
+  },
+  {
+    "id": "real-vision",
+    "name": "Real Vision",
+    "kind": "podcast",
+    "url": "https://realvision.com",
+    "focus": [
+      "macro",
+      "interviews",
+      "cross-asset"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Raoul Pal and a deep bench of guests cover macro, crypto, and markets from a global allocator's perspective. Subscription-heavy video interviews aimed at institutional and sophisticated retail investors. Useful for the cross-asset investor who wants to hear one of the more thoughtful global-macro voices of the past decade."
+  },
+  {
+    "id": "top-traders-unplugged",
+    "name": "Top Traders Unplugged",
+    "kind": "podcast",
+    "url": "https://toptradersunplugged.com",
+    "focus": [
+      "systematic",
+      "trend-following",
+      "futures"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kevin Muir — known online as the Coconut — interviews systematic traders, CTAs, and quantitative managers. Deep dives into how rules-based and trend-following strategies actually perform across cycles. The reference show for managed-futures education, with a strong emphasis on performance attribution and what does and doesn't work."
+  },
+  {
+    "id": "meb-faber-show",
+    "name": "The Meb Faber Show",
+    "kind": "podcast",
+    "url": "https://mebfaber.com/podcast/",
+    "focus": [
+      "value",
+      "asset-allocation",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Meb Faber — founder of Cambria Investment Management — interviews investors, economists, and authors on long-term investing, asset allocation, and trend-following. Research-driven episodes with a value tilt and a healthy skepticism of efficient markets. The companion podcast to The Idea Farm newsletter and Cambria's research library."
+  },
+  {
+    "id": "we-study-billionaires",
+    "name": "We Study Billionaires",
+    "kind": "podcast",
+    "url": "https://theinvestorspodcast.com/we-study-billionaires/",
+    "focus": [
+      "principles",
+      "biographies",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Preston Pysh and Stig Brodersen deep-dive into the investment frameworks of history's top wealth-builders. Episode-per-investor breakdowns of Warren Buffett, Charlie Munger, Howard Marks, and others. Companion show to The Investors Podcast — useful for investors who want to study how the legends actually made decisions."
+  },
+  {
+    "id": "forward-guidance",
+    "name": "Forward Guidance",
+    "kind": "podcast",
+    "url": "https://seekingalpha.com/podcast/forward-guidance",
+    "focus": [
+      "macro",
+      "allocators",
+      "global"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Hosted by Tadas Viskanta — founder of Investor's Cafe — and Tariq Dennison, with deep coverage of markets, macro, and investing. Plain-spoken conversations with global allocators, family offices, and asset managers. A strong complement to the US-centric finance podcast canon — useful for non-US audiences and globally minded allocators."
+  },
+  {
+    "id": "acquired",
+    "name": "Acquired",
+    "kind": "podcast",
+    "url": "https://acquired.fm",
+    "focus": [
+      "tech",
+      "company-history",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ben Gilbert and David Rosenthal tell the stories behind the world's greatest companies — Amazon, NVIDIA, Apple, Shopify — and what made them win. Best-in-class long-form business storytelling with deep research, primary sources, and a clear analytical framework. Required listening for operators, founders, and capital allocators."
+  },
+  {
+    "id": "stratechery-dithering",
+    "name": "Stratechery / Dithering",
+    "kind": "podcast",
+    "url": "https://ditheringpodcast.com",
+    "focus": [
+      "tech",
+      "strategy",
+      "platforms"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ben Thompson — Stratechery's founder — and rotating guests analyze tech strategy, platforms, and the macro of the digital economy. Dithering is the audio companion to the Stratechery newsletter. The reference for thinking about how tech ecosystems actually work, and how regulation and antitrust reshape them."
+  },
+  {
+    "id": "a16z-podcast",
+    "name": "a16z Podcast",
+    "kind": "podcast",
+    "url": "https://a16z.com/podcasts/",
+    "focus": [
+      "tech",
+      "vc",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Marc Andreessen, Ben Horowitz, and a16z partners cover tech, culture, software, bio, and crypto across multiple feed channels. Wide-ranging interviews and short-form monologues from a top-tier venture firm. Useful for operators and investors looking for the Silicon Valley mainstream view of where the industry is going next."
+  },
+  {
+    "id": "hard-fork",
+    "name": "Hard Fork",
+    "kind": "podcast",
+    "url": "https://www.nytimes.com/column/hard-fork",
+    "focus": [
+      "tech",
+      "ai",
+      "current-events"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kevin Roose and Casey Newton cover the intersection of tech, business, and culture for the New York Times. Sharp, current, and listener-friendly reporting on AI, platforms, and the people shaping them. The reference weekly podcast for staying current on the most important tech stories without wading through the news cycle."
+  },
+  {
+    "id": "pivot",
+    "name": "Pivot",
+    "kind": "podcast",
+    "url": "https://www.nytimes.com/podcasts/pivot",
+    "focus": [
+      "tech",
+      "media",
+      "interviews"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Kara Swisher and Scott Galloway interview the biggest names in tech and media each week. Direct, unfiltered questions and a willingness to name winners and losers in public. The defining tech interview podcast of the decade — required listening for anyone who wants to know what operators actually think off the record."
+  },
+  {
+    "id": "founders-journal",
+    "name": "Founder's Journal",
+    "kind": "podcast",
+    "url": "https://www.ycombinator.com/library",
+    "focus": [
+      "startups",
+      "yc",
+      "operations"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Y Combinator's official podcast — short, founder-focused episodes covering startup operations, growth, hiring, and fundraising. Practical lessons drawn from working with thousands of YC companies over two decades. Useful for early-stage founders looking for tactical advice from operators in the trenches."
+  },
+  {
+    "id": "lennys-pod",
+    "name": "Lenny's Pod",
+    "kind": "podcast",
+    "url": "https://www.lennyspodcast.com",
+    "focus": [
+      "product",
+      "growth",
+      "pm"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Lenny Rachitsky — former Airbnb, Lyft, and Facebook — interviews product leaders on growth, retention, and career. Deep dives on PM practice with frameworks, dashboards, and case studies. The reference podcast for modern product management. Required listening for PMs and founders who care about building product that compounds."
+  },
+  {
+    "id": "the-full-ratchet",
+    "name": "The Full Ratchet",
+    "kind": "podcast",
+    "url": "https://fullratchet.net",
+    "focus": [
+      "vc",
+      "emerging-managers",
+      "angel"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Nick Moran interviews angels, VCs, and emerging managers on deal-making, fund construction, and allocator dynamics. The reference podcast for the emerging-manager side of venture and private markets. Required listening for new managers building their first fund and LPs curious about the next generation."
+  },
+  {
+    "id": "my-first-million",
+    "name": "My First Million",
+    "kind": "podcast",
+    "url": "https://www.myfirstmillionpod.com",
+    "focus": [
+      "business-ideas",
+      "trends",
+      "commentary"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Sam Parr and Shaan Puri brainstorm business ideas, trends, and money-making opportunities in an entertainment-forward format. Idea-dense and fast-paced — useful for operators curious about adjacent business models and trends before they hit the mainstream. Less serious, more playful than the rest of this list."
+  },
+  {
+    "id": "macro-musings",
+    "name": "Macro Musings",
+    "kind": "podcast",
+    "url": "https://www.mercatus.org/macro-musings",
+    "focus": [
+      "macro",
+      "policy",
+      "monetary"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Hosted by David Beckworth at the Mercatus Center — interviews economists, Fed watchers, and policy researchers on monetary economics, inflation, and the macro outlook. Academic-grade conversations with a strong policy lens and a willingness to engage heterodox voices. The reference podcast for serious monetary economics without needing an econ PhD."
+  },
+  {
+    "id": "the-indicator",
+    "name": "The Indicator",
+    "kind": "podcast",
+    "url": "https://www.npr.org/podcasts/510310/the-indicator-from-planet-money",
+    "focus": [
+      "business",
+      "daily",
+      "short-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "NPR's daily short-form companion to Planet Money — quick takes on a single indicator or business trend each weekday. Ten-minute episodes. The fastest way to keep up with business headlines and understand the data behind them. Pairs naturally with the longer Planet Money episodes and a morning-news stack."
+  },
+  {
+    "id": "planet-money",
+    "name": "Planet Money",
+    "kind": "podcast",
+    "url": "https://www.npr.org/podcasts/510289/planet-money",
+    "focus": [
+      "economics",
+      "storytelling",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "NPR's flagship economics podcast — accessible storytelling about how the economy actually works. Episodes cover markets, policy, and economic history through short narrative arcs. A standard reference for anyone wanting a friendly on-ramp to economic concepts without slogging through textbooks."
+  },
+  {
+    "id": "the-daily",
+    "name": "The Daily",
+    "kind": "podcast",
+    "url": "https://www.nytimes.com/the-daily",
+    "focus": [
+      "news",
+      "daily",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "The New York Times flagship daily news podcast hosted by Michael Barbaro. Twenty-minute deep-dive on one story per weekday. Required listening for current-events coverage of markets, politics, and policy. Pairs naturally with FT News Briefing for a balanced morning-news stack."
+  },
+  {
+    "id": "ft-news-briefing",
+    "name": "FT News Briefing",
+    "kind": "podcast",
+    "url": "https://www.ft.com/podcasts/ft-news-briefing",
+    "focus": [
+      "global",
+      "briefing",
+      "morning"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "The Financial Times' morning brief — global markets, policy, and business headlines in ten minutes. Reliable, neutral, and essential for non-US audiences and globally minded investors. Pairs naturally with The Daily and The Indicator as a balanced morning stack."
+  },
+  {
+    "id": "bankless",
+    "name": "Bankless",
+    "kind": "podcast",
+    "url": "https://www.banklesshq.com",
+    "focus": [
+      "ethereum",
+      "defi",
+      "on-chain"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Ryan Sean Adams and David Hoffman cover Ethereum, DeFi, and on-chain finance in long-form episodes. The flagship podcast for the Ethereum-aligned crypto audience. Deep coverage of protocol economics, governance, and on-chain investing. The reference show if you want to think about crypto beyond price action."
+  },
+  {
+    "id": "the-defiant",
+    "name": "The Defiant",
+    "kind": "podcast",
+    "url": "https://thedefiant.io",
+    "focus": [
+      "defi",
+      "crypto",
+      "news"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Camila Russo and team cover DeFi, stablecoins, and on-chain markets with a news-led format. Required listening for tracking the crypto-native financial system beyond Bitcoin and Ethereum price action. Strong reporting on the protocol layer and the institutions being built on top of it."
+  },
+  {
+    "id": "unchained",
+    "name": "Unchained",
+    "kind": "podcast",
+    "url": "https://unchainedpodcast.com",
+    "focus": [
+      "crypto",
+      "interviews",
+      "long-form"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Laura Shin — former Forbes — interviews crypto founders, VCs, and policy makers. Long-form and accessible — the reference podcast for thoughtful crypto interviews across Bitcoin, Ethereum, and DeFi. Useful for institutional audiences and operators who want depth without the hype."
+  },
+  {
+    "id": "patrick-boyle",
+    "name": "Patrick Boyle",
+    "handle": "@PatrickBoyle",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@PatrickBoyle",
+    "focus": [
+      "finance",
+      "macro",
+      "education",
+      "derivatives"
+    ],
+    "audience": 1400000,
+    "addedAt": "2026-02-15",
+    "bio": "Quantitative finance and macro commentary from a former bank practitioner. Sharp, well-edited weekly episodes cover risk, derivatives, portfolio construction, and investing history with a dry sense of humor and zero sponsored hype."
+  },
+  {
+    "id": "bloomberg-television",
+    "name": "Bloomberg Television",
+    "handle": "@BloombergTelevision",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@BloombergTelevision",
+    "focus": [
+      "markets",
+      "news",
+      "macro",
+      "interviews"
+    ],
+    "audience": 3800000,
+    "addedAt": "2026-02-15",
+    "bio": "Live global markets coverage from Bloomberg's newsroom. Continuous market opens across every regional session, breaking economic data releases, and interviews with CEOs, central bankers, and institutional investors from every major trading hub in the world."
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "handle": "@CNBC",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@CNBC",
+    "focus": [
+      "markets",
+      "news",
+      "live",
+      "business"
+    ],
+    "audience": 5000000,
+    "addedAt": "2026-02-15",
+    "bio": "Full episode archive of CNBC's flagship programming — Squawk Box, Mad Money, Closing Bell, and Fast Money. Anchors the day for active US retail traders with breaking news, earnings reactions, and interviews."
+  },
+  {
+    "id": "yahoo-finance",
+    "name": "Yahoo Finance",
+    "handle": "@YahooFinance",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@YahooFinance",
+    "focus": [
+      "markets",
+      "interviews",
+      "personal-finance",
+      "earnings"
+    ],
+    "audience": 1500000,
+    "addedAt": "2026-02-15",
+    "bio": "Markets coverage anchored by Julie Hyman, Brian Sozzi, and the Yahoo Finance team. Heavily interview-driven with chart-heavy breakdowns, plus earnings previews, live viewer calls, weekly market wrap segments, and themed deep dives into crypto and retirement planning."
+  },
+  {
+    "id": "tastytrade",
+    "name": "tastytrade",
+    "handle": "@tastytrade",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@tastytrade",
+    "focus": [
+      "options",
+      "trading",
+      "education",
+      "volatility"
+    ],
+    "audience": 280000,
+    "addedAt": "2026-02-15",
+    "bio": "Options trading education from Tom Sosnoff's network. A probability-first approach to vertical spreads, futures, and market microstructure, taught in long, teaching-heavy sessions with a no-hype, data-obsessed tone that has shaped an entire generation of retail options traders."
+  },
+  {
+    "id": "andrei-jikh",
+    "name": "Andrei Jikh",
+    "handle": "@AndreiJikh",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@AndreiJikh",
+    "focus": [
+      "personal-finance",
+      "investing",
+      "education",
+      "crypto"
+    ],
+    "audience": 2400000,
+    "addedAt": "2026-02-15",
+    "bio": "Personal finance and investing explainers aimed at retail audiences. Covers ETFs, dividend strategies, crypto, real estate, and the long-term mindset of being an investor, delivered with cinematic editing and clear visuals."
+  },
+  {
+    "id": "graham-stephan",
+    "name": "Graham Stephan",
+    "handle": "@GrahamStephan",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@GrahamStephan",
+    "focus": [
+      "personal-finance",
+      "real-estate",
+      "education",
+      "wealth"
+    ],
+    "audience": 4500000,
+    "addedAt": "2026-02-15",
+    "bio": "Real estate, investing, and personal-finance channel from a former agent turned one of YouTube's biggest wealth creators. Heavy on wealth-building narratives, mentality content, weekly market reactions, and long, conversational deep dives into housing, taxes, and budgeting."
+  },
+  {
+    "id": "wall-street-millennial",
+    "name": "Wall Street Millennial",
+    "handle": "@WallStreetMillennial",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@WallStreetMillennial",
+    "focus": [
+      "personal-finance",
+      "education",
+      "beginner",
+      "index-funds"
+    ],
+    "audience": 1600000,
+    "addedAt": "2026-02-15",
+    "bio": "Short, accessible personal-finance explainers. Topics run from emergency funds and Roth IRA basics to options strategy and rental-property math, packaged in a clean, low-jargon style aimed at younger viewers building a foundation of financial literacy."
+  },
+  {
+    "id": "financial-education-jeremy",
+    "name": "Financial Education",
+    "handle": "@FinancialEducation",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@FinancialEducation",
+    "focus": [
+      "personal-finance",
+      "real-estate",
+      "education",
+      "retirement"
+    ],
+    "audience": 1900000,
+    "addedAt": "2026-02-15",
+    "bio": "Jeremy Lefebvre's personal-finance channel. Walkthroughs on savings strategies, asset location across account types, retirement account optimization, and building passive income through rental real estate, delivered in a calm, step-by-step lecture format with worked examples."
+  },
+  {
+    "id": "rayner-teo",
+    "name": "Rayner Teo",
+    "handle": "@RaynerTeo",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@RaynerTeo",
+    "focus": [
+      "trading",
+      "technical-analysis",
+      "education",
+      "price-action"
+    ],
+    "audience": 1300000,
+    "addedAt": "2026-02-15",
+    "bio": "Founder of TradingwithRayner and one of the clearer voices in retail trader education. Price-action-focused content with explicit rules for entries, exits, and risk management, covering forex, stocks, and crypto through screen-shared chart breakdowns and free courses."
+  },
+  {
+    "id": "humphrey-yang",
+    "name": "Humphrey Yang",
+    "handle": "@HumphreyYang",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@HumphreyYang",
+    "focus": [
+      "personal-finance",
+      "education",
+      "beginner",
+      "real-estate"
+    ],
+    "audience": 1250000,
+    "addedAt": "2026-02-15",
+    "bio": "Personal finance made accessible. Visually clean explainers on real estate, retirement planning, financial independence, and quiet-money topics — delivered in a low-key tone that skips the bro-finance theatrics while still grounding every episode in real numbers."
+  },
+  {
+    "id": "minority-mindset",
+    "name": "Minority Mindset",
+    "handle": "@MinorityMindset",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@MinorityMindset",
+    "focus": [
+      "personal-finance",
+      "entrepreneurship",
+      "wealth",
+      "mindset"
+    ],
+    "audience": 2900000,
+    "addedAt": "2026-02-15",
+    "bio": "Entrepreneur-turned-finance creator Jaspreet Singh covers wealth psychology, real estate, side hustles, and the math behind passive income. Heavy on mental models, reframing, and frameworks rather than stock tips — with a focus on the language of money itself."
+  },
+  {
+    "id": "the-plain-bagel",
+    "name": "The Plain Bagel",
+    "handle": "@ThePlainBagel",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@ThePlainBagel",
+    "focus": [
+      "finance",
+      "data",
+      "education",
+      "long-form"
+    ],
+    "audience": 870000,
+    "addedAt": "2026-02-15",
+    "bio": "Long-form data-driven investing essays. Uses charts and clear math to break down how markets actually work, who gets paid what in a given industry, and why common financial headlines are usually missing the point."
+  },
+  {
+    "id": "linus-tech-tips",
+    "name": "Linus Tech Tips",
+    "handle": "@LinusTechTips",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@LinusTechTips",
+    "focus": [
+      "tech",
+      "reviews",
+      "hardware",
+      "pc-building"
+    ],
+    "audience": 16000000,
+    "addedAt": "2026-02-15",
+    "bio": "Consumer tech reviews, PC builds, and explainers from Linus Sebastian. The most-read tech channel on YouTube, with deep dives, secret-shopping hardware investigations, and a workshop full of GPUs and test rigs."
+  },
+  {
+    "id": "mkbhd",
+    "name": "Marques Brownlee",
+    "handle": "@MKBHD",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@MKBHD",
+    "focus": [
+      "tech",
+      "reviews",
+      "smartphones",
+      "interviews"
+    ],
+    "audience": 20000000,
+    "addedAt": "2026-02-15",
+    "bio": "Marques Brownlee's flagship tech channel. Widely considered the benchmark for premium gadget reviews, smartphone deep dives, and high-craft panels with industry voices, plus select interviews with top tech executives like Tim Cook and Sundar Pichai."
+  },
+  {
+    "id": "tom-bilyeu",
+    "name": "Tom Bilyeu",
+    "handle": "@TomBilyeu",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@TomBilyeu",
+    "focus": [
+      "entrepreneurship",
+      "interviews",
+      "mindset",
+      "business"
+    ],
+    "audience": 3300000,
+    "addedAt": "2026-02-15",
+    "bio": "Behind Impact Theory and Qfest. Long-form interviews with founders, athletes, and thinkers, plus mindset and entrepreneurship content from the founder of Quest Nutrition. Lean into the storytelling craft, often staging episodes as cinematic one-on-one conversations."
+  },
+  {
+    "id": "y-combinator",
+    "name": "Y Combinator",
+    "handle": "@ycombinator",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@ycombinator",
+    "focus": [
+      "startups",
+      "founder",
+      "education",
+      "fundraising"
+    ],
+    "audience": 1100000,
+    "addedAt": "2026-02-15",
+    "bio": "Official channel of the Y Combinator accelerator. Office-hours recordings, founder interviews, Startup School lectures, and partner essays covering distribution, product, hiring, and the art of the seed pitch for early-stage startup teams."
+  },
+  {
+    "id": "coldfusion",
+    "name": "ColdFusion",
+    "handle": "@ColdFusion",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@ColdFusion",
+    "focus": [
+      "tech",
+      "documentary",
+      "history",
+      "business"
+    ],
+    "audience": 5000000,
+    "addedAt": "2026-02-15",
+    "bio": "Long-form tech and business documentary storytelling from New Zealand. Dagogo Sheredia covers startups, corporate scandals, energy systems, and tech history, with calm narration, deep archival research, and high production value from the legendarily distinctive ColdFusion studio."
+  },
+  {
+    "id": "wendover-productions",
+    "name": "Wendover Productions",
+    "handle": "@WendoverProductions",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@WendoverProductions",
+    "focus": [
+      "education",
+      "logistics",
+      "geography",
+      "economics"
+    ],
+    "audience": 3300000,
+    "addedAt": "2026-02-15",
+    "bio": "Logistics, economics, and geography explainers in essay-style episodes. Answers questions like why this country is rich, why this industry works the way it does, and how delivery networks actually function at scale."
+  },
+  {
+    "id": "half-as-interesting",
+    "name": "Half as Interesting",
+    "handle": "@HalfAsInteresting",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@HalfAsInteresting",
+    "focus": [
+      "education",
+      "history",
+      "trivia",
+      "explainer"
+    ],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Sam Denby's bite-size encyclopedia channel. Trivia-driven 5–10 minute episodes on overlooked history, bizarre policy decisions, and the strange business decisions behind well-known brands and consumer products you use every day."
+  },
+  {
+    "id": "reallifelore",
+    "name": "RealLifeLore",
+    "handle": "@RealLifeLore",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@RealLifeLore",
+    "focus": [
+      "education",
+      "geography",
+      "science",
+      "explainer"
+    ],
+    "audience": 7400000,
+    "addedAt": "2026-02-15",
+    "bio": "Geography and history explainers at a planetary scale. Topics run from disputed borders and uncontacted tribes to why the world's deepest holes exist, all rendered with consistent cinematic production design."
+  },
+  {
+    "id": "today-i-found-out",
+    "name": "Today I Found Out",
+    "handle": "@TodayIFoundOut",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@TodayIFoundOut",
+    "focus": [
+      "education",
+      "history",
+      "daily",
+      "explainer"
+    ],
+    "audience": 7100000,
+    "addedAt": "2026-02-15",
+    "bio": "Daily knowledge-drop channel. Five-minute episodes on overlooked history, science, and the surprising origin stories of well-known brands, written and produced to feel like a smart daily podcast in video form."
+  },
+  {
+    "id": "geography-now",
+    "name": "Geography Now",
+    "handle": "@GeographyNow",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@GeographyNow",
+    "focus": [
+      "education",
+      "geography",
+      "countries",
+      "explainer"
+    ],
+    "audience": 4000000,
+    "addedAt": "2026-02-15",
+    "bio": "Country-by-country explainer series hosted by Paul Barbone. Structured episodes that break down each nation's geography, politics, demographics, and stereotypes with humor, all mapped to a consistent ranking system that escalates alphabetically from A to Z."
+  },
+  {
+    "id": "two-cents",
+    "name": "Two Cents",
+    "handle": "@TwoCents",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@TwoCents",
+    "focus": [
+      "personal-finance",
+      "education",
+      "beginner",
+      "explainer"
+    ],
+    "audience": 700000,
+    "addedAt": "2026-02-15",
+    "bio": "Personal-finance essentials from the team behind BiggerPockets Money. Beginner-friendly primers on credit scores, taxes, debt payoff strategies, and high-yield saving, designed as short, well-edited explainers with consistent character-led animation and clean scripts."
+  },
+  {
+    "id": "visualeconomik",
+    "name": "VisualEconomik",
+    "handle": "@VisualEconomik",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@VisualEconomik",
+    "focus": [
+      "macro",
+      "data",
+      "education",
+      "explainer"
+    ],
+    "audience": 700000,
+    "addedAt": "2026-02-15",
+    "bio": "German-language macro-economics and financial-markets animation channel. Each episode is a short, richly illustrated explainer covering a single economic concept — inflation, trade balances, central bank balance sheets — translated for general audiences without losing technical depth."
+  },
+  {
+    "id": "bloomberg-instagram",
+    "name": "Bloomberg",
+    "handle": "@bloomberg",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/bloomberg",
+    "focus": [
+      "markets",
+      "news",
+      "business"
+    ],
+    "audience": 6400000,
+    "addedAt": "2026-02-15",
+    "bio": "Bloomberg's main Instagram feed — breaking markets visuals, infographic-style explainers, and on-the-ground reporting from bureaus worldwide. Mix of short videos, market reaction shots, and data-led carousels tied to live coverage. Useful for the pulse on global news flow and how financial stories are framed for non-specialist audiences."
+  },
+  {
+    "id": "financialtimes-instagram",
+    "name": "Financial Times",
+    "handle": "@financialtimes",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/financialtimes",
+    "focus": [
+      "markets",
+      "policy",
+      "business"
+    ],
+    "audience": 2000000,
+    "addedAt": "2026-02-15",
+    "bio": "Visual companion to the FT: front-page graphics, weekend long reads via carousel, and reporter explainers rendered as headlines plus art. Strong on European markets and policy coverage. Posts skew photo-led but feature sharp chart work and occasional video interviews from FT Live events."
+  },
+  {
+    "id": "theeconomist-instagram",
+    "name": "The Economist",
+    "handle": "@theeconomist",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/theeconomist",
+    "focus": [
+      "economics",
+      "business",
+      "politics"
+    ],
+    "audience": 3600000,
+    "addedAt": "2026-02-15",
+    "bio": "Illustration-heavy feed that turns weekly print ideas into shareable graphics and short explainers. Maintains the magazine's signature visual identity while adapting essays for vertical scroll. Reliable mix spanning economics, business, science, and global politics with a consistent cadence."
+  },
+  {
+    "id": "wsj-instagram",
+    "name": "Wall Street Journal",
+    "handle": "@wsj",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/wsj",
+    "focus": [
+      "markets",
+      "policy",
+      "business"
+    ],
+    "audience": 3400000,
+    "addedAt": "2026-02-15",
+    "bio": "Photojournalism-led coverage of US markets, policy, and corporate news. Heavy on Capitol Hill reporting, earnings visuals, and lifestyle-business crossover pieces. Mixes straight news posts with branded video series and occasional data explainers tied to WSJ print covers."
+  },
+  {
+    "id": "businessinsider-instagram",
+    "name": "Business Insider",
+    "handle": "@businessinsider",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/businessinsider",
+    "focus": [
+      "tech",
+      "careers",
+      "business"
+    ],
+    "audience": 4600000,
+    "addedAt": "2026-02-15",
+    "bio": "Fast-paced feed covering tech, finance, careers, and lifestyle-business stories. Mix of studio-shot explainers, employee interviews, and behind-the-scenes reporting. Higher posting cadence than legacy outlets; useful for tracking younger-skewing coverage angles and trending workplace and economy narratives."
+  },
+  {
+    "id": "marketwatch-instagram",
+    "name": "MarketWatch",
+    "handle": "@marketwatch",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/marketwatch",
+    "focus": [
+      "markets",
+      "personal-finance",
+      "news"
+    ],
+    "audience": 1100000,
+    "addedAt": "2026-02-15",
+    "bio": "Markets-focused visuals from the Dow Jones-owned outlet. Carousels on personal finance, daily market recaps, and feature stories targeted at retail investors. Tone blends breaking news with practical money advice; useful for tracking how the mainstream US financial conversation shifts week to week."
+  },
+  {
+    "id": "forbes-instagram",
+    "name": "Forbes",
+    "handle": "@forbes",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/forbes",
+    "focus": [
+      "business",
+      "tech",
+      "wealth"
+    ],
+    "audience": 5200000,
+    "addedAt": "2026-02-15",
+    "bio": "Brand-driven feed spanning business, technology, lifestyle, and Under 30 coverage. Mix of cover artwork, founder and CEO profiles via short-form video, and explainer graphics around current Forbes lists. Cadence is higher than print and skews toward entrepreneur and wealth content."
+  },
+  {
+    "id": "fortune-instagram",
+    "name": "Fortune",
+    "handle": "@fortunemagazine",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/fortunemagazine",
+    "focus": [
+      "business",
+      "leadership",
+      "tech"
+    ],
+    "audience": 2000000,
+    "addedAt": "2026-02-15",
+    "bio": "Coverage of global business leadership, with photo-led reporting on Fortune 500, tech CEOs, and the conference circuit. Carousel explainers for the Fortune 500, 40 Under 40, and 100 Best Companies franchises. Visual pace is slower than peers; photos carry the brand."
+  },
+  {
+    "id": "nytimes-instagram",
+    "name": "The New York Times",
+    "handle": "@nytimes",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/nytimes",
+    "focus": [
+      "news",
+      "business",
+      "policy"
+    ],
+    "audience": 7500000,
+    "addedAt": "2026-02-15",
+    "bio": "Visuals from the NYT newsroom: photojournalism, front-page graphics, and short documentary-style video pieces. Strongest feed for global news breadth and on-the-ground conflict coverage. Skews more general news than finance-specific, with dedicated business explainers surfacing during market-moving days."
+  },
+  {
+    "id": "reuters-instagram",
+    "name": "Reuters",
+    "handle": "@reuters",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/reuters",
+    "focus": [
+      "news",
+      "markets",
+      "world"
+    ],
+    "audience": 3000000,
+    "addedAt": "2026-02-15",
+    "bio": "Wire-service photojournalism at scale: raw global news visuals updated multiple times a day. Minimal styling and no branded video — every post is a single image or short video caption. Best follow for unfiltered news photography covering markets, politics, conflict, and sport."
+  },
+  {
+    "id": "morningbrew-instagram",
+    "name": "Morning Brew",
+    "handle": "@morningbrew",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/morningbrew",
+    "focus": [
+      "markets",
+      "business",
+      "newsletter"
+    ],
+    "audience": 870000,
+    "addedAt": "2026-02-20",
+    "bio": "Visual home of the Morning Brew daily newsletter: explainer carousels, market memes, and branded illustrations. Tone is casual and Gen-Z-leaning, with a consistent visual identity. Useful for tracking how financial literacy is repackaged for younger audiences and what memes are trending in the space."
+  },
+  {
+    "id": "yahoofinance-instagram",
+    "name": "Yahoo Finance",
+    "handle": "@yahoofinance",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/yahoofinance",
+    "focus": [
+      "markets",
+      "video",
+      "personal-finance"
+    ],
+    "audience": 1800000,
+    "addedAt": "2026-02-20",
+    "bio": "Market news and personal-finance explainers with a strong video presence. Mix of in-studio anchor segments, reporter-on-the-street clips, and chart-driven carousel explainers. Higher cadence and broader scope than Bloomberg or Reuters; useful for tracking retail-investor talking points and platform-trending stocks."
+  },
+  {
+    "id": "investopedia-instagram",
+    "name": "Investopedia",
+    "handle": "@investopedia",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/investopedia",
+    "focus": [
+      "education",
+      "personal-finance",
+      "markets"
+    ],
+    "audience": 370000,
+    "addedAt": "2026-02-20",
+    "bio": "Education-first feed: term-of-the-day carousels, money-planning guides, and short-form video explainers. Skews beginner to intermediate finance literacy. Useful for tracking how legacy personal-finance topics — credit, taxes, retirement — are repackaged visually for social-native audiences."
+  },
+  {
+    "id": "thestreet-instagram",
+    "name": "TheStreet",
+    "handle": "@thestreet",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/thestreet",
+    "focus": [
+      "markets",
+      "investing",
+      "personal-finance"
+    ],
+    "audience": 250000,
+    "addedAt": "2026-02-20",
+    "bio": "Markets and investing commentary from TheStreet's newsroom. Mix of photo-led news posts, short market commentary videos, and feature explainers. Cadence is moderate; the feed leans practical trading and investing viewpoints from staff columnists and reporter profiles."
+  },
+  {
+    "id": "moneymagazine-instagram",
+    "name": "Money Magazine",
+    "handle": "@moneymagazine",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/moneymagazine",
+    "focus": [
+      "personal-finance",
+      "household",
+      "wealth"
+    ],
+    "audience": 150000,
+    "addedAt": "2026-02-20",
+    "bio": "Long-form personal finance visuals tied to Money's monthly coverage: retirement, taxes, housing, and lifestyle-money crossover. Carousel-driven and photo-led, with a slower posting cadence than peers. Best follow for the mainstream US household-finance angle rather than pure markets coverage."
+  },
+  {
+    "id": "kylascanlon-instagram",
+    "name": "Kyla Scanlon",
+    "handle": "@kylascanlon",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/kylascanlon",
+    "focus": [
+      "education",
+      "macro",
+      "markets"
+    ],
+    "audience": 340000,
+    "addedAt": "2026-03-01",
+    "bio": "Creator-led explainer feed from a finance communicator known for breaking down macro and markets topics visually. Mix of illustrated carousels, talking-head commentary clips, and memes about jobs, inflation, and rates. Tone is wry and theory-forward; a primary source for how finance content is shaped for 2024-2026 social audiences."
+  },
+  {
+    "id": "andreijikh-instagram",
+    "name": "Andrei Jikh",
+    "handle": "@andrei.jikh",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/andrei.jikh",
+    "focus": [
+      "investing",
+      "personal-finance",
+      "education"
+    ],
+    "audience": 1100000,
+    "addedAt": "2026-03-01",
+    "bio": "Personal-finance and investing creator. Short-form videos cover dividends, ETFs, and macro topics in plain language, paired with talking-head clips and stock breakdowns. Strong appetite for evergreen wealth-building content; cadence is consistent and explanatory rather than reactive to breaking news."
+  },
+  {
+    "id": "grahamstephan-instagram",
+    "name": "Graham Stephan",
+    "handle": "@grahamstephan",
+    "kind": "instagram",
+    "url": "https://www.instagram.com/grahamstephan",
+    "focus": [
+      "real-estate",
+      "wealth",
+      "personal-finance"
+    ],
+    "audience": 2200000,
+    "addedAt": "2026-03-01",
+    "bio": "Real-estate and wealth-building creator with crossover into personal finance. Talking-head clips and storytime-style posts dominate, with periodic lifestyle and homes-of-the-rich photo content. Useful primary source for tracking how the real-estate-as-wealth niche evolved and how creator finance accounts maintain consistent posting cadence at scale."
+  }
+]
