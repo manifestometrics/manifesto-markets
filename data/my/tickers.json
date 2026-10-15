@@ -1,0 +1,483 @@
+[
+  {
+    "symbol": "5326.KL",
+    "name": "99 Speed Mart Retail Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Retail",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "retail",
+      "consumer",
+      "minimarket"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1015.KL",
+    "name": "AMMB Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "AmBank Group comprises AMMB Holdings Berhad is one of the largest banking groups in Malaysia whose core businesses are retail banking, wholesale banking, Islamic banking, and life and general insurance.",
+    "themes": [
+      "bank",
+      "dividend",
+      "finance"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "6888.KL",
+    "name": "Axiata Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Telecommunications",
+    "industry": "Mobile Network Operators",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Axiata Group Berhad is a Malaysian multinational telecommunications conglomerate with extensive operations in Asia.",
+    "themes": [
+      "telco",
+      "asean",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "6947.KL",
+    "name": "CelcomDigi Berhad",
+    "exchange": "BURSA",
+    "sector": "Telecommunications",
+    "industry": "Telecommunications Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "CelcomDigi Berhad is a communications conglomerate and mobile service provider in Malaysia. Its largest shareholders are Axiata and Telenor, who hold equal ownership in CelcomDigi at 33.1% each. CelcomDigi is the largest wireless carrier in Malaysia, with 20.3 million subscribers at the end of Q4 2022.",
+    "themes": [
+      "telco",
+      "asean",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1023.KL",
+    "name": "CIMB Group Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "CIMB Group Holdings Berhad is a Malaysian universal bank headquartered in Kuala Lumpur and operating in high growth economies in ASEAN. CIMB Group is an indigenous ASEAN investment bank. CIMB has a wide retail branch network with 1,080 branches across the region.",
+    "themes": [
+      "bank",
+      "asean",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5398.KL",
+    "name": "Gamuda Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Construction & Engineering",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Gamuda Berhad is a Malaysian company involved in engineering, infrastructure, and property development. The company is listed on the Main Market of Bursa Malaysia, Beyond Malaysia, Gamuda has operations in Australia, Taiwan, Vietnam, Singapore, India, and Qatar.",
+    "themes": [
+      "construction",
+      "infrastructure",
+      "data-center"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5819.KL",
+    "name": "Hong Leong Bank Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Hong Leong Bank Berhad is a major public listed banking group in Malaysia.",
+    "themes": [
+      "bank",
+      "dividend",
+      "compounder"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5225.KL",
+    "name": "IHH Healthcare Berhad",
+    "exchange": "BURSA",
+    "sector": "Healthcare",
+    "industry": "Hospitals & Healthcare",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "IHH Healthcare Berhad is a multinational private healthcare group headquartered in Singapore and Kuala Lumpur, Malaysia. The group operates 190 healthcare facilities, including 89 hospitals, across 10 countries and has a workforce of 76,000 employees across Singapore, Malaysia, Turkey, India, Greater China, and other regions of Asia and Europe. It is listed on Bursa Malaysia and the Singapore Exchange.",
+    "themes": [
+      "healthcare",
+      "asean",
+      "hospital"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1961.KL",
+    "name": "IOI Corporation Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Plantations",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "IOI Corporation Berhad, commonly referred to as IOI, was incorporated on 31 October 1969 as Industrial Oxygen Incorporated Sdn Bhd. IOI is one of Malaysia's biggest conglomerates. It ventured into oil palm plantations in 1983, followed by property development in 1984 and refineries in 1997. IOI was listed on the Kuala Lumpur Stock Exchange (KLSE) and trading as MYX: 1961 – now known as Bursa Malaysia – in 1980.",
+    "themes": [
+      "plantation",
+      "palm-oil",
+      "consumer"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "2445.KL",
+    "name": "Kuala Lumpur Kepong Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Plantations",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Kuala Lumpur Kepong Berhad (KLK) is a Malaysian multi-national company. The core business of the group is plantation. The company has plantations that cover more than 250,000 hectares in Malaysia and Indonesia. Since the 1990s, the company has diversified its business activities such as resource-based manufacturing, property development and retailing with worldwide presence. The company is listed on the Bursa Malaysia and is Malaysia's third-largest palm oil producer. KLK was ranked 1858th in the 2013 Forbes Global 2000 Leading Companies, with market cap of US$6.91 billion. In 2014, KLK was ra",
+    "themes": [
+      "plantation",
+      "palm-oil",
+      "consumer"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1155.KL",
+    "name": "Malayan Banking Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Malayan Banking Berhad is a Malaysian universal bank, with key operating \"home markets\" of Malaysia, Singapore, and Indonesia. According to the 2020 Brand Finance report, Maybank is Malaysia's most valuable bank brand, the fourth-top brand amongst the ASEAN countries and ranked 70th among the world's most valuable bank brands.",
+    "themes": [
+      "bank",
+      "asean",
+      "mega-cap",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "6012.KL",
+    "name": "Maxis Berhad",
+    "exchange": "BURSA",
+    "sector": "Telecommunications",
+    "industry": "Telecommunications Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Maxis Berhad, is a communications service provider in Malaysia. It is one of the oldest and largest telecommunications companies in the country. Headquartered in Kuala Lumpur, Malaysia, it provides a variety of communication products, applications and value added services for consumers, large enterprises as well as small & medium business owners. Maxis uses the dialing prefixes of \"011 12000000 through 12499999\", \"012\", \"014-2\", and \"017\". The majority of the company's stake is owned by Malaysian billionaire, Ananda Krishnan. Its coverage is from Arau (Perlis) to Long Pasia (Sabah).",
+    "themes": [
+      "telco",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "3816.KL",
+    "name": "MISC Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Marine Shipping",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "MISC Berhad was incorporated in 1968 as Malaysia International Shipping Corporation Berhad and is the leading international shipping line of Malaysia. In September 2005, Malaysia International Shipping Corporation Berhad adopted its present corporate identity and changed its name to MISC Berhad. Its main shareholder is Petroliam Nasional Berhad (Petronas), the national oil conglomerate of Malaysia. The principal business of the corporation consist of ship owning, ship operating, other shipping related activities, owning and operating of offshore floating facilities as well as marine repair, ma",
+    "themes": [
+      "shipping",
+      "energy",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5296.KL",
+    "name": "MR D.I.Y. Group (M) Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Retail",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "retail",
+      "consumer",
+      "asean"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "4707.KL",
+    "name": "Nestlé (Malaysia) Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Food & Beverages",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "consumer-staples",
+      "food",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5183.KL",
+    "name": "Petronas Chemicals Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Materials",
+    "industry": "Chemicals",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "petrochemical",
+      "energy",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5681.KL",
+    "name": "Petronas Dagangan Berhad",
+    "exchange": "BURSA",
+    "sector": "Energy",
+    "industry": "Oil & Gas Marketing",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Petroliam Nasional Berhad, commonly known as PETRONAS, is a Malaysian multinational oil and gas company headquartered in Kuala Lumpur. Established in 1974, it is a legal entity incorporated under the Malaysian Companies Act 1965 and reports to the company's Board of Directors. Petronas is vested with all oil and gas resources in Malaysia and is entrusted with the responsibility of developing and adding value to these resources.",
+    "themes": [
+      "oil-gas",
+      "energy",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "6033.KL",
+    "name": "Petronas Gas Berhad",
+    "exchange": "BURSA",
+    "sector": "Utilities",
+    "industry": "Gas Utilities",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Petroliam Nasional Berhad, commonly known as PETRONAS, is a Malaysian multinational oil and gas company headquartered in Kuala Lumpur. Established in 1974, it is a legal entity incorporated under the Malaysian Companies Act 1965 and reports to the company's Board of Directors. Petronas is vested with all oil and gas resources in Malaysia and is entrusted with the responsibility of developing and adding value to these resources.",
+    "themes": [
+      "gas-utility",
+      "energy",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "4065.KL",
+    "name": "PPB Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Food & Beverages",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "PPB Group Berhad is a Malaysian diversified conglomerate which engages in food production, agriculture, waste management, film distribution, property investment and development. PPB is also the single largest shareholder of Wilmar International, one of the leading palm oil producers and agribusiness companies in the world.",
+    "themes": [
+      "food",
+      "plantation",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "8869.KL",
+    "name": "Press Metal Aluminium Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Materials",
+    "industry": "Aluminium",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "aluminium",
+      "metals",
+      "ev-supply"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1295.KL",
+    "name": "Public Bank Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Public Bank Berhad is a bank based in Kuala Lumpur, Malaysia, offering financial services in Malaysia as well as the Asia-Pacific region.",
+    "themes": [
+      "bank",
+      "dividend",
+      "mega-cap",
+      "compounder"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "7084.KL",
+    "name": "QL Resources Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Agribusiness",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "food",
+      "agribusiness",
+      "asean"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1066.KL",
+    "name": "RHB Bank Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "RHB Bank Berhad is a Malaysian bank based in Kuala Lumpur and founded in 1997. It is the fourth largest fully integrated financial services group in Malaysia. The company name RHB represents the initials of the founder, Rashid Hussain Berhad.",
+    "themes": [
+      "bank",
+      "dividend"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5285.KL",
+    "name": "SD Guthrie Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Plantations",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "plantation",
+      "palm-oil",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "4197.KL",
+    "name": "Sime Darby Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Conglomerate",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Sime Darby Berhad, referred to as Sime, is a Malaysian trading conglomerate. Its core businesses operate and serve in the industrial equipment and automotive sectors.",
+    "themes": [
+      "conglomerate",
+      "industrial",
+      "diversified"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5211.KL",
+    "name": "Sunway Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Construction & Property",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Sunway Group is a Malaysian conglomerate. It is headquartered at Sunway City, Subang Jaya, Selangor, Malaysia.",
+    "themes": [
+      "construction",
+      "property",
+      "healthcare"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "4863.KL",
+    "name": "Telekom Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Telecommunications",
+    "industry": "Telecommunications Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Telekom Malaysia Berhad (TM) is a Malaysian telecommunications company that was founded in 1984. Beginning as the national telecommunications company for fixed line, radio, and television broadcasting services, it has evolved to become the country's largest provider of broadband services, data, fixed line, pay television, and network services. TM ventured into the LTE space with the launch of TMgo, its 4G offering. TM's 850 MHz service was rebranded as unifi Mobile in January 2018.",
+    "themes": [
+      "telco",
+      "dividend",
+      "infra"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5347.KL",
+    "name": "Tenaga Nasional Berhad",
+    "exchange": "BURSA",
+    "sector": "Utilities",
+    "industry": "Electric Power",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Tenaga Nasional Berhad, also known as Tenaga Nasional or simply Tenaga, is the Malaysian multinational electricity company and is the primary electric utility company in Peninsular Malaysia and also the largest publicly listed power company in Southeast Asia with MYR 198.35 billion worth of assets. It serves over 10.65 million customers throughout Peninsular Malaysia and 0.73 million customers in the East Malaysian state of Sabah and Labuan through Sabah Electricity.",
+    "themes": [
+      "utility",
+      "power",
+      "dividend",
+      "mega-cap"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "4677.KL",
+    "name": "YTL Corporation Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Conglomerate",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "YTL Corporation is a Malaysian multinational company focused on building infrastructure, primarily power generation, water, and sewerage services. Founded by Yeoh Tiong Lay in 1955 it is listed on the Bursa Malaysia, the FTSE Bursa Malaysia KLCI, the MSCI Malaysia Index, and the Prime Market Foreign Stocks Segment of the Tokyo Stock Exchange, where it made history in 1996 as the first non-Japanese Asian company to be listed there.",
+    "themes": [
+      "conglomerate",
+      "construction",
+      "utility"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "6742.KL",
+    "name": "YTL Power International Berhad",
+    "exchange": "BURSA",
+    "sector": "Utilities",
+    "industry": "Electric Power",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "YTL Power International Berhad is a subsidiary of YTL Corporation Berhad, one of the largest companies listed on Bursa Malaysia. As of June 2024, the total combined group market capitalisation is RM 103.65 billion. Furthermore, YTL Corp and YTL Power were listed in the Fortune Southeast Asia 500 for the year 2024, ranking 47th and 78th, respectively. The ranking of the 500 Largest Companies in Southeast Asia is based on the revenue for the fiscal year 2023. As of November 2023, YTL Corp and YTL Power are included as constituents of the FTSE Bursa Malaysia KLCI index.",
+    "themes": [
+      "utility",
+      "data-center",
+      "ai-infra"
+    ],
+    "addedAt": "2026-02-15"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "malay-mail-money",
+    "name": "Malay Mail — Money",
+    "url": "https://www.malaymail.com/feed/rss/money",
+    "kind": "news"
+  },
+  {
+    "id": "malay-mail-malaysia",
+    "name": "Malay Mail — Malaysia",
+    "url": "https://www.malaymail.com/feed/rss/malaysia",
+    "kind": "news"
+  },
+  {
+    "id": "bloomberg-markets",
+    "name": "Bloomberg — Markets",
+    "url": "https://www.bloomberg.com/feeds/markets/news.rss",
+    "kind": "news"
+  },
+  {
+    "id": "free-malaysia-today",
+    "name": "Free Malaysia Today",
+    "url": "https://www.freemalaysiatoday.com/feed",
+    "kind": "news"
+  },
+  {
+    "id": "channel-news-asia",
+    "name": "Channel News Asia",
+    "url": "https://www.channelnewsasia.com/rssfeeds/8395744",
+    "kind": "news"
+  },
+  {
+    "id": "ft-markets",
+    "name": "Financial Times — Markets",
+    "url": "https://www.ft.com/markets?format=rss",
+    "kind": "news"
+  },
+  {
+    "id": "reuters-business",
+    "name": "Reuters Business News",
+    "url": "https://feeds.reuters.com/reuters/businessNews",
+    "kind": "news"
+  }
+]
