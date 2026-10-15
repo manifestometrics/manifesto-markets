@@ -1,0 +1,52 @@
+[
+  {
+    "code": "us",
+    "name": "United States",
+    "region": "Americas",
+    "flag": "🇺🇸",
+    "primaryIndex": "S&P 500",
+    "currency": "USD",
+    "exchanges": ["NYSE", "NASDAQ", "CBOE"],
+    "defaultSource": "yahoo"
+  },
+  {
+    "code": "jp",
+    "name": "Japan",
+    "region": "Asia-Pacific",
+    "flag": "🇯🇵",
+    "primaryIndex": "Nikkei 225",
+    "currency": "JPY",
+    "exchanges": ["TSE", "OSE"],
+    "defaultSource": "yahoo"
+  },
+  {
+    "code": "kr",
+    "name": "South Korea",
+    "region": "Asia-Pacific",
+    "flag": "🇰🇷",
+    "primaryIndex": "KOSPI",
+    "currency": "KRW",
+    "exchanges": ["KRX"],
+    "defaultSource": "yahoo"
+  },
+  {
+    "code": "de",
+    "name": "Germany",
+    "region": "Europe",
+    "flag": "🇩🇪",
+    "primaryIndex": "DAX",
+    "currency": "EUR",
+    "exchanges": ["XETRA", "FRA"],
+    "defaultSource": "yahoo"
+  },
+  {
+    "code": "my",
+    "name": "Malaysia",
+    "region": "Asia-Pacific",
+    "flag": "🇲🇾",
+    "primaryIndex": "KLCI",
+    "currency": "MYR",
+    "exchanges": ["BURSA"],
+    "defaultSource": "manual"
+  }
+]

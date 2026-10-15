@@ -1,0 +1,102 @@
+[
+  {
+    "id": "n-001",
+    "title": "Fed signals patience as inflation prints drift back toward target",
+    "url": "https://finance.yahoo.com/news/fed-patience-inflation-2026",
+    "source": "Reuters",
+    "publishedAt": "2026-10-15T08:12:00Z",
+    "tickers": ["SPY", "TLT"],
+    "sector": "Macro",
+    "excerpt": "Officials suggest no near-term rate cuts as core CPI continues to soften."
+  },
+  {
+    "id": "n-002",
+    "title": "NVIDIA unveils next-gen Rubin platform, hyperscalers line up",
+    "url": "https://finance.yahoo.com/news/nvidia-rubin-hyperscalers",
+    "source": "Bloomberg",
+    "publishedAt": "2026-10-15T06:45:00Z",
+    "tickers": ["NVDA", "MSFT", "GOOGL", "META"],
+    "sector": "Semiconductors",
+    "excerpt": "Multi-year orders reported across cloud platforms as the AI capex cycle continues."
+  },
+  {
+    "id": "n-003",
+    "title": "CrowdStrike raises full-year guidance on platform consolidation wins",
+    "url": "https://www.cnbc.com/crowdstrike-q3-2026",
+    "source": "CNBC",
+    "publishedAt": "2026-10-14T21:03:00Z",
+    "tickers": ["CRWD"],
+    "sector": "Cybersecurity",
+    "excerpt": "ARR outpaces Street as Falcon Flex bundling converts single-product accounts."
+  },
+  {
+    "id": "n-004",
+    "title": "Berkshire trims Apple position, adds to energy holdings",
+    "url": "https://www.marketwatch.com/berkshire-13f-q3",
+    "source": "MarketWatch",
+    "publishedAt": "2026-10-14T18:30:00Z",
+    "tickers": ["BRK.B", "AAPL", "OXY", "XOM"],
+    "sector": "Diversified",
+    "excerpt": "13F reveals incremental reduction in AAPL, scaled OXY stake."
+  },
+  {
+    "id": "n-005",
+    "title": "Occidental's Permian output hits record; dividend hike telegraphed",
+    "url": "https://finance.yahoo.com/news/oxy-permian-record-output",
+    "source": "Reuters",
+    "publishedAt": "2026-10-14T15:20:00Z",
+    "tickers": ["OXY"],
+    "sector": "Energy",
+    "excerpt": "Permian productivity gains offset Henry Hub weakness."
+  },
+  {
+    "id": "n-006",
+    "title": "Palantir books $1B+ defense expansion, expands commercial pipeline",
+    "url": "https://finance.yahoo.com/news/pltr-defense-expansion",
+    "source": "Yahoo Finance",
+    "publishedAt": "2026-10-14T12:00:00Z",
+    "tickers": ["PLTR"],
+    "sector": "Software / Defense",
+    "excerpt": "US DoD expansion plus accelerating commercial AIP deals."
+  },
+  {
+    "id": "n-007",
+    "title": "Costco comps hold +5% as traffic normalizes post-membership reset",
+    "url": "https://www.cnbc.com/costco-comps-oct",
+    "source": "CNBC",
+    "publishedAt": "2026-10-13T22:15:00Z",
+    "tickers": ["COST"],
+    "sector": "Retail",
+    "excerpt": "Traffic and ticket both positive; gold and fresh categories lead."
+  },
+  {
+    "id": "n-008",
+    "title": "Snowflake adds consumption commitment from top-3 retailer",
+    "url": "https://finance.yahoo.com/news/snowflake-top3-retailer-commit",
+    "source": "Bloomberg",
+    "publishedAt": "2026-10-13T17:45:00Z",
+    "tickers": ["SNOW"],
+    "sector": "Data Platform",
+    "excerpt": "5-year commitment at $80M+ ARR."
+  },
+  {
+    "id": "n-009",
+    "title": "Meta's Reality Labs cutbacks telegraphed, AR pipeline narrowed",
+    "url": "https://www.marketwatch.com/meta-rl-2026",
+    "source": "MarketWatch",
+    "publishedAt": "2026-10-13T11:00:00Z",
+    "tickers": ["META"],
+    "sector": "Internet",
+    "excerpt": "RL restructuring to focus on AI-native devices; AR glasses delayed."
+  },
+  {
+    "id": "n-010",
+    "title": "JPMorgan tops estimates; NII guidance raised on resilient card spend",
+    "url": "https://finance.yahoo.com/news/jpm-q3-2026",
+    "source": "Reuters",
+    "publishedAt": "2026-10-13T08:30:00Z",
+    "tickers": ["JPM"],
+    "sector": "Financials",
+    "excerpt": "NII guidance lifted to $95B+ for FY26 on card and trading strength."
+  }
+]

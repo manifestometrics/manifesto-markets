@@ -1,0 +1,43 @@
+name: Refresh market data
+
+# Runs daily to refresh ticker prices + news for each market.
+# After commits land, Vercel auto-rebuilds the affected pages.
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 13:00 UTC ≈ 21:00 MYT, after US market close
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install
+        run: npm ci
+
+      - name: Refresh prices + news
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/refresh.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "manifesto-markets-bot"
+          git config user.email "bot@manifestomarkets.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore(data): refresh market data"
+            git push
+          fi

@@ -1,101 +1,62 @@
-import Image from "next/image";
+import Link from "next/link";
+import { getMarkets } from "@/lib/markets";
+import { SiteHeader } from "@/components/SiteHeader";
+import { SiteFooter } from "@/components/SiteFooter";
 
-export default function Home() {
+export default async function HomePage() {
+  const markets = await getMarkets();
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <>
+      <SiteHeader />
+      <main className="mx-auto max-w-6xl px-6 py-10">
+        <section className="mb-12">
+          <p className="text-xs uppercase tracking-widest text-ink-faint">
+            The directory
+          </p>
+          <h1 className="font-display text-4xl md:text-5xl font-semibold leading-tight tracking-tightest text-ink text-balance mt-2">
+            Curated stock ideas, multi-market.
+          </h1>
+          <p className="mt-4 max-w-2xl text-base text-ink-soft text-pretty">
+            Independent writers, fund letters, and the social web — organized
+            by market. Not a portfolio tracker. A news outlet for the people
+            who actually move money.
+          </p>
+        </section>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
+        <section>
+          <h2 className="font-display text-xl font-medium text-ink mb-4">
+            Markets
+          </h2>
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {markets.map((m) => (
+              <Link
+                key={m.code}
+                href={`/markets/${m.code}`}
+                className="group block rounded-md border border-line bg-surface p-5 transition-colors hover:border-ink/30"
+              >
+                <div className="flex items-baseline justify-between">
+                  <span className="font-display text-2xl font-medium text-ink">
+                    {m.flag} {m.name}
+                  </span>
+                  <span className="ticker text-xs text-ink-faint">
+                    {m.code.toUpperCase()}
+                  </span>
+                </div>
+                <div className="mt-2 flex items-center gap-2 text-xs text-ink-soft">
+                  <span>{m.primaryIndex}</span>
+                  <span className="text-ink-faint">·</span>
+                  <span className="ticker">{m.currency}</span>
+                </div>
+                <p className="mt-3 text-xs text-ink-faint">
+                  {m.exchanges.join(" · ")}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
       </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      <SiteFooter />
+    </>
   );
 }

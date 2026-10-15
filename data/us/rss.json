@@ -1,0 +1,44 @@
+[
+  {
+    "id": "reuters-business",
+    "name": "Reuters Business",
+    "url": "https://feeds.reuters.com/reuters/businessNews",
+    "kind": "news"
+  },
+  {
+    "id": "yahoo-finance-top",
+    "name": "Yahoo Finance — Top Stories",
+    "url": "https://finance.yahoo.com/news/rssindex",
+    "kind": "news"
+  },
+  {
+    "id": "cnbc-top",
+    "name": "CNBC Top News",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "kind": "news"
+  },
+  {
+    "id": "marketwatch-top",
+    "name": "MarketWatch — Top Stories",
+    "url": "https://www.marketwatch.com/rss/topstories",
+    "kind": "news"
+  },
+  {
+    "id": "seeking-alpha-stock-ideas",
+    "name": "Seeking Alpha — Stock Ideas",
+    "url": "https://seekingalpha.com/feed.xml",
+    "kind": "ideas"
+  },
+  {
+    "id": "wsj-markets",
+    "name": "WSJ — Markets",
+    "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "kind": "news"
+  },
+  {
+    "id": "bloomberg-markets",
+    "name": "Bloomberg — Markets",
+    "url": "https://feeds.bloomberg.com/markets/news.rss",
+    "kind": "news"
+  }
+]

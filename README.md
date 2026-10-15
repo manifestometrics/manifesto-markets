@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Manifesto Markets
 
-## Getting Started
+A curated multi-market directory of stock ideas, writers, and news.
 
-First, run the development server:
+Editorial news outlet for the people who move money. Not a portfolio tracker.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Inspiration
+
+Closest peers in spirit:
+
+- [Bullpen.news](https://bullpen.news/) — curated directory of stock ideas (newsletters, X, fund letters)
+- [Yellowbrick](https://www.joinyellowbrick.com/discover) — 35k+ pitches, performance attribution
+- [RhinoInvestory](https://rhinoinvestory.com) — country filter, 40+ countries
+- [HFBestIdeas](https://hfbestideas.com) — hedge fund letters, 53 countries
+- [Finobird](https://finobird.com) — multi-asset news aggregator
+
+## Architecture
+
+Per-market landing pages, driven by JSON config in `data/`. Adding a new market = two steps:
+
+1. Append to `data/markets.json`
+2. Drop JSON files in `data/<code>/` (tickers.json, sources.json, rss.json)
+
+The daily GitHub Actions cron (`refresh-data.yml`) re-reads the RSS feeds in `rss.json`, auto-tags tickers, and commits a refreshed `news.json` to `main`. Vercel rebuilds on push.
+
+```
+app/
+  page.tsx                          # market selector (root)
+  markets/[code]/
+    layout.tsx                      # per-market shell
+    page.tsx                        # home: index snapshot + top picks + news
+    directory/page.tsx              # sources directory
+    news/page.tsx                   # news + events
+components/
+  SiteHeader.tsx, SiteFooter.tsx
+  MarketNav.tsx                     # sub-nav (Overview / Directory / News)
+  TickerCard.tsx, SourceCard.tsx, NewsItem.tsx
+  Sparkline.tsx                     # lightweight-charts client component
+data/
+  markets.json                      # registry of all markets
+  us/
+    tickers.json                    # curated US tickers (start with 15)
+    sources.json                    # curated X / Substack / fund letters (~30)
+    rss.json                        # RSS feeds aggregated by cron
+    news.json                       # daily-refreshed news with auto-tickers
+scripts/
+  refresh.mjs                       # daily cron: RSS → tagged news.json
+.github/workflows/
+  refresh-data.yml                  # 13:00 UTC daily
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js 14 (App Router) + TypeScript
+- Tailwind CSS for styling
+- TradingView Lightweight Charts for sparklines
+- Static deploy, no backend — data refresh happens in CI, then commits land
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Per-market template
 
-## Learn More
+To add a new market (e.g. JP, KR, DE, MY):
 
-To learn more about Next.js, take a look at the following resources:
+1. Add to `data/markets.json`
+2. Create `data/<code>/tickers.json` (curated top picks)
+3. Create `data/<code>/sources.json` (curated writers — 30–50 entries)
+4. Create `data/<code>/rss.json` (RSS feeds that cover this market)
+5. Optional: seed `data/<code>/news.json` with placeholders
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The site auto-builds the page at `/markets/<code>`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Local development
 
-## Deploy on Vercel
+```bash
+npm install
+npm run dev        # http://localhost:3000
+npm run build      # production build
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deploy
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Vercel — connected via the dashboard. Push to `main` and the affected routes rebuild. Domain: TBD.
+
+## Curation policy
+
+- Sources are hand-picked, not scraped.
+- We do not auto-claim performance attribution in MVP.
+- Each source lists its kind, focus tags, and a short bio.
+
+## Roadmap
+
+- [ ] Live prices (replace `MOCK_PRICES` in `app/markets/[code]/page.tsx`)
+- [ ] Filter chips on the directory (sector, source kind, region)
+- [ ] Daily email recap (Resend or similar)
+- [ ] X handle ingestion (recent posts per source)
+- [ ] Additional markets: JP, KR, DE, MY
+- [ ] OG image generation per market

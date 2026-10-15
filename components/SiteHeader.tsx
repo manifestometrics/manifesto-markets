@@ -1,0 +1,23 @@
+import Link from "next/link";
+
+export function SiteHeader() {
+  return (
+    <header className="border-b border-line">
+      <div className="mx-auto flex max-w-6xl items-baseline justify-between gap-4 px-6 py-4">
+        <Link href="/" className="flex items-baseline gap-2 group">
+          <span className="font-display text-xl font-semibold tracking-tight text-ink">
+            Manifesto<span className="text-ink-soft"> Markets</span>
+          </span>
+          <span className="hidden md:inline text-xs text-ink-faint">
+            — curated stock ideas, multi-market
+          </span>
+        </Link>
+        <div className="text-xs text-ink-faint">
+          <Link href="/about" className="source-link">
+            About
+          </Link>
+        </div>
+      </div>
+    </header>
+  );
+}

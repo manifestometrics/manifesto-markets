@@ -3,25 +3,68 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #F8F6F1;
+  --surface: #FFFFFF;
+  --ink: #0E0E0C;
+  --ink-soft: #4B4B47;
+  --line: #E7E2D6;
+  --up: #0F7A37;
+  --down: #B91C1C;
+  --accent: #1B2A4E;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+/* Editorial display headlines */
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+  letter-spacing: -0.02em;
+}
+
+/* Numerals: align in price tables */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Tickers and prices */
+.ticker {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-feature-settings: "ss01", "cv11";
+}
+
+/* Hairline rule used in editorial layouts */
+.rule {
+  border-top: 1px solid var(--line);
+}
+
+/* Subtle dotted underline for source links */
+.source-link {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--line);
+}
+.source-link:hover {
+  text-decoration-color: var(--ink);
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+  .text-pretty {
+    text-wrap: pretty;
   }
 }
