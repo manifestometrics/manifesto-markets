@@ -40,5 +40,53 @@
     "name": "Bloomberg — Markets",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
     "kind": "news"
+  },
+  {
+    "id": "npr-business",
+    "name": "NPR — Business",
+    "url": "https://feeds.npr.org/1006/rss",
+    "kind": "news"
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "url": "https://fortune.com/feed",
+    "kind": "news"
+  },
+  {
+    "id": "forbes-business",
+    "name": "Forbes — Business",
+    "url": "https://www.forbes.com/business/feed/",
+    "kind": "news"
+  },
+  {
+    "id": "investors-business-daily",
+    "name": "Investor's Business Daily",
+    "url": "https://www.investors.com/feed/",
+    "kind": "news"
+  },
+  {
+    "id": "benzinga",
+    "name": "Benzinga",
+    "url": "https://www.benzinga.com/feed",
+    "kind": "news"
+  },
+  {
+    "id": "zacks-research",
+    "name": "Zacks Investment Research",
+    "url": "https://www.zacks.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "morningstar",
+    "name": "Morningstar — Markets",
+    "url": "https://www.morningstar.com/rss/markets.xml",
+    "kind": "news"
+  },
+  {
+    "id": "barrons-markets",
+    "name": "Barron's — Markets",
+    "url": "https://www.barrons.com/feed",
+    "kind": "news"
   }
 ]
