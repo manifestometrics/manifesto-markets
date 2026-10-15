@@ -1,7 +1,8 @@
 name: Refresh market data
 
-# Runs daily to refresh ticker prices + news for each market.
-# After commits land, Vercel auto-rebuilds the affected pages.
+# Runs daily to refresh macro indices (data/global/indices.json),
+# then per-market ticker prices + news. After commits land,
+# Vercel auto-rebuilds the affected pages.
 
 on:
   schedule:
@@ -25,7 +26,7 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: Refresh prices + news
+      - name: Refresh indices, prices + news
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/refresh.mjs

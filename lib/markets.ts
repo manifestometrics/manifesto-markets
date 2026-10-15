@@ -7,6 +7,7 @@ import type {
   Ticker,
   NewsItem,
   PriceBook,
+  IndexBook,
 } from "./types";
 
 // The market registry is the single source of truth for which markets exist
@@ -73,6 +74,23 @@ export async function getPrices(code: MarketCode): Promise<PriceBook> {
       "utf8"
     );
     return JSON.parse(raw) as PriceBook;
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * Read the macro index book used by the 4-tile strip on every market page.
+ * Returns an empty object if data/global/indices.json hasn't been generated yet —
+ * callers should fall back to "—" placeholders in that case.
+ */
+export async function getIndices(): Promise<IndexBook> {
+  try {
+    const raw = await fs.readFile(
+      path.join(DATA_ROOT, "global", "indices.json"),
+      "utf8"
+    );
+    return JSON.parse(raw) as IndexBook;
   } catch {
     return {};
   }

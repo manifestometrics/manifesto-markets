@@ -1,0 +1,35 @@
+{
+  "asOf": "2026-10-15T15:39:14.558Z",
+  "^GSPC": {
+    "label": "S&P 500",
+    "format": "decimal",
+    "price": 7725.69,
+    "change": 139.96,
+    "changePct": 1.85,
+    "asOf": "2026-10-15T15:39:12.000Z"
+  },
+  "^IXIC": {
+    "label": "NASDAQ",
+    "format": "decimal",
+    "price": 26595.682,
+    "change": 614.11,
+    "changePct": 2.36,
+    "asOf": "2026-10-15T15:39:07.000Z"
+  },
+  "^TNX": {
+    "label": "10Y",
+    "format": "percent",
+    "price": 5.093,
+    "change": 0.1,
+    "changePct": 1.94,
+    "asOf": "2026-10-15T15:24:05.000Z"
+  },
+  "DX-Y.NYB": {
+    "label": "USD Index",
+    "format": "decimal",
+    "price": 102.121,
+    "change": 2.47,
+    "changePct": 2.48,
+    "asOf": "2026-10-15T15:29:12.000Z"
+  }
+}

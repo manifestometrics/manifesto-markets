@@ -3,7 +3,7 @@
 // data/<market>/rss.json, auto-tags tickers, and writes data/<market>/news.json.
 // Prices are pulled via the unofficial Yahoo Finance endpoint (no API key).
 
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -134,6 +134,65 @@ function tagTickers(text, tickers) {
   return Array.from(found);
 }
 
+/**
+ * Macro indices shown on the top of every /markets/<code> page.
+ * Sourced from Yahoo Finance's unofficial chart endpoint.
+ * Yahoo often rate-limits the free endpoint — we wait 200ms between calls
+ * and silently fall back to the existing data/global/indices.json if a fetch fails.
+ */
+const INDICES = [
+  { symbol: "^GSPC", label: "S&P 500", format: "decimal" },
+  { symbol: "^IXIC", label: "NASDAQ", format: "decimal" },
+  { symbol: "^TNX", label: "10Y", format: "percent" },
+  { symbol: "DX-Y.NYB", label: "USD Index", format: "decimal" },
+];
+
+async function refreshIndices() {
+  const out = {};
+  let ok = 0;
+  for (const idx of INDICES) {
+    const q = await fetchYahooChart(idx.symbol);
+    if (q) {
+      out[idx.symbol] = {
+        label: idx.label,
+        format: idx.format,
+        price: q.price,
+        change: q.change,
+        changePct: q.changePct,
+        asOf: q.asOf,
+      };
+      ok++;
+    } else {
+      console.log(`[indices] ${idx.symbol} skipped (no quote)`);
+    }
+    await new Promise((r) => setTimeout(r, 200));
+  }
+
+  const indicesDir = path.join(DATA_ROOT, "global");
+  await mkdir(indicesDir, { recursive: true });
+
+  const indicesPath = path.join(indicesDir, "indices.json");
+  // Carry forward any symbols we couldn't refresh this run so the page never
+  // flashes to "—" when Yahoo rate-limits one index in isolation.
+  let existing = {};
+  try {
+    existing = JSON.parse(await readFile(indicesPath, "utf8"));
+  } catch {}
+  for (const [sym, prev] of Object.entries(existing)) {
+    if (out[sym]) continue;
+    if (prev && typeof prev === "object" && "price" in prev) {
+      out[sym] = prev;
+    }
+  }
+
+  const payload = {
+    asOf: new Date().toISOString(),
+    ...out,
+  };
+  await writeFile(indicesPath, JSON.stringify(payload, null, 2) + "\n");
+  console.log(`[indices] refreshed ${ok}/${INDICES.length}`);
+}
+
 async function refreshMarket(code) {
   const marketDir = path.join(DATA_ROOT, code);
   const tickersPath = path.join(marketDir, "tickers.json");
@@ -202,6 +261,7 @@ async function refreshMarket(code) {
 }
 
 const markets = await loadJson(MARKETS_FILE);
+await refreshIndices();
 for (const m of markets) {
   await refreshMarket(m.code);
 }
