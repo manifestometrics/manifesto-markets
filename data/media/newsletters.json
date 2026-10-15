@@ -128,16 +128,16 @@
     "bio": "John Mauldin's curated weekly macro letter, edited by his team. Each issue synthesizes a dozen outside sources — bond desks, central-bank notes, geopolitical dispatches — into one brief. Required reading for cross-asset allocators."
   },
   {
-    "id": "bloomberg-unhedged",
-    "name": "Unhedged (Bloomberg)",
+    "id": "barrons-daily",
+    "name": "Barron's Daily (Stock Alert)",
     "kind": "newsletter",
-    "url": "https://www.bloomberg.com/opinion/articles/unhedged",
+    "url": "https://www.barrons.com",
     "handle": null,
     "focus": [
       "markets",
-      "commentary",
-      "weekly",
-      "global"
+      "stocks",
+      "daily",
+      "morning"
     ],
     "audience": 0,
     "addedAt": "2026-10-16",
@@ -500,7 +500,7 @@
     "id": "crypto-pragmatist",
     "name": "Crypto Pragmatist",
     "kind": "newsletter",
-    "url": "https://cryptopragmatist.io",
+    "url": "https://cryptopragmatist.com",
     "handle": null,
     "focus": [
       "crypto",
@@ -516,17 +516,17 @@
     "id": "bitcoin-layer",
     "name": "The Bitcoin Layer",
     "kind": "newsletter",
-    "url": "https://bitcoinlayer.substack.com",
+    "url": "https://thebitcoinlayer.substack.com",
     "handle": null,
     "focus": [
       "bitcoin",
-      "technical",
-      "protocol",
+      "macro",
+      "monetary",
       "weekly"
     ],
     "audience": 0,
     "addedAt": "2026-10-16",
-    "bio": "Weekly newsletter on Bitcoin protocol engineering — BIPs, soft-fork proposals, library updates, and Lightning developments. Built for Bitcoin-OG engineers; companion to in-person meetups at Amsterdam and London conferences, and to the Bitcoin Core open issues list."
+    "bio": "Weekly newsletter by Nik Bhatia (USC Marshall professor, author of 'Layered Money' and 'Bitcoin Age'). Reads Bitcoin through the lens of a monetary system, layering the macro liquidity backdrop onto on-chain structure. Free with paid tier that unlocks the TBL Liquidity Framework and live calls."
   },
   {
     "id": "glassnode-insights",
