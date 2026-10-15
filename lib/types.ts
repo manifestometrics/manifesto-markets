@@ -33,7 +33,10 @@ export type SourceKind =
   | "fund-letter"
   | "blog"
   | "podcast"
-  | "news";
+  | "news"
+  | "publication"
+  | "youtube"
+  | "instagram";
 
 export interface Source {
   id: string;

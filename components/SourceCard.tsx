@@ -12,6 +12,9 @@ const KIND_LABEL: Record<Source["kind"], string> = {
   blog: "Blog",
   podcast: "Podcast",
   news: "Newsroom",
+  publication: "Publication",
+  youtube: "YouTube",
+  instagram: "Instagram",
 };
 
 function formatAudience(n: number): string {

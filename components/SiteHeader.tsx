@@ -12,11 +12,14 @@ export function SiteHeader() {
             — curated stock ideas, multi-market
           </span>
         </Link>
-        <div className="text-xs text-ink-faint">
+        <nav className="flex items-center gap-4 text-xs text-ink-faint">
+          <Link href="/media" className="source-link">
+            Media
+          </Link>
           <Link href="/about" className="source-link">
             About
           </Link>
-        </div>
+        </nav>
       </div>
     </header>
   );

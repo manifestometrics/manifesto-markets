@@ -27,6 +27,9 @@ const KIND_LABEL: Record<SourceKind, string> = {
   blog: "Blog",
   podcast: "Podcast",
   news: "Newsroom",
+  publication: "Publication",
+  youtube: "YouTube",
+  instagram: "Instagram",
 };
 
 const KIND_GROUP_LABEL: Record<SourceKind, string> = {
@@ -37,6 +40,9 @@ const KIND_GROUP_LABEL: Record<SourceKind, string> = {
   blog: "Blogs",
   podcast: "Podcasts",
   news: "Newsrooms",
+  publication: "Publications",
+  youtube: "YouTube channels",
+  instagram: "Instagram accounts",
 };
 
 const TOP_TAG_LIMIT = 12;
@@ -60,6 +66,9 @@ export function DirectoryClient({ sources }: DirectoryClientProps) {
       blog: 0,
       podcast: 0,
       news: 0,
+      publication: 0,
+      youtube: 0,
+      instagram: 0,
     };
     for (const s of sources) counts[s.kind] += 1;
     return counts;
@@ -97,6 +106,9 @@ export function DirectoryClient({ sources }: DirectoryClientProps) {
       blog: [],
       podcast: [],
       news: [],
+      publication: [],
+      youtube: [],
+      instagram: [],
     };
     for (const s of filtered) groups[s.kind].push(s);
     return groups;
