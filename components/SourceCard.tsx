@@ -11,6 +11,7 @@ const KIND_LABEL: Record<Source["kind"], string> = {
   "fund-letter": "Fund Letter",
   blog: "Blog",
   podcast: "Podcast",
+  news: "Newsroom",
 };
 
 function formatAudience(n: number): string {

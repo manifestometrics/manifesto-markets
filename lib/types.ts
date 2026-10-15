@@ -22,6 +22,8 @@ export interface Ticker {
   addedAt?: string;
   /** Optional: writer or source that originally pitched this ticker */
   pitchedBy?: string;
+  /** Optional: enriched one-paragraph description shown on market cards. */
+  description?: string;
 }
 
 export type SourceKind =
@@ -30,7 +32,8 @@ export type SourceKind =
   | "newsletter"
   | "fund-letter"
   | "blog"
-  | "podcast";
+  | "podcast"
+  | "news";
 
 export interface Source {
   id: string;
@@ -79,3 +82,19 @@ export interface PriceQuote {
 }
 
 export type PriceBook = Record<string, PriceQuote>;
+
+export type IndexSymbolId = "^GSPC" | "^IXIC" | "^TNX" | "DX-Y.NYB";
+
+export interface IndexQuote {
+  /** Display label for the strip tile (e.g. "S&P 500", "10Y"). */
+  label: string;
+  /** "decimal" for indices shown as raw price (7,724.58);
+   *  "percent" for the 10Y yield shown as 4.32%. */
+  format: "decimal" | "percent";
+  price: number;
+  change: number;
+  changePct: number;
+  asOf: string;
+}
+
+export type IndexBook = Partial<Record<IndexSymbolId, IndexQuote>>;

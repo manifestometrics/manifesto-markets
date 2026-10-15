@@ -13,6 +13,7 @@ const KIND_ORDER: SourceKind[] = [
   "x",
   "substack",
   "newsletter",
+  "news",
   "fund-letter",
   "blog",
   "podcast",
@@ -25,6 +26,7 @@ const KIND_LABEL: Record<SourceKind, string> = {
   "fund-letter": "Fund Letter",
   blog: "Blog",
   podcast: "Podcast",
+  news: "Newsroom",
 };
 
 const KIND_GROUP_LABEL: Record<SourceKind, string> = {
@@ -34,6 +36,7 @@ const KIND_GROUP_LABEL: Record<SourceKind, string> = {
   "fund-letter": "Fund letters",
   blog: "Blogs",
   podcast: "Podcasts",
+  news: "Newsrooms",
 };
 
 const TOP_TAG_LIMIT = 12;
@@ -56,6 +59,7 @@ export function DirectoryClient({ sources }: DirectoryClientProps) {
       "fund-letter": 0,
       blog: 0,
       podcast: 0,
+      news: 0,
     };
     for (const s of sources) counts[s.kind] += 1;
     return counts;
@@ -92,6 +96,7 @@ export function DirectoryClient({ sources }: DirectoryClientProps) {
       "fund-letter": [],
       blog: [],
       podcast: [],
+      news: [],
     };
     for (const s of filtered) groups[s.kind].push(s);
     return groups;
