@@ -539,5 +539,381 @@
     ],
     "addedAt": "2026-02-15",
     "text": "YTL Power International Berhad | 6742.KL | Utilities | Electric Power | YTL Power International Berhad is a subsidiary of YTL Corporation Berhad, one of the largest companies listed on Bursa Malaysia. As of June 2024, the total combined group market capitalisation is RM 103.65 billion. Furthermore, YTL Corp and YTL Power were listed in the Fortune Southeast Asia 500 for the year 2024, ranking 47th and 78th, respectively. The ranking of the 500 Largest Companies in Southeast Asia is based on the revenue for the fiscal year 2023. As of November 2023, YTL Corp and YTL Power are included as constituents of the FTSE Bursa Malaysia KLCI index. | utility data-center ai-infra | Malaysia KLCI BURSA"
+  },
+  {
+    "id": "my-2488",
+    "symbol": "2488.KL",
+    "name": "Alliance Bank Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Alliance Bank Malaysia Berhad, often known as Alliance Bank, is a publicly traded banking and financial institution in Malaysia.",
+    "themes": [
+      "bank",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Alliance Bank Malaysia Berhad | 2488.KL | Financials | Banks | Alliance Bank Malaysia Berhad, often known as Alliance Bank, is a publicly traded banking and financial institution in Malaysia. | bank ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5258",
+    "symbol": "5258.KL",
+    "name": "Bank Islam Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Bank Islam Malaysia Berhad is an Islamic bank based in Malaysia. It was established in July 1983. Bank Islam was established primarily to address the financial needs of the country's Muslim population and extended its services to the broader population.",
+    "themes": [
+      "bank",
+      "islamic",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Bank Islam Malaysia Berhad | 5258.KL | Financials | Banks | Bank Islam Malaysia Berhad is an Islamic bank based in Malaysia. It was established in July 1983. Bank Islam was established primarily to address the financial needs of the country's Muslim population and extended its services to the broader population. | bank islamic ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-3395",
+    "symbol": "3395.KL",
+    "name": "Berjaya Corporation Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Diversified Holdings",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Berjaya Corporation Berhad is a Malaysian-based corporation which controls a wide array of businesses, including consumer marketing, property development and investment, as well as hotels, resorts and recreation development. It also specialises in gaming and lottery management, food and beverage, motor trading and distribution, investment on environmental services and clean technology, and telecommunication and information technology-related services and products.",
+    "themes": [
+      "conglomerate",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Berjaya Corporation Berhad | 3395.KL | Consumer Discretionary | Diversified Holdings | Berjaya Corporation Berhad is a Malaysian-based corporation which controls a wide array of businesses, including consumer marketing, property development and investment, as well as hotels, resorts and recreation development. It also specialises in gaming and lottery management, food and beverage, motor trading and distribution, investment on environmental services and clean technology, and telecommunication and information technology-related services and products. | conglomerate ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5210",
+    "symbol": "5210.KL",
+    "name": "Bumi Armada Berhad",
+    "exchange": "BURSA",
+    "sector": "Energy",
+    "industry": "Oil & Gas Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Bumi Armada Berhad is an oilfield services company which provides marine transportation, engineering and maintenance services to the offshore oil and gas industry. It is based in Kuala Lumpur, Malaysia, and has operations in Southeast Asia, South Asia, West Africa, Central Africa, Europe, South America and the Caspian Sea region. It is the world's fifth largest floating production storage and offloading (FPSO) provider with six vessels.",
+    "themes": [
+      "energy",
+      "oil-gas",
+      "fpso",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Bumi Armada Berhad | 5210.KL | Energy | Oil & Gas Services | Bumi Armada Berhad is an oilfield services company which provides marine transportation, engineering and maintenance services to the offshore oil and gas industry. It is based in Kuala Lumpur, Malaysia, and has operations in Southeast Asia, South Asia, West Africa, Central Africa, Europe, South America and the Caspian Sea region. It is the world's fifth largest floating production storage and offloading (FPSO) provider with six vessels. | energy oil-gas fpso ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-1818",
+    "symbol": "1818.KL",
+    "name": "Bursa Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Exchanges & Trading",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Bursa Malaysia is the stock exchange in Malaysia. It is one of the largest bourses in ASEAN. It is based in Kuala Lumpur and was previously known as the Kuala Lumpur Stock Exchange (KLSE). It provides full integration of transactions, offering a wide range of currency exchange and related services, including trading, settlement, clearing and savings services.",
+    "themes": [
+      "exchange",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Bursa Malaysia Berhad | 1818.KL | Financials | Exchanges & Trading | Bursa Malaysia is the stock exchange in Malaysia. It is one of the largest bourses in ASEAN. It is based in Kuala Lumpur and was previously known as the Kuala Lumpur Stock Exchange (KLSE). It provides full integration of transactions, offering a wide range of currency exchange and related services, including trading, settlement, clearing and savings services. | exchange ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-3689",
+    "symbol": "3689.KL",
+    "name": "Fraser & Neave Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Beverages",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Fraser and Neave, Limited (F&N) is a Singaporean food and beverage, publishing and printing industries conglomerate.",
+    "themes": [
+      "consumer-staples",
+      "beverages",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Fraser & Neave Holdings Berhad | 3689.KL | Consumer Staples | Beverages | Fraser and Neave, Limited (F&N) is a Singaporean food and beverage, publishing and printing industries conglomerate. | consumer-staples beverages ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-4715",
+    "symbol": "4715.KL",
+    "name": "Genting Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels & Resorts",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Genting Malaysia Berhad, commonly known as Genting Malaysia, started in 1980 in Malaysia. In 1989, Genting Group and Resorts World Bhd underwent a restructuring exercise, which resulted in Resorts World Bhd acquiring from Genting Group of its entire gaming, hotel and resort-related operations inclusive of goodwill and other relevant assets. Resorts World Bhd is the subsidiary company of Genting Bhd under the leisure and hospitality division. Basically it manages everything at Genting Highlands except First World Hotel and First World Plaza, which are under First World Hotel & Resort Sdn Bhd.",
+    "themes": [
+      "gaming",
+      "hospitality",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Genting Malaysia Berhad | 4715.KL | Consumer Discretionary | Hotels & Resorts | Genting Malaysia Berhad, commonly known as Genting Malaysia, started in 1980 in Malaysia. In 1989, Genting Group and Resorts World Bhd underwent a restructuring exercise, which resulted in Resorts World Bhd acquiring from Genting Group of its entire gaming, hotel and resort-related operations inclusive of goodwill and other relevant assets. Resorts World Bhd is the subsidiary company of Genting Bhd under the leisure and hospitality division. Basically it manages everything at Genting Highlands except First World Hotel and First World Plaza, which are under First World Hotel & Resort Sdn Bhd. | gaming hospitality ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-3255",
+    "symbol": "3255.KL",
+    "name": "Heineken Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Brewery",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Heineken Malaysia Berhad is a major producer of beer, stout, cider and non-alcoholic malt beverages in Malaysia and has been listed on the Main Board of Bursa Malaysia since 1965. Among the brands they produce and market are Heineken, Tiger Beer, Tiger Crystal, Guinness, Strongbow Apple Ciders, Apple Fox Cider, Anchor Smooth, Kilkenny, Anglia, and Malta. The company also imports and distributes Heineken 0.0, Paulaner and Kirin Ichiban.",
+    "themes": [
+      "beverages",
+      "beer",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Heineken Malaysia Berhad | 3255.KL | Consumer Staples | Brewery | Heineken Malaysia Berhad is a major producer of beer, stout, cider and non-alcoholic malt beverages in Malaysia and has been listed on the Main Board of Bursa Malaysia since 1965. Among the brands they produce and market are Heineken, Tiger Beer, Tiger Crystal, Guinness, Strongbow Apple Ciders, Apple Fox Cider, Anchor Smooth, Kilkenny, Anglia, and Malta. The company also imports and distributes Heineken 0.0, Paulaner and Kirin Ichiban. | beverages beer ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-6599",
+    "symbol": "6599.KL",
+    "name": "AEON Co. (M) Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Retail",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "AEON Co. (M) Berhad operates a chain of AEON-branded supermarkets and department stores across Malaysia as a subsidiary of Japanese retail group AEON Co., Ltd.",
+    "themes": [
+      "retail",
+      "department-store",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "AEON Co. (M) Berhad | 6599.KL | Consumer Staples | Retail | AEON Co. (M) Berhad operates a chain of AEON-branded supermarkets and department stores across Malaysia as a subsidiary of Japanese retail group AEON Co., Ltd. | retail department-store ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5106",
+    "symbol": "5106.KL",
+    "name": "Axis Real Estate Investment Trust",
+    "exchange": "BURSA",
+    "sector": "Real Estate",
+    "industry": "REIT",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "reit",
+      "real-estate",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Axis Real Estate Investment Trust | 5106.KL | Real Estate | REIT | reit real-estate ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5248",
+    "symbol": "5248.KL",
+    "name": "Bermaz Auto Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "auto",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Bermaz Auto Berhad | 5248.KL | Consumer Discretionary | Automotive | auto ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5301",
+    "symbol": "5301.KL",
+    "name": "CTOS Digital Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Data & Analytics",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "fintech",
+      "data",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "CTOS Digital Berhad | 5301.KL | Financials | Data & Analytics | fintech data ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-7204",
+    "symbol": "7204.KL",
+    "name": "D&O Green Technologies Berhad",
+    "exchange": "BURSA",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "technology",
+      "led",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "D&O Green Technologies Berhad | 7204.KL | Technology | Semiconductors | technology led ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5216",
+    "symbol": "5216.KL",
+    "name": "Datasonic Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Technology",
+    "industry": "IT Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "technology",
+      "it-services",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Datasonic Group Berhad | 5216.KL | Technology | IT Services | technology it-services ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-7277",
+    "symbol": "7277.KL",
+    "name": "Dialog Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Energy",
+    "industry": "Oil & Gas Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "energy",
+      "oil-gas",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Dialog Group Berhad | 7277.KL | Energy | Oil & Gas Services | energy oil-gas ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-7148",
+    "symbol": "7148.KL",
+    "name": "Duopharma Biotech Berhad",
+    "exchange": "BURSA",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "pharma",
+      "healthcare",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Duopharma Biotech Berhad | 7148.KL | Health Care | Pharmaceuticals | pharma healthcare ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-8206",
+    "symbol": "8206.KL",
+    "name": "Eco World Development Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Real Estate",
+    "industry": "Property Development",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "real-estate",
+      "property",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Eco World Development Group Berhad | 8206.KL | Real Estate | Property Development | real-estate property ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-0128",
+    "symbol": "0128.KL",
+    "name": "Frontken Corporation Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Engineering Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "semiconductors",
+      "engineering",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Frontken Corporation Berhad | 0128.KL | Industrials | Engineering Services | semiconductors engineering ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-5168",
+    "symbol": "5168.KL",
+    "name": "Hartalega Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Health Care",
+    "industry": "Medical Supplies",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "gloves",
+      "healthcare",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Hartalega Holdings Berhad | 5168.KL | Health Care | Medical Supplies | gloves healthcare ftse4good esg | Malaysia FTSE4Good BURSA"
+  },
+  {
+    "id": "my-1082",
+    "symbol": "1082.KL",
+    "name": "Hong Leong Financial Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Diversified Financials",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "finance",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15",
+    "text": "Hong Leong Financial Group Berhad | 1082.KL | Financials | Diversified Financials | finance ftse4good esg | Malaysia FTSE4Good BURSA"
   }
 ]

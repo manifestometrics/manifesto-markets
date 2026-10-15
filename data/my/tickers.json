@@ -479,5 +479,341 @@
       "ai-infra"
     ],
     "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "2488.KL",
+    "name": "Alliance Bank Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Alliance Bank Malaysia Berhad, often known as Alliance Bank, is a publicly traded banking and financial institution in Malaysia.",
+    "themes": [
+      "bank",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5258.KL",
+    "name": "Bank Islam Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Banks",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Bank Islam Malaysia Berhad is an Islamic bank based in Malaysia. It was established in July 1983. Bank Islam was established primarily to address the financial needs of the country's Muslim population and extended its services to the broader population.",
+    "themes": [
+      "bank",
+      "islamic",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "3395.KL",
+    "name": "Berjaya Corporation Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Diversified Holdings",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Berjaya Corporation Berhad is a Malaysian-based corporation which controls a wide array of businesses, including consumer marketing, property development and investment, as well as hotels, resorts and recreation development. It also specialises in gaming and lottery management, food and beverage, motor trading and distribution, investment on environmental services and clean technology, and telecommunication and information technology-related services and products.",
+    "themes": [
+      "conglomerate",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5210.KL",
+    "name": "Bumi Armada Berhad",
+    "exchange": "BURSA",
+    "sector": "Energy",
+    "industry": "Oil & Gas Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Bumi Armada Berhad is an oilfield services company which provides marine transportation, engineering and maintenance services to the offshore oil and gas industry. It is based in Kuala Lumpur, Malaysia, and has operations in Southeast Asia, South Asia, West Africa, Central Africa, Europe, South America and the Caspian Sea region. It is the world's fifth largest floating production storage and offloading (FPSO) provider with six vessels.",
+    "themes": [
+      "energy",
+      "oil-gas",
+      "fpso",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1818.KL",
+    "name": "Bursa Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Exchanges & Trading",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Bursa Malaysia is the stock exchange in Malaysia. It is one of the largest bourses in ASEAN. It is based in Kuala Lumpur and was previously known as the Kuala Lumpur Stock Exchange (KLSE). It provides full integration of transactions, offering a wide range of currency exchange and related services, including trading, settlement, clearing and savings services.",
+    "themes": [
+      "exchange",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "3689.KL",
+    "name": "Fraser & Neave Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Beverages",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Fraser and Neave, Limited (F&N) is a Singaporean food and beverage, publishing and printing industries conglomerate.",
+    "themes": [
+      "consumer-staples",
+      "beverages",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "4715.KL",
+    "name": "Genting Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels & Resorts",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Genting Malaysia Berhad, commonly known as Genting Malaysia, started in 1980 in Malaysia. In 1989, Genting Group and Resorts World Bhd underwent a restructuring exercise, which resulted in Resorts World Bhd acquiring from Genting Group of its entire gaming, hotel and resort-related operations inclusive of goodwill and other relevant assets. Resorts World Bhd is the subsidiary company of Genting Bhd under the leisure and hospitality division. Basically it manages everything at Genting Highlands except First World Hotel and First World Plaza, which are under First World Hotel & Resort Sdn Bhd.",
+    "themes": [
+      "gaming",
+      "hospitality",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "3255.KL",
+    "name": "Heineken Malaysia Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Brewery",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "Heineken Malaysia Berhad is a major producer of beer, stout, cider and non-alcoholic malt beverages in Malaysia and has been listed on the Main Board of Bursa Malaysia since 1965. Among the brands they produce and market are Heineken, Tiger Beer, Tiger Crystal, Guinness, Strongbow Apple Ciders, Apple Fox Cider, Anchor Smooth, Kilkenny, Anglia, and Malta. The company also imports and distributes Heineken 0.0, Paulaner and Kirin Ichiban.",
+    "themes": [
+      "beverages",
+      "beer",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "6599.KL",
+    "name": "AEON Co. (M) Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Staples",
+    "industry": "Retail",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "AEON Co. (M) Berhad operates a chain of AEON-branded supermarkets and department stores across Malaysia as a subsidiary of Japanese retail group AEON Co., Ltd.",
+    "themes": [
+      "retail",
+      "department-store",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5106.KL",
+    "name": "Axis Real Estate Investment Trust",
+    "exchange": "BURSA",
+    "sector": "Real Estate",
+    "industry": "REIT",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "reit",
+      "real-estate",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5248.KL",
+    "name": "Bermaz Auto Berhad",
+    "exchange": "BURSA",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "auto",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5301.KL",
+    "name": "CTOS Digital Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Data & Analytics",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "fintech",
+      "data",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "7204.KL",
+    "name": "D&O Green Technologies Berhad",
+    "exchange": "BURSA",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "technology",
+      "led",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5216.KL",
+    "name": "Datasonic Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Technology",
+    "industry": "IT Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "technology",
+      "it-services",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "7277.KL",
+    "name": "Dialog Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Energy",
+    "industry": "Oil & Gas Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "energy",
+      "oil-gas",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "7148.KL",
+    "name": "Duopharma Biotech Berhad",
+    "exchange": "BURSA",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "pharma",
+      "healthcare",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "8206.KL",
+    "name": "Eco World Development Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Real Estate",
+    "industry": "Property Development",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "real-estate",
+      "property",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "0128.KL",
+    "name": "Frontken Corporation Berhad",
+    "exchange": "BURSA",
+    "sector": "Industrials",
+    "industry": "Engineering Services",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "semiconductors",
+      "engineering",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "5168.KL",
+    "name": "Hartalega Holdings Berhad",
+    "exchange": "BURSA",
+    "sector": "Health Care",
+    "industry": "Medical Supplies",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "gloves",
+      "healthcare",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
+  },
+  {
+    "symbol": "1082.KL",
+    "name": "Hong Leong Financial Group Berhad",
+    "exchange": "BURSA",
+    "sector": "Financials",
+    "industry": "Diversified Financials",
+    "country": "MY",
+    "currency": "MYR",
+    "description": "",
+    "themes": [
+      "finance",
+      "ftse4good",
+      "esg"
+    ],
+    "addedAt": "2026-02-15"
   }
 ]
