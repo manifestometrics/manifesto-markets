@@ -68,3 +68,14 @@ export interface MarketEvent {
   tickers: string[];
   importance: "low" | "med" | "high";
 }
+
+export interface PriceQuote {
+  price: number;
+  change: number;
+  changePct: number;
+  currency: string;
+  asOf: string;              // ISO datetime when the quote was fetched
+  series: Array<{ time: string; value: number }>;
+}
+
+export type PriceBook = Record<string, PriceQuote>;

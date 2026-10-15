@@ -1,6 +1,13 @@
 import { promises as fs } from "fs";
 import path from "path";
-import type { Market, MarketCode, Source, Ticker, NewsItem } from "./types";
+import type {
+  Market,
+  MarketCode,
+  Source,
+  Ticker,
+  NewsItem,
+  PriceBook,
+} from "./types";
 
 // The market registry is the single source of truth for which markets exist
 // and how to resolve their per-market data files. Adding a new market = 
@@ -55,6 +62,19 @@ export async function getNews(code: MarketCode): Promise<NewsItem[]> {
     return JSON.parse(raw) as NewsItem[];
   } catch {
     return [];
+  }
+}
+
+/** Read the latest price book (Yahoo Finance) written by the daily cron. */
+export async function getPrices(code: MarketCode): Promise<PriceBook> {
+  try {
+    const raw = await fs.readFile(
+      path.join(DATA_ROOT, code, "prices.json"),
+      "utf8"
+    );
+    return JSON.parse(raw) as PriceBook;
+  } catch {
+    return {};
   }
 }
 

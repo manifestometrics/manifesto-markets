@@ -1,13 +1,18 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getMarket, getTickers, getNews, isMarketCode } from "@/lib/markets";
+import {
+  getMarket,
+  getTickers,
+  getNews,
+  getPrices,
+  isMarketCode,
+} from "@/lib/markets";
 import { TickerCard } from "@/components/TickerCard";
 import { NewsItemRow } from "@/components/NewsItem";
 import { MarketNav } from "@/components/MarketNav";
 
-// Mock price/series data — the data pipeline will replace this with live
-// prices from the daily GitHub Actions refresh. Keeping the schema stable
-// means swapping in real data is a one-file change.
+// Mock prices used as a fallback when prices.json hasn't been generated
+// yet for a ticker. Once the daily cron has run, real Yahoo quotes take over.
 const MOCK_PRICES: Record<string, { price: number; changePct: number }> = {
   NVDA: { price: 478.32, changePct: 2.14 },
   AAPL: { price: 226.55, changePct: -0.42 },
@@ -16,7 +21,7 @@ const MOCK_PRICES: Record<string, { price: number; changePct: number }> = {
   AMZN: { price: 191.27, changePct: 0.55 },
   META: { price: 562.04, changePct: -1.07 },
   TSLA: { price: 251.6, changePct: 3.21 },
-  "BRK.B": { price: 462.18, changePct: 0.18 },
+  "BRK-B": { price: 462.18, changePct: 0.18 },
   JPM: { price: 218.94, changePct: 0.62 },
   XOM: { price: 117.45, changePct: -0.84 },
   CRWD: { price: 384.21, changePct: 4.91 },
@@ -25,23 +30,6 @@ const MOCK_PRICES: Record<string, { price: number; changePct: number }> = {
   COST: { price: 902.55, changePct: 0.34 },
   OXY: { price: 62.91, changePct: -0.12 },
 };
-
-function mockSeries(seed: number, len = 30) {
-  const start = new Date();
-  start.setDate(start.getDate() - len);
-  const out: Array<{ time: string; value: number }> = [];
-  let v = 100 + (seed % 13);
-  for (let i = 0; i < len; i++) {
-    const d = new Date(start);
-    d.setDate(d.getDate() + i);
-    v = v + (Math.sin(i / 3 + seed) + (Math.random() - 0.5) * 2) * 1.2;
-    out.push({
-      time: d.toISOString().slice(0, 10),
-      value: Math.round(v * 100) / 100,
-    });
-  }
-  return out;
-}
 
 export default async function MarketHomePage({
   params,
@@ -54,7 +42,15 @@ export default async function MarketHomePage({
 
   const tickers = await getTickers(params.code);
   const news = await getNews(params.code);
+  const prices = await getPrices(params.code);
   const topPicks = tickers.slice(0, 10);
+
+  // Find the most recent asOf timestamp across all prices for the freshness chip.
+  const asOfList = Object.values(prices)
+    .map((p) => p.asOf)
+    .filter(Boolean)
+    .sort();
+  const lastUpdated = asOfList.at(-1);
 
   return (
     <div>
@@ -87,24 +83,37 @@ export default async function MarketHomePage({
 
       {/* Curated top picks */}
       <section className="mt-10">
-        <div className="flex items-baseline justify-between">
+        <div className="flex items-baseline justify-between gap-4">
           <h2 className="font-display text-2xl font-medium text-ink">
             Curated top picks
           </h2>
-          <p className="text-xs text-ink-faint">
-            {tickers.length} in the directory
-          </p>
+          <div className="flex items-center gap-3 text-xs text-ink-faint">
+            <span>{tickers.length} in the directory</span>
+            {lastUpdated && (
+              <span className="ticker tabular-nums">
+                · prices as of{" "}
+                {new Date(lastUpdated).toLocaleString("en-US", {
+                  month: "short",
+                  day: "numeric",
+                  hour: "2-digit",
+                  minute: "2-digit",
+                  timeZoneName: "short",
+                })}
+              </span>
+            )}
+          </div>
         </div>
         <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-          {topPicks.map((t, i) => {
-            const m = MOCK_PRICES[t.symbol] ?? { price: 100, changePct: 0 };
+          {topPicks.map((t) => {
+            const live = prices[t.symbol];
+            const mock = MOCK_PRICES[t.symbol] ?? { price: 100, changePct: 0 };
             return (
               <TickerCard
                 key={t.symbol}
                 ticker={t}
-                price={m.price}
-                changePct={m.changePct}
-                series={mockSeries(i)}
+                price={live?.price ?? mock.price}
+                changePct={live?.changePct ?? mock.changePct}
+                series={live?.series}
               />
             );
           })}
@@ -129,6 +138,11 @@ export default async function MarketHomePage({
             {news.slice(0, 5).map((n) => (
               <NewsItemRow key={n.id} item={n} />
             ))}
+            {news.length === 0 && (
+              <p className="text-sm text-ink-faint">
+                No news yet — the daily refresh has not run.
+              </p>
+            )}
           </div>
         </div>
 

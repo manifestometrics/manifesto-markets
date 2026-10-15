@@ -6,7 +6,7 @@
   { "symbol": "AMZN", "name": "Amazon.com", "sector": "E-commerce / Cloud", "themes": ["ai", "consumer"], "addedAt": "2026-01-15" },
   { "symbol": "META", "name": "Meta Platforms", "sector": "Internet", "themes": ["ai", "social"], "addedAt": "2026-01-15" },
   { "symbol": "TSLA", "name": "Tesla Inc", "sector": "Automotive", "themes": ["ev", "consumer"], "addedAt": "2026-01-15" },
-  { "symbol": "BRK.B", "name": "Berkshire Hathaway", "sector": "Diversified", "themes": ["value", "compounder"], "addedAt": "2026-01-15", "pitchedBy": "@FocusedCompound" },
+  { "symbol": "BRK-B", "name": "Berkshire Hathaway", "sector": "Diversified", "themes": ["value", "compounder"], "addedAt": "2026-01-15", "pitchedBy": "@FocusedCompound" },
   { "symbol": "JPM", "name": "JPMorgan Chase", "sector": "Financials", "themes": ["bank", "dividend"], "addedAt": "2026-01-15" },
   { "symbol": "XOM", "name": "Exxon Mobil", "sector": "Energy", "themes": ["energy", "dividend"], "addedAt": "2026-01-15" },
   { "symbol": "CRWD", "name": "CrowdStrike", "sector": "Cybersecurity", "themes": ["security", "growth"], "addedAt": "2026-02-01" },
