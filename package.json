@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sync:lance": "node scripts/sync-lance.mjs"
   },
   "dependencies": {
     "lightweight-charts": "^4.2.3",

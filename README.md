@@ -86,6 +86,49 @@ Vercel — connected via the dashboard. Push to `main` and the affected routes r
 - We do not auto-claim performance attribution in MVP.
 - Each source lists its kind, focus tags, and a short bio.
 
+## LanceDB sync
+
+Push the enriched ticker data from `data/<code>/enriched.json` into the LanceDB table that backs semantic search on Rig1. Intended to run after a refresh; not wired into the daily cron yet — operator triggers it once the Rig1 endpoint is confirmed.
+
+### What it sends
+
+For every record in every `data/<code>/enriched.json`, the script posts an NDJSON row with:
+
+- `id` — `{symbol}-{market_code}` (e.g. `NVDA-us`, `7203.T-jp`)
+- `symbol`, `name`, `exchange`, `sector`, `industry`, `country`, `currency`, `isin`
+- `description` — the business summary
+- `themes` — array of tag strings
+- `index_membership` — defaults to the market's `primaryIndex` from `data/markets.json` (e.g. `["S&P 500"]`); honours an explicit array on the record if present
+- `addedAt`, `market_code`, `market_name`
+- `text` — `name + description + sector + industry`, joined and trimmed; this is the embedding target
+
+Batches are sent as NDJSON in chunks of 100 records per market. The script exits non-zero if any batch fails.
+
+### Env vars
+
+| Var | Purpose | Example |
+| --- | --- | --- |
+| `LANCE_DB_URL` | Base URL of the LanceDB HTTP ingress | `http://rig1.manifestoagency.co:8000` |
+| `LANCE_DB_TOKEN` | Bearer token sent in `Authorization` | (from Rig1 secrets) |
+| `LANCE_DB_TABLE` | Target table name | `tickers` |
+
+The script POSTs to `${LANCE_DB_URL}/ingest/${LANCE_DB_TABLE}`. If the Rig1 ingress uses a different path, edit `ENDPOINT_TEMPLATE` in `scripts/sync-lance.mjs`.
+
+### Run it
+
+```bash
+# 1. Sanity-check the output shape without hitting the network
+npm run sync:lance -- --dry-run
+
+# 2. Live push
+export LANCE_DB_URL=http://rig1.manifestoagency.co:8000
+export LANCE_DB_TOKEN=...
+export LANCE_DB_TABLE=tickers
+npm run sync:lance
+```
+
+Dry-run logs the per-market record count, batch count, and a one-line sample of the first record for each market — no network call, no env vars required.
+
 ## Roadmap
 
 - [ ] Live prices (replace `MOCK_PRICES` in `app/markets/[code]/page.tsx`)
