@@ -1,0 +1,74 @@
+[
+  {
+    "id": "japan-times",
+    "name": "Japan Times — News",
+    "url": "https://www.japantimes.co.jp/feed/",
+    "kind": "news"
+  },
+  {
+    "id": "digital-agency-japan",
+    "name": "Digital Agency Japan (Gov RSS)",
+    "url": "https://www.digital.go.jp/rss/news.xml",
+    "kind": "news"
+  },
+  {
+    "id": "investing-nikkei-225",
+    "name": "Investing.com — Nikkei 225 News",
+    "url": "https://www.investing.com/rss/news_25.rss",
+    "kind": "news"
+  },
+  {
+    "id": "bloomberg-markets",
+    "name": "Bloomberg — Markets (Japan-relevant)",
+    "url": "https://feeds.bloomberg.com/markets/news.rss",
+    "kind": "news"
+  },
+  {
+    "id": "wsj-world",
+    "name": "WSJ — World News",
+    "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "kind": "news"
+  },
+  {
+    "id": "substack-tokyo-deep-value",
+    "name": "Tokyo Deep Value",
+    "url": "https://tokyodeepvalue.substack.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "substack-japan-alpha",
+    "name": "Japan Alpha",
+    "url": "https://sachiusu.substack.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "substack-japan-business-secrets",
+    "name": "Japan Business Secrets — Beyond Nikkei",
+    "url": "https://japanbusinesssecrets.substack.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "substack-nocturnal-research",
+    "name": "Nocturnal Research — Japan SMID Growth",
+    "url": "https://nocturnalresearch.substack.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "substack-asia-macro-pulse",
+    "name": "Asia Macro Pulse — BoJ",
+    "url": "https://zhennanli.substack.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "substack-8percentpa",
+    "name": "8percentpa — JPX & Activism",
+    "url": "https://8percentpa.substack.com/feed",
+    "kind": "ideas"
+  },
+  {
+    "id": "substack-rudajev",
+    "name": "Rudajev — Japan Macro",
+    "url": "https://rudajev.substack.com/feed",
+    "kind": "ideas"
+  }
+]
