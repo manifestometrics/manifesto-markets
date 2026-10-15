@@ -1,0 +1,68 @@
+[
+  {
+    "id": "handelsblatt-finanzen",
+    "name": "Handelsblatt Finanzen",
+    "url": "https://www.handelsblatt.com/contentexport/feed/finanzen",
+    "kind": "news"
+  },
+  {
+    "id": "faz-aktuell",
+    "name": "FAZ Aktuell",
+    "url": "https://www.faz.net/rss/aktuell/",
+    "kind": "news"
+  },
+  {
+    "id": "spiegel-top",
+    "name": "Spiegel Schlagzeilen",
+    "url": "https://www.spiegel.de/schlagzeilen/index.rss",
+    "kind": "news"
+  },
+  {
+    "id": "spiegel-wirtschaft",
+    "name": "Spiegel Wirtschaft",
+    "url": "https://www.spiegel.de/wirtschaft/index.rss",
+    "kind": "news"
+  },
+  {
+    "id": "spiegel-international",
+    "name": "Spiegel International",
+    "url": "https://www.spiegel.de/international/index.rss",
+    "kind": "news"
+  },
+  {
+    "id": "ntv-wirtschaft",
+    "name": "N-tv Wirtschaft",
+    "url": "https://www.n-tv.de/wirtschaft/rss",
+    "kind": "news"
+  },
+  {
+    "id": "ft-europe",
+    "name": "Financial Times — Europe",
+    "url": "https://www.ft.com/europe?format=rss",
+    "kind": "news"
+  },
+  {
+    "id": "ft-companies",
+    "name": "Financial Times — Companies",
+    "url": "https://www.ft.com/companies?format=rss",
+    "kind": "news"
+  },
+  {
+    "id": "bbc-business-economy",
+    "name": "BBC Business — Economy",
+    "url": "https://feeds.bbci.co.uk/news/business/economy/rss.xml",
+    "kind": "news"
+  },
+  {
+    "id": "yahoo-german-tickers",
+    "name": "Yahoo Finance — German Tickers (DAX/MDAX)",
+    "url": "https://finance.yahoo.com/quote/%5EGDAXI/rss",
+    "kind": "ideas"
+  },
+  {
+    "id": "manager-magazin-finanzen",
+    "name": "Manager Magazin Finanzen",
+    "url": "https://www.manager-magazin.de/rss/finanzen",
+    "kind": "news"
+  }
+]

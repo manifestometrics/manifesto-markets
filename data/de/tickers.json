@@ -1,0 +1,1540 @@
+[
+  {
+    "symbol": "SIE.DE",
+    "name": "Siemens",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Siemens",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Siemens AG is a German multinational company. It is focused on industrial automation, building automation, rail transport and health technology. Siemens is the largest engineering company in Europe, and holds the position of global market leader in industrial AI, automation, and industrial software.",
+    "themes": [
+      "industrials",
+      "automation",
+      "energy",
+      "digital"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007236101",
+    "index": "DAX"
+  },
+  {
+    "symbol": "SAP.DE",
+    "name": "SAP",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "SAP",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg, that is the world's largest vendor of enterprise software. In June 2025, it was the largest European company by market capitalization, as well as one of the 30 most valuable publicly traded companies in the world.",
+    "themes": [
+      "software",
+      "erp",
+      "enterprise",
+      "cloud",
+      "ai"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007164600",
+    "index": "DAX"
+  },
+  {
+    "symbol": "AIR.PA",
+    "name": "Airbus",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Airbus",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Airbus SE is a European aerospace corporation. While the company's primary business is the design and manufacture of commercial aircraft, it also operates separate divisions for Defence and Space and Helicopters. Airbus has long been the world's leading helicopter manufacturer and, in 2019, emerged as the world's largest manufacturer of airliners.",
+    "themes": [
+      "aerospace",
+      "defense",
+      "commercial-aviation"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "NL0000235190",
+    "index": "DAX"
+  },
+  {
+    "symbol": "ALV.DE",
+    "name": "Allianz",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Allianz",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Allianz SE is a German multinational financial services company headquartered in Munich, Germany. Its core businesses are insurance and asset management.",
+    "themes": [
+      "insurance",
+      "asset-mgmt"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0008404005",
+    "index": "DAX"
+  },
+  {
+    "symbol": "DTE.DE",
+    "name": "Deutsche Telekom",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Deutsche Telekom",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Telekom AG (.mw-parser-output .IPA-label-small{font-size:85%}.mw-parser-output .references .IPA-label-small,.mw-parser-output .infobox .IPA-label-small,.mw-parser-output .navbox .IPA-label-small{font-size:100%}German pronunciation: [ˌdɔʏtʃə ˈteːləkɔm ʔaːˌɡeː] ⓘ, literal translation</span>\"}]],\"parts\":[{\"template\":{\"target\":{\"wt\":\"lit\",\"href\":\"./Template:Lit\"},\"params\":{\"1\":{\"wt\":\"German Telecom\"}},\"i\":0}}]}'>lit. 'German Telecom'; often just Telekom; stylised as ·T·) is a partially state-owned German telecommunications company headquartered in Bonn and Europe's largest telecommunications provider by revenue. It was formed in 1995 when Deutsche Bundespost, a state monopoly at the time, was restructured. Since then, Deutsche Telekom has consistently featured among Fortune Magazine's",
+    "themes": [
+      "telecom",
+      "europe"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005557508",
+    "index": "DAX"
+  },
+  {
+    "symbol": "ENR.DE",
+    "name": "Siemens Energy",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Siemens Energy",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Siemens Energy AG is a German publicly traded energy corporation formed through the spin-off of the former Gas and Power division of Siemens, and it includes full ownership of Siemens Gamesa.",
+    "themes": [
+      "energy",
+      "grid",
+      "renewable"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000ENER6Y0",
+    "index": "DAX"
+  },
+  {
+    "symbol": "IFX.DE",
+    "name": "Infineon Technologies",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Infineon Technologies",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Infineon Technologies AG is a German company which designs and manufactures semiconductor devices. It provides parts for automotive, power and security systems. In 2023, Infineon was Germany's largest chip manufacturer, and had roughly 57,000 employees in 2025.",
+    "themes": [
+      "semiconductors",
+      "auto-chips"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006231004",
+    "index": "DAX"
+  },
+  {
+    "symbol": "MUV2.DE",
+    "name": "Munich Re",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Munich Re",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Munich Re Group or Munich Reinsurance Company (German: Münchener Rück; Münchener Rückversicherungs-Gesellschaft) is a German multinational insurance company based in Munich, Germany. It is the world's largest reinsurer. ERGO, a subsidiary of Munich Re, serves as the primary insurance arm of the Group. Munich Re's shares are publicly listed. Munich Re is included in the DAX index at the Frankfurt Stock Exchange, the Euro Stoxx 50, and other indices.",
+    "themes": [
+      "reinsurance"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0008430026",
+    "index": "DAX"
+  },
+  {
+    "symbol": "DHL.DE",
+    "name": "Deutsche Post (DHL Group)",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Deutsche Post (DHL Group)",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "DHL AG, trading as DHL Group, is a German multinational package delivery and supply chain management company headquartered in Bonn, Germany. It is one of the world's largest courier companies. The postal division, Deutsche Post, delivers 61 million letters each day in Germany, making it Europe's largest such company. The trade name's eponymous parcel division DHL is a wholly owned subsidiary claimed to be present in over 220 countries and territories. DHL Group was the largest logistics company worldwide in 2022.[better source needed]",
+    "themes": [
+      "logistics",
+      "parcel"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005552004",
+    "index": "DAX"
+  },
+  {
+    "symbol": "MRK.DE",
+    "name": "Merck",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Merck",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Merck KGaA is a German multinational science and technology company headquartered in Darmstadt, with operations in healthcare, life science and electronics.",
+    "themes": [
+      "pharma",
+      "specialty"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006599905",
+    "index": "DAX"
+  },
+  {
+    "symbol": "DBK.DE",
+    "name": "Deutsche Bank",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Deutsche Bank",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Bank is a German multinational investment bank and financial services company headquartered in Frankfurt. One of the largest banks in Europe.",
+    "themes": [
+      "bank",
+      "investment"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005140008",
+    "index": "DAX"
+  },
+  {
+    "symbol": "RHM.DE",
+    "name": "Rheinmetall",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Rheinmetall",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Rheinmetall AG is a German arms manufacturer, headquartered in Düsseldorf, North Rhine-Westphalia, Germany. The group was promoted to the DAX, Germany's leading stock market index, in March 2023. It is the largest German and fifth-largest European arms manufacturer, and produces a variety of armored fighting vehicles and armored personnel carriers, in both wheeled and tracked versions. Furthermore, the company is one of the largest munitions manufacturers within NATO; it produces air defence systems and, since 2026, has also been building warships, including at the traditional Blohm+Voss shipyard. The company also manufactures loitering munitions. Through partnerships and joint ventures, it furthermore produces reconnaissance radar satellites and centre fuselage sections for the F-35 fighter jet. Its name is derived from the German-language words Rhein and Metall, translating to \"Rhine-metal\" when combined.",
+    "themes": [
+      "defense",
+      "munitions",
+      "armor"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007030009",
+    "index": "DAX"
+  },
+  {
+    "symbol": "EOAN.DE",
+    "name": "E.ON",
+    "exchange": "XETRA",
+    "sector": "Utilities",
+    "industry": "E.ON",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "E.ON SE is a German multinational electric utility company based in Essen, Germany. It operates as one of the world's largest investor-owned electric utility service providers. The name originates from the Latin word aeon, derived from the Greek αἰών aion, which means age or \"infinity\", with the period being added to create secondary meanings of \"energy\" (E) and \"illumination\" (ON). The company is a component of the DAX stock index.",
+    "themes": [
+      "utilities",
+      "grid"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000ENAG999",
+    "index": "DAX"
+  },
+  {
+    "symbol": "DB1.DE",
+    "name": "Deutsche Boerse",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Deutsche Boerse",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Börse is a Frankfurt-based exchange operator that runs the Frankfurt Stock Exchange, Xetra and clearing house Eurex. Major venues for European trading.",
+    "themes": [
+      "exchange",
+      "market-infrastructure"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005810055",
+    "index": "DAX"
+  },
+  {
+    "symbol": "BAYN.DE",
+    "name": "Bayer",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Bayer",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Bayer AG is a German multinational pharmaceutical and biotechnology company and is one of the largest pharmaceutical companies and biomedical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals, consumer healthcare products, agricultural chemicals, seeds and biotechnology products. The company is a component of the EURO STOXX 50 stock market index.",
+    "themes": [
+      "pharma",
+      "agriculture",
+      "healthcare"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000BAY0017",
+    "index": "DAX"
+  },
+  {
+    "symbol": "MBG.DE",
+    "name": "Mercedes-Benz Group",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Mercedes-Benz Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Mercedes-Benz Group is a German multinational automotive manufacturer of premium and luxury cars and vans, headquartered in Stuttgart.",
+    "themes": [
+      "auto",
+      "luxury",
+      "ev"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007100000",
+    "index": "DAX"
+  },
+  {
+    "symbol": "RWE.DE",
+    "name": "RWE",
+    "exchange": "XETRA",
+    "sector": "Utilities",
+    "industry": "RWE",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "RWE AG is a German multinational energy company headquartered in Essen. It generates and trades electricity in the Asia-Pacific region, Europe and the United States.",
+    "themes": [
+      "utilities",
+      "renewable"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007037129",
+    "index": "DAX"
+  },
+  {
+    "symbol": "BAS.DE",
+    "name": "BASF",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "BASF",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "BASF SE, an initialism of its original name Badische Anilin- & Soda-Fabrik, is a German multinational company and the largest chemical producer in the world. Its headquarters is located in Ludwigshafen, Germany.",
+    "themes": [
+      "chemicals"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000BASF111",
+    "index": "DAX"
+  },
+  {
+    "symbol": "SHL.DE",
+    "name": "Siemens Healthineers",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Siemens Healthineers",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Siemens Healthineers is a German multinational company with specializing in medical technology and medical imaging. It was spun off from its parent company Siemens in 2017, which retains a 67% stake. Siemens Healthineers is the parent company for several medical technology companies and is headquartered in Erlangen, Germany.",
+    "themes": [
+      "medical-imaging",
+      "diagnostics"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000SHL1006",
+    "index": "DAX"
+  },
+  {
+    "symbol": "CBK.DE",
+    "name": "Commerzbank",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Commerzbank",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "The Commerzbank Aktiengesellschaft is a European banking institution headquartered in Frankfurt am Main, Hesse, Germany. It offers services to private, business and corporate customers. The Commerzbank Group also includes the Polish subsidiary mBank.",
+    "themes": [
+      "bank"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000CBK1001",
+    "index": "DAX"
+  },
+  {
+    "symbol": "VOW3.DE",
+    "name": "Volkswagen",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Volkswagen",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Volkswagen, commonly abbreviated to VW, is a German automobile brand based in Wolfsburg, Lower Saxony, Germany. Established in 1937 by the German Labour Front, it was revived after World War II by British Army officer Ivan Hirst and, over the 81 years since, grew into the global brand it is today. As of 2025, the company had a market capitalization of approximately US$58.9 billion. The brand is well known for the Beetle and serves as the flagship brand of its eponymous conglomerate, the Volkswagen Group, which was the world's largest automotive manufacturer by global sales in 2016 and 2017.",
+    "themes": [
+      "auto",
+      "mass-market",
+      "ev"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007664039",
+    "index": "DAX"
+  },
+  {
+    "symbol": "DTG.DE",
+    "name": "Daimler Truck",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Daimler Truck",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Daimler Truck AG (holding company legal name Daimler Truck Holding AG) is the world's largest commercial vehicle manufacturer, with over 35 main locations worldwide and approximately 100,000 employees. Daimler Truck AG is headquartered in Leinfelden-Echterdingen, Germany. It was a part of Daimler AG from November 2019 to December 2021.",
+    "themes": [
+      "trucks",
+      "commercial-vehicles"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000DTR0CK8",
+    "index": "DAX"
+  },
+  {
+    "symbol": "BMW.DE",
+    "name": "BMW",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "BMW",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Bayerische Motoren Werke AG, trading as BMW Group, is a German multinational conglomerate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Germany. The moniker \"BMW\" first came into use when the German firm Rapp Motorenwerke changed its name to Bayerische Motoren Werke GmbH in 1917. Thereafter, in 1922, the name and assets of BMW GmbH were transferred to the aircraft manufacturer Bayerische Flugzeugwerke AG, thereby giving rise to the company known today as BMW AG.",
+    "themes": [
+      "auto",
+      "luxury",
+      "ev"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005190003",
+    "index": "DAX"
+  },
+  {
+    "symbol": "HOT.DE",
+    "name": "Hochtief",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Hochtief",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hochtief AG is a global provider of infrastructure technology and construction services, with locations in North America, Australia, and Europe. The Essen based company is primarily active in the fields of high tech, energy transition, and sustainable infrastructure. With the international projects making up 95% of the company's revenue, Hochtief was among the largest international construction firms in 2023.",
+    "themes": [
+      "construction",
+      "infrastructure"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006070006",
+    "index": "DAX"
+  },
+  {
+    "symbol": "HNR1.DE",
+    "name": "Hannover Re",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Hannover Re",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hannover Re (in German Hannover Rück) is a reinsurance company based in Hannover, Germany. It is the third-largest reinsurance group in the world, with a gross premium of around €33 billion. Founded in 1966, Hannover Re transacts all lines of property & casualty and life & health reinsurance and has a network of over 170 subsidiaries, branches and representative offices on all five continents with a total staff of more than 3,000. The Group's German property and casualty business is written by the subsidiary E+S Rück.",
+    "themes": [
+      "reinsurance"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0008402215",
+    "index": "DAX"
+  },
+  {
+    "symbol": "HEN3.DE",
+    "name": "Henkel",
+    "exchange": "XETRA",
+    "sector": "Consumer Staples",
+    "industry": "Henkel",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Henkel AG & Co. KGaA, commonly known as Henkel, is a German multinational chemical and consumer goods company headquartered in Düsseldorf, Germany. Founded in 1876, the DAX company is organized into two globally operating business units and is known for brands such as Loctite, Persil, Fa, Pritt, Dial and Purex.",
+    "themes": [
+      "consumer-goods",
+      "adhesives"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006048408",
+    "index": "DAX"
+  },
+  {
+    "symbol": "ADS.DE",
+    "name": "Adidas",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Adidas",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Adidas AG is a German multinational athletic apparel and footwear corporation headquartered in Herzogenaurach, Germany. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike. It is the holding company for the Adidas Group, which also owns an 8.33% stake in the football club Bayern Munich, and Runtastic a fitness technology company. Adidas's revenue for 2024 was listed at €23 billion. Adidas is known for its brand image, extensive long origin history for participating in sponsoring athletes, and gear in the FIFA World Cup series. The brand is also recognized for performance innovation of their shoes with ties within sports culture and durability with their focus of sport shoes, clothing, backpacks, and other accessories.",
+    "themes": [
+      "apparel",
+      "sports"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A1EWWW0",
+    "index": "DAX"
+  },
+  {
+    "symbol": "HEI.DE",
+    "name": "Heidelberg Materials",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Heidelberg Materials",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Heidelberg Materials is a German multinational building materials company headquartered in Heidelberg, Germany. Formerly known as HeidelbergCement AG, the company has rebranded as Heidelberg Materials in September 2022. It is a DAX corporation and stands as one of the world's largest building materials companies. On 1 July 2016, HeidelbergCement AG completed the acquisition of a 45% shareholding in Italcementi. This acquisition made HeidelbergCement the number one producer of construction aggregates, the second-largest in cement and the third-largest in ready-mixed concrete worldwide. In the 2020 Forbes Global 2000, HeidelbergCement was ranked as the 678th -largest public company in the world.",
+    "themes": [
+      "cement",
+      "construction-materials"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006047004",
+    "index": "DAX"
+  },
+  {
+    "symbol": "FRE.DE",
+    "name": "Fresenius",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Fresenius",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Fresenius is a German healthcare conglomerate headquartered in Bad Homburg that operates hospitals and runs the Fresenius Medical Care dialysis business.",
+    "themes": [
+      "hospitals",
+      "healthcare-services"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005785604",
+    "index": "DAX"
+  },
+  {
+    "symbol": "MTX.DE",
+    "name": "MTU Aero Engines",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "MTU Aero Engines",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "MTU Aero Engines AG is a German aircraft engine manufacturer. MTU develops, manufactures and provides service support for military and civil aircraft engines. MTU Aero Engines was formerly known as MTU München.",
+    "themes": [
+      "aerospace",
+      "engine-mro"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A0D9PT0",
+    "index": "DAX"
+  },
+  {
+    "symbol": "VNA.DE",
+    "name": "Vonovia",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "Vonovia",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Vonovia is a European multinational real estate company based in Bochum, North Rhine-Westphalia. Its history goes back to Deutsche Annington, which merged with GAGFAH and was subsequently renamed Vonovia. As of 31 December 2025, the company owned 530,979 apartments in Germany, Sweden, and Austria, establishing it as a significant market player in these countries. Vonovia is a member of the DAX 40 and STOXX Europe 600 blue-chip indexes.",
+    "themes": [
+      "real-estate",
+      "residential"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A1ML7J1",
+    "index": "DAX"
+  },
+  {
+    "symbol": "BEI.DE",
+    "name": "Beiersdorf",
+    "exchange": "XETRA",
+    "sector": "Consumer Staples",
+    "industry": "Beiersdorf",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Beiersdorf AG is a German multinational company that manufactures personal-care products and pressure-sensitive adhesives headquartered in Hamburg, Germany. Its brands include Elastoplast, Eucerin, Aquaphor, Labello, La Prairie, Nivea, Coppertone and Tesa.",
+    "themes": [
+      "consumer-goods",
+      "skincare"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005200000",
+    "index": "DAX"
+  },
+  {
+    "symbol": "CON.DE",
+    "name": "Continental",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Continental",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Continental AG is a German automotive parts manufacturer headquartered in Hanover, producing tires, brake systems, electronics and software for vehicles.",
+    "themes": [
+      "auto",
+      "parts",
+      "tires"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005439004",
+    "index": "DAX"
+  },
+  {
+    "symbol": "SY1.DE",
+    "name": "Symrise",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Symrise",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Symrise AG is a German chemicals company that is a major producer of cosmetic ingredients, flavours and fragrances. Major competitors include Givaudan and Döhler. Symrise is a member of the European Flavour Association. In 2021, Symrise was ranked 4th by FoodTalks' Global Top 50 Food Flavours and Fragrances Companies list.",
+    "themes": [
+      "flavors",
+      "fragrances"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000SYM9999",
+    "index": "DAX"
+  },
+  {
+    "symbol": "FME.DE",
+    "name": "Fresenius Medical Care",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Fresenius Medical Care",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Fresenius Medical Care is the world’s largest provider of products and services for patients with chronic kidney failure, operating dialysis clinics globally.",
+    "themes": [
+      "dialysis",
+      "services"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005785802",
+    "index": "DAX"
+  },
+  {
+    "symbol": "G1A.DE",
+    "name": "GEA Group",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "GEA Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "GEA Group AG (German: Gesellschaft für Entstaubungsanlagen; literally \"company for dedusting systems\") is a German corporation, mostly active in the food and beverages sector, headquartered in Düsseldorf, Germany. As of 2019, it was one of the world's largest suppliers of process technology and components in the food and beverages industry (around 70% of its business) and several other industries, employing almost 18,000 people globally as of 2017. The company is listed on the DAX.",
+    "themes": [
+      "machinery",
+      "food-tech"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006602006",
+    "index": "DAX"
+  },
+  {
+    "symbol": "BNR.DE",
+    "name": "Brenntag",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Brenntag",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Brenntag SE is the holding company of Brenntag Group. The company was founded in 1874 in Berlin and specializes in the distribution of chemicals and ingredients. The company is headquartered in Essen, Germany and has operations in more than 600 locations in 72 countries.",
+    "themes": [
+      "chemicals-distribution"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A1DAHH0",
+    "index": "DAX"
+  },
+  {
+    "symbol": "QIA.DE",
+    "name": "Qiagen",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Qiagen",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "QIAGEN N.V. is a German-founded multinational provider of sample and assay technologies for molecular diagnostics, applied testing, academic research, and pharmaceutical research. The company operates in more than 35 offices in over 25 countries. QIAGEN N.V., the global corporate headquarter of the QIAGEN group, is located in Venlo, The Netherlands. The main operative headquarters are located in Hilden, Germany. European, American, Chinese, and Asian-Pacific regional headquarters are located respectively in Hilden, Germany; Germantown, Maryland, United States; Shanghai, China; and Singapore. QIAGEN's shares are listed at the NYSE and at the Frankfurt Stock Exchange in the Prime Standard. Thierry Bernard is the company's Chief Executive Officer (CEO).",
+    "themes": [
+      "biotech",
+      "molecular-diagnostics"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "NL0012169213",
+    "index": "DAX"
+  },
+  {
+    "symbol": "ZAL.DE",
+    "name": "Zalando",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Zalando",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Zalando SE is a German multinational e-commerce company headquartered in Berlin, specializing in fashion, beauty, and footwear. It is Europe's largest online fashion retailer. Founded in 2008 by Robert Gentz and David Schneider, the company has expanded its operations to 30 European markets, currently serving a customer base of 62 million active users.",
+    "themes": [
+      "e-commerce",
+      "fashion"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000ZAL1111",
+    "index": "DAX"
+  },
+  {
+    "symbol": "G24.DE",
+    "name": "Scout24",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Scout24",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Scout24 SE is a German publicly listed digital company headquartered in Munich, operating the online marketplace ImmoScout24. The ImmoScout24 multi-platform attracted over 20 million visitors monthly in Germany in 2021, either through the website or the app.",
+    "themes": [
+      "marketplaces",
+      "real-estate"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A12DM80",
+    "index": "DAX"
+  },
+  {
+    "symbol": "AIXA.DE",
+    "name": "Aixtron",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Aixtron",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Aixtron SE is a German technology company headquartered in Herzogenrath, Germany. Its shares are listed on the Frankfurt Stock Exchange and it is a constituent of the MDAX and TecDAX indices. The company develops various types of chemical vapor deposition (CVD) equipment for electronic and optoelectronic applications based on III-V compound semiconductors and organic semiconductors. Aixtron is a leading manufacturer of metalorganic chemical vapor deposition (MOCVD) systems and also produces plasma-enhanced chemical vapor deposition (PECVD) equipment for the production of carbon nanotubes and other nanostructures.",
+    "themes": [
+      "semiconductors",
+      "deposition-equipment"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A0WMPJ6",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "AT1.DE",
+    "name": "Aroundtown",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "Aroundtown",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Aroundtown SA is a publicly listed real estate company, registered in Luxembourg. It invests in commercial and residential properties in central locations in European cities primarily in Germany and the Netherlands.",
+    "themes": [
+      "real-estate",
+      "commercial",
+      "europe"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "LU1673108933",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "AMV0.DE",
+    "name": "Aumovio",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Aumovio",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "AUMOVIO SE is a German automotive-technology company specialising in vehicle electronics, software-defined systems and mobility solutions for safe, exciting, connected and autonomous driving. It was formed in 2025 as a spin-off of Continental AG’s Automotive business.",
+    "themes": [
+      "auto-electronics",
+      "spin-off"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A40Z9W7",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "NDA.DE",
+    "name": "Aurubis",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Aurubis",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Aurubis AG (formerly Norddeutsche Affinerie AG) is a global supplier of non-ferrous metals and one of the world's largest copper recyclers. The company processes complex metal concentrates, scrap, organic and inorganic metal-bearing recycling materials, and industrial residues into metals. Aurubis produces a variety of copper products, such as wire rods, continuous cast shapes, profiles, and flat rolled products. Aurubis also produces a range of other metals, including precious metals such as selenium, lead, nickel, tin, and zinc. The portfolio includes other products, such as sulfuric acid and iron silicate.",
+    "themes": [
+      "metals",
+      "copper",
+      "recycling"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006766504",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "AG1.DE",
+    "name": "Auto1 Group",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Auto1 Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Auto1 Group is a Berlin-based digital marketplace for used cars, operating the Auto1.com platform for B2B sales and wirkaufendeinauto.de for consumer trade-ins.",
+    "themes": [
+      "e-commerce",
+      "auto-marketplace"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A2LQ884",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "BC8.DE",
+    "name": "Bechtle",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Bechtle",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Bechtle AG is a multinational technology company with a business model combining information technology services with the direct sale of hardware and software IT products, as well as the operation and maintenance of IT infrastructure for industrial customers and public-sector clients. The Bechtle Group is headquartered in Neckarsulm, Baden-Württemberg, and organised into multiple parent and holding companies.[citation needed]",
+    "themes": [
+      "it-services",
+      "hardware-reseller"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005158703",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "GBF.DE",
+    "name": "Bilfinger",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Bilfinger",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Bilfinger SE (previously named Bilfinger Berger AG) is a German multinational company specialized in civil and industrial construction, engineering and services based in Mannheim, Germany.",
+    "themes": [
+      "industrial-services"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005909006",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "EVD.DE",
+    "name": "CTS Eventim",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "CTS Eventim",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "CTS Eventim is one of Europe’s largest live entertainment ticketing companies, headquartered in Bremen, operating ticketing platforms and concert/event promotion.",
+    "themes": [
+      "ticketing",
+      "live-entertainment"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005470306",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "DHER.DE",
+    "name": "Delivery Hero",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Delivery Hero",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Delivery Hero is a Berlin-based multinational online food-delivery marketplace operating brands like foodpanda, Glovo, and Delivery Hero across 70+ countries.",
+    "themes": [
+      "food-delivery",
+      "marketplaces"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A2E4K43",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "LHA.DE",
+    "name": "Lufthansa",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Lufthansa",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutsche Lufthansa AG, trading as Lufthansa Group, is a German aviation holding company. Its principal airline, Lufthansa German Airlines is the flag carrier of Germany. Lufthansa Group is the second-largest airline group in Europe by passengers carried, as well as largest in Europe and fourth largest in the world by revenue. Lufthansa Airlines is also one of the five founding members of Star Alliance, the world's largest airline alliance, established in 1997.",
+    "themes": [
+      "airlines",
+      "network-carrier"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0008232125",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "DEZ.DE",
+    "name": "Deutz",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Deutz",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Deutz AG is a German internal combustion engine manufacturer, based in Porz, Cologne, Germany.",
+    "themes": [
+      "engines",
+      "off-highway"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006305006",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "DWS.DE",
+    "name": "DWS Group",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "DWS Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "DWS Group (Deutsche Gesellschaft für Wertpapiersparen) is one of Europe’s largest asset managers, founded by Deutsche Bank in 1956 and headquartered in Frankfurt.",
+    "themes": [
+      "asset-management"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000DWS1007",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "ELG.DE",
+    "name": "Elmos Semiconductor",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Elmos Semiconductor",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Elmos Semiconductor SE is a German manufacturer of semiconductor products headquartered in Dortmund, Germany. Elmos supplies automotive application-specific integrated circuits (ASICs).",
+    "themes": [
+      "semiconductors",
+      "automotive-chips"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005677108",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "EVK.DE",
+    "name": "Evonik",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Evonik",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Evonik Industries AG is a publicly listed German chemicals company headquartered in Essen, North Rhine-Westphalia, Germany. It is the second-largest chemicals company in Germany, and one of the largest specialty chemicals companies in the world. It is predominantly owned by the RAG Foundation and was founded on 12 September 2007 as a result of restructuring of the mining and technology group RAG AG.",
+    "themes": [
+      "specialty-chemicals"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000EVNK013",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "FTK.DE",
+    "name": "Flatexdegiro",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Flatexdegiro",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "FlatexDegiro is a Frankfurt-based online broker operating flatex and Degiro platforms across Europe, one of the largest retail brokerage groups by customer count.",
+    "themes": [
+      "brokerage",
+      "fintech"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000FTG1111",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "FRA.DE",
+    "name": "Fraport",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Fraport",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Fraport AG Frankfurt Airport Services Worldwide, commonly known as Fraport, is a German transport company which operates Frankfurt Airport in Frankfurt am Main and holds interests in the operation of several other airports around the world. In the past the firm also managed the smaller Frankfurt-Hahn Airport located 130 kilometers west of the city. It is listed on the Frankfurt Stock Exchange and also through the exchange's Xetra trading system. The company's shares are included in the MDAX. The company's current chief executive officer is Stefan Schulte [de]. As of 2019, the company has 22,514 employees and annual revenues of about €3.3 billion. Fraport was the main sponsor of the Bundesliga football team Eintracht Frankfurt from 2002 to 2012.",
+    "themes": [
+      "airport-operator"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005773303",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "FNTN.DE",
+    "name": "Freenet",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "Freenet",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Freenet AG is a Hamburg-based telecommunications and media company offering mobile services, TV/media distribution and digital lifestyle products.",
+    "themes": [
+      "telecom",
+      "mobile-virtual-network"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A0Z2ZZ5",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "FPE3.DE",
+    "name": "Fuchs Petrolub",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Fuchs Petrolub",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Fuchs SE is a Mannheim-based manufacturer of lubricants, including automotive oils, industrial greases and specialty lubricants.",
+    "themes": [
+      "lubricants",
+      "specialty-chemicals"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A3E5DP7",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "HLE.DE",
+    "name": "Hella",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Hella",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hella GmbH & Co. KGaA is an internationally operating German automotive parts supplier headquartered in Lippstadt, North Rhine-Westphalia. The company develops and manufactures lighting, electronic components, and systems for the automotive industry. It also operates one of the largest trade organizations for automotive parts, accessories, diagnostics, and services within Europe.",
+    "themes": [
+      "auto-parts",
+      "lighting"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A13SX22",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "HAG.DE",
+    "name": "Hensoldt",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Hensoldt",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hensoldt AG (stylized in all caps) is a German multinational corporation headquartered in Munich which focuses on sensor technologies for protection and surveillance missions in the defence, security and aerospace sectors. The main product areas are radar, optoelectronics and avionics. Hensoldt's main office is in Taufkirchen near Munich, Germany.",
+    "themes": [
+      "defense-electronics",
+      "sensors"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000HAG0005",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "BOSS.DE",
+    "name": "Hugo Boss",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Hugo Boss",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Hugo Boss is a Metzingen-based German luxury fashion house known for its apparel, accessories, fragrances and licensing of premium lifestyle brands.",
+    "themes": [
+      "luxury",
+      "apparel"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A1PHFF7",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "IOS.DE",
+    "name": "Ionos",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Ionos",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "IONOS Group is a Karlsruhe-based web hosting and cloud services provider (formerly 1&1 IONOS), part of the United Internet group.",
+    "themes": [
+      "cloud",
+      "hosting",
+      "domains"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A3E00M1",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "JEN.DE",
+    "name": "Jenoptik",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Jenoptik",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Jenoptik AG is a Jena, Germany-based integrated photonics company. The company is listed on the Frankfurt Stock Exchange and is included in the TecDAX stock index.",
+    "themes": [
+      "photonics",
+      "optoelectronics"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A2NB601",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "SDF.DE",
+    "name": "K+S",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "K+S",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "K+S AG (formerly Kali und Salz GmbH) is a German chemical company headquartered in Kassel. The company is Europe’s largest supplier of potash for use in fertilizer. The firm also produces and distributes other mineral fertilizers, such as those from magnesium and sulfur. K+S is mainly active in Europe, North and South America with almost 15,000 employees worldwide (2020).",
+    "themes": [
+      "fertilizer",
+      "salt",
+      "mining"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000KSAG888",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "KGX.DE",
+    "name": "KION Group",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "KION Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Kion Group AG (styled as KION Group) is a German multinational manufacturer of materials handling equipment, with its headquarters in Frankfurt, Hesse, Germany. Its principal products are intralogistics, warehouse automation equipment, and industrial (forklift) trucks. Kion Group was founded in 2006 by the demerger of Linde's materials handling equipment operations. It is the world's second-largest manufacturer of forklifts measured by revenues (after Toyota Industries).",
+    "themes": [
+      "forklifts",
+      "intralogistics"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000KGX8881",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "KBX.DE",
+    "name": "Knorr-Bremse",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Knorr-Bremse",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Knorr-Bremse is the Munich-based world leader in braking systems and other rail and truck safety systems, plus doors and HVAC for rail vehicles.",
+    "themes": [
+      "braking-systems",
+      "rail"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000KBX1006",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "KRN.DE",
+    "name": "Krones",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Krones",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Krones AG is a Neutraubling-based German manufacturer of machines and complete lines for beverage production and packaging, especially beer and soft drinks.",
+    "themes": [
+      "packaging-machinery",
+      "beverage"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006335003",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "LXS.DE",
+    "name": "Lanxess",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Lanxess",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Lanxess AG is a German specialty chemicals company based in Cologne, Germany. It was founded in 2004 after Bayer AG spun off its chemicals division and parts of its polymers business.",
+    "themes": [
+      "specialty-chemicals"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005470405",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "LEG.DE",
+    "name": "LEG Immobilien",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "LEG Immobilien",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "LEG Immobilien SE (formerly Landesentwicklungsgesellschaft) is a German property company. As of 2025, it is a constituent of the MDAX trading index of German mid-cap companies.<cite class=\\\"citation web cs1\\\" about=\\\"#mwt10\\\"><a rel=\\\"mw:ExtLink nofollow\\\" href=\\\"https://ir.leg-se.com/investor-relations/news-und-publikationen/finanzberichte\\\" class=\\\"external text\\\">\\\"Annual Report 2025\\\"</a> <span class=\\\"cs1-format\\\">(PDF)</span>. LEG Immobilien SE<span class=\\\"reference-accessdate\\\">. Retrieved <span class=\\\"nowrap\\\">11 May</span> 2026</span>.</cite><span title=\\\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annual+Report+2025&amp;rft.pub=LEG+Immobilien+SE&amp;rft_id=https%3A%2F%2Fir.leg-se.com%2Finvestor-relations%2Fnews-un",
+    "themes": [
+      "real-estate",
+      "residential"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000LEG1110",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "NEM.DE",
+    "name": "Nemetschek",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Nemetschek",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Nemetschek Group is a vendor of software for architects, engineers and the construction industry. The company develops and distributes software for planning, designing, building and managing buildings and real estate, as well as for media and entertainment.",
+    "themes": [
+      "construction-software",
+      "aec"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006452907",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "NDX1.DE",
+    "name": "Nordex",
+    "exchange": "XETRA",
+    "sector": "Energy",
+    "industry": "Nordex",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Nordex SE is a European company that designs, sells and manufactures wind turbines, founded in 1985 and headquartered in the German city of Hamburg with production in Germany, Brazil, India, Mexico, Poland and Spain. According to the company, it had installed wind turbines with a total capacity of around 50 GW in over 40 countries worldwide by the end of 2023.",
+    "themes": [
+      "wind-turbines",
+      "renewable"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A0D6554",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "P911.DE",
+    "name": "Porsche AG",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Porsche AG",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Porsche AG is the Stuttgart-based sports car manufacturer of the Porsche 911, Cayenne, Taycan and Macan, majority-owned by Porsche SE and listed since 2022.",
+    "themes": [
+      "luxury-auto",
+      "sports-cars"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000PAG9113",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "PAH3.DE",
+    "name": "Porsche Automobil Holding SE",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Porsche Automobil Holding SE",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Porsche Automobil Holding SE is the Stuttgart-based holding company that controls Volkswagen AG, with stakes in Porsche AG and other VW Group entities.",
+    "themes": [
+      "holding",
+      "vw-stake"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000PAH0038",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "PUM.DE",
+    "name": "Puma",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Puma",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Puma SE is a Herzogenaurach-based German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories.",
+    "themes": [
+      "apparel",
+      "sports"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006969603",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "RAA.DE",
+    "name": "Rational",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Rational",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Rational AG is a German manufacturer and retailer of commercial and industrial kitchen equipment for thermal food preparation. The company is based in Landsberg am Lech, Germany, and was founded by Siegfried Meister in 1973. It operates worldwide and has 25 subsidiaries in Europe, Asia, North and South America as well as seven branches in Germany.",
+    "themes": [
+      "kitchen-equipment",
+      "industrial-ovens"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007010803",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "R3NK.DE",
+    "name": "Renk Group",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "Renk Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Renk Group is an Augsburg-based manufacturer of high-end drive technology (gearboxes, couplings, test systems) for defense and industrial customers.",
+    "themes": [
+      "drives",
+      "gearboxes",
+      "defense"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000RENK730",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "RRTL.DE",
+    "name": "RTL Group",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "RTL Group",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "RTL Group is a Luxembourg-based leading European entertainment broadcaster, owned by Bertelsmann, operating TV channels and streaming services across Europe.",
+    "themes": [
+      "media",
+      "broadcast"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "LU0269583422",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "SZG.DE",
+    "name": "Salzgitter",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Salzgitter",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Salzgitter AG is a German steel and technology group headquartered in Salzgitter, producing steel, tubes and sections for automotive, energy and construction customers.",
+    "themes": [
+      "steel",
+      "metals"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0006202005",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "SRT3.DE",
+    "name": "Sartorius",
+    "exchange": "XETRA",
+    "sector": "Healthcare",
+    "industry": "Sartorius",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Sartorius AG is an international supplier of pharmaceutical and laboratory equipment. Founded in 1870, the company is headquartered in Göttingen, Germany. It provides tools and services for the biopharmaceutical industry. The company operates through two divisions: Bioprocess Solutions and Lab Products & Services.",
+    "themes": [
+      "bioprocessing",
+      "lab-equipment"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007165631",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "SHA0.DE",
+    "name": "Schaeffler",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Schaeffler",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Schaeffler Group is a Herzogenaurach-based global automotive and industrial supplier of bearings, linear guides and e-mobility components.",
+    "themes": [
+      "auto-parts",
+      "bearings"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000SHA0159",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "WAF.DE",
+    "name": "Siltronic",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "Siltronic",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Siltronic AG is a German manufacturer of wafers made of hyperpure silicon headquartered in Munich.",
+    "themes": [
+      "semiconductors",
+      "silicon-wafers"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000WAF3001",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "SMHN.DE",
+    "name": "SUSS MicroTec",
+    "exchange": "XETRA",
+    "sector": "Technology",
+    "industry": "SUSS MicroTec",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Suss Microtec SE (own spelling SUSS MicroTec SE, known as Süss MicroTec until 2024 and as Karl Süss GmbH & Co. KG until 1999) is a mechanical engineering company with headquarters in Garching near Munich, Germany. It offers systems and processes for the semiconductor market, the nano and microsystems technology, and related markets.",
+    "themes": [
+      "semiconductors",
+      "equipment"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000A1K0235",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "TEG.DE",
+    "name": "TAG Immobilien",
+    "exchange": "XETRA",
+    "sector": "Real Estate",
+    "industry": "TAG Immobilien",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "TAG Immobilien AG is a Hamburg-based real estate company focused on residential property in Germany and Poland, with a portfolio of around 84,000 units.",
+    "themes": [
+      "real-estate",
+      "residential"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0008303504",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "TLX.DE",
+    "name": "Talanx",
+    "exchange": "XETRA",
+    "sector": "Financials",
+    "industry": "Talanx",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Talanx is a German multinational financial services company headquartered in Hanover, Germany. Its core businesses include reinsurance, insurance and asset management. Talanx is Germany's third-largest insurance group and one of the major European insurance groups by premium income. The group operates in more than 150 countries.",
+    "themes": [
+      "insurance",
+      "b2b"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000TLX1005",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "TKA.DE",
+    "name": "ThyssenKrupp",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "ThyssenKrupp",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "ThyssenKrupp AG is a German industrial engineering and steel production company. It resulted from the 1999 merger of Thyssen AG and Krupp and has its operational headquarters in Duisburg and Essen. The company says that it is one of the largest steel producers in the world, and it was ranked tenth-largest worldwide by revenue in 2015. It is divided into 670 subsidiaries worldwide. The largest shareholders are the Alfried Krupp von Bohlen und Halbach Foundation and Cevian Capital. ThyssenKrupp's products range from machines and industrial services to high-speed trains, elevators, and shipbuilding. The subsidiary ThyssenKrupp Marine Systems also manufactures frigates, corvettes, and submarines for the German and other navies.",
+    "themes": [
+      "steel",
+      "conglomerate"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0007500001",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "TKMS.DE",
+    "name": "TKMS",
+    "exchange": "XETRA",
+    "sector": "Industrials",
+    "industry": "TKMS",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "TKMS AG & Co. KGaA is a group and holding company of providers of naval vessels, surface ships and submarines. It was founded when large industrial conglomerate ThyssenKrupp acquired Howaldtswerke-Deutsche Werft in January 2005.",
+    "themes": [
+      "naval-shipbuilding",
+      "submarines"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000TKMS001",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "8TRA.DE",
+    "name": "Traton",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "Traton",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Traton SE, known as the Traton Group, is a subsidiary of the Volkswagen Group and one of the world's largest commercial vehicle manufacturers, with its Scania, MAN, International, Volkswagen Truck & Bus, IC Bus and Neoplan brands. The company also has digital services branded as RIO. In 2025, the group sold 305,486 vehicles. The range of products includes light-, medium-, and heavy-duty trucks, as well as vans and buses. As of December 31, 2025, Traton employed around 108,000 people in its commercial vehicle brands.",
+    "themes": [
+      "trucks",
+      "commercial-vehicles"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000TRAT0N7",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "TUI1.DE",
+    "name": "TUI",
+    "exchange": "XETRA",
+    "sector": "Consumer Discretionary",
+    "industry": "TUI",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Tui or TUI may refer to:",
+    "themes": [
+      "tourism",
+      "travel"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000TUAG505",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "UTDI.DE",
+    "name": "United Internet",
+    "exchange": "XETRA",
+    "sector": "Communication",
+    "industry": "United Internet",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "United Internet AG is a global Internet services company headquartered in Montabaur, Rhineland-Palatinate, Germany. The company is structured in two business areas, Access and Applications, and has a total of 16 brands and numerous subsidiaries. The well-known brands under the umbrella of United Internet AG include 1&1, Ionos, Strato, Fasthosts, GMX, WEB.DE and 1&1 Versatel.",
+    "themes": [
+      "telecom",
+      "hosting"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE0005089031",
+    "index": "MDAX"
+  },
+  {
+    "symbol": "WCH.DE",
+    "name": "Wacker Chemie",
+    "exchange": "XETRA",
+    "sector": "Materials",
+    "industry": "Wacker Chemie",
+    "country": "DE",
+    "currency": "EUR",
+    "description": "Wacker Chemie AG is a German multinational chemical company which was founded in 1914 by Alexander Wacker. The company is controlled by the Wacker family holding more than 50 percent of the shares. The corporation operates more than 25 production sites in Europe, Asia, and the Americas.",
+    "themes": [
+      "specialty-chemicals",
+      "silicon"
+    ],
+    "addedAt": "2026-02-15",
+    "isin": "DE000WCH8881",
+    "index": "MDAX"
+  }
+]

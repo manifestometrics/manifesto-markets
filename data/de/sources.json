@@ -1,0 +1,669 @@
+[
+  {
+    "id": "flossbach-von-storch",
+    "name": "Flossbach von Storch",
+    "kind": "fund-letter",
+    "url": "https://www.flossbachvonstorch.com/en/publications",
+    "focus": [
+      "europe",
+      "multi-asset",
+      "quality-compounder"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Cologne-based independent German asset manager. Multi-asset funds and equity mandates with European/global quality focus."
+  },
+  {
+    "id": "dws-research",
+    "name": "DWS Research",
+    "kind": "fund-letter",
+    "url": "https://www.dws.com/en-gb/insights",
+    "focus": [
+      "europe",
+      "global-macro",
+      "asset-allocation"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "One of Europe's largest asset managers. Publishes regular market outlook and CIO commentary."
+  },
+  {
+    "id": "union-investment",
+    "name": "Union Investment",
+    "kind": "fund-letter",
+    "url": "https://www.union-investment.com/startseite",
+    "focus": [
+      "europe",
+      "germany",
+      "fixed-income",
+      "equity"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Frankfurt-based asset manager owned by cooperative banks. Active in German equities and fixed income."
+  },
+  {
+    "id": "berenberg-markets",
+    "name": "Berenberg Markets",
+    "kind": "fund-letter",
+    "url": "https://www.berenberg.de/en/publications",
+    "focus": [
+      "europe",
+      "dax",
+      "small-mid"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Hamburg-based private bank. Publishes the German / European Strategy and Equity Strategy monthly."
+  },
+  {
+    "id": "metzler-asset",
+    "name": "Metzler Asset Management",
+    "kind": "fund-letter",
+    "url": "https://www.metzler.com/en/news-and-markets",
+    "focus": [
+      "europe",
+      "dax",
+      "small-mid",
+      "value"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Frankfurt-based family-owned bank. Active in European small-cap and value equities."
+  },
+  {
+    "id": "oddo-bhf",
+    "name": "ODDO BHF",
+    "kind": "fund-letter",
+    "url": "https://www.oddo-bhf.com/publications",
+    "focus": [
+      "europe",
+      "midcap",
+      "germany"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Frankfurt-based Franco-German bank. Active midcap research and pan-European equity coverage."
+  },
+  {
+    "id": "baader-bank",
+    "name": "Baader Bank Research",
+    "kind": "fund-letter",
+    "url": "https://www.baaderbank.de/research",
+    "focus": [
+      "germany",
+      "dax",
+      "small-mid",
+      "tech"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Munich-based bank with strong small/midcap research in German-speaking markets."
+  },
+  {
+    "id": "dje-investment",
+    "name": "DJE Investment",
+    "kind": "fund-letter",
+    "url": "https://www.dje.de/en/publications",
+    "focus": [
+      "germany",
+      "europe",
+      "value"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Pullach-based German asset manager. Long-standing European equity and value strategies."
+  },
+  {
+    "id": "ethenea",
+    "name": "ETHENEA Independent Investors",
+    "kind": "fund-letter",
+    "url": "https://ethenea.com/news",
+    "focus": [
+      "europe",
+      "quality",
+      "small-mid"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Luxembourg-based German asset manager focused on European small/midcap equities."
+  },
+  {
+    "id": "gqs-capital",
+    "name": "GQS Capital (Markus Schärf)",
+    "kind": "fund-letter",
+    "url": "https://www.gqs-capital.de",
+    "focus": [
+      "germany",
+      "small-mid",
+      "value",
+      "special-situations"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Frankfurt-based value investor. Long-biased European small/midcap with a focus on special situations."
+  },
+  {
+    "id": "squad-capital",
+    "name": "SQUAD Capital",
+    "kind": "fund-letter",
+    "url": "https://squad-capital.com",
+    "focus": [
+      "germany",
+      "small-mid",
+      "value"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Münster-based independent asset manager. Concentrated European small-cap value."
+  },
+  {
+    "id": "kalo-goldmann",
+    "name": "Kalo Goldmann (Act One)",
+    "kind": "fund-letter",
+    "url": "https://www.kalo-goldmann.de",
+    "focus": [
+      "germany",
+      "small-mid",
+      "value"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Hamburg-based fund manager focused on German small/midcap equities."
+  },
+  {
+    "id": "aktien-mit-kopf",
+    "name": "Aktien mit Kopf",
+    "handle": "@aktienmitkopf",
+    "kind": "substack",
+    "url": "https://aktienmitkopf.substack.com",
+    "focus": [
+      "dax",
+      "europe",
+      "compounder",
+      "education"
+    ],
+    "audience": 65000,
+    "addedAt": "2026-02-15",
+    "bio": "German-language equity investing education and pitches. One of the largest German Substack investing newsletters."
+  },
+  {
+    "id": "finanzfluss",
+    "name": "Finanzfluss",
+    "handle": "@finanzfluss",
+    "kind": "blog",
+    "url": "https://www.finanzfluss.de",
+    "focus": [
+      "education",
+      "etf",
+      "dax",
+      "retail"
+    ],
+    "audience": 350000,
+    "addedAt": "2026-02-15",
+    "bio": "Germany's largest investing education platform (YouTube + blog). ETFs, basics, German equities."
+  },
+  {
+    "id": "growfolio",
+    "name": "GrowFolio (Theo Grassl)",
+    "handle": "@growfolio",
+    "kind": "substack",
+    "url": "https://growfolio.substack.com",
+    "focus": [
+      "dax",
+      "compounder",
+      "value"
+    ],
+    "audience": 18000,
+    "addedAt": "2026-02-15",
+    "bio": "German-language Substack covering DAX/MDAX compounder stories and value screens."
+  },
+  {
+    "id": "aktiengrammatik",
+    "name": "Aktiengrammatik",
+    "handle": "@aktiengrammatik",
+    "kind": "substack",
+    "url": "https://aktiengrammatik.substack.com",
+    "focus": [
+      "dax",
+      "education",
+      "small-mid"
+    ],
+    "audience": 12000,
+    "addedAt": "2026-02-15",
+    "bio": "German-language long-form investing writing. Educational DAX/MDAX breakdowns."
+  },
+  {
+    "id": "dividendenhorst",
+    "name": "Dividendenhorst",
+    "kind": "substack",
+    "url": "https://dividendenhorst.substack.com",
+    "focus": [
+      "dividend",
+      "dax",
+      "europe"
+    ],
+    "audience": 9000,
+    "addedAt": "2026-02-15",
+    "bio": "German dividend-investing newsletter with European focus."
+  },
+  {
+    "id": "the-broken-compass",
+    "name": "The Broken Compass",
+    "handle": "@brokencompass_eu",
+    "kind": "substack",
+    "url": "https://brokencompass.substack.com",
+    "focus": [
+      "europe",
+      "macro",
+      "policy"
+    ],
+    "audience": 30000,
+    "addedAt": "2026-02-15",
+    "bio": "European macro and policy commentary. Covers ECB, Bundesbank, energy transition."
+  },
+  {
+    "id": "european-stoic",
+    "name": "European Stoic",
+    "handle": "@europeanstoic",
+    "kind": "substack",
+    "url": "https://europeanstoic.substack.com",
+    "focus": [
+      "europe",
+      "value",
+      "small-mid"
+    ],
+    "audience": 11000,
+    "addedAt": "2026-02-15",
+    "bio": "European small/midcap value pitches with detailed write-ups."
+  },
+  {
+    "id": "holger-zschaepitz",
+    "name": "Holger Zschaepitz",
+    "handle": "@Schuldensuehner",
+    "kind": "x",
+    "url": "https://x.com/Schuldensuehner",
+    "focus": [
+      "dax",
+      "macro",
+      "europe"
+    ],
+    "audience": 180000,
+    "addedAt": "2026-02-15",
+    "bio": "WirtschaftsWoche markets reporter. Frequent DAX/EUR macro commentary."
+  },
+  {
+    "id": "daniel-krhat",
+    "name": "Daniel Stelter",
+    "handle": "@dstelter",
+    "kind": "x",
+    "url": "https://x.com/dstelter",
+    "focus": [
+      "macro",
+      "germany",
+      "policy"
+    ],
+    "audience": 95000,
+    "addedAt": "2026-02-15",
+    "bio": "German macro thinker. Writes Beyond the Obvious newsletter. Inflation, debt, ECB."
+  },
+  {
+    "id": "florian-felderbrand",
+    "name": "Florian Homm",
+    "handle": "@FHomm",
+    "kind": "x",
+    "url": "https://x.com/FHomm",
+    "focus": [
+      "germany",
+      "small-mid",
+      "value",
+      "activist"
+    ],
+    "audience": 22000,
+    "addedAt": "2026-02-15",
+    "bio": "German-American investor. Long history with German small/midcap. Infrequent but pointed commentary."
+  },
+  {
+    "id": "max-wiener",
+    "name": "Max Wiener",
+    "handle": "@max_wiener_eu",
+    "kind": "x",
+    "url": "https://x.com/max_wiener_eu",
+    "focus": [
+      "dax",
+      "small-mid",
+      "value"
+    ],
+    "audience": 14000,
+    "addedAt": "2026-02-15",
+    "bio": "European small/midcap investor, German-language commentary with a value lens."
+  },
+  {
+    "id": "eu-equity-trader",
+    "name": "EU Equity Trader",
+    "handle": "@EUEqTrader",
+    "kind": "x",
+    "url": "https://x.com/EUEqTrader",
+    "focus": [
+      "europe",
+      "trading",
+      "small-mid"
+    ],
+    "audience": 95000,
+    "addedAt": "2026-02-15",
+    "bio": "Live European equities commentary from the trading desk. Active on European small/midcap flows."
+  },
+  {
+    "id": "acta-2020",
+    "name": "Burak Alici (Vontobel)",
+    "handle": "@burak_alici",
+    "kind": "x",
+    "url": "https://x.com/burak_alici",
+    "focus": [
+      "europe",
+      "defense",
+      "industrials"
+    ],
+    "audience": 28000,
+    "addedAt": "2026-02-15",
+    "bio": "European equities research (Vontobel). Frequently posts on European defense and industrials."
+  },
+  {
+    "id": "european-activist",
+    "name": "European Activist",
+    "handle": "@euactivist",
+    "kind": "x",
+    "url": "https://x.com/euactivist",
+    "focus": [
+      "europe",
+      "activist",
+      "small-mid"
+    ],
+    "audience": 31000,
+    "addedAt": "2026-02-15",
+    "bio": "Anonymous but high-signal European special-situations account."
+  },
+  {
+    "id": "stoxx-pitch",
+    "name": "STOXX 600 Tracker",
+    "handle": "@sx6p_pitch",
+    "kind": "x",
+    "url": "https://x.com/sx6p_pitch",
+    "focus": [
+      "europe",
+      "dax",
+      "flow"
+    ],
+    "audience": 41000,
+    "addedAt": "2026-02-15",
+    "bio": "Pan-European equities flow commentary. Active on DAX/MDAX tape."
+  },
+  {
+    "id": "euro-flux",
+    "name": "EuroFlux",
+    "handle": "@euroflux_cap",
+    "kind": "substack",
+    "url": "https://euroflux.substack.com",
+    "focus": [
+      "europe",
+      "small-mid",
+      "macro"
+    ],
+    "audience": 6000,
+    "addedAt": "2026-02-15",
+    "bio": "European small-mid cap commentary with macro overlay."
+  },
+  {
+    "id": "wolfstreet-eu",
+    "name": "Wolf Street EU",
+    "handle": "@wolfstreet_eu",
+    "kind": "blog",
+    "url": "https://wolfstreet-eu.com",
+    "focus": [
+      "europe",
+      "macro",
+      "credit"
+    ],
+    "audience": 65000,
+    "addedAt": "2026-02-15",
+    "bio": "European macro & banking commentary. Critical lens on ECB and European banking sector."
+  },
+  {
+    "id": "lbo-france",
+    "name": "LBO France",
+    "kind": "fund-letter",
+    "url": "https://www.lbofrance.com/en/publications",
+    "focus": [
+      "france",
+      "europe",
+      "small-mid",
+      "value"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Paris-based investment firm with private-equity and listed-equity strategies across Europe."
+  },
+  {
+    "id": "carmignac",
+    "name": "Carmignac",
+    "kind": "fund-letter",
+    "url": "https://www.carmignac.com/en/insights",
+    "focus": [
+      "europe",
+      "global",
+      "macro"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Paris-based European asset manager. Monthly outlooks covering European equity and global macro."
+  },
+  {
+    "id": "lombard-odier",
+    "name": "Lombard Odier",
+    "kind": "fund-letter",
+    "url": "https://www.lombardodier.com/insights",
+    "focus": [
+      "europe",
+      "global",
+      "macro"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Geneva-based private bank. CIO commentary with strong European equity view."
+  },
+  {
+    "id": "pictet",
+    "name": "Pictet Group Research",
+    "kind": "fund-letter",
+    "url": "https://www.pictet.com/insights",
+    "focus": [
+      "europe",
+      "global",
+      "macro",
+      "thematic"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Geneva-based private bank. Publishes thematic research and CIO monthly views."
+  },
+  {
+    "id": "frankfurt-school",
+    "name": "Frankfurt School of Finance",
+    "kind": "blog",
+    "url": "https://www.fs.de/blog",
+    "focus": [
+      "germany",
+      "europe",
+      "education",
+      "macro"
+    ],
+    "audience": 22000,
+    "addedAt": "2026-02-15",
+    "bio": "Frankfurt business school research blog. Banking, regulation, ESG."
+  },
+  {
+    "id": "zeppelin-university",
+    "name": "Zeppelin University Economics",
+    "kind": "blog",
+    "url": "https://www.zeppelin-university.com/en/research",
+    "focus": [
+      "germany",
+      "macro",
+      "policy"
+    ],
+    "audience": 8000,
+    "addedAt": "2026-02-15",
+    "bio": "Friedrichshafen-based private university. Economic and family-business research with German angle."
+  },
+  {
+    "id": "aktiencheck",
+    "name": "Aktiencheck",
+    "handle": "@aktiencheck",
+    "kind": "blog",
+    "url": "https://www.aktiencheck.de",
+    "focus": [
+      "dax",
+      "news-flow",
+      "small-mid"
+    ],
+    "audience": 38000,
+    "addedAt": "2026-02-15",
+    "bio": "German equities news and analyst-aggregator site. Active coverage of DAX, MDAX, SDAX."
+  },
+  {
+    "id": "boerse-frankfurt-news",
+    "name": "Börse Frankfurt News",
+    "handle": "@BoerseFrankfurt",
+    "kind": "blog",
+    "url": "https://www.boerse-frankfurt.de/news",
+    "focus": [
+      "dax",
+      "small-mid",
+      "news-flow"
+    ],
+    "audience": 45000,
+    "addedAt": "2026-02-15",
+    "bio": "Official Frankfurt exchange newsroom. Covers DAX, MDAX, TecDAX, SDAX."
+  },
+  {
+    "id": "handelsblatt-finanzen",
+    "name": "Handelsblatt Finanzen",
+    "handle": "@handelsblatt",
+    "kind": "blog",
+    "url": "https://www.handelsblatt.com/finanzen",
+    "focus": [
+      "dax",
+      "europe",
+      "macro",
+      "policy"
+    ],
+    "audience": 280000,
+    "addedAt": "2026-02-15",
+    "bio": "Germany's leading financial newspaper. Daily coverage of DAX, MDAX and German macro."
+  },
+  {
+    "id": "manager-magazin",
+    "name": "Manager Magazin",
+    "handle": "@ManagerMagazin",
+    "kind": "blog",
+    "url": "https://www.manager-magazin.de/finanzen",
+    "focus": [
+      "dax",
+      "europe",
+      "executive-coverage"
+    ],
+    "audience": 220000,
+    "addedAt": "2026-02-15",
+    "bio": "Hamburg-based business magazine. Deep coverage of DAX corporate governance and executive moves."
+  },
+  {
+    "id": "faz-finanzen",
+    "name": "FAZ Finanzen",
+    "handle": "@FAZ_Finanzen",
+    "kind": "blog",
+    "url": "https://www.faz.net/finanzen",
+    "focus": [
+      "dax",
+      "europe",
+      "macro",
+      "policy"
+    ],
+    "audience": 410000,
+    "addedAt": "2026-02-15",
+    "bio": "Frankfurter Allgemeine Zeitung finance desk. Daily DAX/MDAX commentary and policy."
+  },
+  {
+    "id": "wiwo-finanzen",
+    "name": "WirtschaftsWoche",
+    "handle": "@Wiwo",
+    "kind": "blog",
+    "url": "https://www.wiwo.de/finanzen",
+    "focus": [
+      "dax",
+      "europe",
+      "macro"
+    ],
+    "audience": 180000,
+    "addedAt": "2026-02-15",
+    "bio": "Düsseldorf-based business weekly. Strong DAX, German SME, and macro coverage."
+  },
+  {
+    "id": "finanzmarktwelt",
+    "name": "Finanzmarktwelt",
+    "handle": "@finanzmarktwelt",
+    "kind": "blog",
+    "url": "https://www.finanzmarktwelt.de",
+    "focus": [
+      "dax",
+      "europe",
+      "macro"
+    ],
+    "audience": 75000,
+    "addedAt": "2026-02-15",
+    "bio": "German-language markets blog. Daily DAX/EUR macro posts."
+  },
+  {
+    "id": "deutsche-aktien",
+    "name": "Deutsche-Aktien",
+    "handle": "@deutscheaktien",
+    "kind": "x",
+    "url": "https://x.com/deutscheaktien",
+    "focus": [
+      "dax",
+      "small-mid",
+      "news-flow"
+    ],
+    "audience": 25000,
+    "addedAt": "2026-02-15",
+    "bio": "Curated X feed on German equities news and corporate filings."
+  },
+  {
+    "id": "european-flow-desk",
+    "name": "European Flow Desk",
+    "handle": "@eu_flowdesk",
+    "kind": "x",
+    "url": "https://x.com/eu_flowdesk",
+    "focus": [
+      "europe",
+      "dax",
+      "flow"
+    ],
+    "audience": 58000,
+    "addedAt": "2026-02-15",
+    "bio": "Pan-European block-trade and flow commentary. Active in DAX/MDAX."
+  },
+  {
+    "id": "lipper-eu",
+    "name": "Lipper for Europe",
+    "kind": "fund-letter",
+    "url": "https://www.lipperleader.com",
+    "focus": [
+      "europe",
+      "fund-flows",
+      "data"
+    ],
+    "audience": 0,
+    "addedAt": "2026-02-15",
+    "bio": "Refinitiv Lipper fund-flow and performance data. Useful for European fund flow signals."
+  }
+]
