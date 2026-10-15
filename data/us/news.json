@@ -3,8 +3,16 @@
     "title": "Trump says Nidal Hasan execution won&apos;t be live-streamed",
     "url": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
     "source": "CNBC Top News",
-    "publishedAt": "2026-10-15T14:25:40.000Z",
+    "publishedAt": "2026-10-15T14:27:23.000Z",
     "excerpt": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
+    "tickers": []
+  },
+  {
+    "title": "Southwest is overhauling its frequent flyer program. Here&apos;s what&apos;s changing",
+    "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-10-15T14:25:01.000Z",
+    "excerpt": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
     "tickers": []
   },
   {
@@ -45,6 +53,14 @@
     "source": "Seeking Alpha — Stock Ideas",
     "publishedAt": "2026-10-15T14:14:50.000Z",
     "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+    "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-10-15T14:10:14.000Z",
+    "excerpt": "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
     "tickers": []
   },
   {
@@ -392,7 +408,7 @@
     "url": "https://www.bloomberg.com/news/articles/2026-10-14/latest-oil-market-news-and-analysis-for-oct-15",
     "source": "Bloomberg — Markets",
     "publishedAt": "2026-10-14T22:02:40.000Z",
-    "excerpt": "Brent crude slipped as a selloff in equities pushed investors away from risky bets, while the US called on fellow members of the International Energy Agency to release more oil from emergency reserves.",
+    "excerpt": "Brent crude fell as the International Energy Agency said member countries had agreed to release more oil from emergency reserves.",
     "tickers": []
   },
   {

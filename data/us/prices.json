@@ -1,10 +1,10 @@
 {
   "NVDA": {
-    "price": 216.03,
-    "change": 3.86,
-    "changePct": 1.82,
+    "price": 216.08,
+    "change": 3.91,
+    "changePct": 1.84,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:26.000Z",
+    "asOf": "2026-10-15T14:28:38.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -96,16 +96,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 216.03
+        "value": 216.08
       }
     ]
   },
   "AAPL": {
-    "price": 344.96,
-    "change": 13.62,
-    "changePct": 4.11,
+    "price": 344.99,
+    "change": 13.65,
+    "changePct": 4.12,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:26.000Z",
+    "asOf": "2026-10-15T14:28:39.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -197,16 +197,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 344.96
+        "value": 344.99
       }
     ]
   },
   "MSFT": {
-    "price": 534,
-    "change": 36.88,
-    "changePct": 7.42,
+    "price": 534.56,
+    "change": 37.44,
+    "changePct": 7.53,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:27.000Z",
+    "asOf": "2026-10-15T14:28:40.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -298,16 +298,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 534
+        "value": 534.56
       }
     ]
   },
   "GOOGL": {
-    "price": 350.39,
-    "change": 5.41,
+    "price": 350.41,
+    "change": 5.43,
     "changePct": 1.57,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:27.000Z",
+    "asOf": "2026-10-15T14:28:39.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -399,16 +399,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 350.39
+        "value": 350.41
       }
     ]
   },
   "AMZN": {
-    "price": 252.311,
-    "change": 3.89,
-    "changePct": 1.57,
+    "price": 252.345,
+    "change": 3.93,
+    "changePct": 1.58,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:26.000Z",
+    "asOf": "2026-10-15T14:28:41.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -500,16 +500,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 252.31
+        "value": 252.35
       }
     ]
   },
   "META": {
-    "price": 730.683,
-    "change": 60.44,
-    "changePct": 9.02,
+    "price": 731.97,
+    "change": 61.73,
+    "changePct": 9.21,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:26.000Z",
+    "asOf": "2026-10-15T14:28:40.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -601,16 +601,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 730.68
+        "value": 731.97
       }
     ]
   },
   "TSLA": {
-    "price": 356.79,
-    "change": 0.21,
-    "changePct": 0.06,
+    "price": 357.09,
+    "change": 0.51,
+    "changePct": 0.14,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:27.000Z",
+    "asOf": "2026-10-15T14:28:40.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -702,16 +702,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 356.79
+        "value": 357.09
       }
     ]
   },
   "BRK-B": {
-    "price": 530.41,
-    "change": 13.65,
-    "changePct": 2.64,
+    "price": 530.5,
+    "change": 13.74,
+    "changePct": 2.66,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:27.000Z",
+    "asOf": "2026-10-15T14:28:39.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -803,16 +803,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 530.41
+        "value": 530.5
       }
     ]
   },
   "JPM": {
-    "price": 334.22,
-    "change": -18.27,
-    "changePct": -5.18,
+    "price": 333.995,
+    "change": -18.5,
+    "changePct": -5.25,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:26.000Z",
+    "asOf": "2026-10-15T14:28:35.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -904,16 +904,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 334.22
+        "value": 333.99
       }
     ]
   },
   "XOM": {
-    "price": 175.51,
-    "change": 6.19,
-    "changePct": 3.66,
+    "price": 175.22,
+    "change": 5.9,
+    "changePct": 3.48,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:28.000Z",
+    "asOf": "2026-10-15T14:28:41.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -1005,16 +1005,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 175.51
+        "value": 175.22
       }
     ]
   },
   "CRWD": {
-    "price": 241.23,
-    "change": -1.26,
-    "changePct": -0.52,
+    "price": 241.195,
+    "change": -1.3,
+    "changePct": -0.53,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:24.000Z",
+    "asOf": "2026-10-15T14:28:42.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -1106,16 +1106,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 241.23
+        "value": 241.2
       }
     ]
   },
   "SNOW": {
-    "price": 323.265,
-    "change": 0.28,
-    "changePct": 0.09,
+    "price": 323.16,
+    "change": 0.18,
+    "changePct": 0.06,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:15.000Z",
+    "asOf": "2026-10-15T14:28:38.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -1207,16 +1207,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 323.27
+        "value": 323.16
       }
     ]
   },
   "PLTR": {
-    "price": 195.05,
-    "change": 22.49,
-    "changePct": 13.03,
+    "price": 195.51,
+    "change": 22.95,
+    "changePct": 13.3,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:29.000Z",
+    "asOf": "2026-10-15T14:28:43.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -1308,16 +1308,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 195.05
+        "value": 195.51
       }
     ]
   },
   "COST": {
-    "price": 1001.73,
-    "change": 100.38,
-    "changePct": 11.14,
+    "price": 1000.91,
+    "change": 99.56,
+    "changePct": 11.05,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:27.000Z",
+    "asOf": "2026-10-15T14:28:40.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -1409,16 +1409,16 @@
       },
       {
         "time": "2026-10-15",
-        "value": 1001.73
+        "value": 1000.91
       }
     ]
   },
   "OXY": {
-    "price": 60.9,
-    "change": -2.62,
-    "changePct": -4.12,
+    "price": 60.84,
+    "change": -2.68,
+    "changePct": -4.22,
     "currency": "USD",
-    "asOf": "2026-10-15T14:26:20.000Z",
+    "asOf": "2026-10-15T14:28:42.000Z",
     "series": [
       {
         "time": "2026-09-15",
@@ -1510,7 +1510,7 @@
       },
       {
         "time": "2026-10-15",
-        "value": 60.9
+        "value": 60.84
       }
     ]
   }
