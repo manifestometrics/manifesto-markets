@@ -1,0 +1,74 @@
+[
+  {
+    "id": "reuters-asia",
+    "name": "Reuters — Asia",
+    "url": "https://feeds.reuters.com/reuters/ASIAnews",
+    "kind": "news"
+  },
+  {
+    "id": "reuters-business",
+    "name": "Reuters — Business",
+    "url": "https://feeds.reuters.com/reuters/businessNews",
+    "kind": "news"
+  },
+  {
+    "id": "bloomberg-asia",
+    "name": "Bloomberg — Asia",
+    "url": "https://feeds.bloomberg.com/asia/news.rss",
+    "kind": "news"
+  },
+  {
+    "id": "bloomberg-markets",
+    "name": "Bloomberg — Markets",
+    "url": "https://feeds.bloomberg.com/markets/news.rss",
+    "kind": "news"
+  },
+  {
+    "id": "ft-companies-asia",
+    "name": "Financial Times — Companies Asia",
+    "url": "https://www.ft.com/companies/asia?format=rss",
+    "kind": "news"
+  },
+  {
+    "id": "korea-herald-business",
+    "name": "Korea Herald Business",
+    "url": "https://www.koreaherald.com/rss/Biz.xml",
+    "kind": "news"
+  },
+  {
+    "id": "korea-economic-daily",
+    "name": "Korea Economic Daily (English)",
+    "url": "https://www.kedglobal.com/rss/allArticle.rss",
+    "kind": "news"
+  },
+  {
+    "id": "yonhap-eng",
+    "name": "Yonhap News (English)",
+    "url": "https://en.yna.co.kr/RSS/news.xml",
+    "kind": "news"
+  },
+  {
+    "id": "krx-press",
+    "name": "KRX Press Releases",
+    "url": "https://www.krx.co.kr/por_kor/pr/news/press.jsp?menuId=2000300",
+    "kind": "news"
+  },
+  {
+    "id": "krx-disclosures",
+    "name": "KRX Disclosures",
+    "url": "https://kind.krx.co.kr/disclosure/details.do?method=searchDetailsMain&disclosureType01=01",
+    "kind": "news"
+  },
+  {
+    "id": "nikkei-asia",
+    "name": "Nikkei Asia — Korea",
+    "url": "https://asia.nikkei.com/rss/feed/Korea",
+    "kind": "news"
+  },
+  {
+    "id": "caixin-asia",
+    "name": "Caixin Asia",
+    "url": "https://www.caixinglobal.com/rss/",
+    "kind": "news"
+  }
+]

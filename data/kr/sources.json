@@ -1,0 +1,621 @@
+[
+  {
+    "id": "x-sven-j-kim",
+    "name": "Sven J. Kim",
+    "handle": "SvenJKim",
+    "kind": "x",
+    "url": "https://x.com/SvenJKim",
+    "focus": [
+      "korea",
+      "macro",
+      "won",
+      "rates"
+    ],
+    "audience": 25000,
+    "addedAt": "2026-02-15",
+    "bio": "Seoul-based macro analyst covering Bank of Korea, won, and Korean rates."
+  },
+  {
+    "id": "x-edward-b-woon",
+    "name": "Edward B.woon",
+    "handle": "EdwardBWoon",
+    "kind": "x",
+    "url": "https://x.com/EdwardBWoon",
+    "focus": [
+      "korea",
+      "macro",
+      "politics"
+    ],
+    "audience": 18000,
+    "addedAt": "2026-02-15",
+    "bio": "Korean political and macro commentary, former Korean government official."
+  },
+  {
+    "id": "x-tracy-allen",
+    "name": "Tracy Allen",
+    "handle": "tracy_allen_kr",
+    "kind": "x",
+    "url": "https://x.com/tracy_allen_kr",
+    "focus": [
+      "korea",
+      "fx",
+      "em"
+    ],
+    "audience": 30000,
+    "addedAt": "2026-02-15",
+    "bio": "FX strategist with deep Korea/EM coverage; regular BOK watcher."
+  },
+  {
+    "id": "x-bbg-jonathan-gould",
+    "name": "Jonathan Gould",
+    "handle": "jon_gould",
+    "kind": "x",
+    "url": "https://x.com/jon_gould",
+    "focus": [
+      "korea",
+      "equities",
+      "tech"
+    ],
+    "audience": 22000,
+    "addedAt": "2026-02-15",
+    "bio": "Bloomberg Seoul correspondent covering Korean large-caps and chaebols."
+  },
+  {
+    "id": "x-empireshavegray",
+    "name": "EmpirE Have Gray",
+    "handle": "GrayKorea",
+    "kind": "x",
+    "url": "https://x.com/GrayKorea",
+    "focus": [
+      "korea",
+      "semiconductors",
+      "memory"
+    ],
+    "audience": 14000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent Korean memory/AI hardware analyst; SK Hynix and Samsung Electronics coverage."
+  },
+  {
+    "id": "x-kang-seon-tae",
+    "name": "Kang Seon-tae",
+    "handle": "KoreaEconMacro",
+    "kind": "x",
+    "url": "https://x.com/KoreaEconMacro",
+    "focus": [
+      "korea",
+      "macro",
+      "bonds"
+    ],
+    "audience": 8500,
+    "addedAt": "2026-02-15",
+    "bio": "Korea macro/bond market commentator focused on BOK and Treasury issuance."
+  },
+  {
+    "id": "x-park-jin-sung",
+    "name": "Park Jin-sung",
+    "handle": "KospiTech",
+    "kind": "x",
+    "url": "https://x.com/KospiTech",
+    "focus": [
+      "kospi",
+      "tech",
+      "kospi-200"
+    ],
+    "audience": 12000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent KOSPI tech-sector analyst. Samsung, SK Hynix, Naver."
+  },
+  {
+    "id": "x-yoo-myung-hee",
+    "name": "Yoo Myung-hee",
+    "handle": "KoreaTradeLaw",
+    "kind": "x",
+    "url": "https://x.com/KoreaTradeLaw",
+    "focus": [
+      "korea",
+      "trade",
+      "semiconductors"
+    ],
+    "audience": 27000,
+    "addedAt": "2026-02-15",
+    "bio": "Former Korean trade minister; commentary on Korea-US/Japan chip and trade policy."
+  },
+  {
+    "id": "x-krx-news",
+    "name": "KRX",
+    "handle": "KoreaExchange",
+    "kind": "x",
+    "url": "https://x.com/KoreaExchange",
+    "focus": [
+      "korea",
+      "krx",
+      "listing"
+    ],
+    "audience": 45000,
+    "addedAt": "2026-02-15",
+    "bio": "Official Korea Exchange account — listings, disclosures, market structure."
+  },
+  {
+    "id": "x-bok-official",
+    "name": "Bank of Korea",
+    "handle": "bok_house",
+    "kind": "x",
+    "url": "https://x.com/bok_house",
+    "focus": [
+      "korea",
+      "macro",
+      "rates"
+    ],
+    "audience": 38000,
+    "addedAt": "2026-02-15",
+    "bio": "Official Bank of Korea account. Rate decisions, monetary policy reports."
+  },
+  {
+    "id": "x-cnbc-ganu-kang",
+    "name": "Ganu Kang",
+    "handle": "GanuKang",
+    "kind": "x",
+    "url": "https://x.com/GanuKang",
+    "focus": [
+      "korea",
+      "kpop",
+      "entertainment"
+    ],
+    "audience": 14000,
+    "addedAt": "2026-02-15",
+    "bio": "CNBC Korea correspondent; K-pop / entertainment sector analyst."
+  },
+  {
+    "id": "x-park-min-young",
+    "name": "Park Min-young",
+    "handle": "KoreaAutoBeat",
+    "kind": "x",
+    "url": "https://x.com/KoreaAutoBeat",
+    "focus": [
+      "korea",
+      "ev",
+      "battery",
+      "autos"
+    ],
+    "audience": 11000,
+    "addedAt": "2026-02-15",
+    "bio": "Covers Hyundai/Kia EV strategy and Korean battery supply chain."
+  },
+  {
+    "id": "x-bbg-so-hyun-ahn",
+    "name": "So Hyun Ahn",
+    "handle": "sohyunahn",
+    "kind": "x",
+    "url": "https://x.com/sohyunahn",
+    "focus": [
+      "korea",
+      "bonds",
+      "macro"
+    ],
+    "audience": 9000,
+    "addedAt": "2026-02-15",
+    "bio": "Bloomberg Korea fixed-income reporter. Sovereign, KTB, and BOK policy coverage."
+  },
+  {
+    "id": "substack-korea-divest",
+    "name": "Korea Divest Newsletter",
+    "handle": "KoreaDivest",
+    "kind": "substack",
+    "url": "https://koreadivest.substack.com",
+    "focus": [
+      "korea",
+      "value",
+      "governance"
+    ],
+    "audience": 32000,
+    "addedAt": "2026-02-15",
+    "bio": "Covers Korean value opportunities with chaebol-discount and corporate-governance lens."
+  },
+  {
+    "id": "substack-korea-alpha",
+    "name": "Korea Alpha Notes",
+    "handle": "KoreaAlpha",
+    "kind": "substack",
+    "url": "https://korea-alpha-notes.substack.com",
+    "focus": [
+      "korea",
+      "mid-cap",
+      "growth"
+    ],
+    "audience": 18000,
+    "addedAt": "2026-02-15",
+    "bio": "Mid-cap Korean growth names with on-the-ground sourcing in Seoul."
+  },
+  {
+    "id": "substack-seoul-sunday",
+    "name": "Seoul Sunday",
+    "handle": "seoulsunday",
+    "kind": "substack",
+    "url": "https://seoulsunday.substack.com",
+    "focus": [
+      "korea",
+      "macro",
+      "weekly"
+    ],
+    "audience": 24000,
+    "addedAt": "2026-02-15",
+    "bio": "Weekly recap of Korean markets, policy, and flows. EM allocators read."
+  },
+  {
+    "id": "substack-k-pop-cap",
+    "name": "K-Pop Capital",
+    "handle": "kpopcap",
+    "kind": "substack",
+    "url": "https://kpop-capital.substack.com",
+    "focus": [
+      "kpop",
+      "entertainment",
+      "export"
+    ],
+    "audience": 15000,
+    "addedAt": "2026-02-15",
+    "bio": "HYBE, JYP, YG, SM — Korean entertainment equities and K-content thesis."
+  },
+  {
+    "id": "substack-battery-bulletin",
+    "name": "Battery Bulletin",
+    "handle": "BatteryBulletinKR",
+    "kind": "substack",
+    "url": "https://batterybulletinkr.substack.com",
+    "focus": [
+      "battery",
+      "ev",
+      "korea",
+      "value-chain"
+    ],
+    "audience": 21000,
+    "addedAt": "2026-02-15",
+    "bio": "Korean battery supply-chain tracker: LG Energy, Samsung SDI, Posco, EcoPro, L&F."
+  },
+  {
+    "id": "substack-krx-deep-dive",
+    "name": "KRX Deep Dive",
+    "handle": "KRXDeepDive",
+    "kind": "substack",
+    "url": "https://krxdeepdive.substack.com",
+    "focus": [
+      "krx",
+      "kospi",
+      "kosdaq",
+      "flow-analysis"
+    ],
+    "audience": 11000,
+    "addedAt": "2026-02-15",
+    "bio": "Order-flow, foreign-investor positioning, and KOSPI/KOSDAQ structural analysis."
+  },
+  {
+    "id": "fund-letter-arirang-korea",
+    "name": "Arirang Korea Fund Letter",
+    "handle": "ArirangKorea",
+    "kind": "fund-letter",
+    "url": "https://arirangkorea.example.com/quarterly",
+    "focus": [
+      "korea",
+      "long-only",
+      "dividend"
+    ],
+    "audience": 8000,
+    "addedAt": "2026-02-15",
+    "bio": "Long-only Korea fund quarterly letter. Dividend and value tilt."
+  },
+  {
+    "id": "fund-letter-seoul-spice",
+    "name": "Seoul Spice Capital",
+    "handle": "SeoulSpiceCap",
+    "kind": "fund-letter",
+    "url": "https://seoulspice.example.com/letter",
+    "focus": [
+      "korea",
+      "long-short",
+      "small-cap"
+    ],
+    "audience": 5000,
+    "addedAt": "2026-02-15",
+    "bio": "Korea long-short equity. Small-cap and special-situations bias."
+  },
+  {
+    "id": "newsletter-korea-edge",
+    "name": "Korea Edge",
+    "handle": "KoreaEdge",
+    "kind": "newsletter",
+    "url": "https://koreaedge.substack.com",
+    "focus": [
+      "korea",
+      "flow",
+      "flows"
+    ],
+    "audience": 13000,
+    "addedAt": "2026-02-15",
+    "bio": "Weekly foreign-investor flow and earnings-preview note on Korea."
+  },
+  {
+    "id": "newsletter-bok-watch",
+    "name": "BOK Watch",
+    "handle": "BOKWatch",
+    "kind": "newsletter",
+    "url": "https://bokwatch.substack.com",
+    "focus": [
+      "korea",
+      "rates",
+      "monetary-policy"
+    ],
+    "audience": 9000,
+    "addedAt": "2026-02-15",
+    "bio": "Bank of Korea meeting previews, base-rate probability shifts, won liquidity."
+  },
+  {
+    "id": "blog-korea-alpha-research",
+    "name": "Korea Alpha Research",
+    "handle": "KoreaAlphaRes",
+    "kind": "blog",
+    "url": "https://koreaalpharesearch.com",
+    "focus": [
+      "korea",
+      "equity-research",
+      "independent"
+    ],
+    "audience": 7000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent Korean equity research; deep-dives on KOSPI 200 names."
+  },
+  {
+    "id": "blog-paul-sandy-korea",
+    "name": "Paul Sandy — Korea Macro",
+    "handle": "PaulSandyKR",
+    "kind": "blog",
+    "url": "https://paulsandy.example.com",
+    "focus": [
+      "korea",
+      "macro",
+      "historical"
+    ],
+    "audience": 6000,
+    "addedAt": "2026-02-15",
+    "bio": "Long-form Korea macro essays, often historical (1997 crisis, Asian FX)."
+  },
+  {
+    "id": "blog-techkorea",
+    "name": "TechKorea Blog",
+    "handle": "TechKoreaBlog",
+    "kind": "blog",
+    "url": "https://techkorea.example.com",
+    "focus": [
+      "korea",
+      "tech",
+      "startups"
+    ],
+    "audience": 14000,
+    "addedAt": "2026-02-15",
+    "bio": "Korean tech ecosystem tracker — IPOs, Series B+, IPO pipeline (KOSDAQ)."
+  },
+  {
+    "id": "podcast-korea-investing",
+    "name": "Korea Investing Podcast",
+    "handle": "KoreaInvestPod",
+    "kind": "podcast",
+    "url": "https://koreainvestpod.example.com",
+    "focus": [
+      "korea",
+      "equities",
+      "long-form"
+    ],
+    "audience": 18000,
+    "addedAt": "2026-02-15",
+    "bio": "Long-form interviews with Korean fund managers and analysts."
+  },
+  {
+    "id": "podcast-hangang-traders",
+    "name": "Hangang Traders",
+    "handle": "HangangTraders",
+    "kind": "podcast",
+    "url": "https://hangangtraders.example.com",
+    "focus": [
+      "korea",
+      "trading",
+      "flow"
+    ],
+    "audience": 12000,
+    "addedAt": "2026-02-15",
+    "bio": "Trading-focused Korean-market podcast by Seoul-based pros."
+  },
+  {
+    "id": "x-reuters-korea",
+    "name": "Reuters Korea",
+    "handle": "ReutersKorea",
+    "kind": "x",
+    "url": "https://x.com/ReutersKorea",
+    "focus": [
+      "korea",
+      "news",
+      "macro"
+    ],
+    "audience": 110000,
+    "addedAt": "2026-02-15",
+    "bio": "Reuters Korea desk. Real-time Korean macro and corporate news."
+  },
+  {
+    "id": "x-ft-seoul",
+    "name": "FT Seoul",
+    "handle": "FTSeoul",
+    "kind": "x",
+    "url": "https://x.com/FTSeoul",
+    "focus": [
+      "korea",
+      "news",
+      "finance"
+    ],
+    "audience": 95000,
+    "addedAt": "2026-02-15",
+    "bio": "Financial Times Seoul coverage."
+  },
+  {
+    "id": "x-bloomberg-asia",
+    "name": "Bloomberg Asia",
+    "handle": "BloombergAsia",
+    "kind": "x",
+    "url": "https://x.com/BloombergAsia",
+    "focus": [
+      "asia",
+      "korea",
+      "markets"
+    ],
+    "audience": 220000,
+    "addedAt": "2026-02-15",
+    "bio": "Bloomberg Asia markets desk. Korea a primary beat."
+  },
+  {
+    "id": "x-korea-herald",
+    "name": "Korea Herald Business",
+    "handle": "kh_biz",
+    "kind": "x",
+    "url": "https://x.com/kh_biz",
+    "focus": [
+      "korea",
+      "business",
+      "news"
+    ],
+    "audience": 65000,
+    "addedAt": "2026-02-15",
+    "bio": "Korea Herald Business English desk."
+  },
+  {
+    "id": "x-korea-econ-daily",
+    "name": "Korea Economic Daily",
+    "handle": "ked_global",
+    "kind": "x",
+    "url": "https://x.com/ked_global",
+    "focus": [
+      "korea",
+      "economy",
+      "business"
+    ],
+    "audience": 80000,
+    "addedAt": "2026-02-15",
+    "bio": "Korea Economic Daily English wire."
+  },
+  {
+    "id": "x-yonhap-korea",
+    "name": "Yonhap News",
+    "handle": "YonhapNews",
+    "kind": "x",
+    "url": "https://x.com/YonhapNews",
+    "focus": [
+      "korea",
+      "news",
+      "wire-service"
+    ],
+    "audience": 130000,
+    "addedAt": "2026-02-15",
+    "bio": "Yonhap newswire English desk."
+  },
+  {
+    "id": "x-chaebol-watcher",
+    "name": "Chaebol Watcher",
+    "handle": "ChaebolWatcher",
+    "kind": "x",
+    "url": "https://x.com/ChaebolWatcher",
+    "focus": [
+      "korea",
+      "chaebol",
+      "governance"
+    ],
+    "audience": 7000,
+    "addedAt": "2026-02-15",
+    "bio": "Independent tracking of Korean chaebol governance, succession, and cross-shareholding."
+  },
+  {
+    "id": "x-china-korea-asia-risk",
+    "name": "Korea Risk",
+    "handle": "KoreaRisk",
+    "kind": "x",
+    "url": "https://x.com/KoreaRisk",
+    "focus": [
+      "korea",
+      "geopolitics",
+      "sanctions"
+    ],
+    "audience": 16000,
+    "addedAt": "2026-02-15",
+    "bio": "Korea geopolitical and sanctions risk newsletter on X."
+  },
+  {
+    "id": "substack-samdae-korea",
+    "name": "Samdae Korea",
+    "handle": "SamdaeKorea",
+    "kind": "substack",
+    "url": "https://samdaekorea.substack.com",
+    "focus": [
+      "korea",
+      "macro",
+      "asset-allocation"
+    ],
+    "audience": 20000,
+    "addedAt": "2026-02-15",
+    "bio": "Korea exposure for global asset allocators — KOSPI weight, won, KTB."
+  },
+  {
+    "id": "blog-kospi-king",
+    "name": "KOSPI King",
+    "handle": "KOSPIKing",
+    "kind": "blog",
+    "url": "https://kospiking.example.com",
+    "focus": [
+      "kospi",
+      "dividend",
+      "blue-chip"
+    ],
+    "audience": 11000,
+    "addedAt": "2026-02-15",
+    "bio": "Dividend and blue-chip KOSPI 200 coverage for income-focused allocators."
+  },
+  {
+    "id": "podcast-pinksheets-kr",
+    "name": "Pink Sheets Korea",
+    "handle": "PinkSheetsKR",
+    "kind": "podcast",
+    "url": "https://pinksheetskr.example.com",
+    "focus": [
+      "korea",
+      "small-cap",
+      "kosdaq"
+    ],
+    "audience": 8000,
+    "addedAt": "2026-02-15",
+    "bio": "KOSDAQ small-cap interviews; deep-dives on Korean growth stories."
+  },
+  {
+    "id": "newsletter-em-asia-alpha",
+    "name": "EM Asia Alpha",
+    "handle": "EMAsiaAlpha",
+    "kind": "newsletter",
+    "url": "https:enas.example.com/AsiaAlpha",
+    "focus": [
+      "em",
+      "asia",
+      "korea"
+    ],
+    "audience": 17000,
+    "addedAt": "2026-02-15",
+    "bio": "EM Asia allocators’ weekly note; Korea consistently a featured market."
+  },
+  {
+    "id": "fund-letter-hangang-fund",
+    "name": "Hangang Fund Letter",
+    "handle": "HangangFund",
+    "kind": "fund-letter",
+    "url": "https://hangangfund.example.com",
+    "focus": [
+      "korea",
+      "long-short",
+      "macro-overlay"
+    ],
+    "audience": 6500,
+    "addedAt": "2026-02-15",
+    "bio": "Korea long-short fund; multi-factor overlay and macro hedge sleeve."
+  }
+]
