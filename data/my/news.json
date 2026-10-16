@@ -1,5 +1,541 @@
 [
   {
+    "title": "EU Carmakers Hail Deal on Emissions That Opens Door to the UK",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/eu-carmakers-hail-deal-on-emissions-that-opens-door-to-the-uk",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T16:57:58.000Z",
+    "excerpt": "Europe’s auto industry welcomed a deal between France and Germany that provides relief for manufacturers grappling with high costs and intense Chinese competition.",
+    "tickers": []
+  },
+  {
+    "title": "Treasuries head for big weekly gains as AI jitters halt bond rout",
+    "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T16:55:10.000Z",
+    "excerpt": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
+    "tickers": []
+  },
+  {
+    "title": "Long-Term Treasuries Fall as Dealer Survey Offers Little Signal",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/long-term-treasuries-fall-as-dealer-survey-offers-little-signal",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T16:31:16.000Z",
+    "excerpt": "Long-term Treasuries fell after some Wall Street predictions fell flat that US government officials would directly nod at the possibility of reducing its sales of those securities.",
+    "tickers": []
+  },
+  {
+    "title": "Dollar Heads for Worst Week in Over a Month as Warsh Stays Quiet",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/dollar-heads-for-worst-week-in-over-a-month-as-warsh-stays-quiet",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T16:24:13.000Z",
+    "excerpt": "The dollar is about to break a four-week winning streak after remarks from Federal Reserve Chairman Kevin Warsh failed to give it a lift.",
+    "tickers": []
+  },
+  {
+    "title": "Maresca says Man City ‘more together’ after financial charges",
+    "url": "https://www.freemalaysiatoday.com/category/sports/2026/10/17/maresca-says-man-city-more-together-after-financial-charges",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T16:15:59.000Z",
+    "excerpt": "Enzo Maresca says Manchester City have become more united since being found guilty of more than 100 breaches of Premier League financial rules.",
+    "tickers": []
+  },
+  {
+    "title": "Paschi Top 10 Investor Goldstone Backs Intesa Takeover Bid",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/paschi-top-10-investor-goldstone-backs-intesa-takeover-bid",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T16:13:47.000Z",
+    "excerpt": "Goldstone Capital Limited, a shareholder in Banca Monte dei Paschi di Siena SpA backed by Qatari investors, said it supports Intesa Sanpaolo SpA’s takeover bid for the Tuscan lender, emerging as the latest investor to support the deal.",
+    "tickers": []
+  },
+  {
+    "title": "Chip Stocks Set for Longest Losing Run Since 2008",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-16/bloomberg-surveillance-10-16-2026-video",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T16:02:21.000Z",
+    "excerpt": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surv",
+    "tickers": []
+  },
+  {
+    "title": "Trump did not order Starshield curbs for Ukraine, says US official",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/16/trump-did-not-order-curb-to-starshield-for-ukraine",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:56:21.000Z",
+    "excerpt": "Tech billionaire Elon Musk says any limits on the communications system would ultimately have come from US president Donald Trump.",
+    "tickers": []
+  },
+  {
+    "title": "Ismail patut letak jawatan selepas ditegur Yang Dipertuan Besar, kata peguam",
+    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/ismail-patut-letak-jawatan-selepas-ditegur-yang-dipertuan-besar-kata-peguam",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:54:00.000Z",
+    "excerpt": "Rosli Dahlan kata Menteri Besar Negeri Sembilan Ismail Lasim patut letak jawatan dan bertaubat.",
+    "tickers": []
+  },
+  {
+    "title": "Iraq says it lost US$60bil as Mideast war hits oil exports",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/iraq-says-it-lost-us-60bil-as-mideast-war-hits-oil-exports",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:53:51.000Z",
+    "excerpt": "Iran’s blockade of the Strait of Hormuz forced Iraq to halt most of its oil production.",
+    "tickers": []
+  },
+  {
+    "title": "Bomb maker injured as fish bomb blows up in kitchen",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/bomb-maker-injured-as-fish-bomb-blows-up-in-kitchen",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:51:00.000Z",
+    "excerpt": "Police say the man had been making a homemade explosive device for fishing. Materials suspected of being used to make fish bombs were found at the scene.",
+    "tickers": []
+  },
+  {
+    "title": "RM1 billion goodwill charge in HK may hit Public Bank earnings",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/rm1-billion-goodwill-charge-in-hk-may-hit-public-bank-earnings",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:42:00.000Z",
+    "excerpt": "The goodwill impairment is expected to lead to a net loss of up to HK$2 billion at its Hong Kong subsidiary.\n",
+    "tickers": []
+  },
+  {
+    "title": "Jangan jadi Adun, Ahli Parlimen serentak, kata Speaker DUN Sarawak",
+    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/16/jangan-jadi-adun-ahli-parlimen-serentak-kata-speaker-dun-sarawak",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:37:17.000Z",
+    "excerpt": "Susulan pertikaman lidah mengenai Ketua Pembangkang Chong Chieng Jen, Asfia Awang Nassar tegaskan bahawa ahli politik tidak patut pegang kedua-dua jawatan jika tiada masa.",
+    "tickers": []
+  },
+  {
+    "title": "Chelsea’s captain James faces lay-off after knee surgery",
+    "url": "https://www.freemalaysiatoday.com/category/sports/2026/10/16/chelsea-s-captain-james-faces-lay-off-after-knee-surgery",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:29:10.000Z",
+    "excerpt": "The England international, Reece James, missed last week’s 5-1 win over Bournemouth after suffering an injury in training.",
+    "tickers": []
+  },
+  {
+    "title": "‘Doraemon’ lands in jail over borrowed tool not returned",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/doraemon-lands-in-jail-over-borrowed-tool-not-returned",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:26:00.000Z",
+    "excerpt": "The man pleaded guilty to attacking his uncle with a sickle after a dispute over a scoop that he borrowed some time ago.\n",
+    "tickers": []
+  },
+  {
+    "title": "Apple set for UK legal fight over iPhone tap-to-pay rules",
+    "url": "https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T15:21:03.000Z",
+    "excerpt": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
+    "tickers": []
+  },
+  {
+    "title": "Ismail should resign as MB after royal rebuke, lawyer says",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/ismail-should-resign-as-mb-after-royal-rebuke-lawyer-says",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:18:00.000Z",
+    "excerpt": "Rosli Dahlan says menteri besar Ismail Lasim should resign and repent after having been exposed as a 'treacherous man'.",
+    "tickers": []
+  },
+  {
+    "title": "Italy, Spain agree to remove border checks",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/16/italy-spain-agree-to-remove-border-checks",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T15:05:00.000Z",
+    "excerpt": "Italy and Spain have agreed to remove border checks introduced following a dispute over migration.",
+    "tickers": []
+  },
+  {
+    "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+    "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T14:58:54.000Z",
+    "excerpt": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts ",
+    "tickers": []
+  },
+  {
+    "title": "India detains leader of ‘cockroach’ movement",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/16/india-detains-leader-of-cockroach-movement",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-10-16T14:48:03.000Z",
+    "excerpt": "Police detained Cockroach Janta Party leader Abhijeet Dipke ahead of fresh protests demanding the removal of the country's election chief.",
+    "tickers": []
+  },
+  {
+    "title": "S&P 500 Slides as Chipmakers Extend Slump on Growing AI Worries",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T14:01:24.000Z",
+    "excerpt": "The S&amp;P 500 Index drifted lower on Friday and was on track for its worst week in about two months as worries about the viability of the artificial intelligence trade weighed on chipmakers.",
+    "tickers": []
+  },
+  {
+    "title": "Lufthansa exploring sale of software assets in €1bn deal ",
+    "url": "https://www.ft.com/content/800db28a-9176-4ca3-9334-69ede9a2b3ef?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T13:56:44.000Z",
+    "excerpt": "Discussions come as German airline seeks to free up cash to make investments following stake in Portuguese carrier",
+    "tickers": []
+  },
+  {
+    "title": "Zahid says Malaysia ready to help Indonesia fight forest fires after Prabowo accepts foreign aid",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/zahid-says-malaysia-ready-to-help-indonesia-fight-forest-fires-after-prabowo-accepts-foreign-aid/239384",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T12:27:10.000Z",
+    "excerpt": "TIANJIN, Oct 16 &mdash; Malaysia is ready to help Indonesia tackle widespread forest and land fires after President Prab...",
+    "tickers": []
+  },
+  {
+    "title": "Perlis MACC recovers nearly RM700,000 through forfeitures since 2024",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/perlis-macc-recovers-nearly-rm700000-through-forfeitures-since-2024/239383",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T12:21:07.000Z",
+    "excerpt": "ARAU, Oct 16 &mdash; The Perlis Malaysian Anti-Corruption Commission (MACC) has recovered RM698,255.55 through forfeitur...",
+    "tickers": []
+  },
+  {
+    "title": "Malaysia’s economy holds up despite global shocks, economists see room to beat growth target",
+    "url": "https://www.malaymail.com/news/money/2026/10/16/malaysias-economy-holds-up-despite-global-shocks-economists-see-room-to-beat-growth-target/239382",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T12:14:50.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; Malaysia is on track to exceed its official full-year gross domestic product (GDP) growth f...",
+    "tickers": []
+  },
+  {
+    "title": "Malaysia&#039;s palm oil industry steps up fire prevention efforts as &#039;Godzilla&#039; El Nino fuels haze woes",
+    "url": "https://www.channelnewsasia.com/asia/haze-malaysia-indonesia-palm-oil-plantation-fires-el-nino-6465896",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T12:10:25.000Z",
+    "excerpt": "Prolonged dry weather linked to El Nino is affecting crop yields and hampering efforts to contain fires contributing to the regional haze, industry players say.",
+    "tickers": []
+  },
+  {
+    "title": "El Niño could hit fishermen, fish farms as temperatures soar to 40°C, says Mat Sabu",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/el-nino-could-hit-fishermen-fish-farms-as-temperatures-soar-to-40c-says-mat-sabu/239381",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T12:09:08.000Z",
+    "excerpt": "KOTA BHARU, Oct 16 &mdash; Coastal fishermen and aquaculture operators could be hit if El Ni&ntilde;o pushes temperature...",
+    "tickers": []
+  },
+  {
+    "title": "Two TNB contractors critically injured by electric shock as substation fire triggers Johor Bahru blackout (VIDEO)",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/two-tnb-contractors-critically-injured-by-electric-shock-as-substation-fire-triggers-johor-bahru-blackout-video/239385",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T12:03:00.000Z",
+    "excerpt": "JOHOR BAHRU, Oct 16 &mdash; Two Tenaga Nasional Berhad (TNB) contractors were critically injured after suffering electri...",
+    "tickers": []
+  },
+  {
+    "title": "AAIB flags firefighting gaps at Sarawak airstrip after crash killed five",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/aaib-flags-firefighting-gaps-at-sarawak-airstrip-after-crash-killed-five/239371",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T11:38:13.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; The Air Accidents Investigation Bureau (AAIB) has urged the operator of Long Lellang Short...",
+    "tickers": []
+  },
+  {
+    "title": "Bursa Malaysia slips as investors take profit in heavyweight stocks",
+    "url": "https://www.malaymail.com/news/money/2026/10/16/bursa-malaysia-slips-as-investors-take-profit-in-heavyweight-stocks/239379",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T11:32:08.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; Bursa Malaysia closed lower on Friday&nbsp;as buying interest shifted from index heavyweigh...",
+    "tickers": []
+  },
+  {
+    "title": "Ringgit strengthens against US dollar after robust third-quarter GDP estimate",
+    "url": "https://www.malaymail.com/news/money/2026/10/16/ringgit-strengthens-against-us-dollar-after-robust-third-quarter-gdp-estimate/239378",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T11:28:57.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; The ringgit closed higher against the US dollar on Friday, supported by Malaysia&rsquo;s hi...",
+    "tickers": []
+  },
+  {
+    "title": "Haze watch: 29 areas recording unhealthy or worse air, Larkin, Pasir Gudang API hits 202",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/haze-watch-29-areas-recording-unhealthy-or-worse-air-larkin-pasir-gudang-api-hits-202/239370",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T11:23:20.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; Air quality in Larkin and Pasir Gudang, Johor, deteriorated to very unhealthy levels this e...",
+    "tickers": []
+  },
+  {
+    "title": "Fatal Senawang crash: Lorry rammed into JPJ car during roadside inspection, police say",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/fatal-senawang-crash-lorry-rammed-into-jpj-car-during-roadside-inspection-police-say/239369",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T11:16:35.000Z",
+    "excerpt": "SEREMBAN, Oct 16 &mdash; A lorry carrying dry food products lost control and crashed into a Road Transport Department (J...",
+    "tickers": []
+  },
+  {
+    "title": "Shareholders should have a say on making AI safe",
+    "url": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T11:05:46.000Z",
+    "excerpt": "SEC decision to rescind key rule on voting could not have come at a worse time",
+    "tickers": []
+  },
+  {
+    "title": "The once-obscure tech at the heart of the green energy trade war",
+    "url": "https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T11:01:09.000Z",
+    "excerpt": "Power inverters are central to the global clean electricity boom but reliance on China is triggering security fears",
+    "tickers": []
+  },
+  {
+    "title": "‘They were aware’: Bukit Aman on five Malaysians held in Tokyo with cocaine in their shoes",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/they-were-aware-bukit-aman-on-five-malaysians-held-in-tokyo-with-cocaine-in-their-shoes/239372",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T10:58:48.000Z",
+    "excerpt": "JOHOR BAHRU, Oct 16 &mdash; Five Malaysians arrested for concealing five kilograms of cocaine in their shoe soles at Han...",
+    "tickers": []
+  },
+  {
+    "title": "Wet and windy: MetMalaysia warns of thunderstorms in 11 states and Putrajaya until 8pm",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/wet-and-windy-metmalaysia-warns-of-thunderstorms-in-11-states-and-putrajaya-until-8pm/239373",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T10:43:37.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; Thunderstorms, heavy rain and strong winds are forecast across Perlis, Melaka, Putrajaya an...",
+    "tickers": []
+  },
+  {
+    "title": "Philippines eyes billions in investment from Pax Silica tech hub, but farmers fear for their livelihoods",
+    "url": "https://www.channelnewsasia.com/asia/philippines-pax-silica-tech-hub-investment-farmers-fear-livelihoods-6465486",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T10:34:27.000Z",
+    "excerpt": "A proposed industrial park in Tarlac province under the United States-led Pax Silica initiative could create thousands of jobs, but residents and experts are raising concerns over transparency, displacement and pressure on resources.",
+    "tickers": []
+  },
+  {
+    "title": "Transport minister vows action if negligence found in Senawang fatal crash involving JPJ officers",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/transport-minister-vows-action-if-negligence-found-in-senawang-fatal-crash-involving-jpj-officers/239368",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T10:31:05.000Z",
+    "excerpt": "PUTRAJAYA, Oct 16 &mdash; The Road Transport Department (JPJ) will provide full cooperation to the Royal Malaysia Police...",
+    "tickers": []
+  },
+  {
+    "title": "Sizing CoreWeave’s ‘unlimited’ insurance capital",
+    "url": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T10:24:31.000Z",
+    "excerpt": "Quite big, but still quite far away",
+    "tickers": []
+  },
+  {
+    "title": "Want OKU status? Here’s how the Welfare Dept evaluates applications",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/want-oku-status-heres-how-the-welfare-dept-evaluates-applications/239367",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T10:18:17.000Z",
+    "excerpt": "PUTRAJAYA, Oct 16 &mdash; The registration of persons with disabilities (OKU) follows the OKU Registration Guidelines (2...",
+    "tickers": []
+  },
+  {
+    "title": "Philanthropy can help bridge gaps as AI and climate change reshape societies, says Philanthropy Asia Alliance chief",
+    "url": "https://www.channelnewsasia.com/east-asia/philanthropy-asia-alliance-ceo-shaun-seow-tsinghua-university-impact-summit-6465401",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T10:12:45.000Z",
+    "excerpt": "The Tsinghua-Philanthropy Asia Alliance Impact Summit brought together leaders from philanthropy, business, government and academia to explore how innovation and collaboration can help tackle challenges.",
+    "tickers": []
+  },
+  {
+    "title": "Govt overpaid Semantan Estate up to RM500,000 for Duta Enclave land, property valuer tells court",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/govt-overpaid-semantan-estate-up-to-rm500000-for-duta-enclave-land-property-valuer-tells-court/239366",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-10-16T10:03:41.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; The High Court was told today that the Malaysian Government had overpaid Semantan Estate Sd...",
+    "tickers": []
+  },
+  {
+    "title": "China&#039;s central bank to further open up Chinese financial markets to foreigners",
+    "url": "https://www.channelnewsasia.com/business/china-central-bank-open-up-financial-markets-foreigners-6465451",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T09:30:00.000Z",
+    "excerpt": "&quot;China’s steady economic growth and rapid development of high-tech industries provide solid support for RMB assets,&quot; said China&#039;s central bank governor Pan Gongsheng.&amp;nbsp;",
+    "tickers": []
+  },
+  {
+    "title": "Businessweek This Month: It’s Game On For Women’s Sports",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-16/businessweek-this-month-it-s-game-on-for-women-s-sports",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T09:00:37.000Z",
+    "excerpt": "It's GAME ON in the November issue of Bloomberg Businessweek. Brad Stone breaks down the boom in the business of women’s sports, and shares an inside look at Rockstar Games, the video game company behind GTA VI (Source: Bloomberg)",
+    "tickers": []
+  },
+  {
+    "title": "Coffee’s Coming Glut May Not Be Enough to Calm Volatile Prices",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/coffee-s-coming-glut-may-not-be-enough-to-calm-volatile-prices",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T07:30:00.000Z",
+    "excerpt": "After years of shortages, the world is finally getting more coffee. The question is how much of it will reach the exchange warehouses that underpin prices across the industry.",
+    "tickers": []
+  },
+  {
+    "title": "Rogue AI agents broke into Indian firms&#039; live systems, government says",
+    "url": "https://www.channelnewsasia.com/asia/rogue-ai-agents-indian-firms-live-systems-6465256",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T07:03:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Trump&#039;s new press secretary says China lacked &#039;proper&#039; toilets",
+    "url": "https://www.channelnewsasia.com/world/trump-press-secretary-katie-zacharia-china-toilets-6465166",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T06:30:00.000Z",
+    "excerpt": "&quot;I remember this very distinctly, having just come from China, thinking, &#039;How is China the next country on the horizon? They don&#039;t even have proper toilets&#039;,&quot; said White House press secretary Katie Zacharia.",
+    "tickers": []
+  },
+  {
+    "title": "Security stepped up in India&#039;s capital for &#039;cockroach&#039; movement rally",
+    "url": "https://www.channelnewsasia.com/asia/india-delhi-cockroach-movement-rally-security-protest-6465161",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T06:06:00.000Z",
+    "excerpt": "The rally on Friday (Oct 16) is in support of the two Cockroach Janta Party leaders detained and sent to jail this week for demonstrating at a protest site, said founder Abhijeet Dipke.",
+    "tickers": []
+  },
+  {
+    "title": "Hiding from the everything trade",
+    "url": "https://www.ft.com/content/6533c873-29df-453b-9ac4-7b17e5a3576f?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T05:30:07.000Z",
+    "excerpt": "Unhedged readers on how to hedge AI risk ",
+    "tickers": []
+  },
+  {
+    "title": "Tengku Zafrul urges closer Asean ties to overcome trade barriers at aseanX launch",
+    "url": "https://www.malaymail.com/news/money/2026/10/16/tengku-zafrul-urges-closer-asean-ties-to-overcome-trade-barriers-at-aseanx-launch/239314",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T05:08:12.000Z",
+    "excerpt": "KUALA LUMPUR, Oct 16 &mdash; Datuk Seri Tengku Zafrul Abdul Aziz today hailed private information platform aseanX as a p...",
+    "tickers": []
+  },
+  {
+    "title": "So. About next year’s earnings . . . ",
+    "url": "https://www.ft.com/content/d36787c1-f0b0-4445-8237-90eb4d521081",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T05:00:08.000Z",
+    "excerpt": "Beat IT",
+    "tickers": []
+  },
+  {
+    "title": "Four killed fighting wildfires in Indonesian national park",
+    "url": "https://www.channelnewsasia.com/asia/four-killed-fighting-wildfires-in-indonesian-national-park-6465026",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T04:59:00.000Z",
+    "excerpt": "The four men were overwhelmed while battling flames in the Bromo Tengger Semeru National Park in East Java.",
+    "tickers": []
+  },
+  {
+    "title": "The data centre IPO debacle that sparked a market meltdown",
+    "url": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T04:54:52.000Z",
+    "excerpt": "Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy ",
+    "tickers": []
+  },
+  {
+    "title": "Malaysia’s economy grows 5.3pc in third quarter, slower than previous quarter",
+    "url": "https://www.malaymail.com/news/malaysia/2026/10/16/malaysias-economy-grows-53pc-in-third-quarter-slower-than-previous-quarter/239311",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T04:33:34.000Z",
+    "excerpt": "&nbsp;KUALA LUMPUR, Oct 16 &mdash; Malaysia&rsquo;s economy expanded by 5.3 per cent in the third quarter of 2026 (3Q 20...",
+    "tickers": []
+  },
+  {
+    "title": "Malaysia&#039;s economy grows 5.3% year-on-year in Q3: Advance estimate",
+    "url": "https://www.channelnewsasia.com/business/malaysia-economy-growth-q3-official-advance-estimate-6464966",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T04:06:00.000Z",
+    "excerpt": "Malaysia has benefited from a global boom in artificial intelligence infrastructure that has driven demand for its tech products and semiconductors.",
+    "tickers": []
+  },
+  {
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T04:00:18.000Z",
+    "excerpt": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+    "tickers": []
+  },
+  {
+    "title": "Why is the fintech boom failing to improve fin-lit? ",
+    "url": "https://www.ft.com/content/4dfcf1ba-0b8e-4198-b0a4-e975ebde9066",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-10-16T04:00:09.000Z",
+    "excerpt": "What good is $1tn of investment if financial literacy levels are falling? ",
+    "tickers": []
+  },
+  {
+    "title": "Indonesian stocks dive 11% as MSCI weighs market reclassification",
+    "url": "https://www.channelnewsasia.com/business/indonesia-stocks-msci-weigh-market-reclassification-6464081",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T03:43:00.000Z",
+    "excerpt": "MSCI said on Friday (Oct 16) it plans to downgrade Indonesia to &quot;standalone&quot; status, sparking a sell-off.&amp;nbsp;",
+    "tickers": []
+  },
+  {
+    "title": "China says can &#039;easily win&#039; confrontation with Philippines",
+    "url": "https://www.channelnewsasia.com/east-asia/china-easily-win-confrontation-philippines-6464791",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T03:28:20.000Z",
+    "excerpt": "The remarks by Chinese Ambassador Jing Quan came a day after Philippine defence chief Gilberto Teodoro labelled Beijing a regional &quot;troublemaker&quot;.&amp;nbsp;",
+    "tickers": []
+  },
+  {
+    "title": "Bursa Malaysia retreats from opening gains as investors turn cautious ahead of weekend",
+    "url": "https://www.malaymail.com/news/money/2026/10/16/bursa-malaysia-retreats-from-opening-gains-as-investors-turn-cautious-ahead-of-weekend/239291",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T02:39:27.000Z",
+    "excerpt": "&nbsp;KUALA LUMPUR, Oct 16 &mdash;&nbsp;Bursa Malaysia opened slightly higher today&nbsp;but eased thereafter due to mil...",
+    "tickers": []
+  },
+  {
+    "title": "Trump says he is talking to Russia and China about denuclearisation",
+    "url": "https://www.channelnewsasia.com/world/trump-russia-china-denuclearisation-6464736",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-10-16T02:27:35.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Ringgit steady against US dollar ahead of Malaysia’s third-quarter GDP estimate",
+    "url": "https://www.malaymail.com/news/money/2026/10/16/ringgit-steady-against-us-dollar-ahead-of-malaysias-third-quarter-gdp-estimate/239280",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-10-16T01:48:35.000Z",
+    "excerpt": "&nbsp;KUALA LUMPUR, Oct 16 &mdash; The ringgit opened flat against the US dollar today&nbsp;as external factors, includi...",
+    "tickers": []
+  },
+  {
+    "title": "Indian Police Detain ‘Cockroach’ Leader as Protests Spread",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/new-delhi-braces-for-fresh-crackdown-as-cockroaches-plan-march",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-16T01:00:00.000Z",
+    "excerpt": "Indian authorities detained the founder of the youth-led Cockroach Janta Party, Abhijeet Dipke, on Friday in a bid to block a protest that drew thousands of demonstrators on the streets of New Delhi over a contentious voter-roll revision an",
+    "tickers": []
+  },
+  {
+    "title": "Brazil Judge Orders Meta to Treat Runoff Candidates Equally",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/brazil-judge-orders-meta-to-treat-runoff-candidates-equally",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-15T23:54:41.000Z",
+    "excerpt": "A Brazilian electoral court judge ordered Meta Platforms Inc. not to interfere with the distribution of political or election-related content from any candidate in the Oct. 25 runoff.",
+    "tickers": []
+  },
+  {
+    "title": "Stocks Fall on Renewed AI Jitters as Oil Climbs: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-15T22:04:06.000Z",
+    "excerpt": "The final stretch of a volatile week on Wall Street saw stocks dropping amid a technology selloff that has left investors questioning the outlook for the artificial-intelligence trade.",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Oct. 16",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-10-15T22:03:58.000Z",
+    "excerpt": "Oil edged higher on growing doubts about US President Donald Trump’s deal to release more Russian diesel into global markets amid supply disruptions from the Strait of Hormuz to the Black Sea.",
+    "tickers": []
+  },
+  {
     "title": "Peru’s Economy Expanded Faster Than 3% for Second Month",
     "url": "https://www.bloomberg.com/news/articles/2026-10-15/peru-s-economy-expanded-faster-than-3-for-second-month",
     "source": "Bloomberg — Markets",
@@ -101,478 +637,6 @@
     "source": "Financial Times — Markets",
     "publishedAt": "2026-10-15T14:56:35.000Z",
     "excerpt": "Global chip stocks hit with two-day sell-off amid fears over sustainability of AI boom",
-    "tickers": []
-  },
-  {
-    "title": "Netanyahu’s rival vows to end Hamas rule within 18 months if elected",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/15/netanyahu-s-rival-vows-to-end-hamas-rule-within-18-months-if-elected",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T14:41:18.000Z",
-    "excerpt": "Gadi Eisenkot says he will seek to disarm Hamas through US president Donald Trump’s ceasefire plan or Israeli military operations if he wins the Oct 27 election.",
-    "tickers": []
-  },
-  {
-    "title": "Tak penting pemimpin PAS jadi ketua pembangkang, kata Iskandar",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/tak-penting-pemimpin-pas-jadi-ketua-pembangkang-kata-iskandar",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T14:34:29.000Z",
-    "excerpt": "Bendahari PAS kata partinya tidak perlu dengar pandangan Puad Zarkashi supaya ambil alih jawatan ketua pembangkang daripada Hamzah Zainudin.",
-    "tickers": []
-  },
-  {
-    "title": "Guan Eng moots caning, CCTVs to tackle discipline, safety in schools",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/mps-moot-caning-cctvs-to-tackle-discipline-safety-in-schools",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T14:32:00.000Z",
-    "excerpt": "Other education issues raised by MPs in the Dewan Rakyat include teaching quality and skills training.",
-    "tickers": []
-  },
-  {
-    "title": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
-    "url": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T14:19:54.000Z",
-    "excerpt": "Duncan Wanblad says scarcity concerns are prompting companies to seek ways to secure long-term supplies of metals",
-    "tickers": []
-  },
-  {
-    "title": "Iran’s military says oil tanker on fire in Gulf of Oman",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/15/iran-s-military-says-oil-tanker-on-fire-in-gulf-of-oman",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T14:16:00.000Z",
-    "excerpt": "Tehran says the vessel was attempting to pass through a prohibited zone with its tracking systems switched off.",
-    "tickers": []
-  },
-  {
-    "title": "MHTC, Maybank kerjasama perluas akses perkhidmatan kesihatan Malaysia serata Asean",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/mhtc-maybank-kerjasama-perluas-akses-perkhidmatan-kesihatan-malaysia-serata-asean",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:52:40.000Z",
-    "excerpt": "Kerjasama berbilang tahun ini akan menghubungkan pelanggan Maybank di rantau ini dengan perkhidmatan kesihatan Malaysia, serta rancangan untuk berkembang ke lebih banyak pasaran mulai 2027.",
-    "tickers": []
-  },
-  {
-    "title": "IEA Agrees to Release of Outstanding 100 Million Oil Barrels",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/iea-agrees-to-release-of-outstanding-100-million-barrels-of-oil",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-10-15T13:52:09.000Z",
-    "excerpt": "The International Energy Agency said that member countries agreed to complete the release of 100 million barrels of oil that are still outstanding from an intervention in March aimed at cooling high fuel prices.",
-    "tickers": []
-  },
-  {
-    "title": "Revisit Tioman airport project, urges MP",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/revisit-tioman-airport-project-urges-mp",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:49:00.000Z",
-    "excerpt": "Rompin MP Abdul Khalib Abdullah says scrapping the airport project does not address the island’s transport woes.",
-    "tickers": []
-  },
-  {
-    "title": "Swiatek avoids seed exodus to breeze into Wuhan last eight",
-    "url": "https://www.freemalaysiatoday.com/category/sports/2026/10/15/swiatek-avoids-seed-exodus-to-breeze-into-wuhan-last-eight",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:47:00.000Z",
-    "excerpt": "Iga Swiatek reaches her second consecutive Wuhan Open quarter-final with a 6-1, 6-4 win over Ashlyn Krueger.",
-    "tickers": []
-  },
-  {
-    "title": "Tobacco firm fails to get leave to appeal RM302,400 award",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/tobacco-firm-fails-to-get-leave-to-appeal-rm302-400-award",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:37:00.000Z",
-    "excerpt": "Federal Court rejects company’s bid to challenge ruling that its former security manager was unfairly dismissed.",
-    "tickers": []
-  },
-  {
-    "title": "The future energy mix",
-    "url": "https://www.ft.com/content/d3a07d72-0f99-40b6-a1ad-97ecc91af81f",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T13:31:06.000Z",
-    "excerpt": "Decades of policy have sought to diversify not only sources of oil and natural gas but the energy mix as a whole.",
-    "tickers": []
-  },
-  {
-    "title": "Kerajaan digesa segera wajibkan Dasar Gaji Progresif dalam sektor swasta",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/15/kerajaan-digesa-segera-wajibkan-dasar-gaji-progresif-dalam-sektor-swasta",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:29:00.000Z",
-    "excerpt": "Ahli Parlimen Khairil Nizam Khirudin berkata, pelaksanaan dasar perlu disertai insentif subsidi gaji, bantu majikan tampung kos kenaikan upah pekerja.",
-    "tickers": []
-  },
-  {
-    "title": "Hezbollah says explosives seized by authorities belong to group",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/15/hezbollah-says-explosives-seized-by-authorities-belong-to-group",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:19:40.000Z",
-    "excerpt": "A Hezbollah lawmaker demands the return of the 500kg shipment of explosives, saying it was intended for use against Israel.",
-    "tickers": []
-  },
-  {
-    "title": "Appeals court upholds dismissal of 21 contractors’ suit against AG, MACC",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/10/15/appeals-court-upholds-dismissal-of-21-contractors-suit-against-ag-macc",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-10-15T13:15:00.000Z",
-    "excerpt": "A three-member bench ruled that ‘weak evidence’ and poor prosecution do not equate to malicious prosecution.",
-    "tickers": []
-  },
-  {
-    "title": "Private equity interest endangers London float of former DS Smith business",
-    "url": "https://www.ft.com/content/1ca17b0c-24f3-4c54-94b9-0b0526941efe?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T13:13:36.000Z",
-    "excerpt": "Lone Star and Atlas Holdings consider offers after owner International Paper announced plans to float the division in London",
-    "tickers": []
-  },
-  {
-    "title": "Why is Shell facing lawsuits over climate disasters in Brazil and the Philippines?",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/why-is-shell-facing-lawsuits-over-climate-disasters-in-brazil-and-the-philippines/239225",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T13:00:00.000Z",
-    "excerpt": "WASHINGTON, Oct 15 &mdash; A typhoon in the Philippines and flooding in Brazil. Twice in less than a year, British energ...",
-    "tickers": []
-  },
-  {
-    "title": "PM Anwar vows to fast‑track UM hostel project, says no leakages or wastage allowed",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/pm-anwar-vows-to-fasttrack-um-hostel-project-says-no-leakages-or-wastage-allowed/239254",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T12:56:36.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; Prime Minister Datuk Seri Anwar Ibrahim wants the Universiti Malaya (UM) Student Residence...",
-    "tickers": []
-  },
-  {
-    "title": "MOE reverts to haze plan: Schools shut at API 200, outdoor classes at 100, parents may keep kids home",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/moe-reverts-to-haze-plan-schools-shut-at-api-200-outdoor-classes-at-100-parents-may-keep-kids-home/239253",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T12:41:23.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; The Ministry of Education (MOE) has reverted to the National Haze Action Plan (PTJK) guidel...",
-    "tickers": []
-  },
-  {
-    "title": "Conference of Rulers deliberates PM term limits, AG‑PP separation and Child Act amendments",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/conference-of-rulers-deliberates-pm-term-limits-agpp-separation-and-child-act-amendments/239251",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T12:18:10.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; The proposed constitutional amendments to limit the Prime Minister&rsquo;s tenure and separ...",
-    "tickers": []
-  },
-  {
-    "title": "Bursa Malaysia snaps four-day winning streak as global markets retreat",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/bursa-malaysia-snaps-four-day-winning-streak-as-global-markets-retreat/239250",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T12:07:32.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; Bursa Malaysia&rsquo;s key index retreated four days of gains to close lower today, followi...",
-    "tickers": []
-  },
-  {
-    "title": "Prabowo approves foreign help to tackle fires causing regional haze, says Indonesian foreign minister",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-haze-prabowo-approves-foreign-help-6462316",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T12:06:00.000Z",
-    "excerpt": "Foreign Minister Arrmanatha Nasir did not specify which countries had offered help or what form the assistance would take.",
-    "tickers": []
-  },
-  {
-    "title": "Selangor schools in Klang, Petaling, Gombak and more closed tomorrow as haze worsens",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/selangor-schools-in-klang-petaling-gombak-and-more-closed-tomorrow-as-haze-worsens/239247",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T11:55:46.000Z",
-    "excerpt": "SHAH ALAM, Oct 15 &mdash; Schools under the Klang, Kuala Selangor, Kuala Langat, Hulu Langat, Gombak, Sepang, Petaling P...",
-    "tickers": []
-  },
-  {
-    "title": "Second activist pushes for sale of UK self-storage company Big Yellow",
-    "url": "https://www.ft.com/content/0d33f7c8-91e6-4a65-bf13-6447de9d2097?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T11:43:57.000Z",
-    "excerpt": "Irenic Capital takes 4% stake in FTSE 250 real estate group and joins Ancora in lobbying for a sale",
-    "tickers": []
-  },
-  {
-    "title": "Sudden death probe opened after student’s fatal fall at Penang dormitory",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/sudden-death-probe-opened-after-students-fatal-fall-at-penang-dormitory/239244",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T11:38:50.000Z",
-    "excerpt": "GEORGE TOWN, Oct 15 &mdash; A female university student died after allegedly falling from a building in the hostel block...",
-    "tickers": []
-  },
-  {
-    "title": "Penang statutory body chief pleads not guilty to 15 graft charges totalling RM800,000",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/penang-statutory-body-chief-pleads-not-guilty-to-15-graft-charges-totalling-rm800000/239242",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T11:25:12.000Z",
-    "excerpt": "GEORGE TOWN, Oct 15 &mdash; The chairman of a statutory body in Penang pleaded not guilty at the Sessions Court here tod...",
-    "tickers": []
-  },
-  {
-    "title": "Court of Appeal upholds 30‑year jail, 12 strokes for trader who hid step‑brother’s body in cement drum",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/court-of-appeal-upholds-30year-jail-12-strokes-for-trader-who-hid-stepbrothers-body-in-cement-drum/239240",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T11:02:20.000Z",
-    "excerpt": "PUTRAJAYA, Oct 15 &mdash; The Court of Appeal today upheld a 30-year jail sentence and 12 strokes of the cane imposed on...",
-    "tickers": []
-  },
-  {
-    "title": "Malaysia’s haze map turns red: Klang, Nilai, Shah Alam among worst affected at near‑200 API",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/malaysias-haze-map-turns-red-klang-nilai-shah-alam-among-worst-affected-at-near200-api/239237",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T10:54:08.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; A total of 34 areas recorded unhealthy Air Pollutant Index (API) readings as of 5pm today,...",
-    "tickers": []
-  },
-  {
-    "title": "Ringgit closes higher against weaker US dollar ahead of Malaysia’s 3Q GDP estimate",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/ringgit-closes-higher-against-weaker-us-dollar-ahead-of-malaysias-3q-gdp-estimate/239238",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T10:43:31.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; The ringgit closed higher against the weakening greenback today as investors assessed marke...",
-    "tickers": []
-  },
-  {
-    "title": "Dzulkefly: Families of MOH staff killed in Sarawak helicopter crash to receive pensions from Oct 21",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/dzulkefly-families-of-moh-staff-killed-in-sarawak-helicopter-crash-to-receive-pensions-from-oct-21/239236",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T10:31:54.000Z",
-    "excerpt": "PUTRAJAYA, Oct 15 &mdash; The next-of-kin of four Ministry of Health (MOH) staff who perished in a helicopter crash in L...",
-    "tickers": []
-  },
-  {
-    "title": "India retailers weigh impact of upcoming UPI transaction fees",
-    "url": "https://www.channelnewsasia.com/asia/upi-india-payment-charges-fees-digital-6462066",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T10:20:10.000Z",
-    "excerpt": "The charges, delayed until after Deepavali, could prompt some retailers to encourage other payment methods, even as experts argue they are needed to sustain the fast-growing network.\n&amp;nbsp;",
-    "tickers": []
-  },
-  {
-    "title": "Pan Pacific CEO upbeat on Southeast Asian tourism as regional travel demand rebounds",
-    "url": "https://www.channelnewsasia.com/business/pan-pacific-ceo-choe-peng-sum-tourism-rebound-southeast-asia-affluent-travellers-6461901",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T10:01:30.000Z",
-    "excerpt": "Pan Pacific is pressing ahead with its expansion plans, betting on shorter-haul travel and demand from affluent Asian tourists despite geopolitical disruptions.",
-    "tickers": []
-  },
-  {
-    "title": "KL police chief: Chemistry, pathology reports pending in custodial death case",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/kl-police-chief-chemistry-pathology-reports-pending-in-custodial-death-case/239230",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T09:24:14.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; Police are awaiting the full report from the Chemistry Department and official pathology re...",
-    "tickers": []
-  },
-  {
-    "title": "CoreWeave’s bonds scream financial distress",
-    "url": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T09:17:23.000Z",
-    "excerpt": "The company better hurry up figuring out how to tap insurers for cash",
-    "tickers": []
-  },
-  {
-    "title": "Woman brushing teeth behind wheel flashes middle finger before kicking auxiliary cop in groin at Glo Damansara",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/woman-brushing-teeth-behind-wheel-flashes-middle-finger-before-kicking-auxiliary-cop-in-groin-at-glo-damansara/239229",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T09:12:05.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; A woman who was allegedly brushing her teeth behind the wheel flashed her middle finger at...",
-    "tickers": []
-  },
-  {
-    "title": "Selangor, Putrajaya, Negeri Sembilan, Pahang schools stay open tomorrow amid haze",
-    "url": "https://www.malaymail.com/news/malaysia/2026/10/15/selangor-putrajaya-negeri-sembilan-pahang-schools-stay-open-tomorrow-amid-haze/239224",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-10-15T08:58:53.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; All educational institutions under the Ministry of Education (MOE) in Negeri Sembilan, Paha...",
-    "tickers": []
-  },
-  {
-    "title": "Indonesia disaster chief&#039;s brother among five suspects in alleged corruption case",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-corruption-disaster-agency-funds-6461676",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T08:44:00.000Z",
-    "excerpt": "One of the suspects&amp;nbsp;in an alleged corruption case involving the misuse of emergency funds at the&amp;nbsp;National Disaster Mitigation Agency is Bima Setyawan, the younger brother of agency chief Suharyanto.",
-    "tickers": []
-  },
-  {
-    "title": "Indonesia appoints new disaster agency head in President Prabowo&#039;s third reshuffle in a month",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-disaster-agency-head-cabinet-reshuffle-prabowo-6461641",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T08:39:00.000Z",
-    "excerpt": "The latest reshuffle follows one on Oct 1 that saw the appointment of new foreign and industry ministers&amp;nbsp;and eight other senior leaders of agencies and the police force.&amp;nbsp;",
-    "tickers": []
-  },
-  {
-    "title": "Pakistan school roof collapse kills 28; more deaths feared",
-    "url": "https://www.channelnewsasia.com/asia/pakistan-school-roof-collapse-dozens-students-dead-6461551",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T08:00:00.000Z",
-    "excerpt": "A rescue official said the ceiling came down on the students after the roof of a higher floor collapsed, crumpling the two storeys.",
-    "tickers": []
-  },
-  {
-    "title": "Indonesia to use dry ice to clear haze from forest fires",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-test-dry-ice-seeding-combat-haze-air-quality-visibility-6461586",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T07:30:00.000Z",
-    "excerpt": "The trial in South Sumatra is aimed at clearing smoke and increasing visibility in haze-affected areas.",
-    "tickers": []
-  },
-  {
-    "title": "EQT to acquire US real estate group Stockbridge  ",
-    "url": "https://www.ft.com/content/179f6911-cf9b-4fea-98e4-f635e8e8c563?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T07:27:36.000Z",
-    "excerpt": "Leading private capital groups increasingly seek to compete on scale",
-    "tickers": []
-  },
-  {
-    "title": "IMF warns Saudi Arabia and Gulf economies may take years to recover from war, Saudi economy projected to shrink 3.3pc",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/imf-warns-saudi-arabia-and-gulf-economies-may-take-years-to-recover-from-war-saudi-economy-projected-to-shrink-33pc/239202",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T07:12:25.000Z",
-    "excerpt": "BANGKOK, Oct 15 &mdash; The International Monetary Fund expects energy-rich Middle Eastern economies to bounce back, but...",
-    "tickers": []
-  },
-  {
-    "title": "&#039;Very dangerous&#039;: Timor-Leste shuts schools over Indonesia haze",
-    "url": "https://www.channelnewsasia.com/asia/timor-leste-shuts-schools-indonesia-haze-6461526",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T06:46:34.000Z",
-    "excerpt": "The fires have burned through hundreds of thousands of hectares of forest and plantations in Indonesia, and caused air pollution to surge locally, as well as in Malaysia, Singapore, the Philippines and Timor-Leste.",
-    "tickers": []
-  },
-  {
-    "title": "Malaysia Airlines crowned world’s best MICE carrier, double win fuels top‑10 global push",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/malaysia-airlines-crowned-worlds-best-mice-carrier-double-win-fuels-top10-global-push/239185",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T06:14:44.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 15 &mdash; Malaysia Airlines has clinched a double win at the 2026 World MICE Awards, taking home the...",
-    "tickers": []
-  },
-  {
-    "title": "Batam blackout may have been caused by lightning, bat interference: Minister",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-batam-blackout-lightning-bat-disrupting-businesses-6461426",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T05:50:52.000Z",
-    "excerpt": "The widespread power outage is estimated to have caused economic losses of around 233.5 billion rupiah (US$13 million), according to economic experts.",
-    "tickers": []
-  },
-  {
-    "title": "CPI comes in hot, AI goes cold",
-    "url": "https://www.ft.com/content/789307ae-5109-465c-9b79-7ce71308f0d2?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T05:30:09.000Z",
-    "excerpt": "Plus: the EM index is just an AI bet now ",
-    "tickers": []
-  },
-  {
-    "title": "Hong Kong bus operators seek fare increases, citing increased fuel prices due to Middle East war",
-    "url": "https://www.channelnewsasia.com/east-asia/hong-kong-bus-fare-increases-middle-east-war-fuel-prices-6461241",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T04:58:04.000Z",
-    "excerpt": "Hong Kong franchised bus operator Citybus sought the highest increase at 17.7 per cent, followed by Kowloon Motor Bus Company at 16 per cent.",
-    "tickers": []
-  },
-  {
-    "title": "General Atlantic’s IPO ambitions",
-    "url": "https://www.ft.com/content/d9353431-e9ba-4b34-a277-ab1510120ef8?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T04:00:39.000Z",
-    "excerpt": "The private capital group is planning to go public in the first half of next year as it seeks to keep pace with listed rivals like Blackstone and Apollo Global",
-    "tickers": []
-  },
-  {
-    "title": "London’s gold market enjoys the Trump effect",
-    "url": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-10-15T04:00:39.000Z",
-    "excerpt": "The City’s dominance of physical trading in the metal is being reinforced by global instability",
-    "tickers": []
-  },
-  {
-    "title": "Boy, 16, charged with murder of classmate in Johor",
-    "url": "https://www.channelnewsasia.com/asia/johor-murder-court-batu-pahat-irene-sofiya-schoolgirl-6461151",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T03:22:00.000Z",
-    "excerpt": "He is accused of killing Irene Sofiya Mohd Khairool Faisal, 16, at the secondary school SMK Dato&#039; Seth in Yong Peng between 2.30pm and 4pm on Oct 3.",
-    "tickers": []
-  },
-  {
-    "title": "Bursa Malaysia opens lower as US inflation stokes fears of tighter monetary policy",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/bursa-malaysia-opens-lower-as-us-inflation-stokes-fears-of-tighter-monetary-policy/239179",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T03:19:11.000Z",
-    "excerpt": "&nbsp;KUALA LUMPUR, Oct 15 &mdash; Bursa Malaysia opened lower on Thursday, tracking losses on Wall Street, as hotter-th...",
-    "tickers": []
-  },
-  {
-    "title": "Malaysia raises threshold for haze-related school closures",
-    "url": "https://www.channelnewsasia.com/asia/malaysia-raises-limits-school-closure-haze-api-6460991",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-10-15T02:26:00.000Z",
-    "excerpt": "Schools will now close in areas where the Air Pollutant Index (API) exceeds 200, while outdoor activities will be suspended when the readings reach 100 or above.",
-    "tickers": []
-  },
-  {
-    "title": "Ringgit slips against US dollar as hotter inflation strengthens greenback",
-    "url": "https://www.malaymail.com/news/money/2026/10/15/ringgit-slips-against-us-dollar-as-hotter-inflation-strengthens-greenback/239162",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-15T01:12:51.000Z",
-    "excerpt": "&nbsp;KUALA LUMPUR, Oct 15 &mdash;&nbsp;The ringgit opened lower against the US dollar today&nbsp;as stronger-than-expec...",
-    "tickers": []
-  },
-  {
-    "title": "Treasuries Soar as Technology Share Slump Threatens Growth",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-10-15T00:27:03.000Z",
-    "excerpt": "Treasuries led a global bond rally as a selloff in artificial-intelligence shares deepened, spurring demand for havens from a growth slowdown.",
-    "tickers": []
-  },
-  {
-    "title": "S&P 500 Bounces as Chip Drop Spurs Stock Rotation: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-10-14T22:04:59.000Z",
-    "excerpt": "Wall Street traders drove a rotation out of high-profile chipmakers and into a broader category of stocks while fueling a push toward the safety of bonds.",
-    "tickers": []
-  },
-  {
-    "title": "Selangor International Business Summit: State attracts over RM3b in potential investment from four foreign investors",
-    "url": "https://www.malaymail.com/news/money/2026/10/14/selangor-international-business-summit-state-attracts-over-rm3b-in-potential-investment-from-four-foreign-investors/239134",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-14T12:07:01.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 14 &mdash; Selangor has attracted potential investment exceeding RM3 billion from four foreign investo...",
-    "tickers": []
-  },
-  {
-    "title": "Diesel supplies to remain ‘tight’ into 2027 amid Iran war fallout, says IEA",
-    "url": "https://www.malaymail.com/news/money/2026/10/14/diesel-supplies-to-remain-tight-into-2027-amid-iran-war-fallout-says-iea/239131",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-14T11:39:36.000Z",
-    "excerpt": "PARIS, Oct 14 &mdash; Diesel supply disruptions in the Gulf stemming from the US war against Iran will keep the market t...",
-    "tickers": []
-  },
-  {
-    "title": "Ringgit closes higher against US dollar on improved risk appetite, Budget 2027 boost",
-    "url": "https://www.malaymail.com/news/money/2026/10/14/ringgit-closes-higher-against-us-dollar-on-improved-risk-appetite-budget-2027-boost/239126",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-14T11:10:27.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 14 &mdash; The ringgit closed higher against the greenback today as investors&rsquo; risk appetite imp...",
-    "tickers": []
-  },
-  {
-    "title": "Bursa Malaysia extends winning streak to four days as bargain hunting continues",
-    "url": "https://www.malaymail.com/news/money/2026/10/14/bursa-malaysia-extends-winning-streak-to-four-days-as-bargain-hunting-continues/239123",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-14T11:02:44.000Z",
-    "excerpt": "KUALA LUMPUR, Oct 14 &mdash; Bursa Malaysia&rsquo;s index extended its winning streak to four consecutive days, ending h...",
-    "tickers": []
-  },
-  {
-    "title": "Asian stocks mostly down as tech firms struggle to claw back losses",
-    "url": "https://www.malaymail.com/news/money/2026/10/14/asian-stocks-mostly-down-as-tech-firms-struggle-to-claw-back-losses/239115",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-10-14T10:10:53.000Z",
-    "excerpt": "HONG KONG, Oct 14 &mdash; Asian stocks mostly fell today as investors struggled to claw back the previous day&rsquo;s st...",
     "tickers": []
   }
 ]
