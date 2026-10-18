@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-17T16:04:23.352Z",
+  "asOf": "2026-10-18T16:18:11.152Z",
   "^GSPC": {
     "label": "S&P 500",
     "format": "decimal",
@@ -28,8 +28,8 @@
     "label": "USD Index",
     "format": "decimal",
     "price": 101.779,
-    "change": 1.47,
-    "changePct": 1.46,
+    "change": 1.56,
+    "changePct": 1.56,
     "asOf": "2026-10-16T20:59:59.000Z"
   }
 }
