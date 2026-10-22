@@ -1,5 +1,317 @@
 [
   {
+    "title": "A Big Shift in the AI Buildout Zeitgeist",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-22/a-big-shift-in-the-ai-buildout-zeitgeist",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T17:35:50.000Z",
+    "excerpt": "We’ve reached a new and much more difficult funding stage.",
+    "tickers": []
+  },
+  {
+    "title": "US railroads pull ahead as high fuel costs hit truckers harder",
+    "url": "https://www.investing.com/news/stock-market-news/us-railroads-pull-ahead-as-high-fuel-costs-hit-truckers-harder-4967105",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T17:30:29.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally",
+    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T17:29:07.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Tokenized Stocks, ETF Onchain Trading Surged to $37 Billion Last Quarter: Dune",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/tokenized-stocks-etf-onchain-trading-surged-to-37-billion-last-quarter-dune",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T17:26:23.000Z",
+    "excerpt": "The broader cryptocurrency market may be flagging, but newer corners of the industry are surging, fueled by an expanding regulatory framework and growing demand for hyper-speculative investments.",
+    "tickers": []
+  },
+  {
+    "title": "Meta shares slide, default insurance hits record as AI spending alarms investors",
+    "url": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T17:24:37.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Moderna shares plunge on apparent cancer vaccine data leak",
+    "url": "https://www.investing.com/news/stock-market-news/moderna-shares-plunge-on-apparent-cancer-vaccine-data-leak-4967091",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T17:20:20.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "DoubleLine’s Sherman Stays Bearish on Long-Term Treasuries",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/doubleline-s-sherman-stays-underweight-on-long-term-treasuries",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T17:05:50.000Z",
+    "excerpt": "DoubleLine Capital’s Jeff Sherman said he remains bearish on long-term Treasuries, arguing that heavy government borrowing and weakening demand will continue to pressure the market.",
+    "tickers": []
+  },
+  {
+    "title": "Valero Sees Fuel Margins Rising Again Despite Price-Cut Efforts",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/valero-sees-fuel-margins-rising-again-despite-price-cut-efforts",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T17:03:50.000Z",
+    "excerpt": "Fuel-making margins, which have dipped from a record, are poised to rise once again despite efforts by Washington to curb gasoline and diesel prices, a Valero Energy Corp. executive said on Thursday.",
+    "tickers": []
+  },
+  {
+    "title": "Honeywell earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/honeywell-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967065",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T16:56:23.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Spotify earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/spotify-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967064",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T16:55:49.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Comcast earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/comcast-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967062",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T16:54:42.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Procter &amp; Gamble earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/procter--gamble-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967061",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T16:54:06.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "China’s Tibet Region Struck by Magnitude-7.0 Earthquake",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/china-s-tibet-region-struck-by-powerful-magnitude-7-0-earthquake",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T16:49:05.000Z",
+    "excerpt": "A strong earthquake struck the Tibetan Plateau in China on Thursday.",
+    "tickers": []
+  },
+  {
+    "title": "SAP earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/sap-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967050",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T16:48:55.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+    "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-10-22T16:48:41.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Private Credit's Daily Marks Under Fire",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-22/private-credit-s-daily-marks-under-fire-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T15:00:42.000Z",
+    "excerpt": "Monroe Capital CEO Ted Koenig says daily marks on illiquid private-credit assets create an illusion of precision, not accuracy. He discusses the deal slowdown, pressure on private-equity exits and why he's cautious about data centers and GP",
+    "tickers": []
+  },
+  {
+    "title": "Zorlu Enerji Seeks Six-Month Delay to Coupon Due This Week",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/turkey-s-zorlu-enerji-to-miss-coupon-on-1-1-billion-bond",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T14:19:47.000Z",
+    "excerpt": "Zorlu Enerji, a power producer and distributor owned by one of Turkey’s largest conglomerates, is seeking to delay a coupon payment due this week on a $1.1 billion bond.",
+    "tickers": []
+  },
+  {
+    "title": " Nearly all coral reefs risk collapse in 50 years: IUCN ",
+    "url": "https://www.japantimes.co.jp/environment/2026/10/22/climate-change/coral-reefs-collapse-50-years/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T12:58:00.000Z",
+    "excerpt": "In its first global assessment, the world authority on threatened wildlife classified 96% of coral reef systems as \"critically endangered.\" ",
+    "tickers": []
+  },
+  {
+    "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について",
+    "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-10-22T12:36:07.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " Japan switching to post-departure tax refunds in November ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/japan/japan-refunds-post-departure/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T12:12:00.000Z",
+    "excerpt": "The new system is intended to prevent illegal acts by ensuring that purchased items are taken out of Japan through customs inspections.",
+    "tickers": []
+  },
+  {
+    "title": " Musk’s political baggage clouds prospects for SpaceX-Tesla deal ",
+    "url": "https://www.japantimes.co.jp/business/2026/10/22/musk-baggage-spacex-tesla-merger/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T11:32:00.000Z",
+    "excerpt": "Musk revived speculation about a tie-up this week, calling a combination \"a good idea.\"",
+    "tickers": []
+  },
+  {
+    "title": "Stocks Extend Drop as Risk-Off Dominates With Oil Up, Meta Down",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T11:29:09.000Z",
+    "excerpt": "Stocks extended declines in Thursday afternoon trading as escalating concern about Mideast conflict pushed oil futures higher, spurring inflation fears with US midterm elections less than two weeks away. Meta Platforms Inc. tumbled as inves",
+    "tickers": []
+  },
+  {
+    "title": " Republican backlash over Russia policy poses challenge for Trump in Congress ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/world/trump-russia-backlash-challenge/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T11:24:00.000Z",
+    "excerpt": "The backlash could pose new hurdles for Trump after the Nov. 3 midterm elections.",
+    "tickers": []
+  },
+  {
+    "title": " U.K. politicians are testing their messages on AI-generated focus groups ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/world/politics/uk-politicians-ai-focus-groups/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T11:12:00.000Z",
+    "excerpt": "Firms are using data from real focus groups and surveys to build AI personas able to react to political messages within minutes.",
+    "tickers": []
+  },
+  {
+    "title": " LDP presents compromise proposal on Lower House seat cut ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/japan/politics/ldp-lower-house-cut/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T11:02:00.000Z",
+    "excerpt": "The LDP hopes to reach a conclusion by the end of this month based on its latest proposal, but it remains to be seen if an agreement will be clinched.",
+    "tickers": []
+  },
+  {
+    "title": " Japan megabanks to skip third batch of U.S. investments ",
+    "url": "https://www.japantimes.co.jp/business/2026/10/22/megabanks-us-investment-skip/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T10:54:00.000Z",
+    "excerpt": "The three — MUFG Bank, Mizuho Bank and Sumitomo Mitsui Banking — are making final arrangements to forgo participation.",
+    "tickers": []
+  },
+  {
+    "title": " Women’s expectations for Takaichi turn to disappointment ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/japan/politics/takaichi-women-disappointed/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T09:39:00.000Z",
+    "excerpt": "\"Many expected progress on policies related to women, but little visible progress has been made,\" said an Ochanomizu University professor.",
+    "tickers": []
+  },
+  {
+    "title": " Japan considers broader definition of security spending to inflate defense outlays, sources say ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/japan/security-outlays-japan-budgets/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T09:30:00.000Z",
+    "excerpt": "The government is looking at whether spending on areas like AI, satellites and infrastructure could be classified as defense-related costs.",
+    "tickers": []
+  },
+  {
+    "title": " TSMC seeks factory-equipment alternatives to thwart China’s rare earths grip, sources say ",
+    "url": "https://www.japantimes.co.jp/business/2026/10/22/tsmc-rare-earths-supply/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T09:29:00.000Z",
+    "excerpt": "Rare-earth magnets are used in motors that power moving parts in industrial equipment, including machinery found in highly automated factories.",
+    "tickers": []
+  },
+  {
+    "title": " Lula hopes older voters can help power him to victory against Flavio Bolsonaro ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/world/lula-older-voters-bolsonaro/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T09:20:00.000Z",
+    "excerpt": "Lula's campaign is now actively targeting the so-called \"Lula generation\" — seniors age over 70, close in age to the 80-year-old president.",
+    "tickers": []
+  },
+  {
+    "title": " ‘In my DNA’: Why Osaka’s high-risk <i>danjiri</i> festivals refuse to slow down ",
+    "url": "https://www.japantimes.co.jp/news/2026/10/22/japan/society/danjiri-festival-safety-concerns/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-10-22T09:00:00.000Z",
+    "excerpt": "A pair of fatal incidents this month has revived a long-running debate: Does Osaka's high-risk danjiri festival still have a place in modern society?",
+    "tickers": []
+  },
+  {
+    "title": "Apple Is Wall Street’s Favorite AI Haven as Spending Fears Hit",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/apple-s-cash-flow-machine-makes-it-investors-favorite-ai-hedge",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T08:45:38.000Z",
+    "excerpt": "It’s become one of the most reliable trades in the stock market as sentiment toward artificial intelligence swings wildly: Whatever AI stocks do, Apple Inc. does the opposite.",
+    "tickers": []
+  },
+  {
+    "title": "AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました",
+    "url": "https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-10-22T07:59:37.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "地方公共団体情報システムデータ要件・連携要件の標準仕様書に関する各論FAQを更新しました",
+    "url": "https://www.digital.go.jp/policies/local_governments/specification",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-10-22T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "新卒採用 業務説明会・イベントを更新しました",
+    "url": "https://www.digital.go.jp/recruitment/recruiting-session",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-10-22T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "意見招請：公共工事電子入札システムの統合改修における本番環境構築・移行及び運用・保守業務を掲載しました",
+    "url": "https://www.digital.go.jp/procurement",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-10-22T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
+    "url": "https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-10-22T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Treasuries Head for Best Day Since August 2025 on Haven Appetite",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-22T03:46:59.000Z",
+    "excerpt": "Treasuries surged, on course for their best day since August 2025, as investors sought shelter from tumbling share prices for companies leading the boom in spending on artificial intelligence.",
+    "tickers": []
+  },
+  {
+    "title": "Stocks Set for Worst Day Since July as Bonds Rally: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-10-21T22:13:33.000Z",
+    "excerpt": "A selloff in technology giants and escalating Middle East hostilities drove stocks toward their worst session since July, pushing global investors toward the safety of bonds.",
+    "tickers": []
+  },
+  {
     "title": "Legendary Entertainment Makes Bid for Lionsgate Studios",
     "url": "https://www.bloomberg.com/news/videos/2026-10-21/legendary-entertainment-makes-bid-for-lionsgate-studios-video",
     "source": "Bloomberg — Markets (Japan-relevant)",
@@ -272,14 +584,6 @@
     "tickers": []
   },
   {
-    "title": "意見招請：令和9年度から令和11年度 Visit Japan Web（フェイズ2）の運用・保守を掲載しました",
-    "url": "https://www.digital.go.jp/procurement",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-21T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
     "title": "Stocks Climb as SpaceX’s Earnings Rekindle AI Bets: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
     "source": "Bloomberg — Markets (Japan-relevant)",
@@ -333,310 +637,6 @@
     "source": "Bloomberg — Markets (Japan-relevant)",
     "publishedAt": "2026-10-20T16:57:12.000Z",
     "excerpt": "Brazil is readying its debut panda-bond sale, which could take place as early as next week, according to a person familiar with the matter.",
-    "tickers": []
-  },
-  {
-    "title": "META vs Tesla earnings setup ahead of Q3 2026 results",
-    "url": "https://www.investing.com/news/stock-market-news/meta-vs-tesla-earnings-setup-ahead-of-q3-2026-results-93CH-4960746",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:49:32.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Food importer files new lawsuit to block Trump’s Canada tariffs",
-    "url": "https://www.investing.com/news/stock-market-news/small-businesses-file-new-lawsuit-to-block-trumps-canada-tariffs-4960660",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:49:14.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Germany’s Adidas raises full-year profit outlook",
-    "url": "https://www.investing.com/news/stock-market-news/germanys-adidas-raises-fullyear-profit-outlook-4960745",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:49:01.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Otter.ai raises $320 million in non-equity financing to expand enterprise business",
-    "url": "https://www.investing.com/news/stock-market-news/otterai-raises-320-million-in-nonequity-financing-to-expand-enterprise-business-4960744",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:48:42.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Lionsgate shares spike as Legendary Entertainment revives takeover talks",
-    "url": "https://www.investing.com/news/stock-market-news/lionsgate-shares-spike-as-legendary-entertainment-revives-takeover-talks-4960743",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:48:14.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "GM Slides as CEO Barra Warns of ‘Intensifying’ Challenges",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-20/gm-slides-as-ceo-barra-warns-of-intensifying-challenges-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:47:26.000Z",
-    "excerpt": "General Motors Co. shares fell as shareholders focused on a narrower profit outlook despite plans for another $20 billion in stock repurchases. The company now sees 2026 adjusted earnings before interest and taxes in a range of $14.5 billio",
-    "tickers": []
-  },
-  {
-    "title": "Salesforce deepens AI bets with $5.66 billion Braze deal",
-    "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:44:06.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Wall Street gains ground on healthcare stocks rally, oil retreat",
-    "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-20T16:43:48.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Trader Known for Big Aluminum Bets Is Back With Wager on Copper",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/trader-known-for-big-aluminum-bets-is-back-with-wager-on-copper",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:35:34.000Z",
-    "excerpt": "A veteran metals trader known for making bold bets in aluminum has returned to the market with a major copper play on the London Metal Exchange.",
-    "tickers": []
-  },
-  {
-    "title": "Albania's Protests Pile Pressure on Edi Rama",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-20/albania-s-protests-pile-pressure-on-edi-rama-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:26:28.000Z",
-    "excerpt": "Albania's violent anti-government protests follow months of demonstrations against a luxury development deal with Jared Kushner.\n\nGresa Kraja explains the link to Donald Trump's son-in-law. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Lithium Miner PLS Markets $700 Million Bond in Expansion Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/lithium-miner-pls-markets-700-million-bond-in-expansion-push",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:23:37.000Z",
-    "excerpt": "PLS Group Ltd is returning to the US dollar bond market, braving a junk-debt selloff as the Australian lithium miner lines up investments to expand production.",
-    "tickers": []
-  },
-  {
-    "title": "Carney Spent Oil Windfall on Tax Write-off, Budget Watchdog Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/carney-spent-oil-windfall-on-tax-write-off-budget-watchdog-says",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:21:33.000Z",
-    "excerpt": "Canada’s budget watchdog says new federal measures, including a major tax incentive for businesses, have more than offset a surge in revenues driven largely by higher energy prices.",
-    "tickers": []
-  },
-  {
-    "title": "Starboard Value CEO Jeff Smith Lays Out Case for Three New Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/starboard-value-ceo-jeff-smith-lays-out-case-for-three-new-bets",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:19:06.000Z",
-    "excerpt": "Starboard Value Chief Executive Officer Jeff Smith laid out the activist fund’s approach to its three latest investments at the annual 13D Monitor Active-Passive Investor Summit in New York today.",
-    "tickers": []
-  },
-  {
-    "title": "Canadian Dollar Hits Nearly One-Month High After Alberta Vote",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/canadian-dollar-hits-nearly-one-month-high-after-alberta-vote",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T16:13:53.000Z",
-    "excerpt": "The Canadian dollar posted its best day in roughly four weeks and outperformed most of its Group-of-10 peers after voters in the province of Alberta rejected the idea of separating from Canada.",
-    "tickers": []
-  },
-  {
-    "title": "Centerbridge, Mubadala in Talks to Buy Canaccord’s UK Wealth Unit",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/centerbridge-mubadala-in-talks-to-buy-canaccord-s-uk-wealth-unit",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T14:35:59.000Z",
-    "excerpt": "Canaccord Genuity Group Inc. is in talks to sell its UK wealth management business to a consortium led by private equity firm Centerbridge Partners, according to people with knowledge of the matter.",
-    "tickers": []
-  },
-  {
-    "title": " As France erupts, Europe’s far right gains from fuel-price anger ahead of elections ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/europe-far-right-preelection-gains/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T11:17:00.000Z",
-    "excerpt": "The European Commission estimates the Iran conflict has cost Europe roughly €100 billion ($112 billion) through disrupted trade and energy markets.",
-    "tickers": []
-  },
-  {
-    "title": " Bangladesh battle against measles a ‘real warning’ to other nations ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/science-health/bangladesh-measles-outbreak/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T11:00:00.000Z",
-    "excerpt": "So far, 1,147 people have died of the highly contagious disease, with 94% of reported deaths among children under five years old, the WHO said.",
-    "tickers": []
-  },
-  {
-    "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
-    "url": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T10:51:58.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " Iran prolongs talks in stalemate to influence U.S. midterms, officials say ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/iran-prolong-us-talks-midterm-influence/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T10:49:00.000Z",
-    "excerpt": "Fears of renewed military action and deep distrust of Washington have reinforced Tehran's reluctance to strike a quick deal to end the war.",
-    "tickers": []
-  },
-  {
-    "title": " Panasonic speeds up efforts to turn windows into solar panels ",
-    "url": "https://www.japantimes.co.jp/business/2026/10/20/tech/panasonic-window-solar-panels/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T10:27:00.000Z",
-    "excerpt": "Panasonic is targeting windows and exterior walls with \"power-generating glass\" that can be customized in size, transparency and design.",
-    "tickers": []
-  },
-  {
-    "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
-    "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T08:59:21.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Netflix Needs Blockbusters to Reverse Its $135 Billion Wipeout",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/netflix-needs-blockbusters-to-reverse-its-135-billion-wipeout",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-20T08:56:31.000Z",
-    "excerpt": "Netflix Inc. needs to prove that it can produce hit movies and TV series again to stop a slide that has erased more than $135 billion in market value this year.",
-    "tickers": []
-  },
-  {
-    "title": " Near miss: Indonesia probes crash of suspected Chinese rocket fragment ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/indonesia-probe-rocket-debris/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T08:46:00.000Z",
-    "excerpt": "The debris was found on Monday morning by a plantation worker in Indonesian Borneo, after residents reported hearing a loud bang the previous evening.",
-    "tickers": []
-  },
-  {
-    "title": " Threats of political violence soar in Australia’s ‘online echo chamber’ ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australia-echo-chamber/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T08:46:00.000Z",
-    "excerpt": "Independent lawmaker Helen Haines was in critical condition after being struck deliberately by a car.",
-    "tickers": []
-  },
-  {
-    "title": " Seoul to pull embassy staff from Kyiv over North Korea prisoner disclosure ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/south-korea-embassy-staff-ukraine/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T08:45:00.000Z",
-    "excerpt": "The announcement comes less than two weeks after South Korea said it was recalling its ambassador to Ukraine, deepening the diplomatic rift.",
-    "tickers": []
-  },
-  {
-    "title": " Opposition offers alternatives to food consumption tax cut in parliamentary debate ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/politics/consumption-tax-debate-start/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T08:45:00.000Z",
-    "excerpt": "Having made the policy central to her economic agenda, Prime Minister Sanae Takaichi faces a test of whether she can create tangible household relief.",
-    "tickers": []
-  },
-  {
-    "title": " ‘Two Cigarettes, Three Nights’ explores messy emotions and moral compromises ",
-    "url": "https://www.japantimes.co.jp/culture/2026/10/20/film/yukiko-mishima-two-cigarettes-three-nights/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T08:30:00.000Z",
-    "excerpt": "The filmmaker talks about intimacy, moral ambiguity and the art of portraying flawed characters in her TIFF Competition entry.",
-    "tickers": []
-  },
-  {
-    "title": " Chinese AI tool used in cyberattacks on Japanese companies, investigation finds ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/china-ai-cyberattacks/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T07:09:00.000Z",
-    "excerpt": "The threat of cyberattacks for Japanese companies has grown recently, as the number of companies disclosing data breaches continues to rise.",
-    "tickers": []
-  },
-  {
-    "title": " China’s panda diplomacy is losing its charm ",
-    "url": "https://www.japantimes.co.jp/commentary/2026/10/20/world/chinas-panda-diplomacy/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T06:58:00.000Z",
-    "excerpt": "Perhaps the true message of this \"panda diplomacy\" lies in the manipulation and exploitation it embodies.",
-    "tickers": []
-  },
-  {
-    "title": " Politics of the potato front and center for Japan’s new agriculture minister ",
-    "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/politics/agriculture-minister-potatoes/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-10-20T06:56:00.000Z",
-    "excerpt": "Arata Takebe's Hokkaido constituents might oppose a push to increase potato imports from the U.S.",
-    "tickers": []
-  },
-  {
-    "title": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第1回） の議事概要を掲載しました",
-    "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/84c9dba6-43cb-4cf1-be91-0753c744f38d",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "AI・デジタル改革推進会議の開催について掲載いたしました",
-    "url": "https://www.digital.go.jp/councils/ai_digital",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T02:24:18.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
-    "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T00:37:09.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
-    "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T00:31:53.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
-    "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-10-20T00:25:29.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Gold Wavers as Traders Weigh US-Iran Talks, Fed Rate Path",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-19T23:55:45.000Z",
-    "excerpt": "Gold wavered as traders assessed the Federal Reserve’s interest-rate path and the status of negotiations to end the war in Iran.",
-    "tickers": []
-  },
-  {
-    "title": "US to Make Some Dark Fleet Ships Legitimate, Wright Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-19/us-to-make-some-dark-fleet-ships-legitimate-wright-says-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-10-19T18:50:57.000Z",
-    "excerpt": "The US will turn some \"dark fleet\" oil tankers into legitimate ships that can legally carry crude, says Energy Secretary Chris Wright. He says investors will refurbish some ships and have them carry non-sanctioned oil. He speaks to Bloomber",
-    "tickers": []
-  },
-  {
-    "title": "S&amp;P rises and Nasdaq jumps over 1%, rebounding after their worst week since June",
-    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-10-19T18:48:37.000Z",
-    "excerpt": "",
     "tickers": []
   }
 ]
