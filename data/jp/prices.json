@@ -49475,12 +49475,7 @@
     "changePct": 0,
     "currency": "JPY",
     "asOf": "2026-09-28T06:30:00.000Z",
-    "series": [
-      {
-        "time": "2026-09-30",
-        "value": 3029
-      }
-    ]
+    "series": []
   },
   "2327.T": {
     "price": 4136,
@@ -88482,12 +88477,7 @@
     "changePct": 0,
     "currency": "JPY",
     "asOf": "2026-09-28T06:30:00.000Z",
-    "series": [
-      {
-        "time": "2026-09-30",
-        "value": 3005
-      }
-    ]
+    "series": []
   },
   "6768.T": {
     "price": 809,
@@ -95285,12 +95275,7 @@
     "changePct": 0,
     "currency": "JPY",
     "asOf": "2026-09-25T06:30:00.000Z",
-    "series": [
-      {
-        "time": "2026-09-30",
-        "value": 496
-      }
-    ]
+    "series": []
   },
   "8897.T": {
     "price": 406,

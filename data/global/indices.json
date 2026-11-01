@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-31T17:28:32.708Z",
+  "asOf": "2026-11-01T18:13:40.832Z",
   "^GSPC": {
     "label": "S&P 500",
     "format": "decimal",
@@ -14,7 +14,7 @@
     "price": 25436.998,
     "change": -1360.54,
     "changePct": -5.08,
-    "asOf": "2026-10-30T21:15:59.000Z"
+    "asOf": "2026-10-30T21:16:01.000Z"
   },
   "^TNX": {
     "label": "10Y",
@@ -27,9 +27,9 @@
   "DX-Y.NYB": {
     "label": "USD Index",
     "format": "decimal",
-    "price": 101.964,
-    "change": 0.59,
-    "changePct": 0.59,
+    "price": 101.879,
+    "change": -0.22,
+    "changePct": -0.22,
     "asOf": "2026-10-30T20:59:59.000Z"
   }
 }

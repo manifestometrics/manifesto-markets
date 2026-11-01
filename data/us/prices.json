@@ -40703,9 +40703,9 @@
     ]
   },
   "SBUX": {
-    "price": 103.67,
-    "change": 8.24,
-    "changePct": 8.63,
+    "price": 103.65,
+    "change": 8.22,
+    "changePct": 8.61,
     "currency": "USD",
     "asOf": "2026-10-30T20:00:00.000Z",
     "series": [
