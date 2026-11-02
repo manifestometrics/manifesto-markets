@@ -1,242 +1,611 @@
 [
   {
-    "title": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
-    "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T18:11:07.000Z",
-    "excerpt": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
-    "tickers": []
-  },
-  {
-    "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-    "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T18:08:33.000Z",
-    "excerpt": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-    "tickers": []
-  },
-  {
-    "title": "SOXX: Don't Expect A Quick Recovery For AI Stocks",
-    "url": "https://seekingalpha.com/article/4960737-soxx-dont-expect-a-quick-recovery-for-ai-stocks?source=feed_all_articles",
+    "title": "Westpac Banking Corporation (WBKCY) Q4 2026 Earnings Call Transcript",
+    "url": "https://seekingalpha.com/article/4961055-westpac-banking-corporation-wbkcy-q4-2026-earnings-call-transcript?source=feed_all_articles",
     "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T18:08:31.000Z",
+    "publishedAt": "2026-11-02T21:58:26.000Z",
     "excerpt": "",
-    "tickers": [
-      "A"
-    ]
+    "tickers": []
   },
   {
-    "title": "New Zealand Assets Face Headwinds as Election Race Tightens",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/new-zealand-assets-face-headwinds-as-election-race-tightens",
+    "title": "Leaked File Put Lenders in Bind Before Acrisure’s Earnings Win",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/leaked-file-put-lenders-in-bind-before-acrisure-s-earnings-win",
     "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T18:00:00.000Z",
-    "excerpt": "New Zealand’s stocks and currency face a test as a tight general election raises the prospect of drawn-out coalition talks and uncertainty over the next government’s policy agenda.",
+    "publishedAt": "2026-11-02T21:56:17.000Z",
+    "excerpt": "Insurance brokerage and fintech Acrisure reported third-quarter earnings that showed an improvement in broker retention, after a period in which it inadvertently gave creditors access to an internal spreadsheet then demanded they not act on",
     "tickers": []
   },
   {
-    "title": "QQQM: The Nasdaq 100 Is Having A Panic Attack And I Think This Pullback Should Be Bought",
-    "url": "https://seekingalpha.com/article/4960736-qqqm-the-nasdaq-100-is-having-a-panic-attack-and-i-think-this-pullback-should-be-bought?source=feed_all_articles",
+    "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Slides On Earnings With Midterm Elections Next",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-trade-apple-earnings-aapl-stock-palantir-earnings-midterm-elections/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T21:53:32.000Z",
+    "excerpt": "Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday. \nThe post Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Slides On Earnings With Midterm Elec",
+    "tickers": []
+  },
+  {
+    "title": "Broadcom: Too Cheap To Ignore (Rating Upgrade)",
+    "url": "https://seekingalpha.com/article/4961118-broadcom-too-cheap-to-ignore-rating-upgrade?source=feed_all_articles",
     "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T17:55:55.000Z",
+    "publishedAt": "2026-11-02T21:51:05.000Z",
     "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Ocean Power Technologies, Inc. (OPTT) Discusses New Leadership Team and Strategic Road Ahead Transcript",
+    "url": "https://seekingalpha.com/article/4961111-ocean-power-technologies-inc-optt-discusses-new-leadership-team-and-strategic-road-ahead?source=feed_all_articles",
+    "source": "Seeking Alpha — Stock Ideas",
+    "publishedAt": "2026-11-02T21:48:29.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Capital Power Corporation (CPX:CA) Q3 2026 Earnings Call Transcript",
+    "url": "https://seekingalpha.com/article/4961134-capital-power-corporation-cpx-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "source": "Seeking Alpha — Stock Ideas",
+    "publishedAt": "2026-11-02T21:48:27.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Turkiye Garanti Bankasi A.S. (TKGBY) Q3 2026 Earnings Call Transcript",
+    "url": "https://seekingalpha.com/article/4961130-turkiye-garanti-bankasi-a-s-tkgby-q3-2026-earnings-call-transcript?source=feed_all_articles",
+    "source": "Seeking Alpha — Stock Ideas",
+    "publishedAt": "2026-11-02T21:48:26.000Z",
+    "excerpt": "",
+    "tickers": [
+      "A",
+      "S"
+    ]
+  },
+  {
+    "title": "Nvidia Flashes Sell Signals As Earnings Loom; Is Nvidia A Buy Now?",
+    "url": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-november-2026-earnings/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T21:47:39.000Z",
+    "excerpt": "Nvidia stock fell below its 200-day moving average as of Monday. The AI chip titan has scheduled its third-quarter results for Nov. 17.\nThe post Nvidia Flashes Sell Signals As Earnings Loom; Is Nvidia A Buy Now? appeared first on Investor&#",
     "tickers": [
       "A"
     ]
   },
   {
-    "title": "It's No Coincidence That PEY Has Doubled (2x) The S&amp;P 500 YoY",
-    "url": "https://seekingalpha.com/article/4960735-its-no-coincidence-that-pey-has-doubled-2x-the-s-and-p-500-yoy?source=feed_all_articles",
+    "title": "Palantir Earnings Top Views. Revenue Beat Slightly Smaller.",
+    "url": "https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-q32026-news-ai-software/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T21:47:05.000Z",
+    "excerpt": "Palantir stock climbed amid Q3 earnings and revenue that topped consensus estimates. Sales growth accelerated for the 13th straight quarter.\nThe post Palantir Earnings Top Views. Revenue Beat Slightly Smaller. appeared first on Investor&#03",
+    "tickers": []
+  },
+  {
+    "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+    "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T21:46:56.000Z",
+    "excerpt": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+    "tickers": [
+      "S",
+      "U"
+    ]
+  },
+  {
+    "title": "Wall Street&#x2019;s most hated stocks are faring far better than its favorites",
+    "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T21:45:00.000Z",
+    "excerpt": "The thrashing that Wall Street&#x2019;s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
+    "tickers": [
+      "S",
+      "U"
+    ]
+  },
+  {
+    "title": "20-Year-Old Co-Pilot Died In Florida Learjet Crash That Killed 9, Family Says",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/02/20-year-old-co-pilot-died-in-florida-learjet-crash-that-killed-9-family-says/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T21:42:54.000Z",
+    "excerpt": "One of the flight’s pilots reported icing and turbulence before declaring an emergency as the jet plunged sharply before crashing near a motorway in Palm Beach County, Florida.",
+    "tickers": []
+  },
+  {
+    "title": "Apple’s iPhone Sales Hit $57.6 Billion In Fourth Quarter, Topping Estimates",
+    "url": "https://www.forbes.com/sites/fionariley/2026/11/02/apples-iphone-sales-hit-576-billion-in-fourth-quarter-topping-estimates/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T21:42:54.000Z",
+    "excerpt": "iPhone revenue hit $57.6 billion in John Ternus’ first quarterly report as CEO, surpassing analyst predictions.",
+    "tickers": []
+  },
+  {
+    "title": "Intel: I Told You To Sell, Now I'm Telling You To Stay Away (Rating Upgrade)",
+    "url": "https://seekingalpha.com/article/4961116-intel-i-told-you-to-sell-now-im-telling-you-to-stay-away-upgrade?source=feed_all_articles",
     "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T17:46:49.000Z",
+    "publishedAt": "2026-11-02T21:41:23.000Z",
     "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Apollo’s Simoes Moves to Carlyle for Credit-Origination Role",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/apollo-s-simoes-moves-to-carlyle-for-credit-origination-role",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-02T21:39:54.000Z",
+    "excerpt": "Alexander Simoes is joining Carlyle Group Inc.’s credit business, according to people with knowledge of the matter, the firm’s latest private credit-related hire.",
+    "tickers": []
+  },
+  {
+    "title": "Apple Stock Drops Despite Fiscal Q4 Earnings Beat",
+    "url": "https://www.investors.com/news/technology/apple-stock-aapl-fiscal-q4-2026-earnings/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T21:39:06.000Z",
+    "excerpt": "Apple late Monday beat Wall Street's targets for its fiscal fourth quarter. But Apple stock fell in extended trading.\nThe post Apple Stock Drops Despite Fiscal Q4 Earnings Beat appeared first on Investor&#039;s Business Daily.\n",
+    "tickers": []
+  },
+  {
+    "title": "T. Rowe Price Group, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "url": "https://seekingalpha.com/article/4961132-t-rowe-price-group-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+    "source": "Seeking Alpha — Stock Ideas",
+    "publishedAt": "2026-11-02T21:38:55.000Z",
+    "excerpt": "",
+    "tickers": [
+      "T"
+    ]
+  },
+  {
+    "title": "Align Technology: Q3 Results Expose Weak Pricing Power Amidst Declining Market Share",
+    "url": "https://seekingalpha.com/article/4961115-align-technology-q3-results-expose-weak-pricing-power-amidst-declining-market-share?source=feed_all_articles",
+    "source": "Seeking Alpha — Stock Ideas",
+    "publishedAt": "2026-11-02T21:36:28.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "The Best New Movies To Watch This Week On Netflix, HBO Max, Prime Video, In Theaters And More",
+    "url": "https://www.forbes.com/sites/erikkain/2026/11/02/best-new-movies-to-stream-this-week-netflix-hbo-and-more/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T21:36:07.000Z",
+    "excerpt": "Here are all the best new movies to stream this week from new releases to cult classics on all your favorite streaming service",
+    "tickers": []
+  },
+  {
+    "title": "Want to help your adult kids and grandkids? Give them money while you&#x2019;re still alive.",
+    "url": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T21:35:00.000Z",
+    "excerpt": "How to manage &#x201c;giving while living&#x201d; without endangering your own retirement.",
+    "tickers": []
+  },
+  {
+    "title": "AI's Rising Bill Of Expectations",
+    "url": "https://seekingalpha.com/article/4961126-ai-rising-bill-of-expectations?source=feed_all_articles",
+    "source": "Seeking Alpha — Stock Ideas",
+    "publishedAt": "2026-11-02T21:35:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "&#x2018;She&#x2019;s a Type A personality&#x2019;: My stepmother wants me to repay my late father&#x2019;s $40,000 wedding gift. Should I oblige?",
+    "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T21:30:00.000Z",
+    "excerpt": "&#x201c;About two months after his funeral, my stepmother called and said she wanted the money back.&#x201d;",
+    "tickers": [
+      "A"
+    ]
+  },
+  {
+    "title": "The stock market has gone nowhere for the past 5 months. It&#x2019;s now looking like a bargain.",
+    "url": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T21:29:00.000Z",
+    "excerpt": "The S&amp;P 500&#x2019;s forward price-to-earnings ratio is below its five-year and 10-year averages.",
     "tickers": [
       "P",
       "S"
     ]
   },
   {
-    "title": "Growth Vs. Value Hit An Extreme As AI Spending Broke Big Tech",
-    "url": "https://seekingalpha.com/article/4960740-growth-vs-value-hit-extreme-as-ai-spending-broke-big-tech?source=feed_all_articles",
+    "title": "Marvell Technology, Inc. (MRVL) M&amp;A Call Transcript",
+    "url": "https://seekingalpha.com/article/4961065-marvell-technology-inc-mrvl-m-and-a-call-transcript?source=feed_all_articles",
     "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T17:40:00.000Z",
+    "publishedAt": "2026-11-02T21:28:27.000Z",
     "excerpt": "",
-    "tickers": []
+    "tickers": [
+      "A",
+      "MRVL",
+      "M"
+    ]
   },
   {
-    "title": "Soaring health insurance costs are quietly preventing wages from rising higher, while workers also shoulder a larger share of premiums, economist says",
-    "url": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T17:34:29.000Z",
-    "excerpt": "If employer contributions had instead grown at 3%, which was the pace a few years ago, wage growth would be about 0.2-0.3 percentage points faster today.",
-    "tickers": []
-  },
-  {
-    "title": "GPTY: High-Risk, High Yield Income - Proceed With Caution",
-    "url": "https://seekingalpha.com/article/4960734-gpty-high-risk-high-yield-income-proceed-with-caution?source=feed_all_articles",
+    "title": "Nebius: Don't Let The Selloff Convince You That This Is A Value Name - Strong Sell",
+    "url": "https://seekingalpha.com/article/4961113-nebius-dont-let-the-selloff-convince-you-that-this-is-a-value-name-strong-sell?source=feed_all_articles",
     "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T17:31:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "My father has Alzheimer&#x2019;s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-    "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T17:30:00.000Z",
-    "excerpt": "&#x201c;I suspect the live-in caregiver is benefiting from my parent&#x2019;s generosity.&#x201d;",
-    "tickers": []
-  },
-  {
-    "title": "Fuga de Flávio cria problema familiar para direita",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/fuga-de-flavio-cria-problema-familiar-para-direita-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T17:13:25.000Z",
-    "excerpt": "Após a fuga de Flávio Bolsonaro para os EUA, a direita tenta definir os próximos passos. Confira com Daniel Carvalho. Edição de Patricia Xavier.  (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Alaska Sen. Sullivan says he&apos;ll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
-    "url": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T17:12:59.000Z",
-    "excerpt": "President Donald Trump's Department of Justice has sued Alaska, demanding the state not certify the election if the incumbent Republican loses.",
-    "tickers": []
-  },
-  {
-    "title": "&#x2018;He was heartbroken&#x2019;: My husband&#x2019;s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T17:05:00.000Z",
-    "excerpt": "&#x201c;In the end, he left them a few sentimental mementos, some collectibles and old photographs.&#x201d;",
-    "tickers": []
-  },
-  {
-    "title": "Full Truck Alliance: Q3 2026 Preview, Macro Pressure Piling (Downgrade)",
-    "url": "https://seekingalpha.com/article/4960733-full-truck-alliance-q3-2026-preview-macro-pressure-piling-downgrade?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T16:52:13.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "SoFi: Silly Wall St. Games Can't Outlast Results",
-    "url": "https://seekingalpha.com/article/4960732-sofi-silly-wall-st-games-cant-outlast-results?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T16:42:39.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Lumentum Earnings Preview: The AI Boom Is Already Priced In",
-    "url": "https://seekingalpha.com/article/4960731-lumentum-earnings-preview-the-ai-boom-is-already-priced-in?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T16:40:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Bloomberg This Weekend 11/1/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/bloomberg-this-weekend-11-1-2026-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T16:39:16.000Z",
-    "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Maritime Organization Secretar",
-    "tickers": []
-  },
-  {
-    "title": "Grand Theft Callout: &#x2018;GTA 6&#x2019; fans are missing work on the game&#x2019;s release day because they &#x2018;don&#x2019;t want to wait&#x2019; anymore",
-    "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T16:35:00.000Z",
-    "excerpt": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play &#x2018;Grand Theft Auto VI&#x2019; when it drops on Nov. 19",
-    "tickers": []
-  },
-  {
-    "title": "Alphabet: This Isn't Time To Buy The Dip (Rating Downgrade)",
-    "url": "https://seekingalpha.com/article/4960730-alphabet-not-time-to-buy-dip-rating-downgrade?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T16:34:32.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Intel: PC Demand Destruction Meets AI Supply Headwinds-Profit Taking Continues",
-    "url": "https://seekingalpha.com/article/4960729-intel-pc-demand-destruction-meets-ai-supply-headwinds-profit-taking-continues?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T16:28:56.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "The Political Debate on Daylight Saving Time",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T16:23:36.000Z",
-    "excerpt": "Time is ticking on the debate over changing our clocks twice a year. As Americans prepare to fall back, Bloomberg’s Shaquille Omari explains why Washington can’t seem to move forward. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Dutch Bros' Great Growth Doesn't Mean It Avoids A Downgrade",
-    "url": "https://seekingalpha.com/article/4960728-dutch-bros-great-growth-doesnt-mean-it-avoids-a-downgrade?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T16:15:16.000Z",
+    "publishedAt": "2026-11-02T21:26:49.000Z",
     "excerpt": "",
     "tickers": [
       "A"
     ]
   },
   {
-    "title": "‘Dancing With The Stars’ Moves To Monday For Disney Night As Stars Take On Broadway",
-    "url": "https://www.forbes.com/sites/monicamercuri/2026/11/01/dancing-with-the-stars-moves-to-monday-for-disney-night-as-stars-take-on-broadway/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T16:00:52.000Z",
-    "excerpt": "&quot;Dancing With the Stars&quot; won't air in its usual Tuesday time slot this week. Here's why the schedule is changing, plus all the songs and dances for Disney Night's Broadway twist.",
+    "title": "Why Top 1% IPO Stock Hinge Health Just Jumped On Its Earnings",
+    "url": "https://www.investors.com/news/technology/hinge-health-stock-hinge-health-earnings-q3-2026/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T21:21:00.000Z",
+    "excerpt": "Hinge Health, an IPO stock, advanced on its solid third-quarter beat and revenue guidance raise late Monday.\nThe post Why Top 1% IPO Stock Hinge Health Just Jumped On Its Earnings appeared first on Investor&#039;s Business Daily.\n",
     "tickers": []
   },
   {
-    "title": "Everything changed for the oil, AI and bond trades over the past month",
-    "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T15:58:24.000Z",
-    "excerpt": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
+    "title": "Vertex Yo-Yos On Mixed Third-Quarter Report, Light Guidance Hike",
+    "url": "https://www.investors.com/news/technology/vertex-stock-vertex-pharmaceuticals-earnings-q3-2026/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T21:16:35.000Z",
+    "excerpt": "Vertex stock yo-yoed on its third-quarter report late Monday after earnings came up short and full-year guidance missed views.\nThe post Vertex Yo-Yos On Mixed Third-Quarter Report, Light Guidance Hike appeared first on Investor&#039;s Busin",
     "tickers": []
   },
   {
-    "title": "Bookmarked: News Stories On Our Reading List",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T15:53:30.000Z",
-    "excerpt": "Vinyl record bars and cafes, odd Halloween trick-or-treat offerings, the South Korean trend of being seen reading physical books, and Just Eats apologizing for AI mistake: Join hosts David Gura, Lisa Mateo and Nathan Hager on Bloomberg This",
-    "tickers": []
-  },
-  {
-    "title": "Financial Institutions: Despite Disappointing Q3, The Big Picture Is Still Compelling",
-    "url": "https://seekingalpha.com/article/4960726-financial-institutions-despite-disappointing-q3-big-picture-still-compelling?source=feed_all_articles",
+    "title": "Booking: Value Vs. Agents",
+    "url": "https://seekingalpha.com/article/4961110-booking-value-vs-agents?source=feed_all_articles",
     "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-11-01T15:47:03.000Z",
+    "publishedAt": "2026-11-02T21:15:51.000Z",
     "excerpt": "",
     "tickers": []
   },
   {
-    "title": "Trump Struggles to Sell Voters on the Economy",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/trump-struggles-to-sell-voters-on-the-economy-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T15:39:27.000Z",
-    "excerpt": "Bloomberg News Senior Executive Editor Wes Kosova tells Bloomberg This Weekend that President Donald Trump is struggling to convince voters the economy is strong as higher fuel prices and affordability concerns weigh on his support, includi",
+    "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+    "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T21:15:13.000Z",
+    "excerpt": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
     "tickers": []
   },
   {
-    "title": "These Senate races may help determine the fate of Social Security",
-    "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
     "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T15:20:06.000Z",
-    "excerpt": "Social Security's retirement trust fund may run out in 2032. Senators elected this November will be in office when that deadline comes.",
+    "publishedAt": "2026-11-02T21:13:43.000Z",
+    "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+    "tickers": []
+  },
+  {
+    "title": "Palantir earnings reveal a major AI turning point",
+    "url": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T21:09:00.000Z",
+    "excerpt": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter.",
+    "tickers": [
+      "S",
+      "U"
+    ]
+  },
+  {
+    "title": "Americans now spend nearly half of their budgets on food and housing alone, the biggest share in 15 years",
+    "url": "https://fortune.com/2026/11/02/americans-half-budget-food-housing-share-15-years/",
+    "source": "Fortune",
+    "publishedAt": "2026-11-02T21:06:55.000Z",
+    "excerpt": "Housing and food spending rose faster than inflation in 2025, just as consumer sentiment is stuck near all-time lows.",
+    "tickers": []
+  },
+  {
+    "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-02T21:04:59.000Z",
+    "excerpt": "US air safety investigators said there are early indications the Learjet 60 that crashed in Palm Beach, Florida, on Sunday had broken up before impacting the ground, killing all nine people on board and injuring at least one person on the g",
+    "tickers": []
+  },
+  {
+    "title": "&#x2018;It seems bizarre&#x2019;: We&#x2019;re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T21:00:00.000Z",
+    "excerpt": "&#x201c;Our basic living expenses are covered by $110,000 in annual pensions and Social Security.&#x201d;",
+    "tickers": []
+  },
+  {
+    "title": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
+    "url": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T20:57:50.000Z",
+    "excerpt": "I bonds are now paying 5.51%. Here are some key things to know before investing, according to financial experts.",
+    "tickers": []
+  },
+  {
+    "title": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+    "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T20:48:21.000Z",
+    "excerpt": "Just a day before the midterms, Kalshi traders give Democrats a 74% chance of controlling the Senate.",
+    "tickers": []
+  },
+  {
+    "title": "The Green Bay Packers Are Sticking With Josh Jacobs",
+    "url": "https://www.forbes.com/sites/robreischel/2026/11/02/the-green-bay-packers-are-sticking-with-josh-jacobs/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T20:44:15.000Z",
+    "excerpt": "The Green Bay Packers say they're sticking with troubled running back Josh Jacobs.",
+    "tickers": []
+  },
+  {
+    "title": "‘VisionQuest’ Episode 7 Release Date And Preview: Ultron’s Endgame Is Coming Into Focus",
+    "url": "https://www.forbes.com/sites/erikkain/2026/11/02/visionquest-episode-7-release-date-time-disney-plus-finale-schedule/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T20:32:58.000Z",
+    "excerpt": "Here's when VisionQuest Episode 7, &quot;Immolation,&quot; premieres on Disney+, the exact release time, full episode schedule and what happened so far.",
+    "tickers": []
+  },
+  {
+    "title": "WWE Raw Results And Live Updates On Go-Home Show For Crown Jewel 2026",
+    "url": "https://www.forbes.com/sites/alfredkonuwa/2026/11/02/wwe-raw-results-and-live-updates-on-go-home-show-for-crown-jewel-2026/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T20:32:09.000Z",
+    "excerpt": "WWE Raw results, winners and live updates on the final Raw before WWE Crown Jewel 2026 in Riyadh, Saudi Arabia.",
+    "tickers": []
+  },
+  {
+    "title": "Chip stocks are suffering from a &#x2018;crisis of confidence&#x2019; &#x2014; but things aren&#x2019;t as gloomy as they seem",
+    "url": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T20:30:00.000Z",
+    "excerpt": "Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.",
+    "tickers": []
+  },
+  {
+    "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+    "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T20:19:25.000Z",
+    "excerpt": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+    "tickers": [
+      "S",
+      "U"
+    ]
+  },
+  {
+    "title": "Maggot-Infested Cheese And Roasted Guinea Pigs: How Andrew Zimmern Bridged Cultural Differences On ‘Bizarre Foods’",
+    "url": "https://www.forbes.com/sites/joshweiss/2026/11/02/maggot-infested-cheese-and-roasted-guinea-pigs-how-andrew-zimmern-bridged-cultural-differences-on-bizarre-foods/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T20:17:02.000Z",
+    "excerpt": "With 'Bizarre Foods' celebrating its 20th anniversary, creator and host Andrew Zimmern looks back on the hit Travel Channel series.",
+    "tickers": []
+  },
+  {
+    "title": "How Operating Room Time Becomes Scarce (Even When It’s Not)",
+    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/11/02/how-operating-room-time-becomes-scarce-even-when-its-not/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T20:15:38.000Z",
+    "excerpt": "Why does operating room time remain scarce when capacity goes unused? Mohan Giridharadas explores the hidden dynamics driving OR scheduling challenges.",
+    "tickers": []
+  },
+  {
+    "title": "IBD Live Q&#038;A Summary, Stock Lists, Transcript For Monday, Nov. 2, 2026",
+    "url": "https://www.investors.com/research/ibd-live-qa/ibd-live-qa-summary-tickerzaaplgmabtemtemtgtxtgintcintccc-stock-lists-transcript-for-monday-nov-2-2026/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T20:06:50.000Z",
+    "excerpt": "Welcome to IBD Live! This list of FAQs and useful links will speed your learning curve. The Ready List contains top stocks that meet our fundamental and technical screening criteria... Read More\nThe post IBD Live Q&#038;A Summary, Stock Lis",
+    "tickers": [
+      "A",
+      "Q"
+    ]
+  },
+  {
+    "title": "Larry Ellison’s Net Worth Falls $11 Billion As Oracle Shares Plummet To Four-Month Low",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/02/larry-ellisons-net-worth-falls-11-billion-as-oracle-shares-plummet-to-four-month-low/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T19:56:34.000Z",
+    "excerpt": "Oracle submitted filings Monday revealing the company is selling $20 billion of debt and equity to raise money for its artificial intelligence investments.",
+    "tickers": []
+  },
+  {
+    "title": "‘Godzilla Minus Zero’ Retains High Rotten Tomatoes Critics’ Score Following Early Reviews",
+    "url": "https://www.forbes.com/sites/timlammers/2026/11/02/godzilla-minus-zero-retains-superior-rotten-tomatoes-critics-score-following-early-reviews/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T19:53:15.000Z",
+    "excerpt": "&quot;Godzilla Minus Zero,&quot; Takashi Yamazaki’s sequel to his 2023 Oscar-winning monster movie &quot;Godzilla Minus One,&quot; is getting even more love from Rotten Tomatoes’ critics as the film heads into theaters this week.",
+    "tickers": []
+  },
+  {
+    "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+    "url": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T19:46:47.000Z",
+    "excerpt": "Eligible Trump Account holders will begin receiving donated shares of SpaceX stock in December, President and COO Gwynne Shotwell said in a post on X.",
+    "tickers": [
+      "COO"
+    ]
+  },
+  {
+    "title": "Could Supreme Court Impact The Midterms? California Ballot Case Could Be First Of Many At High Court",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/11/02/could-supreme-court-impact-the-midterms-california-ballot-case-could-be-first-of-many-at-high-court/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T19:43:17.000Z",
+    "excerpt": "Legal experts broadly believe the federal government would not have legal grounds to challenge election results in court.",
+    "tickers": []
+  },
+  {
+    "title": "Trump Rants About Reflecting Pool In Final Major Appearance Before Election Day",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/02/trump-rants-about-reflecting-pool-in-final-major-appearance-before-election-day/",
+    "source": "Forbes — Business",
+    "publishedAt": "2026-11-02T19:42:27.000Z",
+    "excerpt": "Trump is not scheduled for any more in-person campaign events.",
+    "tickers": []
+  },
+  {
+    "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+    "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T19:38:58.000Z",
+    "excerpt": "The Department of Justice's request to the Supreme Court in the California case comes as it  appeals dismissal of a lawsuit over Alaska's Senate election.",
+    "tickers": []
+  },
+  {
+    "title": "Bond Market Signals Distress About CoreWeave. Here&#039;s How To Profit From It.",
+    "url": "https://www.investors.com/research/options/coreweave-stock-crwv-bear-put-spread-options/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T19:34:10.000Z",
+    "excerpt": "As investors debate whether an AI bubble about to pop, a few weak firms have been hit hard. CoreWeave stock is one of them.\nThe post Bond Market Signals Distress About CoreWeave. Here&#039;s How To Profit From It. appeared first on Investor",
+    "tickers": []
+  },
+  {
+    "title": "How soon gas prices could go down now that oil is tumbling",
+    "url": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T19:27:00.000Z",
+    "excerpt": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
+    "tickers": [
+      "S",
+      "U"
+    ]
+  },
+  {
+    "title": "Social Security may have to cut retirement benefits in six years. Here&apos;s how much money is at stake for beneficiaries",
+    "url": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T18:46:31.000Z",
+    "excerpt": "The latest projections show Social Security may have to cut retirement benefits in six years. Here's what may happen if Congress doesn't prevent that.",
+    "tickers": []
+  },
+  {
+    "title": "LifeStance Health Flirts With Latest Buy Point Despite Ongoing Stock Market Weakness",
+    "url": "https://www.investors.com/research/lifestance-stock-lfst-medical-healthcare-markets-buy-point-investing/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T18:25:06.000Z",
+    "excerpt": "LifeStance Stock is flirting with its latest buy point amid the ongoing stock market weakness. Its RS line hit a new high last week.\nThe post LifeStance Health Flirts With Latest Buy Point Despite Ongoing Stock Market Weakness appeared firs",
+    "tickers": [
+      "RS"
+    ]
+  },
+  {
+    "title": "It may take weeks to tally the midterm election results. Here&#x2019;s why Wall Street isn&#x2019;t worried.",
+    "url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T18:16:00.000Z",
+    "excerpt": "It&#x2019;s crucial to distinguish economic from political uncertainty, because only one really moves the stock market.",
+    "tickers": []
+  },
+  {
+    "title": "The bond-market rally is defying the typical investing playbook. Here&#x2019;s why.",
+    "url": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+    "source": "MarketWatch — Top Stories",
+    "publishedAt": "2026-11-02T18:13:00.000Z",
+    "excerpt": "The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department&#x2019;s initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in",
+    "tickers": [
+      "S",
+      "U"
+    ]
+  },
+  {
+    "title": "The AI boom is facing another supply crunch. This time it&#8217;s the amount of capital available to feed Silicon Valley&#8217;s endless need for cash",
+    "url": "https://fortune.com/2026/11/02/ai-boom-supply-crunch-capital-debt-bonds-capex-spending/",
+    "source": "Fortune",
+    "publishedAt": "2026-11-02T18:12:26.000Z",
+    "excerpt": "\"Now, another concern is moving to the forefront: Does enough capital even exist to finance everyone's ambitious AI spending plans?\" ",
+    "tickers": []
+  },
+  {
+    "title": "Stock market after midterm elections: What S&amp;P 500 history shows",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T17:57:35.000Z",
+    "excerpt": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+    "tickers": [
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Analog Chip Stocks Buoy Philadelphia Semiconductor Index",
+    "url": "https://www.investors.com/news/technology/analog-chip-stocks-buoy-philadelphia-semiconductor-index/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T17:55:42.000Z",
+    "excerpt": "Analog chip stocks rose Monday and helped to offset losses among PC and memory chip stocks on the SOX index.\nThe post Analog Chip Stocks Buoy Philadelphia Semiconductor Index appeared first on Investor&#039;s Business Daily.\n",
+    "tickers": []
+  },
+  {
+    "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+    "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T17:52:01.000Z",
+    "excerpt": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
+    "tickers": [
+      "S"
+    ]
+  },
+  {
+    "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-02T17:44:40.000Z",
+    "excerpt": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.",
+    "tickers": []
+  },
+  {
+    "title": "A prank meant to humiliate a Red Baron worker backfired—now strangers have given the dad of 4 more than $760,000",
+    "url": "https://fortune.com/2026/11/02/red-baron-worker-prank-gofundme-vivek-ramaswamy/",
+    "source": "Fortune",
+    "publishedAt": "2026-11-02T17:39:12.000Z",
+    "excerpt": "A viral stunt aimed at a Michigan father stocking frozen pizzas late at night has turned him into a symbol of America’s affordability squeeze, and made the prankster an online pariah.",
+    "tickers": [
+      "A"
+    ]
+  },
+  {
+    "title": "Marriott, Stock Of The Day, Breaks Out As Earnings Accelerate Again",
+    "url": "https://www.investors.com/research/ibd-stock-of-the-day/marriott-stock-breaks-out-earnings-beat-raise/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T17:26:54.000Z",
+    "excerpt": "Blue-chip Marriott delivers another earnings beat and raise. Global travel demand far outpaces its initial expectations despite wars. \nThe post Marriott, Stock Of The Day, Breaks Out As Earnings Accelerate Again appeared first on Investor&#",
+    "tickers": []
+  },
+  {
+    "title": "Hedge Funds Back SEC Push to Ease Rules on EU Bond Futures",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/hedge-funds-back-sec-push-to-ease-us-access-to-eu-bond-futures",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-02T17:08:20.000Z",
+    "excerpt": "The Securities and Exchange Commission should add the European Union to a four-decade old list of exempted issuers, a move that would ease restrictions on US investor access to the bloc’s new bond futures market, according to a group repres",
+    "tickers": []
+  },
+  {
+    "title": "SpaceX In Boost Mobile Talks With Ergen&#039;s EchoStar",
+    "url": "https://www.investors.com/news/technology/spacex-stock-spcx-echostar-stock-boost-mobile/",
+    "source": "Investor's Business Daily",
+    "publishedAt": "2026-11-02T17:05:42.000Z",
+    "excerpt": "SpaceX stock rose amid a report the company is in talks to buy EchoStar's Boost Mobile wireless service or gain access to its network.\nThe post SpaceX In Boost Mobile Talks With Ergen&#039;s EchoStar appeared first on Investor&#039;s Busine",
+    "tickers": []
+  },
+  {
+    "title": "Citi FX Traders Back Carry But Warn Against ‘Set and Forget’",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-02T17:00:00.000Z",
+    "excerpt": "Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.",
+    "tickers": []
+  },
+  {
+    "title": "Following a sudden GOP slide, a top data scientist&#8217;s model gives Democrats 90% odds of taking the Senate as Kansas trends blue in major shock",
+    "url": "https://fortune.com/2026/11/02/midterm-election-odds-us-senate-republicans-democrats-kansas-roger-marshall-blue-wave/",
+    "source": "Fortune",
+    "publishedAt": "2026-11-02T16:11:33.000Z",
+    "excerpt": "In Kansas, Sen. Roger Marshall looked on track for easy reelection just two months ago at around 75%. His number’s dipped to 43.9% and suffered a 7.1% drop just in the past 24 hours.",
+    "tickers": []
+  },
+  {
+    "title": "As Sergey Brin, Larry Page and the ultra-rich flee California, one 34-year-old tech billionaire is ‘not running’—he ‘wants to fight’ for the state",
+    "url": "https://fortune.com/2026/11/02/as-sergey-brin-larry-page-ultra-rich-flee-california-34-year-old-tech-billionaire-not-running-wants-to-fight/",
+    "source": "Fortune",
+    "publishedAt": "2026-11-02T16:02:34.000Z",
+    "excerpt": "Oculus VR and Anduril cofounder Palmer Luckey, worth $5.9 billion, opposes the proposed tax hike but is opting to stay: “California is something special.”",
+    "tickers": []
+  },
+  {
+    "title": "Wall Street&apos;s Fear Index is doing something strange. Here&apos;s what it means for stocks",
+    "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+    "source": "CNBC Top News",
+    "publishedAt": "2026-11-02T15:30:41.000Z",
+    "excerpt": "VIX deemed \"unreactive\" by options traders",
     "tickers": []
   },
   {
     "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
     "url": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:45.000Z",
+    "publishedAt": "2026-11-02T15:13:38.000Z",
     "excerpt": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish abo",
     "tickers": []
   },
@@ -244,31 +613,31 @@
     "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
     "url": "https://www.benzinga.com/money/myro-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:44.000Z",
+    "publishedAt": "2026-11-02T15:13:37.000Z",
     "excerpt": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confid",
-    "tickers": []
-  },
-  {
-    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-    "url": "https://www.benzinga.com/money/algorand-price-prediction",
-    "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:42.000Z",
-    "excerpt": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feelin",
     "tickers": []
   },
   {
     "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
     "url": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:42.000Z",
+    "publishedAt": "2026-11-02T15:13:36.000Z",
     "excerpt": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Fe",
+    "tickers": []
+  },
+  {
+    "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
+    "url": "https://www.benzinga.com/money/algorand-price-prediction",
+    "source": "Benzinga",
+    "publishedAt": "2026-11-02T15:13:35.000Z",
+    "excerpt": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feelin",
     "tickers": []
   },
   {
     "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
     "url": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:41.000Z",
+    "publishedAt": "2026-11-02T15:13:34.000Z",
     "excerpt": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by",
     "tickers": []
   },
@@ -276,7 +645,7 @@
     "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
     "url": "https://www.benzinga.com/money/arweave-ar-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:40.000Z",
+    "publishedAt": "2026-11-02T15:13:30.000Z",
     "excerpt": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confide",
     "tickers": [
       "AR"
@@ -286,386 +655,40 @@
     "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
     "url": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:39.000Z",
+    "publishedAt": "2026-11-02T15:13:29.000Z",
     "excerpt": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling c",
-    "tickers": []
-  },
-  {
-    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
-    "url": "https://www.benzinga.com/money/polkadot-price-prediction",
-    "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:38.000Z",
-    "excerpt": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confid",
     "tickers": []
   },
   {
     "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
     "url": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:38.000Z",
+    "publishedAt": "2026-11-02T15:13:28.000Z",
     "excerpt": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling co",
+    "tickers": []
+  },
+  {
+    "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
+    "url": "https://www.benzinga.com/money/polkadot-price-prediction",
+    "source": "Benzinga",
+    "publishedAt": "2026-11-02T15:13:27.000Z",
+    "excerpt": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confid",
     "tickers": []
   },
   {
     "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
     "url": "https://www.benzinga.com/money/filecoin-price-prediction",
     "source": "Benzinga",
-    "publishedAt": "2026-11-01T15:12:37.000Z",
+    "publishedAt": "2026-11-02T15:13:27.000Z",
     "excerpt": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this.\nAnalysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confide",
     "tickers": []
   },
   {
-    "title": "Powerball Jackpot Nears $800 Million—But A Winner Would Take Home Much Less After Taxes",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/01/powerball-jackpot-nears-800-million-but-a-winner-would-take-home-much-less-after-taxes/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T15:10:11.000Z",
-    "excerpt": "A winner would choose between the full jackpot in 30 annual payments or a lump sum of $339.9 million immediately.",
-    "tickers": [
-      "A"
-    ]
-  },
-  {
-    "title": "Apple&#x2019;s new earnings era begins at a critical time for Big Tech",
-    "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T15:00:00.000Z",
-    "excerpt": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
-    "tickers": [
-      "A"
-    ]
-  },
-  {
-    "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
+    "title": "Gold’s Faded Haven Allure Hinges on Deficit, Inflation Fears",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/gold-investors-rocked-by-wipeout-seek-firmer-footing-after-vote",
     "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T15:00:00.000Z",
-    "excerpt": "The stock market got a long-awaited jolt of volatility late last week after disappointing earnings from technology giants added to angst around the AI-driven rally.",
-    "tickers": []
-  },
-  {
-    "title": "The Brewers Won The World Series And The Dodgers Didn’t Ruin Baseball",
-    "url": "https://www.forbes.com/sites/danfreedman/2026/11/01/the-brewers-won-the-world-series-and-the-dodgers-didnt-ruin-baseball/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T15:00:00.000Z",
-    "excerpt": "The Milwaukee Brewers won the World Series, beating the Los Angeles Dodgers on their way, and proved that there is competitive balance in baseball regardless of payrolls.",
-    "tickers": []
-  },
-  {
-    "title": "A $1,200 Courtyard By Marriott Room In Manhattan Is Not Inflation",
-    "url": "https://www.forbes.com/sites/johntamny/2026/11/01/a-1200-courtyard-by-marriott-room-in-manhattan-is-not-inflation/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T15:00:00.000Z",
-    "excerpt": "Unless economics is no longer about tradeoffs, a soaring market price must show up in much lower prices elsewhere in the economy, and vice versa.",
-    "tickers": [
-      "A"
-    ]
-  },
-  {
-    "title": "Reagan’s Farewell Remarks On Immigration Contrasted Sharply With Trump",
-    "url": "https://www.forbes.com/sites/stuartanderson/2026/11/01/reagans-farewell-remarks-on-immigration-contrasted-sharply-with-trump/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T14:57:13.000Z",
-    "excerpt": "Ronald Reagan’s views on immigrants and immigration could not differ more from those Donald Trump has expressed in campaign rallies.",
-    "tickers": []
-  },
-  {
-    "title": "Duke Favored To Win NCAA Championship: ‘In A Class By Themselves’",
-    "url": "https://www.forbes.com/sites/adamzagoria/2026/11/01/duke-favored-to-win-ncaa-championship-in-a-class-by-themselves/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T14:45:56.000Z",
-    "excerpt": "Florida is actually No. 1 in the AP Preseason Poll, having received 47 first-place votes, with Duke at No. 2 with 10 first-place votes.  Illinois is No. 4, with UConn at No. 4 and Arizona at No. 5.",
-    "tickers": [
-      "A"
-    ]
-  },
-  {
-    "title": "By The Way: Headlines You May Have Missed",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/by-the-way-headlines-you-may-have-missed-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T14:34:43.000Z",
-    "excerpt": "AI in White House press releases, a 'brutal' but surprisingly popular class at Harvard, Life Magazine rises again, and the dwindling justification of day light savings: Join Nathan Hager, David Gura and Lisa Mateo for a roundup of headlines",
-    "tickers": []
-  },
-  {
-    "title": "Why AI is boosting Meta&apos;s ad business while hurting Google search",
-    "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T14:31:29.000Z",
-    "excerpt": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
-    "tickers": []
-  },
-  {
-    "title": "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/russia-agrees-to-halt-recruitment-of-ghanaians-for-ukraine-war",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T14:27:46.000Z",
-    "excerpt": "Russian President Vladimir Putin has agreed to halt the recruitment of Ghanaians to fight in Ukraine after President John Mahama raised concerns about the practice, according to Ghana’s foreign minister.",
-    "tickers": []
-  },
-  {
-    "title": "AI Talent War Spreads to Wall Street",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-01/ai-talent-war-spreads-to-wall-street-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T14:26:56.000Z",
-    "excerpt": "Bloomberg Senior Markets Reporter Justina Lee tells Bloomberg This Weekend that quantitative trading firms are competing with AI labs for top scientists and researchers, with first-year compensation for some PhDs reaching as much as $800,00",
-    "tickers": []
-  },
-  {
-    "title": "You should pick your credit card perks like Warren Buffett picks his stocks, TD Bank exec says",
-    "url": "https://fortune.com/article/how-to-pick-credit-card-points-for-best-rewards-like-warren-buffet/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T14:26:34.000Z",
-    "excerpt": "The billionaire’s philosophy for preaching the ways of compound interest might also apply to how many credit cards you have in your wallet. ",
-    "tickers": []
-  },
-  {
-    "title": "Michael Dell turned $1,000 and a college dorm room into a $302 billion company. His advice to founders seeking validation: ‘Don’t go ask’",
-    "url": "https://fortune.com/article/michael-dell-1000-dorm-room-302-billion-company-founder-advice-dont-ask/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T14:22:26.000Z",
-    "excerpt": "Before he built a tech empire, Dell was a teenager selling newspaper subscriptions to newlyweds he tracked down through marriage records. He says the same appetite for risk drove everything that followed.",
-    "tickers": []
-  },
-  {
-    "title": "Gen X feels worse about the economy than Gen Z and millennials—and more than 70% fear running out of money more than death",
-    "url": "https://fortune.com/article/why-does-gen-x-feels-worse-about-the-economy-than-gen-z-and-millennials/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T14:19:26.000Z",
-    "excerpt": "The generations who were supposed to have it figured out are the ones panicking about money.",
-    "tickers": [
-      "Z"
-    ]
-  },
-  {
-    "title": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
-    "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T14:15:47.000Z",
-    "excerpt": "With an IPO looming, Anthropic CEO Dario Amodei—who has a net worth of $13.6 billion—has reportedly expressed concerns that AI workers are prioritizing money over mission.",
-    "tickers": []
-  },
-  {
-    "title": "Putin Is Losing His Grip On Eastern Europe, But May Make Gains In The West",
-    "url": "https://www.forbes.com/sites/natashalindstaedt/2026/11/01/putin-is-losing-his-grip-on-eastern-europe-but-may-make-gains-in-the-west/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T14:02:48.000Z",
-    "excerpt": "Russia is losing allies in Eastern Europe as elections in 2026 have ousted incumbents that were friendly to the Kremlin. But he still has allies or potential allies in the West.",
-    "tickers": []
-  },
-  {
-    "title": "This is the biggest threat to the AI-powered bull market",
-    "url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T14:00:00.000Z",
-    "excerpt": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-    "tickers": []
-  },
-  {
-    "title": "Mike Wilson Says Buy Stock Dip Regardless of Who Wins Midterms",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/mike-wilson-says-buy-stock-dip-regardless-of-who-wins-midterms",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T14:00:00.000Z",
-    "excerpt": "Morgan Stanley’s Mike Wilson says he sees a few “clearing events” ahead for the stock market that have the potential to take it lower temporarily, creating a great opportunity for investors to pile back in.",
-    "tickers": []
-  },
-  {
-    "title": "Caddix Cleats Making Name In NFL As Caleb Williams Fined For Logo",
-    "url": "https://www.forbes.com/sites/timnewcomb/2026/11/01/caddix-cleats-making-name-in-nfl-as-caleb-williams-fined-for-logo/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T14:00:00.000Z",
-    "excerpt": "New cleat brand Caddix features flexible studs designed to reduce torque placed on the lower body in an effort to minimize ankle and knee injuries",
-    "tickers": []
-  },
-  {
-    "title": "‘The best thing that you can do for your career is to make yourself redundant’: Inside Stellantis’ AI push after the &#8216;starting gun went off&#8217;",
-    "url": "https://fortune.com/2026/11/01/stellantis-detroit-ai-best-thing-make-yourself-redundant-chrysler/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T13:30:00.000Z",
-    "excerpt": "That’s the advice of Stellantis’ CTO, who plans to hire hundreds more anyway. AI is shrinking weeks into days, but it can't tell you what car to make.",
-    "tickers": []
-  },
-  {
-    "title": "Nebex CEO: NASA wants a commercial space economy. Here’s how it can enable one",
-    "url": "https://fortune.com/2026/11/01/nasa-commercial-space-economy-iss-replacement-isaacman/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T13:30:00.000Z",
-    "excerpt": "NASA has the leverage to build a real space market.",
-    "tickers": []
-  },
-  {
-    "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
-    "url": "https://www.investors.com/news/tesla-china-ev-rivals-byd-xiaomi-xpeng-strong-sales-year-end-push/",
-    "source": "Investor's Business Daily",
-    "publishedAt": "2026-11-01T13:25:47.000Z",
-    "excerpt": "Tesla China rivals BYD, Xiaomi and XPeng reported strong October sales as the traditional year-end push begins.\nThe post Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins appeared first on Investor&#039;s ",
-    "tickers": [
-      "BYD"
-    ]
-  },
-  {
-    "title": "America Is Buying Africa’s Minerals, While China Is Buying Leverage",
-    "url": "https://www.forbes.com/sites/kensilverstein/2026/11/01/america-is-buying-africas-minerals-while-china-is-buying-leverage/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T13:15:06.000Z",
-    "excerpt": "Washington cut aid to Africa and kept a copper railway. China kept building. New polls show who's winning the race for the minerals behind grids and AI.",
-    "tickers": []
-  },
-  {
-    "title": "A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings",
-    "url": "https://www.investors.com/news/a-stock-market-smackdown-week-elections-jobs-data-iran-and-earnings/",
-    "source": "Investor's Business Daily",
-    "publishedAt": "2026-11-01T13:00:54.000Z",
-    "excerpt": "The week ahead promises to be rough and tumble for investors, with midterm elections, October jobs and possible attacks on Iran in the mix.  \nThe post A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings appeared first on ",
-    "tickers": [
-      "A"
-    ]
-  },
-  {
-    "title": "America is doing better than you think. Your algorithm is just hiding it.",
-    "url": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T13:00:00.000Z",
-    "excerpt": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn&#x2019;t know it from scrolling social media.",
-    "tickers": []
-  },
-  {
-    "title": "Who really wins under Trump&#x2019;s economy? Coastal liberal elites who hate him.",
-    "url": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-11-01T13:00:00.000Z",
-    "excerpt": "In other words, not the people Republicans likely intended.",
-    "tickers": []
-  },
-  {
-    "title": "Voters usually decide one or two income or wealth tax measures a year. This midterm season, there are nine",
-    "url": "https://fortune.com/2026/11/01/income-wealth-tax-measures-ballot-midterms-politics-california-voting/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T13:00:00.000Z",
-    "excerpt": "Colorado, Washington and Cook County voters will also weigh taxes on top earners, while other states move to make taxes harder to raise.",
-    "tickers": []
-  },
-  {
-    "title": "Cardinals 3-Year Backstop Carson Kelly Declined By Hated Rival Cubs",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/11/01/cardinals-3-year-backstop-carson-kelly-declined-by-hated-rival-cubs/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T13:00:00.000Z",
-    "excerpt": "The St. Louis Cardinals received an update on a familiar homegrown talent courtesy of the historic division rival Chicago Cubs.",
-    "tickers": []
-  },
-  {
-    "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-    "url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T12:30:48.000Z",
-    "excerpt": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
-    "tickers": []
-  },
-  {
-    "title": "Want to increase voter turnout? Start with the workplace",
-    "url": "https://fortune.com/2026/11/01/voter-turnout-employers-ceos-workplace-election-day/",
-    "source": "Fortune",
-    "publishedAt": "2026-11-01T12:30:00.000Z",
-    "excerpt": "Employers have huge sway over whether workers vote.",
-    "tickers": []
-  },
-  {
-    "title": "Mets Castoff Tyler Zuber Cut By Division Rival Shortly After Brutal Injury Setback",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/11/01/mets-castoff-tyler-zuber-cut-by-division-rival-shortly-after-brutal-injury-setback/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T12:30:00.000Z",
-    "excerpt": "The New York Mets received a harsh update on a familiar face whose career future is now uncertain.",
-    "tickers": []
-  },
-  {
-    "title": "AI Is Changing How Employees Learn Their Jobs",
-    "url": "https://www.forbes.com/sites/shephyken/2026/11/01/ai-is-changing-how-employees-learn-their-jobs/",
-    "source": "Forbes — Business",
-    "publishedAt": "2026-11-01T12:30:00.000Z",
-    "excerpt": "AI is automating routine tasks, but employees still need experience to handle complex issues. Learn how to train and prepare employees for the AI era.",
-    "tickers": []
-  },
-  {
-    "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-    "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-11-01T12:19:33.000Z",
-    "excerpt": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
-    "tickers": []
-  },
-  {
-    "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-01T09:23:14.000Z",
-    "excerpt": "Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according to people with direct knowledge of the matter.",
-    "tickers": [
-      "LNG"
-    ]
-  },
-  {
-    "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-    "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-    "source": "CNBC Top News",
-    "publishedAt": "2026-10-31T23:56:40.000Z",
-    "excerpt": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
-    "tickers": []
-  },
-  {
-    "title": "My abusive ex-husband promised $20,000 for our kids&#x2019; education. Now he refuses to pay. Is he legally obligated?",
-    "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-10-31T20:15:00.000Z",
-    "excerpt": "&#x201c;Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.&#x201d;",
-    "tickers": []
-  },
-  {
-    "title": "&#x2018;Showy jewelry and fancy cars hold no appeal&#x2019;: We have a 99% chance of outliving our life savings. Why not spend it all?",
-    "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-10-31T19:30:00.000Z",
-    "excerpt": "&#x201c;I&#x2019;m 68, she&#x2019;s 74, and we&#x2019;re both in good health. We married later in life and have no children.&#x201d;",
-    "tickers": []
-  },
-  {
-    "title": "This is where most people go wrong in their 30s and 40s",
-    "url": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-10-31T19:02:00.000Z",
-    "excerpt": "These big life decisions will determine just how well you retire.",
-    "tickers": []
-  },
-  {
-    "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-    "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-    "source": "MarketWatch — Top Stories",
-    "publishedAt": "2026-10-31T17:26:00.000Z",
-    "excerpt": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-    "tickers": []
-  },
-  {
-    "title": "Verici Dx plc (VRCDF) Shareholder/Analyst Call Transcript",
-    "url": "https://seekingalpha.com/article/4960654-verici-dx-plc-vrcdf-shareholder-analyst-call-transcript?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-10-31T17:08:30.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "MGM Resorts: Vegas Weakness Hurts Earnings, But Valuation Keeps Us Bullish",
-    "url": "https://seekingalpha.com/article/4960649-mgm-resorts-vegas-weakness-hurts-earnings-but-valuation-keeps-us-bullish?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-10-31T17:06:55.000Z",
-    "excerpt": "",
-    "tickers": [
-      "MGM"
-    ]
-  },
-  {
-    "title": "Terex Corporation: Portfolio Reorganization Likely To Improve Valuation Into 2027",
-    "url": "https://seekingalpha.com/article/4960648-terex-corporation-portfolio-reorganization-likely-to-improve-valuation-into-2027?source=feed_all_articles",
-    "source": "Seeking Alpha — Stock Ideas",
-    "publishedAt": "2026-10-31T16:57:53.000Z",
-    "excerpt": "",
+    "publishedAt": "2026-11-02T15:06:23.000Z",
+    "excerpt": "As gold heads toward its worst annual loss in more than a decade, investors are gauging the odds a political shift in the US will restore the precious metal’s haven allure.",
     "tickers": []
   }
 ]
