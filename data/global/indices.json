@@ -1,35 +1,35 @@
 {
-  "asOf": "2026-11-02T22:03:33.975Z",
+  "asOf": "2026-11-03T19:55:49.842Z",
   "^GSPC": {
     "label": "S&P 500",
     "format": "decimal",
-    "price": 7541.4,
-    "change": -181.32,
-    "changePct": -2.35,
-    "asOf": "2026-11-02T21:50:59.000Z"
+    "price": 7560.55,
+    "change": -162.17,
+    "changePct": -2.1,
+    "asOf": "2026-11-03T19:55:47.000Z"
   },
   "^IXIC": {
     "label": "NASDAQ",
     "format": "decimal",
-    "price": 25164.316,
-    "change": -2026.54,
-    "changePct": -7.45,
-    "asOf": "2026-11-02T22:03:31.000Z"
+    "price": 25324.154,
+    "change": -1866.71,
+    "changePct": -6.87,
+    "asOf": "2026-11-03T19:55:47.000Z"
   },
   "^TNX": {
     "label": "10Y",
     "format": "percent",
-    "price": 4.894,
-    "change": -0.38,
-    "changePct": -7.26,
-    "asOf": "2026-11-02T19:59:51.000Z"
+    "price": 4.946,
+    "change": -0.33,
+    "changePct": -6.27,
+    "asOf": "2026-11-03T19:40:45.000Z"
   },
   "DX-Y.NYB": {
     "label": "USD Index",
     "format": "decimal",
-    "price": 101.785,
-    "change": -0.15,
-    "changePct": -0.14,
-    "asOf": "2026-11-02T21:53:31.000Z"
+    "price": 101.861,
+    "change": -0.07,
+    "changePct": -0.07,
+    "asOf": "2026-11-03T19:45:48.000Z"
   }
 }
