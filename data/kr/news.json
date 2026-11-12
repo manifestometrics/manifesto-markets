@@ -1,9 +1,17 @@
 [
   {
+    "title": "US stocks in dot-com-style bubble; AI faces reality check",
+    "url": "https://www.kedglobal.com/cio-roundtable/newsView/ked202611120004",
+    "source": "Korea Economic Daily (English)",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
+    "excerpt": "US stocks are showing signs of a speculative bubble comparable to the dot-com boom of 1999 and 2000, although that does not necessarily mean the marke",
+    "tickers": []
+  },
+  {
     "title": "Real-world data, data rights: What SY Lee's $30 mn Sui deal means for physical AI",
     "url": "https://www.kedglobal.com/korean-startups/newsView/ked202611100014",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "SY Lee, co-founder of US-based web novel platform Radish Fiction Inc., first rose to prominence in 2021 when Kakao Entertainment Corp., a unit of Sout",
     "tickers": []
   },
@@ -11,7 +19,7 @@
     "title": "Horizon Energy to more than double plastic-to-oil capacity in South Korea",
     "url": "https://www.kedglobal.com/energy/newsView/ked202610280014",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Horizon Energy Corp. plans to more than double its plastic-to-oil production capacity and take its proprietary pyrolysis technology overseas, building",
     "tickers": []
   },
@@ -19,7 +27,7 @@
     "title": "AI payoffs, green transition shape France-Korea Tech Summit 2026",
     "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202610190009",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Artificial intelligence and industrial sustainability dominated talks among South Korean and French business and policy leaders in Seoul last week, wi",
     "tickers": []
   },
@@ -27,7 +35,7 @@
     "title": "Europe’s non-sponsored lending adds ballast as market risks multiply: PCP",
     "url": "https://www.kedglobal.com/asset-management/newsView/ked202610060004",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Private credit investors are confronting a more complicated risk map after years of rapid growth, from weaker borrower quality and artificial intellig",
     "tickers": []
   },
@@ -35,7 +43,7 @@
     "title": "Asian fixed income draws support from capex boom, shrinking dollar supply: Principal",
     "url": "https://www.kedglobal.com/ecm-dcm/newsView/ked202609160003",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Asia's fixed-income markets are entering the second half of 2026 with an unusually constructive combination of features: a region-wide capital-spendin",
     "tickers": []
   },
@@ -43,7 +51,7 @@
     "title": "Balancing a decarbonizing power system: Aurora Energy Research",
     "url": "https://www.kedglobal.com/perspectives/newsView/ked202609010001",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "The Iran war represents the second commodities price shock in five year.The narrative that heightened geopolitical tensions threaten the industrial ba",
     "tickers": []
   },
@@ -51,7 +59,7 @@
     "title": "Higher-for-longer rates create opening for private real estate debt: DRC Savills IM",
     "url": "https://www.kedglobal.com/private-debt/newsView/ked202608180006",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "At the start of 2026, investors expected interest rates in the UK and Europe to ease, providing another lift to a tentative recovery in real estate ma",
     "tickers": []
   },
@@ -59,7 +67,7 @@
     "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
     "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607190001",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Shin Jin-seo finally broke through against artificial intelligence on Sunday, defeating KataGo by four and a half points to become the first professio",
     "tickers": []
   },
@@ -67,7 +75,7 @@
     "title": "Top Go player to take on KataGo in biggest human‑AI showdown since AlphaGo",
     "url": "https://www.kedglobal.com/culture-trends/newsView/ked202607140011",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Shin Jin-seo, the world's top-ranked Go player, will take on KataGo in a three-game match beginning Friday, in one of the most closely anticipated hum",
     "tickers": []
   },
@@ -75,7 +83,7 @@
     "title": "Kayne Anderson expects capital inflows to US alternative real estate sectors to accelerate",
     "url": "https://www.kedglobal.com/alternative-investments/newsView/ked202606050006",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Kayne Anderson Real Estate, the real estate investment arm of Kayne Anderson, expects significant capital rotation into US alternative real estate sec",
     "tickers": []
   },
@@ -83,8 +91,200 @@
     "title": "For global property investors, real test comes after acquisition: executing business plan",
     "url": "https://www.kedglobal.com/real-estate/newsView/ked202606040002",
     "source": "Korea Economic Daily (English)",
-    "publishedAt": "2026-11-11T20:07:59.890Z",
+    "publishedAt": "2026-11-12T20:47:21.180Z",
     "excerpt": "Cross-border real estate is often won or lost after the deal closes.A transaction may be approved in Seoul, London or Singapore, but performance is sh",
+    "tickers": []
+  },
+  {
+    "title": "Lula Eyes Measures to Boost Fiscal Adjustment to $14 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T20:33:14.000Z",
+    "excerpt": "President Luiz Inácio Lula da Silva’s government is preparing additional budget measures to improve fiscal results next year, stepping up efforts to shore up public finances amid investor concerns about rising public debt, according to a pe",
+    "tickers": []
+  },
+  {
+    "title": "The Ultrafast Fall of Jensen Huang",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T20:29:52.000Z",
+    "excerpt": "It’s still unclear what it means.",
+    "tickers": []
+  },
+  {
+    "title": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T20:24:22.000Z",
+    "excerpt": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Davison Kempner Partner & Head of Research Suzanna Gibbons, Wells Fargo Global Head of High-Grade Debt Syndicate Maureen O'Connor, JPMorgan Asset Man",
+    "tickers": []
+  },
+  {
+    "title": "BofA Traders See Short Sellers Pile Into Rate-Sensitive Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-traders-see-short-sellers-pile-into-rate-sensitive-stocks",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T20:00:15.000Z",
+    "excerpt": "Hedge funds are reloading their bets that equities most exposed to interest-rate movements will fall after being forced to back down during the recent rally, Bank of America Corp.’s trading desk said.",
+    "tickers": []
+  },
+  {
+    "title": "US Records $404 Billion Deficit in First Month of Fiscal Year",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/us-records-404-billion-deficit-in-first-month-of-fiscal-year",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T19:44:10.000Z",
+    "excerpt": "The US budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Thursday.",
+    "tickers": []
+  },
+  {
+    "title": "Binance says all asset losses from N. Korea-linked cyberattack covered",
+    "url": "https://en.yna.co.kr/view/AEN20261113000200315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T19:40:38.000Z",
+    "excerpt": "WASHINGTON, Nov. 12 (Yonhap) -- Global cryptocurrency exchange Binance said Thur...",
+    "tickers": []
+  },
+  {
+    "title": "Fed's Goolsbee Says Inflation 'Inching' Into Tough Spot",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-goolsbee-says-inflation-inching-into-tough-spot-video",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T19:36:20.000Z",
+    "excerpt": "Federal Reserve Bank of Chicago President Austan Goolsbee says the Fed needs to act to tame inflation before the economy becomes overheated during remarks on Yahoo! Finance. (Source: Bloomberg)",
+    "tickers": []
+  },
+  {
+    "title": "Daly Says More Fed Rates Hikes Likely Needed",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/daly-says-more-fed-rates-hikes-likely-needed-video",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T19:31:57.000Z",
+    "excerpt": "Federal Reserve Bank of San Francisco President Mary Daly says further interest-rate increases will likely be needed to bring down inflation, adding that businesses are increasingly contemplating raising prices. She speaks at the Stanford I",
+    "tickers": []
+  },
+  {
+    "title": " December Fed-Hike Priced In: JPMorgan’s Kelsey Berro",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/december-fed-hike-priced-in-jpmorgan-s-kelsey-berro-video",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T19:25:07.000Z",
+    "excerpt": "Kelsey Berro, fixed income portfolio manager JPMorgan Asset Management, joins Scarlet Fu on “Bloomberg Real Yield.” The US bond market tumbled for a second straight session as traders brace for the Federal Reserve to step up the pace of its",
+    "tickers": []
+  },
+  {
+    "title": "NYC Sees Nearly $1 Billion Tax-Revenue Jump on Wall Street Gains",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nyc-sees-nearly-1-billion-tax-revenue-jump-on-wall-street-gains",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T19:24:31.000Z",
+    "excerpt": "New York City expects to bring in nearly $1 billion more in taxes than it projected earlier this year, as the government’s coffers are fattened by Wall Street’s technology-driven gains.",
+    "tickers": []
+  },
+  {
+    "title": "Fed Drops October 2027 FOMC Rate Meeting",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-drops-october-2027-fomc-rate-meeting-video",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T19:21:17.000Z",
+    "excerpt": "Bloomberg’s Read Pickert joins Scarlet Fu on “Bloomberg Real Yield.” The Federal Reserve dropped a rate-setting meeting scheduled for October 2027 from the Federal Open Market Committee’s calendar, after announcing it would hold one fewer s",
+    "tickers": []
+  },
+  {
+    "title": "U.S. House passes bill to protect small businesses from foreign adversaries, including N. Korea",
+    "url": "https://en.yna.co.kr/view/AEN20261112012600315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T15:00:24.000Z",
+    "excerpt": "WASHINGTON, Nov. 12 (Yonhap) -- The U.S. House of Representatives has passed a b...",
+    "tickers": []
+  },
+  {
+    "title": "Men's football head coach 'proud' of players for resolving differences",
+    "url": "https://en.yna.co.kr/view/AEN20261112012500315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T14:47:30.000Z",
+    "excerpt": "DOHA, Nov. 12 (Yonhap) -- Robert Moreno, caretaker boss for the men&apos;s national f...",
+    "tickers": []
+  },
+  {
+    "title": "Son Heung-min sees nat'l football team controversy as blessing in disguise",
+    "url": "https://en.yna.co.kr/view/AEN20261112012400315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T14:30:58.000Z",
+    "excerpt": "DOHA, Nov. 12 (Yonhap) -- Son Heung-min, longtime captain of the men&apos;s national ...",
+    "tickers": []
+  },
+  {
+    "title": "Oil Rises After Trump Declares US Doesn’t Need a Deal With Iran",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-12T13:14:35.000Z",
+    "excerpt": "Oil edged higher after President Donald Trump said that the US could forgo a deal with Iran, dimming prospects for a breakthrough to end the war that has roiled Middle East supplies.",
+    "tickers": []
+  },
+  {
+    "title": "(LEAD) Ruling party lawmaker accused of defamation for calling journalists 'pack of hyenas'",
+    "url": "https://en.yna.co.kr/view/AEN20261112005351315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T12:15:12.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- A police complaint was filed Thursday accusing ruling...",
+    "tickers": []
+  },
+  {
+    "title": "N. Korean FM slams G7 nations' call for denuclearization, says its nuclear pursuit remains 'steadfast'",
+    "url": "https://en.yna.co.kr/view/AEN20261112012200315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T10:22:50.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- North Korean Foreign Minister Choe Son-hui denounced ...",
+    "tickers": []
+  },
+  {
+    "title": "After 3 Billboard No. 1s, Ateez looks to climb higher with new album",
+    "url": "https://en.yna.co.kr/view/AEN20261112012100315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T09:29:53.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- K-pop boy group Ateez said Thursday its upcoming albu...",
+    "tickers": []
+  },
+  {
+    "title": "Cheonghae unit to come under on-scene commander's tactical control in limited manner: Seoul",
+    "url": "https://en.yna.co.kr/view/AEN20261112009500315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T08:47:14.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- South Korea&apos;s key anti-piracy unit will come under an...",
+    "tickers": []
+  },
+  {
+    "title": "S. Korea's annual foreign arrivals surpass 20 mln for 1st time",
+    "url": "https://en.yna.co.kr/view/AEN20261112012000315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T08:36:21.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- The annual number of foreign visitors to South Korea ...",
+    "tickers": []
+  },
+  {
+    "title": "S. Korea to face N. Korea, China, Philippines in Olympic women's football qualifiers",
+    "url": "https://en.yna.co.kr/view/AEN20261112011700315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T08:20:47.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- South Korea will play North Korea, China and the Phil...",
+    "tickers": []
+  },
+  {
+    "title": "Yonhap News Summary",
+    "url": "https://en.yna.co.kr/view/AEN20261112006751315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T08:00:01.000Z",
+    "excerpt": "The following is the second summary of major stories moved by Yonhap News Agency...",
+    "tickers": []
+  },
+  {
+    "title": "N. Korea warns of action against U.S.-led naval buildup",
+    "url": "https://en.yna.co.kr/view/AEN20261112011400315",
+    "source": "Yonhap News (English)",
+    "publishedAt": "2026-11-12T07:57:58.000Z",
+    "excerpt": "SEOUL, Nov. 12 (Yonhap) -- North Korea on Thursday denounced what it called a U....",
+    "tickers": []
+  },
+  {
+    "title": "Stocks Fall on Nvidia Rout as Oil Jump Sinks Bonds: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-11T22:08:05.000Z",
+    "excerpt": "A leadership crisis at Nvidia Corp. curbed the appetite for riskier corners on Wall Street, with stocks also declining as a rally in oil prices lifted Treasury yields.",
     "tickers": []
   },
   {
@@ -437,206 +637,6 @@
     "source": "Yonhap News (English)",
     "publishedAt": "2026-11-10T11:37:54.000Z",
     "excerpt": "SEOUL, Nov. 10 (Yonhap) -- South Korea&apos;s state-run Financial Security Institute ...",
-    "tickers": []
-  },
-  {
-    "title": "Defense chief reiterates need to integrate military academies",
-    "url": "https://en.yna.co.kr/view/AEN20261110010500315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-10T11:03:06.000Z",
-    "excerpt": "SEOUL, Nov. 10 (Joint Press Corps-Yonhap) -- Defense Minister Kang Shin-chul on ...",
-    "tickers": []
-  },
-  {
-    "title": "BOK chief Shin Hyun-song tapped to lead BIS committee on payment systems",
-    "url": "https://en.yna.co.kr/view/AEN20261110003700320",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-10T10:00:02.000Z",
-    "excerpt": "SEOUL, Nov. 10 (Yonhap) -- Bank of Korea (BOK) Gov. Shin Hyun-song has been tapp...",
-    "tickers": []
-  },
-  {
-    "title": "(LEAD) Krafton's Q3 operating profit down over 35 pct despite sales increase",
-    "url": "https://en.yna.co.kr/view/AEN20261110008451320",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-10T08:06:25.000Z",
-    "excerpt": "SEOUL, Nov. 10 (Yonhap) -- Krafton Inc., a South Korean game publisher known for...",
-    "tickers": []
-  },
-  {
-    "title": "Gold Tumbles as Hot US Inflation, Fedspeak Fuel Fed Hike Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-10T00:04:12.000Z",
-    "excerpt": "Gold extended its decline after a hotter-than-expected US inflation report and remarks from policymakers reinforced bets that the Federal Reserve will raise interest rates next month.",
-    "tickers": []
-  },
-  {
-    "title": "Latest Oil Market News and Analysis for Nov. 10",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T23:01:44.000Z",
-    "excerpt": "Brent crude fell, briefly slumping below $90 a barrel, as technical factors helped deepen a selloff driven by expectations of further de-escalation in the Iran war.",
-    "tickers": []
-  },
-  {
-    "title": "N. Korea tests new torpedo, eyes early 2027 deployment",
-    "url": "https://en.yna.co.kr/view/AEN20261110001200315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T22:52:02.000Z",
-    "excerpt": "SEOUL, Nov. 10 (Yonhap) -- North Korea has test-fired a new type of torpedo in t...",
-    "tickers": []
-  },
-  {
-    "title": "Illit's 'Break Even' debuts at 6th on Billboard 200",
-    "url": "https://en.yna.co.kr/view/AEN20261110001100315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T22:44:16.000Z",
-    "excerpt": "SEOUL, Nov. 10 (Yonhap) -- K-pop girl group Illit has landed in the top 10 of th...",
-    "tickers": []
-  },
-  {
-    "title": "Skydance Reports First Earnings Since Merger",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-reports-first-earnings-since-merger-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T22:28:02.000Z",
-    "excerpt": "Skydance is laying out its plans for its recent merger of Paramount and Warner Brod. Discovery, including a potential bundle of Paramount+ and HBO Max and a push to deliver $6 billion in merger synergies. Bloomberg Intelligence Senior Media",
-    "tickers": []
-  },
-  {
-    "title": "Dutch Bros CEO: Gas Prices Are Impacting the Consumer",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/dutch-bros-ceo-gas-prices-are-impacting-the-consumer-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T22:24:17.000Z",
-    "excerpt": "Dutch Bros CEO Christine Barone says the coffee chain delivered more than 30% year-over-year growth in revenue and EBITDA in the third quarter. The company also recorded its 14th consecutive quarter of positive same-store sales and ninth co",
-    "tickers": []
-  },
-  {
-    "title": "Stocks, Bonds Fall as Fed-Hike Chorus Grows Louder: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T22:16:53.000Z",
-    "excerpt": "Faster-than-estimated inflation data spurred losses in stocks and bonds, with Wall Street also rattled by signals from some Federal Reserve officials that they may need to lift rates more aggressively.",
-    "tickers": []
-  },
-  {
-    "title": "(EDITORIAL from Korea JoongAng Daily on Nov. 10)",
-    "url": "https://en.yna.co.kr/view/AEN20261110000900320",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T21:54:13.000Z",
-    "excerpt": "The Lee Jae Myung administration has repeatedly emphasized a &quot;major shift toward...",
-    "tickers": []
-  },
-  {
-    "title": "(EDITORIAL from The Korea Times on Nov. 10)",
-    "url": "https://en.yna.co.kr/view/AEN20261110000800320",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T21:54:01.000Z",
-    "excerpt": "Cronyism has raised red flags over President Lee Jae Myung&apos;s leadership. Lee has...",
-    "tickers": []
-  },
-  {
-    "title": "(EDITORIAL from The Korea Herald on Nov. 10)",
-    "url": "https://en.yna.co.kr/view/AEN20261110000700320",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T21:53:49.000Z",
-    "excerpt": "The Special Counsel Act on Fabricated Indictments, which passed the National Ass...",
-    "tickers": []
-  },
-  {
-    "title": "Top headlines in major S. Korean newspapers",
-    "url": "https://en.yna.co.kr/view/AEN20261110000600320",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T21:53:31.000Z",
-    "excerpt": "SEOUL, Nov. 10 (Yonhap) -- The following are the top headlines in major South Ko...",
-    "tickers": []
-  },
-  {
-    "title": "CVS Has Not Received Offers For the Retail Pharmacy Business, CEO Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/cvs-received-no-offers-for-pharmacies-ceo-says-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T21:49:19.000Z",
-    "excerpt": "CVS Health Chief Executive Officer and Chairman David Joyner says no offers have been received yet for its retail pharmacy business which is being spun off in the first half of next year. The company's Aetna insurance unit and Caremark phar",
-    "tickers": []
-  },
-  {
-    "title": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T21:46:26.000Z",
-    "excerpt": "Banks led by JPMorgan Chase &amp; Co. could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc. that the underwriters were stuck holding a few months ago.",
-    "tickers": []
-  },
-  {
-    "title": "Nvidia Sees Historic Split From S&P as Stock Sinks, Market Soars",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T21:41:16.000Z",
-    "excerpt": "As Nvidia Corp goes, so too does the US stock market, until Monday, that is.",
-    "tickers": []
-  },
-  {
-    "title": "(LEAD) N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official",
-    "url": "https://en.yna.co.kr/view/AEN20261110000551315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T21:40:38.000Z",
-    "excerpt": "WASHINGTON, Nov. 9 (Yonhap) -- North Korea&apos;s apparent demand to be recognized as...",
-    "tickers": []
-  },
-  {
-    "title": "S&P 500 Erases Midterm Losses, Bitcoin Bounce",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T21:38:31.000Z",
-    "excerpt": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: SYZGY Asset Management Chairman & Founder Rob Arnott, TMX VettaFi Inves",
-    "tickers": []
-  },
-  {
-    "title": "JBS Profit Hit as China Quotas Overshadow US Beef Recovery",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/jbs-profit-hit-as-china-quotas-overshadow-us-beef-improvement",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T21:27:37.000Z",
-    "excerpt": "JBS NV is finally seeing some recovery in its US beef business, but the improvement wasn’t enough to outweigh the impact of China’s import restrictions on the world’s largest meatpacker.",
-    "tickers": []
-  },
-  {
-    "title": "N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official",
-    "url": "https://en.yna.co.kr/view/AEN20261110000500315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T21:06:53.000Z",
-    "excerpt": "WASHINGTON, Nov. 9 (Yonhap) -- North Korea&apos;s apparent demand to be recognized as...",
-    "tickers": []
-  },
-  {
-    "title": "Chances of Trump-Kim summit 'go up' after U.S. midterms: expert",
-    "url": "https://en.yna.co.kr/view/AEN20261110000300315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T19:33:26.000Z",
-    "excerpt": "WASHINGTON, Nov. 9 (Yonhap) -- The chances of another summit between U.S. Presid...",
-    "tickers": []
-  },
-  {
-    "title": "Ecopetrol Sells $2 Billion Bonds in First Offering in Two Years",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T17:11:42.000Z",
-    "excerpt": "Ecopetrol SA sold dollar bonds for the first time in more than two years, the second Colombian company to tap global markets this month as it refinances debt used to fund its expansion in Brazil.",
-    "tickers": []
-  },
-  {
-    "title": "Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-09T17:07:08.000Z",
-    "excerpt": "The cost of shipping oil fell further, even if rates remain at historically elevated levels, helping to make some longer-distance crude trades more attractive.",
-    "tickers": []
-  },
-  {
-    "title": "IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans",
-    "url": "https://en.yna.co.kr/view/AEN20261110000200315",
-    "source": "Yonhap News (English)",
-    "publishedAt": "2026-11-09T15:41:41.000Z",
-    "excerpt": "WASHINGTON, Nov. 9 (Yonhap) -- International Atomic Energy Agency (IAEA) Directo...",
     "tickers": []
   }
 ]
