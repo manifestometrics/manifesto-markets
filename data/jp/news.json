@@ -1,5 +1,373 @@
 [
   {
+    "title": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
+    "url": "https://www.investing.com/news/stock-market-news/earnings-week-scorecard-beats-rewarded-selectively-as-aiinfrastructure-names-pull-back-93CH-5026409",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T20:03:15.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Cerebras earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/cerebras-earnings-analysis-questions-answered-and-next-catalysts-93CH-5026407",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T20:02:23.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Applied Materials earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/applied-materials-earnings-analysis-questions-answered-and-next-catalysts-93CH-5026406",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T20:02:10.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Cisco earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/cisco-earnings-analysis-questions-answered-and-next-catalysts-93CH-5026404",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T20:02:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Wall St slides as Nvidia uncertainty drags tech shares lower",
+    "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge-5024713",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T20:00:44.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Meta tests prediction-market app for employees, WSJ reports",
+    "url": "https://www.investing.com/news/stock-market-news/meta-tests-predictionmarket-app-for-employees-wsj-reports-5026398",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T20:00:17.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "JPMorgan Sees AI Spree Driving Record 2027 US High-Grade Supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/jpmorgan-sees-ai-spree-driving-record-2027-us-high-grade-supply",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:58:07.000Z",
+    "excerpt": "Spending by big tech companies on the artificial intelligence buildout, along with elevated refinancing needs, will help drive another record year of US investment-grade bond issuance, according to JPMorgan Chase &amp; Co.",
+    "tickers": []
+  },
+  {
+    "title": "Grading Global Retirement Plans, US Receives C+",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/grading-global-retirement-plans-us-receives-c-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:54:56.000Z",
+    "excerpt": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, joins Tome Keene on “Bloomberg Money.” They discuss the 2026 Marsh CFA Institute Global Pension Index, which gives grades for the best and worst retirement pl",
+    "tickers": []
+  },
+  {
+    "title": "Canada’s Stelco to recall 175 laid-off workers, restart Hamilton plant finishing lines",
+    "url": "https://www.investing.com/news/stock-market-news/canadas-stelco-to-recall-175-laidoff-workers-restart-hamilton-plant-finishing-lines-5026395",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T19:54:25.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Hard To Get A Retirement System ‘Right’: Ed Morse",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/hard-to-get-a-retirement-system-right-ed-morse-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:43:38.000Z",
+    "excerpt": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the challenges of fixing retirement. (Source: Bloomberg)",
+    "tickers": []
+  },
+  {
+    "title": "We’re Living In An Inflationary Environment: Morse",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/we-re-living-in-an-inflationary-environment-morse-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:41:06.000Z",
+    "excerpt": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the current state of the oil market, his career, and China. (Source: Bloomberg)",
+    "tickers": []
+  },
+  {
+    "title": "Trump extends Jones Act waiver for 90 days to aid shipping",
+    "url": "https://www.investing.com/news/stock-market-news/trump-extends-jones-act-waiver-for-90-days-to-aid-shipping-93CH-5026384",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T19:40:09.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Barclays Trading Desk Turns Bullish for First Time Since March",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/barclays-trading-desk-turns-bullish-for-first-time-since-march",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:36:01.000Z",
+    "excerpt": "Barclays Plc.’s trading desk has turned tactically bullish on US equities for the first time since mid-March, signaling that a sharp pullback in investor positioning and easing volatility pressures have created an attractive opportunity for",
+    "tickers": []
+  },
+  {
+    "title": "Important Guard 'Critical Intellectual Property,' From China, Says Retired Lt. General",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-13/important-guard-critical-ip-from-china-lt-gen-gibson-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:29:06.000Z",
+    "excerpt": "Retired Lieutenant General Karen Gibson, former deputy director of national intelligence, talked about exports controls, Chinese espionage and the Iran war. Gibson said that given China's history of stealing intellectual property, it is imp",
+    "tickers": []
+  },
+  {
+    "title": "Why is Nebius stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5026373",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T19:28:09.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Why is Dell Technologies stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-sliding-today-93CH-5026371",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-13T19:23:22.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "The Other Way the AI Buildout Pushes Up US Rates",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/the-other-way-the-ai-buildout-pushes-up-us-rates",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T19:17:56.000Z",
+    "excerpt": "The impact of data center loans.",
+    "tickers": []
+  },
+  {
+    "title": "Chile Mulls Private-Sector Role in Codelco Mines",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/chile-mulls-private-sector-role-in-codelco-mines",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T18:54:32.000Z",
+    "excerpt": "Chile is considering ways to bring private companies into Codelco’s mining operations and infrastructure, potentially forming partnerships well beyond the exploration ventures currently used by the state copper giant.",
+    "tickers": []
+  },
+  {
+    "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T17:11:50.000Z",
+    "excerpt": "Executive compensation disclosures are in for an overhaul as part of the US Securities and Exchange Commission’s plan to scale back the information that publicly-traded companies must give investors.",
+    "tickers": []
+  },
+  {
+    "title": "Third Chicago CFO’s Surprise Exit Sparks Credit Rating Fears",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-13T16:04:20.000Z",
+    "excerpt": "Chicago has lost its third chief financial officer this year, raising concerns about the city’s credit ratings as it scrambles to close an $882 million budget deficit.",
+    "tickers": []
+  },
+  {
+    "title": " Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/malaysia-airasia-aid/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T09:16:00.000Z",
+    "excerpt": "The finance ministry is reviewing options to aid Southeast Asia's largest low-cost airline as it deals with high jet fuel prices and currency swings.",
+    "tickers": []
+  },
+  {
+    "title": " Japan team creates ‘planimal’ hybrid plant-animal cells in world first ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T09:08:00.000Z",
+    "excerpt": "Cells that produce useful animal and plant proteins and can be cultured using photosynthesis could offer new methods of producing drugs and meat.",
+    "tickers": []
+  },
+  {
+    "title": "マイクロソフト社の障害を受け、本日（2026年11月13日）技術提案書等提出期限の調達案件の対応について掲載しました",
+    "url": "https://www.digital.go.jp/procurement",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T09:07:02.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " Japan yet to make full use of nuclear power equipment export treaty with India ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/nuclear-plant-exports-india/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T09:03:00.000Z",
+    "excerpt": "New Delhi has a goal of boosting India's nuclear power capacity to 100 gigawatts by 2047, and reducing greenhouse gas emissions to net zero by 2070.",
+    "tickers": []
+  },
+  {
+    "title": " Sumitomo Mitsui, Mizuho raises annual profit forecast and announces share buyback ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T08:45:00.000Z",
+    "excerpt": "Japanese lenders are on a record earnings streak thanks to the BOJ's interest-rate hikes, with corporate borrowing showing few signs of slowing down.",
+    "tickers": []
+  },
+  {
+    "title": " China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T08:35:00.000Z",
+    "excerpt": "Beijing has stepped up its military pressure over the past five years, drawing condemnation from Taiwan and heightening concern in the West.",
+    "tickers": []
+  },
+  {
+    "title": " Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/explainer/explainer-ruling-disparity-upper-house-seat/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T08:16:00.000Z",
+    "excerpt": "While the results from last year's Upper House election are not invalidated, the ruling puts the debate on reform back into focus.",
+    "tickers": []
+  },
+  {
+    "title": " Oh and Kuriyama call for change as Japan’s baseball landscape shifts ",
+    "url": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/japanese-baseball/oh-kuriyama-npb-mlb/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T07:43:00.000Z",
+    "excerpt": "The two baseball legends are seeking to inspire Japan's next generation of players as many seek their fortunes in MLB.",
+    "tickers": []
+  },
+  {
+    "title": " Indonesia’s Prabowo rushes end of Jokowi era with son’s ouster ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/prabowo-consolidates-power/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T07:38:00.000Z",
+    "excerpt": "Since taking office, Indonesian President Prabowo Subianto has increasingly put his own stamp on the government.",
+    "tickers": []
+  },
+  {
+    "title": " Opposition in Upper House seeks to expand relief during and after food tax cut ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/politics/tax-cut-debate-komeito-dpp/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T07:38:00.000Z",
+    "excerpt": "Income-linked cash payments for low- and middle-income workers would start alongside the tax cut and expand in support when the rate returns.",
+    "tickers": []
+  },
+  {
+    "title": " Chinese filmmakers at TIFF take risks and reap rewards ",
+    "url": "https://www.japantimes.co.jp/culture/2026/11/13/film/tiff-chinese-films-competition/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T07:30:00.000Z",
+    "excerpt": "Films by Chinese directors scooped up the best actress and Special Jury prizes at the 39th Tokyo International Film Festival.",
+    "tickers": []
+  },
+  {
+    "title": " Japan’s second bird flu case this season confirmed in Chiba ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/bird-flu-chiba/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T06:53:00.000Z",
+    "excerpt": "The prefecture will cull about 40,000 egg-laying chickens at a farm in Asahi.",
+    "tickers": []
+  },
+  {
+    "title": "マイクロソフト社の障害によりメール不着等となる事象について",
+    "url": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:46:36.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " China’s access to Nvidia chips in doubt as curbs gain traction in U.S. Congress ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/13/world/china-access-nvidia-chips-doubt/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-13T06:46:00.000Z",
+    "excerpt": "Nvidia's advanced chips are widely used to develop AI models, making the company key in the U.S. race against China to build superior AI systems.",
+    "tickers": []
+  },
+  {
+    "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+    "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "地方公共団体におけるアナログ規制の見直しの取組事例と取組状況のダッシュボードを掲載しました",
+    "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」11月の開催スケジュールを掲載しました",
+    "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました",
+    "url": "https://www.digital.go.jp/get-involved/co-creation-platform",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "【事前案内】アドレス・ベース・レジストリシステム更改における 町字データのCSVフォーマット変更について掲載しました",
+    "url": "https://www.digital.go.jp/policies/base_registry_address/d3f24b8d-bff8-48fd-a38c-5fa4b891f8e5",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "民間事業者向けマイナンバーカード活用情報のページを刷新しました",
+    "url": "https://www.digital.go.jp/policies/mynumber/private-business",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回） の資料を掲載しました",
+    "url": "https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "政策ダッシュボード一覧に「自治体のアナログ規制の見直し状況に関するダッシュボード」を掲載しました",
+    "url": "https://www.digital.go.jp/resources/govdashboard",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを更新しました",
+    "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "医療DXに関するダッシュボードを更新しました",
+    "url": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Nov. 13",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-12T23:02:09.000Z",
+    "excerpt": "Oil fluctuated as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
+    "tickers": []
+  },
+  {
+    "title": "S&P 500 Falls as Chip Slump Offsets Inflation Data: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-12T22:17:13.000Z",
+    "excerpt": "Another selloff in chipmakers weighed on stocks, overshadowing inflation data that eased concern about aggressive Federal Reserve rate hikes.",
+    "tickers": []
+  },
+  {
     "title": "Lula Eyes Measures to Boost Fiscal Adjustment to $14 Billion",
     "url": "https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion",
     "source": "Bloomberg — Markets (Japan-relevant)",
@@ -269,374 +637,6 @@
     "source": "Digital Agency Japan (Gov RSS)",
     "publishedAt": "2026-11-12T06:00:00.000Z",
     "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "広報資料に「スマートフォンのマイナンバーカード」に関するポスターを掲載しました",
-    "url": "https://www.digital.go.jp/policies/mynumber_resources",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-12T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回）の概要を掲載しました",
-    "url": "https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-12T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "新卒採用向け 業務説明会・イベント情報を更新しました",
-    "url": "https://www.digital.go.jp/recruitment/recruiting-session",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-12T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "一般競争入札：令和8年度AIを活用した情報システム調達の評価に係る調査等業務を掲載しました",
-    "url": "https://www.digital.go.jp/procurement",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-12T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令案に係る意見募集を行います",
-    "url": "https://www.digital.go.jp/get-involved/procedure/2cfdcd95-421e-4153-b9b2-364cf503e63d",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-12T05:59:25.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Stocks Fall on Nvidia Rout as Oil Jump Sinks Bonds: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T22:08:05.000Z",
-    "excerpt": "A leadership crisis at Nvidia Corp. curbed the appetite for riskier corners on Wall Street, with stocks also declining as a rally in oil prices lifted Treasury yields.",
-    "tickers": []
-  },
-  {
-    "title": "Crunch Fitness Seeks to Borrow $800 Million From ABS Bond Sale",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:56:03.000Z",
-    "excerpt": "Crunch Fitness is looking to raise about $800 million from a bond sale backed by the company’s franchise revenue, adding to a string of companies tapping the whole-business securitization market in recent weeks.",
-    "tickers": []
-  },
-  {
-    "title": "Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards",
-    "url": "https://www.investing.com/news/stock-market-news/google-rolls-out-gemini-ai-voice-assistant-to-apple-carplay-dashboards-5019761",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:43:40.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Why is Netflix stock gaining today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-gaining-today-93CH-5019760",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:41:26.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Nomura explores sale of crypto unit Laser Digital, report says",
-    "url": "https://www.investing.com/news/stock-market-news/nomura-explores-sale-of-crypto-unit-laser-digital-report-says-5019755",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:36:31.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "United Airlines moves to block AI agents from its platform over security concerns",
-    "url": "https://www.investing.com/news/stock-market-news/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-5019752",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:30:42.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Voters Asking For 'Bold Action' From Democrats, Says Deluzio",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:22:48.000Z",
-    "excerpt": "Democratic Representative Chris Deluzio, who’s on the House Armed Services Committee, said the failed impeachment effort of Pete Hegseth 'shouldn't be the end of the oversight' over the defense secretary. Deluzio, who represents Pennsylvani",
-    "tickers": []
-  },
-  {
-    "title": "Wall St Races for Megadeals as Countdown Begins on Trump Era",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:14:12.000Z",
-    "excerpt": "Bloomberg’s Ryan Gould joins Dani Burger on “Bloomberg Deals.” President Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult ",
-    "tickers": []
-  },
-  {
-    "title": "Micron Tech, Oracle among market cap stock movers on Wednesday",
-    "url": "https://www.investing.com/news/stock-market-news/micron-tech-oracle-among-market-cap-stock-movers-on-wednesday-93CH-5019727",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:07:08.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Marvell-Lumentum Deal Odds Near Coin Flip",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/marvell-lumentum-deal-odds-near-coin-flip-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:05:10.000Z",
-    "excerpt": "Bloomberg’s Yiqin Shen joins Dani Burger on “Bloomberg Deals.”  Marvell Technology’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings is getting a lukewarm early verdict from investment experts w",
-    "tickers": []
-  },
-  {
-    "title": "Canadian Heavy Crude Rebounds Amid Cheaper Tanker Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/canadian-heavy-crude-rebounds-amid-cheaper-tanker-costs",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:04:05.000Z",
-    "excerpt": "Canadian heavy crude has strengthened from the weakest in eight years as a surge in tanker rates subsides and oil prices drop.",
-    "tickers": []
-  },
-  {
-    "title": "H&R’s $4.7 Billion Breakup Faces Revolt by Major Investors",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/h-r-s-4-7-billion-breakup-faces-revolt-by-major-investors",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:04:00.000Z",
-    "excerpt": "H&amp;R Real Estate Investment Trust’s C$6.7 billion ($4.7 billion) breakup is facing a growing shareholder revolt, with some of the world’s biggest pension funds lining up against a deal that would hand a chunk of the Canadian landlord’s p",
-    "tickers": []
-  },
-  {
-    "title": "Polymarket cuts staff as part of company restructuring",
-    "url": "https://www.investing.com/news/stock-market-news/polymarket-cuts-staff-as-part-of-company-restructuring-5019722",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:01:52.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Jobless claims, existing home sales, and oil inventories due Thursday",
-    "url": "https://www.investing.com/news/stock-market-news/jobless-claims-existing-home-sales-and-oil-inventories-due-thursday-93CH-5019721",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T19:01:33.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Anticipate Some Defense Deals Pausing: Antenucci",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/anticipate-some-defense-deals-pausing-antenucci-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T19:01:04.000Z",
-    "excerpt": "Anita Antenucci, founder & managing partner at 3Wire Partners, joins Dani Burger on “Bloomberg Deals.” They discuss the flow of defense deals and how they may slow after Congressional control switched to Democrats.\n (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Credit Traders Fume as $1 Billion Utz Loan Crumbles Within Weeks",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/credit-traders-fume-as-1-billion-utz-loan-crumbles-within-weeks",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T18:59:54.000Z",
-    "excerpt": "An over $1 billion loan aimed at financing Utz’s $2.9 billion buyout by Intersnack is already trading at a steep discount well before the deal’s expected close, according to people familiar with the matter.",
-    "tickers": []
-  },
-  {
-    "title": "Michael Burry buys back into Lululemon, adds to other positions",
-    "url": "https://www.investing.com/news/stock-market-news/michael-burry-buys-back-into-lululemon-adds-to-other-positions-5019715",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T18:54:55.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Expedia and Booking shares rise after United Airlines blocks AI booking",
-    "url": "https://www.investing.com/news/stock-market-news/expedia-and-booking-shares-rise-after-united-airlines-blocks-ai-booking-5019714",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T18:51:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/polymarket-cuts-workforce-after-stumbles-prompt-reorganization",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T18:50:43.000Z",
-    "excerpt": "Polymarket has laid off staff and severed ties with a number of contractors as part of a broader effort to recover from several stumbles that have left it lagging its main rival.",
-    "tickers": []
-  },
-  {
-    "title": "Nasdaq soars over 2% as upbeat CoreWeave outlook reignites AI trade",
-    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-11T18:47:51.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Crisis de apagones abre nuevo frente para Rodríguez en Venezuela",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-11/apagones-abren-nuevo-frente-para-rodriguez-en-venezuela-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T18:46:55.000Z",
-    "excerpt": " Los continuos apagones, especialmente en los estados andinos, están alterando la vida cotidiana y alimentando las protestas en Venezuela, abriendo un nuevo frente para el gobierno de Delcy Rodríguez. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-11T16:53:31.000Z",
-    "excerpt": "The nuclear power boom is prompting CME Group Inc. to move ahead with a new futures contract backed by physical supplies of uranium, a key fuel source.",
-    "tickers": []
-  },
-  {
-    "title": " Nintendo sells 5.2 million copies of ‘Zelda’ remake in four days ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/11/zelda-remake-sales/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T12:53:00.000Z",
-    "excerpt": "\"The Legend of Zelda: Ocarina of Time\" is a complete recreation of the 1998 classic action-adventure game for the Nintendo 64.",
-    "tickers": []
-  },
-  {
-    "title": " Nissan pares car sales forecast on tougher China competition ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/11/companies/nissan-sales-forecast/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T11:43:00.000Z",
-    "excerpt": "The Japanese manufacturer now projects at most 3 million vehicle deliveries this year, from 3.15 million previously.",
-    "tickers": []
-  },
-  {
-    "title": " Exiled Cambodian opposition leader urges Japan to aid democracy ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/cambodia-exiled-opposition-leader-democracy/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T11:16:00.000Z",
-    "excerpt": "In a recent interview in Tokyo, Rainsy criticized former Cambodian Prime Minister Hun Sen, 74, and his family for establishing a \"dictatorship.\"",
-    "tickers": []
-  },
-  {
-    "title": " Japan, eight others get fossil award over leaders skipping climate talks ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/climate-talks-fossil-award/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T11:10:00.000Z",
-    "excerpt": "From the Group of Seven countries, British Prime Minister Andy Burnham is the only leader expected to attend the summit.",
-    "tickers": []
-  },
-  {
-    "title": "古川大臣記者会見（令和8年11月10日）要旨を掲載しました",
-    "url": "https://www.digital.go.jp/speech/minister-261110-01",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-11T09:57:11.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " ‘Three Millimeters to You’: A hokey but heartfelt tale of cross-cultural first love ",
-    "url": "https://www.japantimes.co.jp/culture/2026/11/11/film/three-millimeters-to-you/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T09:18:00.000Z",
-    "excerpt": "Chun Jin-rung's debut feature falls squarely in the \"seishun eiga\" genre, with both over-the-top sentimentality and real sweetness.",
-    "tickers": []
-  },
-  {
-    "title": " Japan Supreme Court rules 2025 election was held in unconstitutional state ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/upper-house-election-unconstitutional-state/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T09:02:00.000Z",
-    "excerpt": "Chief Justice Yukihiko Imasaki said the maximum vote-value disparity raised constitutional concerns but dismissed requests to invalidate the election.",
-    "tickers": []
-  },
-  {
-    "title": " Action thrills best treacly drama in ‘Godzilla Minus Zero’ ",
-    "url": "https://www.japantimes.co.jp/culture/2026/11/11/film/godzilla-minus-zero/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T09:00:00.000Z",
-    "excerpt": "Takashi Yamazaki's \"Godzilla Minus Zero\" soars to ever greater heights in visual effects, even if its human performances are overblown.",
-    "tickers": []
-  },
-  {
-    "title": " As JET Programme turns 40, alumni and ministers stress its importance in age of AI ",
-    "url": "https://www.japantimes.co.jp/community/2026/11/11/jet-programme-40-years/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T09:00:00.000Z",
-    "excerpt": "JET has brought thousands of teachers and translators to rural Japanese communities and has been an \"irreplaceable national asset\" for Japan.",
-    "tickers": []
-  },
-  {
-    "title": " U.S. loses grip on $121 billion mobile gaming sector to China ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/11/tech/us-mobile-gaming-china/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T08:55:00.000Z",
-    "excerpt": "In a cruel twist, China's biggest overseas market last year was the United States.",
-    "tickers": []
-  },
-  {
-    "title": " Amid concerns over internal opposition within LDP, Koizumi pledges support for Takaichi ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/koizumi-obuchi-ldp/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T08:44:00.000Z",
-    "excerpt": "Citing continuity, the defense minister, who is a potential rival, said he would support the prime minister's reelection as LDP president next year.",
-    "tickers": []
-  },
-  {
-    "title": " Iran producing 50 missiles per month despite crippled industry ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/11/world/iran-50-missiles-month-industry/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T07:57:00.000Z",
-    "excerpt": "The U.S. has said since the early days of the war that Tehran's arsenal, and its ability to reconstitute it, had been thoroughly degraded.",
-    "tickers": []
-  },
-  {
-    "title": " Disaster warning systems race to keep pace with galloping climate risks ",
-    "url": "https://www.japantimes.co.jp/environment/2026/11/11/climate-change/disaster-warning-systems-climate/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-11T07:46:00.000Z",
-    "excerpt": "A rock and ice avalanche and flood in Nepal in August that left thousands of people dead, injured or missing showed that all systems have limits.",
-    "tickers": []
-  },
-  {
-    "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.133、134を掲載しました",
-    "url": "https://www.digital.go.jp/policies/mynumber/local-government/info",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-11T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "カード代替電磁的記録（属性証明機能）における大臣認定を取得した確認用プログラムを更新しました",
-    "url": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-11T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました",
-    "url": "https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-11T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-10T22:32:05.000Z",
-    "excerpt": "A rally in tech giants lifted stocks on bets the artificial-intelligence trade that has powered the bull market has more room to run.",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-10T20:05:48.000Z",
-    "excerpt": "Anthropic is seeking a valuation of about $1.4 trillion in its initial public offering, a bid to make history as the first frontier artificial intelligence lab to go public. The company’s IPO is set to price on Wednesday, Nov. 18 and trade ",
-    "tickers": []
-  },
-  {
-    "title": "IHeart’s Debt Collapses, Shares Sink 67% After Big Earnings Miss",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-10/iheart-s-debt-collapses-shares-sink-67-after-big-earnings-miss",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-10T19:57:18.000Z",
-    "excerpt": "IHeartMedia Inc.’s debt has plunged to record lows along with its shares after the audio-entertainment company’s latest earnings projections fell far short of analyst estimates.",
     "tickers": []
   }
 ]
