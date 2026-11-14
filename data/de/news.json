@@ -1,5 +1,493 @@
 [
   {
+    "title": "Kernkraft: Graichen und „die Dinger“",
+    "url": "https://www.faz.net/aktuell/politik/inland/wie-teuer-sind-kernkraftwerke-patrick-graichen-und-die-dinger-accg-201665725.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T18:34:48.000Z",
+    "excerpt": "Ist die Kernkraft schon erledigt? Selbst unter Grünen spricht sich herum, dass 100 Prozent erneuerbarer Energie zu teuer wird ohne Atomkraft.",
+    "tickers": []
+  },
+  {
+    "title": "SPD: Hubertus Heil will für Parteivorsitz kandidieren",
+    "url": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T18:28:00.000Z",
+    "excerpt": "Bei der SPD zeichnet sich ein Machtkampf ab: Ex-Arbeitsminister Hubertus Heil will sich beim Bundesparteitag im Januar zum Chef der Sozialdemokraten wählen lassen. Damit wächst der Druck auf Amtsinhaber Lars Klingbeil.",
+    "tickers": []
+  },
+  {
+    "title": "Eurovision Song Contest Asia: Philippinische Sängerin Carmelle gewinnt erste Ausgabe",
+    "url": "https://www.spiegel.de/kultur/musik/eurovision-song-contest-asia-philippinische-saengerin-carmelle-gewinnt-erste-ausgabe-a-f12ec3fd-897e-46a9-9e48-258f18cd889b#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T18:15:00.000Z",
+    "excerpt": "Die Teilnehmerin aus den Philippinen hat die erste Ausgabe des asiatischen ESC gewonnen. Mit ihrem Song »Sobra-Sobra« siegte sie beim Finale in Thailand gegen Konkurrenten aus zehn anderen Ländern.",
+    "tickers": []
+  },
+  {
+    "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+    "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T18:11:24.000Z",
+    "excerpt": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
+    "tickers": []
+  },
+  {
+    "title": "Arbeiten mit KI: Diese Menschen verdienen Geld mit Prompts, seitenlangen Prompts",
+    "url": "https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T17:52:00.000Z",
+    "excerpt": "Alle reden von KI – aber was macht es eigentlich mit jemandem, den ganzen Tag mit KI zu reden? Promptwriter wie Fabian Scholz können mit ihrer Arbeit viel Geld verdienen. Oder sich darin verlieren.",
+    "tickers": []
+  },
+  {
+    "title": "Passengers face widespread disruption after US air traffic control outage",
+    "url": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T17:36:00.000Z",
+    "excerpt": "Thousands of flights delayed or cancelled as political blame game mounts",
+    "tickers": []
+  },
+  {
+    "title": "Eurowings-Interna: Was in der Luft gesagt werden darf – und was nicht",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/eurowings-interna-was-in-der-luft-gesagt-werden-darf-und-was-nicht-a-952d23fb-e5d6-4be6-bb4b-3443a07d188f#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T17:25:00.000Z",
+    "excerpt": "Das Personal an Bord soll die Lage schönreden. Interne Dokumente zeigen, wie streng die Vorgaben für Durchsagen in der Luft sind. Und warum aus Gewittern »Regenschauer« werden.",
+    "tickers": []
+  },
+  {
+    "title": "Friedrich Merz in Schleswig-Holstein: Der Kanzler meidet das S-Wort",
+    "url": "https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T17:17:00.000Z",
+    "excerpt": "Friedrich Merz drückt sich bei der CDU in Schleswig-Holstein um den Streit über die Stromsteuer herum. Umso deutlicher macht der Gastgeber, Ministerpräsident Daniel Günther, was die Partei erwartet.",
+    "tickers": []
+  },
+  {
+    "title": "Midterms in den USA: Demokrat Jonathan Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska",
+    "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T17:01:00.000Z",
+    "excerpt": "Elf Tage nach den US-Wahlen steht der Sieger im nördlichsten Bundesstaat fest: Alaska wird künftig von einem Demokraten regiert – dem jüngsten Gouverneur, den der Bundesstaat je hatte.",
+    "tickers": []
+  },
+  {
+    "title": "„Remigration“: Die AfD will sich nun mal nicht mäßigen",
+    "url": "https://www.faz.net/aktuell/politik/inland/streit-ueber-trump-und-remigration-die-afd-will-sich-nicht-maessigen-201670004.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T16:44:13.000Z",
+    "excerpt": "Tino Chrupalla warnt davor, dieselben Fehler wie Trump zu machen – und bekommt Gegenwind aus seiner Partei. Dabei geht es um mehr als Migrationspolitik.",
+    "tickers": []
+  },
+  {
+    "title": "Tuberkulose-Bericht: Kraftakt gegen tödlichste Infektionskrankheit der Welt",
+    "url": "https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T16:43:00.000Z",
+    "excerpt": "Tuberkulose tötet mehr als eine Million Menschen pro Jahr, in Europa erkrankten 2025 etwa 180.000 Menschen. Wegen starker Kürzungen wurde das Schlimmste befürchtet. Doch stark betroffene Länder stellen sich dem Kampf.",
+    "tickers": []
+  },
+  {
+    "title": "Kroatien: Auswanderer wagt mit 61 den Neustart auf der Insel Brac",
+    "url": "https://www.spiegel.de/karriere/kroatien-auswanderer-wagt-mit-61-den-neustart-auf-der-insel-brac-a-f5c4961a-e132-48a6-bdda-e0f897383d77#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T16:35:00.000Z",
+    "excerpt": "Mit seiner Frau und drei Kindern zog Bernd Alexander Mansholt aus Oldenburg los, »um die schönste Insel der Welt zu finden«. Jetzt, 22 Jahre und viele Schicksalsschläge später, hat er sie gefunden – aber nicht dort, wo er sie vermutet hatte",
+    "tickers": []
+  },
+  {
+    "title": "Weltklimakonferenz in der Türkei: Deutsche Chefunterhändlerin erklärt ihren Kurs",
+    "url": "https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-der-tuerkei-deutsche-chefunterhaendlerin-erklaert-ihren-kurs-a-dda010eb-76ce-4856-9a2c-c28d8f8fbefb#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T16:34:00.000Z",
+    "excerpt": "Nur ein Minister fliegt zum Klimagipfel, die Klimahilfen für arme Länder schrumpfen, die Golfstaaten bremsen jeden Fortschritt. Die deutsche Verhandlungsführerin Heike Henn erklärt, warum sie trotzdem kämpft.",
+    "tickers": []
+  },
+  {
+    "title": "Wie bei den Muppets: Neues von den Seifenopas",
+    "url": "https://www.faz.net/aktuell/sport/mehr-sport/sepp-maier-und-boris-becker-die-seifenopas-des-sports-glosse-201676311.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T16:27:51.000Z",
+    "excerpt": "Die Elder Sportsmen Sepp Maier und Boris Becker seifen ihre sportlichen Nachfahren gern ein, bis sie vor Wut schäumen. Damit erinnern sie an ein grauhaariges Grantler-Duo aus dem Fernsehen.",
+    "tickers": []
+  },
+  {
+    "title": "Nach Bereinigungssitzung: Der Haushalt passt zur Koalition – alles läuft auseinander",
+    "url": "https://www.faz.net/aktuell/wirtschaft/bundeshaushalt-spd-und-union-scheitern-an-eigenen-anspruechen-201680428.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T16:26:54.000Z",
+    "excerpt": "Die Lage der Bundesfinanzen ist ohnehin dramatisch. Und jetzt wird die Haushaltspolitik auch noch handwerklich schlecht gemacht. Ob das gut geht?",
+    "tickers": []
+  },
+  {
+    "title": "BSW-Landesparteitag: Ihre Königsmacherrolle beflügelt sie in Sachsen-Anhalt",
+    "url": "https://www.faz.net/aktuell/politik/inland/bsw-professionalisiert-sich-in-sachsen-anhalt-auf-parteitag-accg-201683490.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T16:06:03.000Z",
+    "excerpt": "Das BSW stellt sich auf seinem Landesparteitag in Magdeburg professioneller auf. Bereitet es sich auf eine Koalition mit der AfD vor?",
+    "tickers": []
+  },
+  {
+    "title": "Ungarn: Bei Korruptionsermittlungen gegen Ex-Minister 17,7 Millionen Euro sichergestellt",
+    "url": "https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T16:01:00.000Z",
+    "excerpt": "Im Wald vergraben, in Lagerhallen versteckt: Ungarns Antikorruptionsbehörde hat bei Ermittlungen gegen einen früheren Minister der Regierung Orbán Bargeld in Millionenhöhe gefunden – und stundenlang gezählt.",
+    "tickers": []
+  },
+  {
+    "title": "»Rocket Hour«: König Charles III. und Elton John brillieren als Radio-DJs",
+    "url": "https://www.spiegel.de/kultur/musik/koenig-charles-und-elton-john-brillieren-als-radio-djs-a-6d9ec9ee-82b9-423e-a489-59333141d861#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T15:51:00.000Z",
+    "excerpt": "König Charles ist zu Gast in Elton Johns Radiosendung »Rocket Hour« – wer den beiden zuhört, erlebt eine Masterclass in Sachen Coolness. Und einen Streifzug durch die Popgeschichte.",
+    "tickers": []
+  },
+  {
+    "title": "Aiwanger-Staatsakt: Bei seinem Staatsbegräbnis war Bayern eins",
+    "url": "https://www.faz.net/aktuell/politik/inland/staatsakt-fuer-hubert-aiwanger-bayern-verabschiedet-sich-in-der-frauenkirche-accg-201683295.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T15:47:38.000Z",
+    "excerpt": "In der Frauenkirche nimmt Bayern Abschied von Hubert Aiwanger. Zu Lebzeiten wurde er viel kritisiert. Trotzdem wirken die Lobeshymnen nun nicht heuchlerisch.",
+    "tickers": []
+  },
+  {
+    "title": "Friedensgespräche: Die sonderbare Rolle Europas",
+    "url": "https://www.faz.net/aktuell/politik/ukraine/friedensgespraeche-europa-muss-das-beste-fuer-sich-und-die-ukraine-herausholen-201669986.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T15:16:59.000Z",
+    "excerpt": "Die Europäer haben sich einen Platz in den Gesprächen über einen Frieden in der Ukraine erkämpft. Das ist wichtig, selbst wenn das Ergebnis unvollkommen sein könnte.",
+    "tickers": []
+  },
+  {
+    "title": "Heinrich Wiepking: Der Landschaftsarchitekt der Nazis",
+    "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/heinrich-wiepking-war-der-landschaftsarchitekt-der-nazis-201137327.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T15:07:29.000Z",
+    "excerpt": "Er wollte den Osten auch landschaftlich germanisieren: Ursula Kellner zeichnet die Karriere des Gartenarchitekten Heinrich Wiepking nach, der auch in der Bundesrepublik unbehelligt weiter Karriere machte.",
+    "tickers": []
+  },
+  {
+    "title": "Drachenfliegen: Zehntklässler lernen an Schule in Eschershausen Hängegleiten",
+    "url": "https://www.spiegel.de/deinspiegel/drachenfliegen-zehntklaessler-lernen-an-schule-in-eschershausen-haengegleiten-a-d0ba799a-66af-4f23-9dbb-c4820580b225#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-14T15:05:00.000Z",
+    "excerpt": "An der Haupt- und Realschule Eschershausen gibt es ein besonderes Unterrichtsfach. Jedes Schuljahr lernen hier acht Zehntklässlerinnen und Zehntklässler alles übers Hängegleiten.",
+    "tickers": []
+  },
+  {
+    "title": "Tiefrot ins Nasdaq-Debüt: Geht Anthropics riskante Börsenwette auf?",
+    "url": "https://www.n-tv.de/wirtschaft/Geht-Anthropics-riskante-Boersenwette-auf-id31531417.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T14:58:01.000Z",
+    "excerpt": "Zwischen gewaltigem Umsatzplus und Milliardenverlusten wagt KI-Entwickler Anthropic trotz eines schwierigen Marktumfelds den Sprung aufs Parkett. Sollte das Börsendebüt glücken, dürfte das eine Kettenreaktion auslösen.",
+    "tickers": []
+  },
+  {
+    "title": "Rekord-Ansturm: „Der Jakobsweg ist kein Jahrmarkt“",
+    "url": "https://www.faz.net/aktuell/gesellschaft/jakobsweg-20-jahre-nach-kerkelings-bestseller-ueber-565-000-pilger-accg-201679844.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T14:54:04.000Z",
+    "excerpt": "Vor 20 Jahren erschien Hape Kerkelings Bestseller über den Jakobsweg. Mittlerweile strömen so viele Menschen nach Santiago de Compostela, dass Anwohner verzweifeln.",
+    "tickers": []
+  },
+  {
+    "title": "&quot;Risikobewusstsein muss da sein&quot;: Mit Anlagezertifikaten fürs Alter sparen?",
+    "url": "https://www.n-tv.de/wirtschaft/Mit-Anlagezertifikaten-fuers-Alter-sparen-id31530767.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T14:30:00.000Z",
+    "excerpt": "Wer einen langfristigen Anlagehorizont hat, kann kurzfristige Marktschwankungen aussitzen. Dafür können Anlagezertifikate sinnvoll sein. Discountzertifikate nutzen die Schwankungen der Märkte gezielt für die Rendite.",
+    "tickers": []
+  },
+  {
+    "title": "Als angemessen dargestellt: Huang soll Nvidia-Führungskräfte über Affäre getäuscht haben",
+    "url": "https://www.n-tv.de/wirtschaft/Huang-soll-Nvidia-Fuehrungskraefte-ueber-Affaere-getaeuscht-haben-id31534364.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T14:27:48.000Z",
+    "excerpt": "Von seinem Chefposten bei Nvidia ist Huang bereits zurückgetreten. Ruhe kehrt in der Affäre um seine Liaison mit einer möglichen chinesischen Spionin allerdings nicht ein. Einem Bericht zufolge belog der Unternehmensgründer andere Führungsk",
+    "tickers": []
+  },
+  {
+    "title": "Staat steigt aus: Weltgrößte Reederei MSC will offenbar Meyer Werft kaufen",
+    "url": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T13:34:59.000Z",
+    "excerpt": "Einem Medienbericht zufolge will die Genfer Reederei MSC den Großteil der Meyer Werft übernehmen. Dafür müssten der Bund und Niedersachsen deutlich früher bei Deutschlands letzter großen Kreuzfahrtschiffwerft aussteigen als geplant. Die Eig",
+    "tickers": []
+  },
+  {
+    "title": "CSU will Abschläge für Frührentner erhöhen",
+    "url": "https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-14T11:44:00.000Z",
+    "excerpt": "Wegen der angespannten Haushaltslage will die Regierung weniger Milliarden an die Rentenversicherung überweisen. Um das Loch zu stopfen, sollen die Abschläge für Frührentner steigen.",
+    "tickers": []
+  },
+  {
+    "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+    "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T11:41:15.000Z",
+    "excerpt": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war  ",
+    "tickers": []
+  },
+  {
+    "title": "Europe Express: opening a security can of worms",
+    "url": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T11:00:09.000Z",
+    "excerpt": "Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage",
+    "tickers": []
+  },
+  {
+    "title": "Makers of obesity drugs hit back at claims of negative side effects",
+    "url": "https://www.ft.com/content/acca0ba8-913d-4a8a-8d3b-a5521ed1cfc2?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T11:00:09.000Z",
+    "excerpt": "Novo and Eli Lilly respond to concerns that their blockbuster GLP-1 medicines can lead to problems including poor nutrition",
+    "tickers": []
+  },
+  {
+    "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+    "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T11:00:09.000Z",
+    "excerpt": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+    "tickers": []
+  },
+  {
+    "title": "Germany suffers setback in joining  fighter jet project",
+    "url": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T10:52:49.000Z",
+    "excerpt": "Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner",
+    "tickers": []
+  },
+  {
+    "title": "Stau am Umspannwerk: Das Stromnetz ist Deutschlands größte KI-Bremse",
+    "url": "https://www.n-tv.de/wirtschaft/Das-Stromnetz-ist-Deutschlands-groesste-KI-Bremse-id31523000.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T10:39:08.000Z",
+    "excerpt": "Das Kapital ist da, die Nachfrage auch. Trotzdem hinken Deutschland und Europa beim Bau von Rechenzentren hinter den USA und China her. Bei Hochspannungsanschlüssen herrscht ein Stau, der den KI-Ausbau für ein Jahrzehnt lähmen dürfte.",
+    "tickers": []
+  },
+  {
+    "title": "Immobilien: Bis zu 135 Jahre Preisvorteil – wo sich ein Immobilienkauf rund um Düsseldorf für Pendler lohnt",
+    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sich-ein-immobilienkauf-rund-um-duesseldorf-fuer-pendler-lohnt/100266843.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-14T10:14:29.000Z",
+    "excerpt": "Die NRW-Landeshauptstadt gilt als eine der teuersten Metropolen Deutschlands. Eine exklusive Auswertung zeigt, welche umliegenden Städte für Pendler besonders attraktiv sind.",
+    "tickers": []
+  },
+  {
+    "title": "Liveblog Ukrainekrieg: Selenskyj: USA bringen NATO-Beitritt für Gebietsverzicht ins Spiel",
+    "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-bringen-nato-beitritt-fuer-gebietsverzicht-ins-spiel-faz-110683325.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T10:08:37.000Z",
+    "excerpt": "Nach Gespräch mit Unterhändlern +++ US-Senatoren fordern Aufklärung über Starshield-Drosselung +++ Fünf Staaten sollen Europa bei Verhandlungen vertreten +++ alle Neuigkeiten im Liveblog",
+    "tickers": []
+  },
+  {
+    "title": "Reederei MSC steht vor Kauf der Meyer Werft",
+    "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-14T09:56:00.000Z",
+    "excerpt": "Die letzte bedeutende deutsche Kreuzfahrtschiffwerft geht wohl an die weltgrößte Reederei: Der Bund will dem Konzern MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll der Vertrag unterzeichnet werden.",
+    "tickers": []
+  },
+  {
+    "title": "Kürzere Wartezeiten gegen Bares: Ärzte rechnen mit mehr Selbstzahler-Terminen",
+    "url": "https://www.n-tv.de/wirtschaft/Aerzte-rechnen-mit-mehr-Selbstzahler-Terminen-id31533710.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T09:03:58.000Z",
+    "excerpt": "Um bei der gesetzlichen Krankenversicherung Geld zu sparen, plant die Bundesregierung deutliche Honorarkürzungen. Die Kassenärzte kündigen als Antwort darauf Kürzungen bei den Terminen an. Wer trotzdem schnell behandelt werden möchte, soll ",
+    "tickers": []
+  },
+  {
+    "title": "Manchester United: a fate worse than debt",
+    "url": "https://www.ft.com/content/b76baec1-6b90-406a-a23a-150904837304?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T09:00:08.000Z",
+    "excerpt": "Also in today’s newsletter: a big shake-up in US college sport angers fans",
+    "tickers": []
+  },
+  {
+    "title": "Tesla Cybercab: Robotaxi für 29.990 Dollar – aber mit Nutzungsbeschränkungen",
+    "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-14T08:41:00.000Z",
+    "excerpt": "Es ist Elon Musks neues Lieblingsprojekt: ein selbstfahrendes goldenes Ei. Nun sollen auch Privatkunden das Robotaxi ordern können. Offen ist, ob sie es dann allerdings auch nutzen können.",
+    "tickers": []
+  },
+  {
+    "title": "Rente: „Wer in Eigenregie anlegt, läuft Gefahr, teure Fehler zu begehen“ – zwölf Antworten zum Vorsorgedepot",
+    "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-14T08:04:00.000Z",
+    "excerpt": "Das Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente und lockt mit staatlicher Förderung. Das sorgt bei vielen Fachleuten für Begeisterung. Doch die neue Förderrente ist nicht in allen Belangen spitze.",
+    "tickers": []
+  },
+  {
+    "title": "Straße von Hormus: Iran meldet drei brennende Öltanker in Meerenge",
+    "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-14T07:49:00.000Z",
+    "excerpt": "Es fließt wieder Öl durch die Straße von Hormus, doch die Passage gilt als teuer und riskant. Nun berichtet Iran über Feuer auf mehreren Tankern – angeblich verursacht durch Seeminen.",
+    "tickers": []
+  },
+  {
+    "title": "Kassenärzte schlagen Selbstzahler-Termine für Kassenpatienten vor",
+    "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-14T07:17:00.000Z",
+    "excerpt": "Die Ärzte sind sauer über das Sparprogramm im Gesundheitswesen. Viele Praxen würden dann weniger Termine anbieten, warnt der Chef der Kassenärzte – es sei denn, Patienten zahlten aus eigener Tasche.",
+    "tickers": []
+  },
+  {
+    "title": "Joachim Sauer: „Wir hatten auch in der DDR ein richtiges Leben“",
+    "url": "https://www.faz.net/aktuell/gesellschaft/menschen/joachim-sauer-im-interview-der-mann-an-angela-merkels-seite-accg-201669514.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-14T06:53:32.000Z",
+    "excerpt": "Joachim Sauer, Chemiker und Mann von Angela Merkel, spricht über die schwierigen und doch schönen Jahre im SED-Staat, aktuelle Ost-West-Debatten und Klischees über den Ehemann einer Kanzlerin.",
+    "tickers": []
+  },
+  {
+    "title": "Hedge fund woes expose the dangers of hot money once again",
+    "url": "https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:38.000Z",
+    "excerpt": "Recent stumbles have come about as a result of the pursuit of heady growth without the risk management capability and structures to deal with it",
+    "tickers": []
+  },
+  {
+    "title": "A Vinted ban would sell young entrepreneurs short ",
+    "url": "https://www.ft.com/content/1ce0667f-1ff9-4d82-bf85-5d112f77310a?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:38.000Z",
+    "excerpt": "Selling online is a great opportunity for teens to learn, earn and spend their money",
+    "tickers": []
+  },
+  {
+    "title": "The Nvidia board’s artificial independence",
+    "url": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:37.000Z",
+    "excerpt": "Bored of governance",
+    "tickers": []
+  },
+  {
+    "title": "Does your child have a side hustle?",
+    "url": "https://www.ft.com/content/d309eebb-21b7-4b8e-bebd-83de96b0a184",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:37.000Z",
+    "excerpt": "Enterprising young people are coming up with smart moneymaking ideas. FT Money wants to hear about them ",
+    "tickers": []
+  },
+  {
+    "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
+    "url": "https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:37.000Z",
+    "excerpt": "Opportunities in China lie as much in the picks and shovels of the AI supply chain",
+    "tickers": []
+  },
+  {
+    "title": "Nvidia’s cult of personality was bound to end badly",
+    "url": "https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:37.000Z",
+    "excerpt": "It is worth paying attention to the warning signs of corporate hubris — they often mean something bad is about to happen ",
+    "tickers": []
+  },
+  {
+    "title": "Where jazz goes to church",
+    "url": "https://www.ft.com/content/7ca2bfec-3679-486a-b2e4-a436c4970328",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T05:00:27.000Z",
+    "excerpt": "For a decade, an east London church has hosted some of the world’s most adventurous jazz musicians. Now Church of Sound is taking its worship to the Barbican for this week’s London Jazz Festival",
+    "tickers": []
+  },
+  {
+    "title": "How bonds got interesting again",
+    "url": "https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T05:00:27.000Z",
+    "excerpt": "Despite the short-term volatility, for those approaching retirement, fixed income products are not the rank outsider they used to be",
+    "tickers": []
+  },
+  {
+    "title": "UK housing wealth owned by over-65s tops £2.25tn",
+    "url": "https://www.ft.com/content/85cddf9b-fd9d-4b4a-9f9f-e12961a8af98?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-14T05:00:27.000Z",
+    "excerpt": "Research shows how ‘boomer’ property owners have benefited from an exceptional stretch of house price growth — underlining the UK’s generational divide",
+    "tickers": []
+  },
+  {
+    "title": "Why 21st-century luxury looks like 1974",
+    "url": "https://www.ft.com/content/b01a8c49-cf3b-478b-a6e6-511f791ae34f?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T05:00:17.000Z",
+    "excerpt": "Once a shorthand for dreariness and bad taste, 1970s interior design is being recast as the height of hotel style ",
+    "tickers": []
+  },
+  {
+    "title": "What Europe’s rising public debt means for your portfolio",
+    "url": "https://www.ft.com/content/45684ea3-dba8-476b-8667-2cdbdb5dfd8d",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T05:00:17.000Z",
+    "excerpt": "How do you invest when hard-up governments are looking for cuts and tax raids?",
+    "tickers": []
+  },
+  {
+    "title": "Composer Yudania Gómez Heredia’s guide to Nuremberg",
+    "url": "https://www.ft.com/content/f86213c1-72a4-4928-bfa5-c2a80761f174",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T05:00:09.000Z",
+    "excerpt": "The conductor leads a tour of the city’s churches, concert halls and salsa bars",
+    "tickers": []
+  },
+  {
+    "title": "Martin Wolf on the US midterms: Trump loses. European populism lives on.",
+    "url": "https://www.ft.com/content/094acead-5c40-4609-87fd-f02b171eb42c?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-14T05:00:00.000Z",
+    "excerpt": "Timothy Garton Ash on why Europe’s populist right may well outlast Trump",
+    "tickers": []
+  },
+  {
+    "title": "Flüge aus Deutschland gestrichen: Technische Panne legt US-Luftverkehr stundenlang lahm",
+    "url": "https://www.n-tv.de/wirtschaft/Technische-Panne-legt-US-Luftverkehr-stundenlang-lahm-id31533283.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-14T01:49:33.000Z",
+    "excerpt": "Rund vier Stunden müssen sämtliche Flugzeuge in den USA wegen technischer Probleme am Boden bleiben. Jetzt ist der Luftraum wieder freigegeben. Es dürfte aber noch eine Weile dauern, bis sich das Chaos an den Flughäfen lichtet.",
+    "tickers": []
+  },
+  {
+    "title": "Wochenvorschau: Termine bis 22. November 2026",
+    "url": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-22-November-2026-id31504788.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-13T23:01:00.000Z",
+    "excerpt": "Die wichtigsten Ereignisse der Wirtschaft, Börse und Konjunktur.",
+    "tickers": []
+  },
+  {
+    "title": "Dow tritt auf der Stelle: Chip-Werte kommen unter die Räder",
+    "url": "https://www.n-tv.de/wirtschaft/Chip-Werte-kommen-unter-die-Raeder-id31533210.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-13T22:55:00.000Z",
+    "excerpt": "Die Krise bei Nvidia greift um sich, der Halbleitersektor geht mit kräftigen Verlusten aus dem Handel. Kurz bevor die Schlussglocke ertönt, ereilt die Wall Street die Meldung vom landesweiten Flugstopp. Das bekommt Airline-Aktien nicht gut.",
+    "tickers": []
+  },
+  {
+    "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
+    "url": "https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-13T21:30:34.000Z",
+    "excerpt": "Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese Maßnahme erst einmal verhängt worden.",
+    "tickers": []
+  },
+  {
     "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
     "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
     "source": "Financial Times — Europe",
@@ -72,6 +560,14 @@
     "tickers": []
   },
   {
+    "title": "Wall Street: Wall Street schließt uneinheitlich – Erzeugerpreise steigen weiter",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-erzeugerpreise-steigen-weiter/100269764.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-13T19:11:00.000Z",
+    "excerpt": "Die Aufregung rund um den Abgang des Nvidia-Chefs hat sich vorerst gelegt, sodass die Geldpolitik stärker in den Blick gerät. Die Großhandelspreise verfestigen die Zinserwartungen am Markt.",
+    "tickers": []
+  },
+  {
     "title": "Wall Street: US-Börsen legen leicht zu – Erzeugerpreise steigen weiter",
     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-leicht-im-minus-erzeugerpreise-steigen-weiter/100269764.html",
     "source": "Handelsblatt Finanzen",
@@ -141,502 +637,6 @@
     "source": "Handelsblatt Finanzen",
     "publishedAt": "2026-11-13T18:00:32.000Z",
     "excerpt": "Der erste große KI-Entwickler geht an die Börse. Privatanleger können sich bereits vor dem Börsenstart beteiligen. Vor allem der Vergleich mit anderen IPOs bietet Orientierung.",
-    "tickers": []
-  },
-  {
-    "title": "Stockpickers: Fuller, Smith & Turner, Dialight, Vodafone",
-    "url": "https://www.ft.com/content/53df66de-ca12-4e1e-9e27-3d54c6f8dbc1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-13T18:00:04.000Z",
-    "excerpt": "Our experts discuss which companies to buy, sell or hold this week",
-    "tickers": []
-  },
-  {
-    "title": "Tiny London quant fund emerges as one of the UK’s biggest corporate taxpayers",
-    "url": "https://www.ft.com/content/8e394812-5940-4187-8cbf-6cd597fb314c?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-13T18:00:04.000Z",
-    "excerpt": "Quadrature Capital made a £4mn donation to the Labour Party ahead of the last general election and backs anti-poverty and climate change initiatives",
-    "tickers": []
-  },
-  {
-    "title": "Three tremors have shaken AI",
-    "url": "https://www.ft.com/content/8f50369d-725b-40ac-a72a-306e25f9e76f?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-13T17:55:51.000Z",
-    "excerpt": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
-    "tickers": []
-  },
-  {
-    "title": "Aachen: Mann auf offener Straße erschossen – Polizei fahndet nach Tatverdächtigen",
-    "url": "https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:53:00.000Z",
-    "excerpt": "Im Aachener Ostviertel ist am Nachmittag ein 41-jähriger Mann getötet worden. Schon in der Nacht zuvor waren in der Umgebung Schüsse gefallen.",
-    "tickers": []
-  },
-  {
-    "title": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
-    "url": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:51:00.000Z",
-    "excerpt": "Hacker haben viele Millionen Datensätze der russischen Behörde Rosstat erbeutet, darunter die geheime Todesstatistik. Der Russlandexperte Janis Kluge erklärt, warum das Leck so bedeutungsvoll ist – und was noch darin stecken könnte.",
-    "tickers": []
-  },
-  {
-    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-13T17:45:54.000Z",
-    "excerpt": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
-    "tickers": []
-  },
-  {
-    "title": "Architekt des Billionen-Booms: Mit Jensen Huang verliert der KI-Hype seinen &quot;Zentralbanker&quot;",
-    "url": "https://www.n-tv.de/wirtschaft/Mit-Jensen-Huang-verliert-der-KI-Hype-seinen-Zentralbanker-id31531887.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T17:43:01.000Z",
-    "excerpt": "Jensen Huang war bislang die zentrale Figur des Billionen Dollar schweren KI-Booms. Nicht nur weil Nvidia die notwendige Technologie lieferte. Huang machte das Unternehmen auch zur &quot;Zentralbank&quot; des gewaltigen Investitionskreislau",
-    "tickers": []
-  },
-  {
-    "title": "Russland: Menschenrechtsanwältin Marija Bonzler zu langer Haft verurteilt",
-    "url": "https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:27:00.000Z",
-    "excerpt": "Sie verteidigte politische Gefangene, dann wurde sie selbst verhaftet: Die russische Anwältin Marija Bonzler ist wegen angeblichen Hochverrats zu zwölf Jahren Haft verurteilt worden. Ihr Gesundheitszustand ist offenbar schlecht.",
-    "tickers": []
-  },
-  {
-    "title": "Greta Thunberg und das virale Video: »Sie lacht nicht über die Klimabewegung, sondern über die Protestform«",
-    "url": "https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:23:00.000Z",
-    "excerpt": "Ein Clip, in dem Klima-Ikone Greta Thunberg über die Fridays-for-Future-Bewegung lacht, geht viral. Hier erklärt Filmemacher Hubertus Koch, in welchem Kontext das Video entstand – und worauf sich ihre Reaktion bezog.",
-    "tickers": []
-  },
-  {
-    "title": "Flug zum Mars: Wie neue Fitnessgeräte für Astronauten aussehen",
-    "url": "https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:19:00.000Z",
-    "excerpt": "Ein Schlüssel zur Erkundung des Weltalls ist: Sport. Auch weil Muskelmasse und Kraft schwinden, wenn sie nicht gegen die Erdanziehungskraft arbeiten müssen. So könnten Work-outs für Astronauten auf dem Weg zum Mars aussehen.",
-    "tickers": []
-  },
-  {
-    "title": "Nach Rücktritt von Jensen Huang: Chinas KI-Chip-Schmuggel läuft auf Hochtouren",
-    "url": "https://www.n-tv.de/wirtschaft/Chinas-KI-Chip-Schmuggel-laeuft-auf-Hochtouren-id31531580.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T17:08:42.000Z",
-    "excerpt": "Die Affäre von Nvidia-Chef Jensen Huang mit einer angeblichen chinesischen Spionin ist nur der sichtbarste Teil des Problems: Peking nutzt jedes Mittel, um Zugang zu den KI-Chips der Firma zu bekommen. Dem Militär nahestehende Forscher habe",
-    "tickers": []
-  },
-  {
-    "title": "Dax aktuell: Dax schließt unverändert – Wochenbilanz weiter positiv",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-wochenbilanz-weiter-positiv/100269627.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T17:07:34.000Z",
-    "excerpt": "Der Leitindex konnte in der ersten Tageshälfte den negativen Vorzeichen aus den USA trotzen. Zum Ende der Handelswoche ging den Anlegern etwas die Luft aus.",
-    "tickers": []
-  },
-  {
-    "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-    "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-13T17:06:01.000Z",
-    "excerpt": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
-    "tickers": []
-  },
-  {
-    "title": "Deutschland Liveblog: Thomas Berthold als Kandidat der AfD für Steinmeier-Nachfolge im Gespräch",
-    "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-thomas-berthold-als-kandidat-der-afd-fuer-bundespraesidentenamt-im-gespraech-faz-110093143.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-13T17:03:33.000Z",
-    "excerpt": "Früherer Weltmeister könnte für Bundespräsidentenamt nominiert werden +++ Linke in Schwerin für Koalition mit SPD und Grünen +++ Köpping begleitet Klingbeil in Koalitionsausschuss +++ alle Entwicklungen im Liveblog",
-    "tickers": []
-  },
-  {
-    "title": "Digitalwirtschaft-Podcast: Jensen Huang: Aufstieg und Fall des Nvidia-Gründers",
-    "url": "https://www.faz.net/podcasts/wirtschaftspodcast/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-201681931.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-13T17:02:46.000Z",
-    "excerpt": "Was jetzt aus dem wichtigsten KI-Unternehmen der Welt wird. Und wieso der Streit auch in der amerikanischen Regierung eskalieren wird.",
-    "tickers": []
-  },
-  {
-    "title": "Bono und The Edge über 50 Jahre U2, Erfolg und Lieblingssongs",
-    "url": "https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:02:00.000Z",
-    "excerpt": "Seit 50 Jahren gibt es U2, eine der letzten großen Rockbands der Welt. Hier sprechen Frontmann Bono und Gitarrist The Edge über ihren Erfolg, ihre liebsten Lovesongs und ihre Hymne auf die spanische Sängerin Rosalía.",
-    "tickers": []
-  },
-  {
-    "title": "U2: Das vielleicht beste Rockalbum des Jahres kommt aus Irland. Aber von welcher Band?",
-    "url": "https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band-a-ec624010-6796-44bd-a762-a33216788775#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T17:02:00.000Z",
-    "excerpt": "Ausgerechnet die zuvor in Pathos erstarrten U2 klingen auf ihrem neuen Album so energisch wie seit Jahrzehnten nicht mehr. In den Demutshymnen der Iren verbirgt sich auch eine Mahnung an ihre populären Nachfolger von Fontaines D.C.",
-    "tickers": []
-  },
-  {
-    "title": "Ethan Hawke: Kinder sind seine »größte Energiequelle«",
-    "url": "https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-13T16:59:00.000Z",
-    "excerpt": "Maya Hawke tritt als Schauspielerin in die Fußstapfen ihres Vaters Ethan. Der glaubt aber offenbar nicht, dass er ihr dafür den Weg geebnet hat: Vielmehr habe er von seinen Kindern Geduld und Ehrlichkeit gelernt.",
-    "tickers": []
-  },
-  {
-    "title": "Jensen Huang ist narzisstisch wie Trump, schreibt der Biograf des Ex-Nvidia-Bosses",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T16:39:00.000Z",
-    "excerpt": "Vor einem Jahr habe er erstmals Gerüchte über die Seitensprünge von Jensen Huang gehört, schreibt sein Biograf Stephen Witt. Über den Charakter des Mannes, der als Visionär galt, fällt er ein hartes Urteil.",
-    "tickers": []
-  },
-  {
-    "title": "Riskante Eskalation: Mercedes steuert mit Vollgas auf die VW-Falle zu",
-    "url": "https://www.n-tv.de/wirtschaft/Mercedes-steuert-mit-Vollgas-auf-die-VW-Falle-zu-id31532051.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T16:36:16.000Z",
-    "excerpt": "Der Streit um die Arbeitskosten bei Mercedes-Benz eskaliert. Damit erhöhen die Stuttgarter die Gefahr, nicht rechtzeitig die Kurve zu kriegen.",
-    "tickers": []
-  },
-  {
-    "title": "Streit um persönliche Daten: EU verhängt Millionenstrafe gegen Tinder",
-    "url": "https://www.n-tv.de/wirtschaft/EU-verhaengt-Millionenstrafe-gegen-Tinder-id31531604.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T16:31:54.000Z",
-    "excerpt": "Wer bei Tinder eine Kopie seiner persönlichen Daten anfordert, erhält offenbar nicht alle Informationen. Datenschützer der EU werfen dem Betreiber daher Fehlverhalten vor. Die Match Group will gegen die verhängte Millionenstrafe vorgehen.",
-    "tickers": []
-  },
-  {
-    "title": "Andreas Mattfeldt: Führender CDU-Haushaltspolitiker schickt Brandbrief an Merz",
-    "url": "https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T16:26:00.000Z",
-    "excerpt": "In ungewöhnlich scharfen Worten rechnet der Abgeordnete Andreas Mattfeldt nach dem schwarz-roten Kompromiss über einen Bundesetat mit dem Prozedere ab. Aus seiner Sicht trägt der gesamte Haushalt eine sozialdemokratische Handschrift.",
-    "tickers": []
-  },
-  {
-    "title": "German coalition disagreements hold up ECB jobs deal",
-    "url": "https://www.ft.com/content/bcfa33cc-535a-4692-ae5f-39e144b78799?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T16:15:25.000Z",
-    "excerpt": "Chancellor and his finance minister have yet to agree on a candidate for one of three central bank executive board vacancies ",
-    "tickers": []
-  },
-  {
-    "title": "Rolls-Royce puts new spin on razor-and-blade model",
-    "url": "https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-13T16:12:42.000Z",
-    "excerpt": "Old-school blueprint can still make its mark in a topsy-turvy world ",
-    "tickers": []
-  },
-  {
-    "title": "Russlands Forderungen: Wenn Putin vom „ewigen Frieden“ spricht",
-    "url": "https://www.faz.net/aktuell/politik/ukraine/wenn-putin-vom-ewigen-frieden-spricht-201680029.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-13T15:59:45.000Z",
-    "excerpt": "Putin macht die Rückabwicklung der NATO-Erweiterung zur Grundlage von Gesprächen. Es soll nicht nur um die Ukraine gehen, sondern um ganz Europa.",
-    "tickers": []
-  },
-  {
-    "title": "Brandgefahr bei 721.000 Pkw: BMW-Fahrer in den USA sollen Fahrzeuge nicht drinnen parken",
-    "url": "https://www.n-tv.de/wirtschaft/BMW-Fahrer-in-den-USA-sollen-Fahrzeuge-nicht-drinnen-parken-id31531603.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T15:56:51.000Z",
-    "excerpt": "Erneuter Ärger in den Vereinigten Staaten für BMW-Fahrer. Nach einer großen Rückrufaktion vor zwei Jahren müssen die Betroffenen ihre Fahrzeuge nun nochmals in die Werkstatt bringen. Bis dahin sollen sie zudem keine Garagen oder Carports nu",
-    "tickers": []
-  },
-  {
-    "title": "Cloud-Dienste offline: Die Macht von Microsoft: Ist Deutschland zu abhängig?",
-    "url": "https://www.n-tv.de/wirtschaft/Microsoft-Ausfall-zeigt-Risiken-digitaler-Abhaengigkeit-id31531602.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T15:01:14.000Z",
-    "excerpt": "Der Ausfall der Microsoft-Dienste zeigt, wie abhängig viele Unternehmen und Behörden von dem US-Anbieter sind. Spätestens seit Donald Trump wiedergewählt wurde, diskutiert Deutschland verstärkt über digitale Souveränität. Was bedeutet die A",
-    "tickers": []
-  },
-  {
-    "title": "Immobilien: „Unsere Gebäude sind ein Vermögen, wir behandeln sie wie Wegwerfware“",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-unsere-gebaeude-sind-ein-vermoegen-wir-behandeln-sie-wie-wegwerfware/100262766.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T15:00:00.000Z",
-    "excerpt": "Wir reißen ab, was geldwert ist, kritisiert Andreas Schulten, der jahrzehntelang für Bulwiengesa den Immobilienmarkt analysiert hat. Neubau sei bequemer und koste eigentlich zu wenig.",
-    "tickers": []
-  },
-  {
-    "title": "24 splendid ways to spend it in November",
-    "url": "https://www.ft.com/content/6f85b836-ccb2-4968-8faa-abd311d56ae0",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T14:44:45.000Z",
-    "excerpt": "A match made in denim, fashion on film, atmospheric Christmas shopping and more",
-    "tickers": []
-  },
-  {
-    "title": "Germany’s spy agencies gain sweeping new powers ",
-    "url": "https://www.ft.com/content/6c55228c-ac59-44cb-926b-6e41585fbf0c?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T14:40:29.000Z",
-    "excerpt": "Reform aims to bolster German surveillance and allow disruptive operations against enemies",
-    "tickers": []
-  },
-  {
-    "title": "Markt stabilisiert sich: Öl-Angebot übersteigt erstmals seit Iran-Krieg wieder die Nachfrage",
-    "url": "https://www.n-tv.de/wirtschaft/Oel-Angebot-uebersteigt-erstmals-seit-Iran-Krieg-die-Nachfrage-id31531393.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T14:37:55.000Z",
-    "excerpt": "Die weltweite Nachfrage nach Öl ist wegen hoher Preise aktuell verhalten. Gleichzeitig steigt das Angebot, da Länder der Golfregion wieder mehr exportieren und die USA oder auch Brasilien ihre Produktion hochgefahren haben.",
-    "tickers": []
-  },
-  {
-    "title": "Frank Ruffing: Ex-Chef der Volksbank Kleverland gerät stärker unter Druck",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbank-kleverland-ex-bankchef-frank-ruffing-geraet-staerker-unter-druck/100269365.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T14:27:18.000Z",
-    "excerpt": "Die Staatsanwaltschaft Kleve ermittelt wegen des Verdachts auf Untreue und Betrug. Vor Kurzem gab es eine Durchsuchung bei der Volksbank, die im Sommer noch Finanzhilfen benötigte.",
-    "tickers": []
-  },
-  {
-    "title": "&quot;Kaum Luft für Wachstum&quot;: Zahl der Firmenpleiten steigt weiter - höchster Stand seit 13 Jahren",
-    "url": "https://www.n-tv.de/wirtschaft/Zahl-der-Firmenpleiten-steigt-weiter-hoechster-Stand-seit-13-Jahren-id31529950.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T14:11:09.000Z",
-    "excerpt": "Die Insolvenzwelle rollt weiter: Mehr als 2000 beantragte Verfahren registrieren die Amtsgerichte im August, über vier Prozent mehr als im August 2025. Laut der Deutschen Industrie- und Handelskammer ist keine Entspannung in Sicht.",
-    "tickers": []
-  },
-  {
-    "title": "Panne bei Microsoft: Warum Friedrich Merz trotz des Microsoft-Ausfalls noch E-Mails schreiben konnte",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/microsoft-ausfall-warum-bundesbehoerden-ungestoert-weiterarbeiteten-201680148.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-13T14:10:04.000Z",
-    "excerpt": "Wegen Serverproblemen bei Microsoft brach weltweit der E-Mail-Verkehr zusammen. In den Bundesbehörden lief er munter weiter – aus guten Gründen.",
-    "tickers": []
-  },
-  {
-    "title": "Norway loses landmark climate case over oilfields",
-    "url": "https://www.ft.com/content/8535fe3e-f48b-43ac-b14c-946cd5aa1d51?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T14:00:03.000Z",
-    "excerpt": "Country’s Supreme Court rules that government should have considered emissions from burning oil abroad, in a finding likely to affect future projects",
-    "tickers": []
-  },
-  {
-    "title": "Österreich: Korruptionsermittler prüfen Vorwürfe gegen Barmherzige Brüder",
-    "url": "https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder-a-fcfdfdb5-d543-49d3-b78d-214572afe3eb#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T14:00:00.000Z",
-    "excerpt": "Ein katholischer Männerorden soll sich in Österreich über Arzneiaufpreise Steuermillionen erschlichen haben. Über den Verdacht berichtete der SPIEGEL. Nun befasst sich eine Spezialstaatsanwaltschaft mit dem Fall.",
-    "tickers": []
-  },
-  {
-    "title": "Iran: Öl-Versorgung erholt sich erstmals seit Beginn des Kriegs etwas",
-    "url": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T13:47:00.000Z",
-    "excerpt": "Auf den Ölmärkten herrscht seit dem Ausbruch des Irankrieges Ausnahmezustand. Nun übersteigt das weltweite Angebot laut IEA erstmals wieder die Nachfrage.",
-    "tickers": []
-  },
-  {
-    "title": "US-Fintech: Robinhood will die nächste Revolution: Der Neobroker fordert die Wall-Street-Größen heraus",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-robinhood-will-finanzwerte-ueber-eigene-blockchain-verkaufen/100267306.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T13:45:37.000Z",
-    "excerpt": "Robinhood hat den provisionsfreien Handel in den USA eingeführt. Nun prescht das Fintech auch bei der Tokenisierung voran. Das Unternehmen greift damit die Infrastruktur des Marktes an.",
-    "tickers": []
-  },
-  {
-    "title": "Notenbank: Merz will nächste Woche deutschen Vorschlag für Posten in EZB-Führung vorlegen",
-    "url": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-merz-will-deutschen-vorschlag-fuer-posten-in-ezb-fuehrung-vorlegen/100269750.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T13:24:56.000Z",
-    "excerpt": "Der Bundeskanzler kündigt einen Plan aus Berlin für die EZB-Spitze an. Wie das Handelsblatt berichtete, könnte es auf einen Deal mit Paris hinauslaufen.",
-    "tickers": []
-  },
-  {
-    "title": "Microsoft-Störung: BSI betrachtet Ausfall der Dienste als großes Problem für die Wirtschaft",
-    "url": "https://www.spiegel.de/wirtschaft/microsoft-bsi-betrachtet-ausfall-als-grosses-problem-fuer-die-wirtschaft-a-2250258a-aef5-45ae-aa22-8e21c4107ee5#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T13:14:00.000Z",
-    "excerpt": "Die Störung der Microsoft-Dienste hat eine große Zahl deutscher Betriebe getroffen. Das Bundesamt für Sicherheit in der Informationstechnik sieht den Vorfall als Alarmsignal.",
-    "tickers": []
-  },
-  {
-    "title": "Teurer Güterverkehr: Haushaltsbeschlüsse belasten Bahnbranche und DB Cargo",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/teurer-gueterverkehr-haushaltsbeschluesse-belasten-bahnbranche-und-db-cargo-a-2fc455bd-96e6-4fc3-9ccb-f070af8cf393#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T13:11:00.000Z",
-    "excerpt": "Die Appelle blieben unerhört: Die Regierung kürzt wie geplant bei mehreren Programmen für den Güterverkehr. Besonders groß ist der Ärger darüber bei der Bahn-Tochter Cargo, der eine Zerschlagung droht.",
-    "tickers": []
-  },
-  {
-    "title": "Schoko-Weihnachtsmänner: Die fetten Jahre sind vorbei",
-    "url": "https://www.spiegel.de/wirtschaft/schoko-weihnachtsmaenner-die-fetten-jahre-sind-vorbei-a-0529c210-e45d-4b8b-9da0-5f18533d529b#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T13:09:00.000Z",
-    "excerpt": "Gute Nachrichten für Schokoladenfans: Schokoweihnachtsmänner werden billiger. Allerdings sind die Preise in den Vorjahren schon kräftig gestiegen. Mancher Hersteller verordnet den Hohlfiguren sogar eine Diät.",
-    "tickers": []
-  },
-  {
-    "title": "Nvidia: They Were the Indispensable CEOs—Until They Weren’t",
-    "url": "https://www.faz.net/aktuell/wall-street-journal/some-companies-have-lost-hundreds-of-millions-in-market-value-after-losing-their-key-leaders-201680143.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-13T12:55:32.000Z",
-    "excerpt": "What Nvidia can learn from other companies that lost their seemingly irreplaceable leaders",
-    "tickers": []
-  },
-  {
-    "title": "Bundeshaushalt 2027: Der Etat steht – doch die eigentlichen Probleme kommen erst",
-    "url": "https://www.spiegel.de/wirtschaft/bundeshaushalt-2027-der-etat-steht-doch-die-eigentlichen-probleme-kommen-erst-a-ac30c525-9525-4432-96c9-7d0053f94c0c#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T12:55:00.000Z",
-    "excerpt": "Der Haushalt 2027 steht, es ist der größte in der Geschichte der Bundesrepublik. Doch die wahren Probleme drohen erst in den kommenden Jahren. Experten schlagen Alternativen zu Kürzungen vor.",
-    "tickers": []
-  },
-  {
-    "title": "Unterlagen liefern Beweis : Von Alice Huang gegründete Firma bezog geschmuggelte KI-Chips",
-    "url": "https://www.n-tv.de/wirtschaft/Von-Alice-Huang-gegruendete-Firma-bezog-geschmuggelte-KI-Chips-id31530258.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T12:45:23.000Z",
-    "excerpt": "Im Zentrum der Nvidia-Affäre steht neben einer mutmaßlichen chinesischen Spionin das Unternehmen Megaspeed. Hochleistungschips von Nvidia sollen trotz US-Exportverbot nach China gelangt sein. Für Alice Huangs Rolle gibt es nun Beweise - all",
-    "tickers": []
-  },
-  {
-    "title": "&quot;Legende ersetzt Legende&quot;: Wird Tim Cook Nachfolger von Jensen Huang bei Nvidia?",
-    "url": "https://www.n-tv.de/wirtschaft/Wird-Tim-Cook-Nachfolger-von-Jensen-Huang-bei-Nvidia-id31530344.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T12:39:07.000Z",
-    "excerpt": "Jensen Huang ist zurückgetreten und hinterlässt eine große Lücke an der Spitze eines der wertvollsten Unternehmen der Welt. Diese könne nur einer füllen, meint US-Präsident Donald Trump: Tim Cook. Doch einiges spricht gegen den Vorschlag.",
-    "tickers": []
-  },
-  {
-    "title": "Objects of Desire by Celia Paul — grief, art and the beauty of Venice",
-    "url": "https://www.ft.com/content/f71ea01e-065d-4b1d-b6a5-9d8e336bcbeb",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T12:00:02.000Z",
-    "excerpt": "A seven-week residency for the celebrated British artist in La Serenissima becomes a searching meditation on death, desire, painting and the pleasure of solitude",
-    "tickers": []
-  },
-  {
-    "title": "Weltweite Störung: Microsoft geht nicht von &quot;böswilliger Aktivität&quot; aus - Dienste laufen schrittweise wieder an",
-    "url": "https://www.n-tv.de/wirtschaft/Microsoft-geht-nicht-von-boeswilliger-Aktivitaet-aus-Dienste-laufen-schrittweise-wieder-an-id31530497.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-13T11:53:33.000Z",
-    "excerpt": "Seit Donnerstag haben Zehntausende Nutzer von Microsoft Probleme, auf ihre E-Mails zuzugreifen. Auch die Nutzung von Teams ist eingeschränkt. Der Konzern geht nicht davon aus, dass jemand mit bösen Absichten hinter dem Ausfall steckt.",
-    "tickers": []
-  },
-  {
-    "title": "RedBird explores listing for new AC Milan holding company",
-    "url": "https://www.ft.com/content/3d0d58ba-600f-427c-ab22-553cd8a1dcc8?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T11:10:00.000Z",
-    "excerpt": "Investment firm founder Gerry Cardinale creates entity to house sports and entertainment investments in northern Italian city",
-    "tickers": []
-  },
-  {
-    "title": "Re-energised Atlantic grouping will be swifter than Nato, says UK",
-    "url": "https://www.ft.com/content/2500879f-9849-45e8-8e22-082e9fa53228?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T11:05:03.000Z",
-    "excerpt": "The Joint Expeditionary Force is little known outside defence circles, but the mounting Russian threat to the High North and Baltic Sea regions has given it new purpose",
-    "tickers": []
-  },
-  {
-    "title": "Gasspeicher: Katherina Reiche plant Notfallgesetz und fossile Kraftwerksreserve",
-    "url": "https://www.spiegel.de/wirtschaft/soziales/gasspeicher-in-deutschland-reiche-setzt-auf-alte-kohle-und-oelkraftwerke-a-27a31085-5bb0-4460-8bb5-0024af1d419e#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T11:05:00.000Z",
-    "excerpt": "Die Gasspeicher sind so leer wie selten, im Winter drohen hohe Preise. Das Ministerium von Katherina Reiche hat monatelang wenig dagegen getan. Nun bereitet die CDU-Politikerin ein Notfallgesetz vor.",
-    "tickers": []
-  },
-  {
-    "title": "Urenco: Bund offenbar an Beteiligung an Atomfirma interessiert",
-    "url": "https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert-a-28840dc3-d226-4424-bd1b-d250f20efd0d#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T10:31:00.000Z",
-    "excerpt": "Der Brennelemente-Hersteller Urenco ist nach dem Atomausstieg in Deutschland ein wenig aus dem Blick geraten. Inzwischen jedoch betrachtet Berlin das Unternehmen als wichtigen Faktor, wenn es um Atomwaffen geht.",
-    "tickers": []
-  },
-  {
-    "title": "DHL kündigt deutliche Preiserhöhungen zum Jahreswechsel an",
-    "url": "https://www.spiegel.de/wirtschaft/dhl-kuendigt-preiserhoehungen-zum-jahreswechsel-an-a-2b077ed8-553b-45dc-aff0-d73802b3a027#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T10:15:00.000Z",
-    "excerpt": "Ein Euro mehr für das kleinste Päckchen: Der Versandriese DHL erhöht die Preise. Einige Produkte werden allerdings auch günstiger.",
-    "tickers": []
-  },
-  {
-    "title": "Neobroker: So setzt Trade Republic die Börsen unter Druck",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/trade-republic-warum-etablierte-boersen-den-berliner-neobroker-kritisieren/100269404.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T09:38:25.000Z",
-    "excerpt": "Der Neobroker Trade Republic wickelt inzwischen viele Kundenorders selbst ab – und bedroht damit das Geschäft kleinerer Börsen. Die erheben nun schwere Vorwürfe.",
-    "tickers": []
-  },
-  {
-    "title": "Can Stilton be saved from extinction?",
-    "url": "https://www.ft.com/content/4ad4a2e3-64a5-4922-a4fb-2390c21cefd1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T09:30:08.000Z",
-    "excerpt": "One maker’s fight to save the king of English cheeses",
-    "tickers": []
-  },
-  {
-    "title": "Kryptowährung: Bitcoin rutscht unter 70.000 Dollar – Inflationssorgen belasten",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/kryptowaehrung-bitcoin-rutscht-unter-70.000-dollar-inflationssorgen-belasten/100269634.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T09:25:44.000Z",
-    "excerpt": "Die Angst vor weiteren Zinserhöhungen in den USA verunsichert die Anleger. Der Bitcoin-Kurs gibt deutlich nach. Auch der Führungswechsel bei Nvidia belastet den Markt.",
-    "tickers": []
-  },
-  {
-    "title": "Nikkei, Yen, Hang Seng: Erholung nach Nvidia-Schock – Japanische Börse legt zu",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-erholung-nach-nvidia-schock-japanische-boerse-legt-zu/100269580.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T08:38:00.000Z",
-    "excerpt": "Vor allem japanische Chipwerte können am Freitag zulegen. Zugleich rücken mögliche Zinserhöhungen in den USA und politische Unsicherheiten in Japan in den Fokus der Anleger.",
-    "tickers": []
-  },
-  {
-    "title": "Haushalt und Reformen: Das bedeutet es für Ihr Konto – Steuern, Rente, Versicherung",
-    "url": "https://www.spiegel.de/wirtschaft/service/steuern-rente-krankenversicherung-das-bedeuten-die-reformen-fuer-ihr-konto-a-6094afd9-a7da-47b0-b240-f1560aaf9cc8#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-13T08:20:00.000Z",
-    "excerpt": "Der Haushalt für 2027 steht: Bei der Einkommensteuer wird die Inflation nicht voll ausgeglichen. Auch die Reformen bei Rente, Gesundheit und Pflege spüren Sie im Geldbeutel. Wie sehr, finden Sie mit unserem interaktiven Rechner heraus.",
-    "tickers": []
-  },
-  {
-    "title": "KI: Anthropic-Börsengang offenbar schon sechsfach überzeichnet",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/ki-anthropic-boersengang-offenbar-schon-sechsfach-ueberzeichnet/100269621.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T07:12:12.000Z",
-    "excerpt": "Der möglicherweise größte Börsengang der Geschichte löst großes Interesse am Markt aus. Anthropic bemüht sich, die Nachfrage nach den Aktien weiter zu befeuern.",
-    "tickers": []
-  },
-  {
-    "title": "Ukraine talks call for European speaker despite lack of continental consensus",
-    "url": "https://www.ft.com/content/73e518cb-14c5-4012-acea-3a3d01725b1b?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T06:00:07.000Z",
-    "excerpt": "Also in this newsletter: Retail investment reform gets killed",
-    "tickers": []
-  },
-  {
-    "title": "City of London’s new Lord Mayor to press pension funds on investment pledges",
-    "url": "https://www.ft.com/content/ac91b140-2614-48aa-8438-554e2c343373?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-13T06:00:07.000Z",
-    "excerpt": "Bronek Masojada, the South African-born former chief executive of insurer Hiscox, is being sworn in on Friday",
-    "tickers": []
-  },
-  {
-    "title": "Börse am 13. November: Sieben Punkte, die für Anleger wichtig sind",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-13T05:36:00.000Z",
-    "excerpt": "Unternehmensbilanzen dürften kaum für einen großen Stimmungswechsel an den Börsen sorgen. Chipkonzern Nvidia sorgt unterdessen für weiteren Redebedarf.",
     "tickers": []
   }
 ]
