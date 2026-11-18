@@ -1,10 +1,10 @@
 {
   "5326.KL": {
-    "price": 2.96,
-    "change": -0.14,
-    "changePct": -4.52,
+    "price": 3,
+    "change": -0.1,
+    "changePct": -3.23,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:11.000Z",
+    "asOf": "2026-11-18T08:57:57.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -93,11 +93,11 @@
     ]
   },
   "1015.KL": {
-    "price": 6.6,
-    "change": 0.25,
-    "changePct": 3.94,
+    "price": 6.59,
+    "change": 0.24,
+    "changePct": 3.78,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:21.000Z",
+    "asOf": "2026-11-18T08:54:44.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -186,11 +186,11 @@
     ]
   },
   "6888.KL": {
-    "price": 1.67,
-    "change": 0,
-    "changePct": 0,
+    "price": 1.66,
+    "change": -0.01,
+    "changePct": -0.6,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:54:42.000Z",
+    "asOf": "2026-11-18T08:54:35.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -283,7 +283,7 @@
     "change": -0.12,
     "changePct": -4.71,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:52:09.000Z",
+    "asOf": "2026-11-18T08:50:02.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -372,11 +372,11 @@
     ]
   },
   "1023.KL": {
-    "price": 7.04,
-    "change": -0.16,
-    "changePct": -2.22,
+    "price": 7.03,
+    "change": -0.17,
+    "changePct": -2.36,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:33.000Z",
+    "asOf": "2026-11-18T08:53:12.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -465,11 +465,11 @@
     ]
   },
   "5398.KL": {
-    "price": 4.55,
-    "change": -0.25,
-    "changePct": -5.21,
+    "price": 4.59,
+    "change": -0.21,
+    "changePct": -4.37,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:55.000Z",
+    "asOf": "2026-11-18T08:59:18.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -558,11 +558,11 @@
     ]
   },
   "5819.KL": {
-    "price": 21.2,
-    "change": -0.1,
-    "changePct": -0.47,
+    "price": 21.1,
+    "change": -0.2,
+    "changePct": -0.94,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:02.000Z",
+    "asOf": "2026-11-18T08:52:22.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -651,11 +651,11 @@
     ]
   },
   "5225.KL": {
-    "price": 7.96,
-    "change": -0.04,
-    "changePct": -0.5,
+    "price": 7.92,
+    "change": -0.08,
+    "changePct": -1,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:55:21.000Z",
+    "asOf": "2026-11-18T08:52:30.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -744,11 +744,11 @@
     ]
   },
   "1961.KL": {
-    "price": 4.4,
-    "change": -0.07,
-    "changePct": -1.57,
+    "price": 4.34,
+    "change": -0.13,
+    "changePct": -2.91,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:04.000Z",
+    "asOf": "2026-11-18T08:59:47.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -837,11 +837,11 @@
     ]
   },
   "2445.KL": {
-    "price": 21.12,
-    "change": 1.12,
-    "changePct": 5.6,
+    "price": 20.8,
+    "change": 0.8,
+    "changePct": 4,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:52:13.000Z",
+    "asOf": "2026-11-18T08:50:53.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -930,11 +930,11 @@
     ]
   },
   "1155.KL": {
-    "price": 9.97,
-    "change": -0.02,
-    "changePct": -0.2,
+    "price": 9.92,
+    "change": -0.07,
+    "changePct": -0.7,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:50.000Z",
+    "asOf": "2026-11-18T08:56:23.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1023,11 +1023,11 @@
     ]
   },
   "6012.KL": {
-    "price": 3.59,
-    "change": 0.06,
-    "changePct": 1.7,
+    "price": 3.65,
+    "change": 0.12,
+    "changePct": 3.4,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:02.000Z",
+    "asOf": "2026-11-18T08:50:02.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1116,11 +1116,11 @@
     ]
   },
   "3816.KL": {
-    "price": 7.65,
-    "change": -1.11,
-    "changePct": -12.67,
+    "price": 7.8,
+    "change": -0.96,
+    "changePct": -10.96,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:59:23.000Z",
+    "asOf": "2026-11-18T08:50:04.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1209,11 +1209,11 @@
     ]
   },
   "5296.KL": {
-    "price": 1.04,
-    "change": -0.19,
-    "changePct": -15.45,
+    "price": 1,
+    "change": -0.23,
+    "changePct": -18.7,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:57:43.000Z",
+    "asOf": "2026-11-18T08:58:09.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1302,11 +1302,11 @@
     ]
   },
   "4707.KL": {
-    "price": 95.26,
-    "change": 5.94,
-    "changePct": 6.65,
+    "price": 94.3,
+    "change": 4.98,
+    "changePct": 5.58,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:53:47.000Z",
+    "asOf": "2026-11-18T08:51:07.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1395,11 +1395,11 @@
     ]
   },
   "5183.KL": {
-    "price": 4.27,
-    "change": -0.05,
-    "changePct": -1.16,
+    "price": 4.17,
+    "change": -0.15,
+    "changePct": -3.47,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:54:56.000Z",
+    "asOf": "2026-11-18T08:59:50.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1488,11 +1488,11 @@
     ]
   },
   "5681.KL": {
-    "price": 19.28,
-    "change": -0.36,
-    "changePct": -1.83,
+    "price": 19.22,
+    "change": -0.42,
+    "changePct": -2.14,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:51:17.000Z",
+    "asOf": "2026-11-18T08:50:02.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1585,7 +1585,7 @@
     "change": -0.02,
     "changePct": -0.12,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:02.000Z",
+    "asOf": "2026-11-18T08:50:02.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1674,11 +1674,11 @@
     ]
   },
   "4065.KL": {
-    "price": 8.6,
-    "change": -0.32,
-    "changePct": -3.59,
+    "price": 8.56,
+    "change": -0.36,
+    "changePct": -4.04,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:04.000Z",
+    "asOf": "2026-11-18T08:52:09.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1767,11 +1767,11 @@
     ]
   },
   "8869.KL": {
-    "price": 6.86,
-    "change": 0.36,
-    "changePct": 5.54,
+    "price": 6.65,
+    "change": 0.15,
+    "changePct": 2.31,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:02.000Z",
+    "asOf": "2026-11-18T08:58:24.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1860,11 +1860,11 @@
     ]
   },
   "1295.KL": {
-    "price": 4.56,
-    "change": -0.27,
-    "changePct": -5.59,
+    "price": 4.5,
+    "change": -0.33,
+    "changePct": -6.83,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:59:27.000Z",
+    "asOf": "2026-11-18T08:58:27.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -1953,11 +1953,11 @@
     ]
   },
   "7084.KL": {
-    "price": 3.8,
-    "change": -0.05,
-    "changePct": -1.3,
+    "price": 3.75,
+    "change": -0.1,
+    "changePct": -2.6,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:45.000Z",
+    "asOf": "2026-11-18T08:50:07.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2050,7 +2050,7 @@
     "change": 0.31,
     "changePct": 4.23,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:59:26.000Z",
+    "asOf": "2026-11-18T08:59:15.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2139,11 +2139,11 @@
     ]
   },
   "5285.KL": {
-    "price": 6.08,
-    "change": 0.39,
-    "changePct": 6.85,
+    "price": 5.97,
+    "change": 0.28,
+    "changePct": 4.92,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:03.000Z",
+    "asOf": "2026-11-18T08:53:43.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2232,11 +2232,11 @@
     ]
   },
   "4197.KL": {
-    "price": 2.46,
-    "change": 0.08,
-    "changePct": 3.36,
+    "price": 2.5,
+    "change": 0.12,
+    "changePct": 5.04,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:57:27.000Z",
+    "asOf": "2026-11-18T08:58:29.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2325,11 +2325,11 @@
     ]
   },
   "5211.KL": {
-    "price": 4.36,
-    "change": 0.18,
-    "changePct": 4.31,
+    "price": 4.32,
+    "change": 0.14,
+    "changePct": 3.35,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:04.000Z",
+    "asOf": "2026-11-18T08:50:15.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2418,11 +2418,11 @@
     ]
   },
   "4863.KL": {
-    "price": 7.7,
-    "change": -0.07,
-    "changePct": -0.9,
+    "price": 7.68,
+    "change": -0.09,
+    "changePct": -1.16,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:51.000Z",
+    "asOf": "2026-11-18T08:56:15.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2515,7 +2515,7 @@
     "change": -0.42,
     "changePct": -3.23,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:51:08.000Z",
+    "asOf": "2026-11-18T08:55:44.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2604,11 +2604,11 @@
     ]
   },
   "4677.KL": {
-    "price": 1.7,
-    "change": -0.33,
-    "changePct": -16.26,
+    "price": 1.73,
+    "change": -0.3,
+    "changePct": -14.78,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:59:27.000Z",
+    "asOf": "2026-11-18T08:56:40.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2697,11 +2697,11 @@
     ]
   },
   "6742.KL": {
-    "price": 4.05,
-    "change": -1.1,
-    "changePct": -21.36,
+    "price": 4,
+    "change": -1.15,
+    "changePct": -22.33,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:51.000Z",
+    "asOf": "2026-11-18T08:59:45.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2790,11 +2790,11 @@
     ]
   },
   "2488.KL": {
-    "price": 4.55,
-    "change": -0.02,
-    "changePct": -0.44,
+    "price": 4.51,
+    "change": -0.06,
+    "changePct": -1.31,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:51:16.000Z",
+    "asOf": "2026-11-18T08:50:15.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2883,11 +2883,11 @@
     ]
   },
   "5258.KL": {
-    "price": 1.89,
-    "change": -0.12,
-    "changePct": -5.97,
+    "price": 1.9,
+    "change": -0.11,
+    "changePct": -5.47,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:03.000Z",
+    "asOf": "2026-11-18T08:50:02.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -2980,7 +2980,7 @@
     "change": 0,
     "changePct": 0,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:29.000Z",
+    "asOf": "2026-11-18T08:53:37.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3069,11 +3069,11 @@
     ]
   },
   "5210.KL": {
-    "price": 0.285,
+    "price": 0.28,
     "change": -0.05,
-    "changePct": -14.93,
+    "changePct": -16.42,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:53:33.000Z",
+    "asOf": "2026-11-18T08:52:47.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3162,11 +3162,11 @@
     ]
   },
   "1818.KL": {
-    "price": 8.12,
-    "change": -0.04,
-    "changePct": -0.49,
+    "price": 8.08,
+    "change": -0.08,
+    "changePct": -0.98,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:51:35.000Z",
+    "asOf": "2026-11-18T08:57:42.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3255,11 +3255,11 @@
     ]
   },
   "3689.KL": {
-    "price": 20,
-    "change": -0.12,
-    "changePct": -0.6,
+    "price": 19.94,
+    "change": -0.18,
+    "changePct": -0.89,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:41.000Z",
+    "asOf": "2026-11-18T08:50:04.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3352,7 +3352,7 @@
     "change": -0.06,
     "changePct": -4.72,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:52:41.000Z",
+    "asOf": "2026-11-18T08:59:18.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3441,11 +3441,11 @@
     ]
   },
   "3255.KL": {
-    "price": 13.24,
-    "change": 0,
-    "changePct": 0,
+    "price": 13.08,
+    "change": -0.16,
+    "changePct": -1.21,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:04.000Z",
+    "asOf": "2026-11-18T08:50:04.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3534,11 +3534,11 @@
     ]
   },
   "6599.KL": {
-    "price": 0.895,
-    "change": -0.04,
-    "changePct": -4.79,
+    "price": 0.89,
+    "change": -0.05,
+    "changePct": -5.32,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:02.000Z",
+    "asOf": "2026-11-18T08:55:51.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3627,11 +3627,11 @@
     ]
   },
   "5106.KL": {
-    "price": 1.79,
-    "change": -0.09,
-    "changePct": -4.79,
+    "price": 1.75,
+    "change": -0.13,
+    "changePct": -6.91,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:04.000Z",
+    "asOf": "2026-11-18T08:50:03.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3720,11 +3720,11 @@
     ]
   },
   "5248.KL": {
-    "price": 0.81,
-    "change": -0.09,
-    "changePct": -10,
+    "price": 0.79,
+    "change": -0.11,
+    "changePct": -12.22,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:53:54.000Z",
+    "asOf": "2026-11-18T08:50:03.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3813,11 +3813,11 @@
     ]
   },
   "5301.KL": {
-    "price": 0.44,
+    "price": 0.445,
     "change": 0.02,
-    "changePct": 3.53,
+    "changePct": 4.71,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:57:19.000Z",
+    "asOf": "2026-11-18T08:55:46.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3906,11 +3906,11 @@
     ]
   },
   "7204.KL": {
-    "price": 0.355,
-    "change": -0.17,
-    "changePct": -32.38,
+    "price": 0.365,
+    "change": -0.16,
+    "changePct": -30.48,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:58:54.000Z",
+    "asOf": "2026-11-18T08:51:53.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -3999,11 +3999,11 @@
     ]
   },
   "5216.KL": {
-    "price": 0.265,
-    "change": -0.02,
-    "changePct": -7.02,
+    "price": 0.27,
+    "change": -0.01,
+    "changePct": -5.26,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:59:00.000Z",
+    "asOf": "2026-11-18T08:50:03.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -4092,11 +4092,11 @@
     ]
   },
   "7277.KL": {
-    "price": 1.87,
-    "change": 0,
-    "changePct": 0,
+    "price": 2,
+    "change": 0.13,
+    "changePct": 6.95,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:56:28.000Z",
+    "asOf": "2026-11-18T08:59:31.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -4189,7 +4189,7 @@
     "change": -0.02,
     "changePct": -1.82,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:44:08.000Z",
+    "asOf": "2026-11-18T08:53:12.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -4278,11 +4278,11 @@
     ]
   },
   "8206.KL": {
-    "price": 1.73,
-    "change": -0.19,
-    "changePct": -9.9,
+    "price": 1.74,
+    "change": -0.18,
+    "changePct": -9.37,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:57:17.000Z",
+    "asOf": "2026-11-18T08:50:01.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -4371,11 +4371,11 @@
     ]
   },
   "0128.KL": {
-    "price": 4.52,
-    "change": -0.54,
-    "changePct": -10.67,
+    "price": 4.59,
+    "change": -0.47,
+    "changePct": -9.29,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:57:49.000Z",
+    "asOf": "2026-11-18T08:53:41.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -4468,7 +4468,7 @@
     "change": -0.05,
     "changePct": -4.55,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:57:38.000Z",
+    "asOf": "2026-11-18T08:50:03.000Z",
     "series": [
       {
         "time": "2026-10-19",
@@ -4557,11 +4557,11 @@
     ]
   },
   "1082.KL": {
-    "price": 17.24,
-    "change": -0.6,
-    "changePct": -3.36,
+    "price": 17.32,
+    "change": -0.52,
+    "changePct": -2.91,
     "currency": "MYR",
-    "asOf": "2026-11-17T08:50:04.000Z",
+    "asOf": "2026-11-18T08:50:04.000Z",
     "series": [
       {
         "time": "2026-10-19",
