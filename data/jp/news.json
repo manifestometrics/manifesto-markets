@@ -1,5 +1,277 @@
 [
   {
+    "title": "Who really wins from AI?",
+    "url": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T18:51:31.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T17:01:32.000Z",
+    "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman &",
+    "tickers": []
+  },
+  {
+    "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T15:43:12.000Z",
+    "excerpt": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out t",
+    "tickers": []
+  },
+  {
+    "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases  ",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T15:31:22.000Z",
+    "excerpt": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
+    "tickers": []
+  },
+  {
+    "title": "Thanksgiving Dinner Is Moving to Restaurants",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T15:28:00.000Z",
+    "excerpt": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with",
+    "tickers": []
+  },
+  {
+    "title": "The 1982 War Still Haunts the Middle East",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T15:19:32.000Z",
+    "excerpt": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. S",
+    "tickers": []
+  },
+  {
+    "title": "Is AI a Bubble? History Offers Some Clues",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T15:09:32.000Z",
+    "excerpt": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks",
+    "tickers": []
+  },
+  {
+    "title": "Shenzhen Wants to Become a Cultural Capital",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T14:24:08.000Z",
+    "excerpt": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts",
+    "tickers": []
+  },
+  {
+    "title": "Trump’s Putin Outreach Tests Ukraine Talks",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T13:56:40.000Z",
+    "excerpt": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolv",
+    "tickers": []
+  },
+  {
+    "title": "Anthropic IPO Fails to Calm AI Jitters",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T13:43:18.000Z",
+    "excerpt": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations ",
+    "tickers": []
+  },
+  {
+    "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T13:19:50.000Z",
+    "excerpt": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffei",
+    "tickers": []
+  },
+  {
+    "title": "Putin Gains From Trump, Xi Summit Spotlight",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T13:12:23.000Z",
+    "excerpt": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside th",
+    "tickers": []
+  },
+  {
+    "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-21T11:44:46.000Z",
+    "excerpt": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
+    "tickers": []
+  },
+  {
+    "title": "Spain to extend banking tax through 2027 to fund housing policies",
+    "url": "https://www.investing.com/news/stock-market-news/spain-to-extend-banking-tax-through-2027-to-fund-housing-policies-5043370",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T10:58:44.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "UBS assesses impact of nationwide ground stop on US airlines’ 4Q outlook",
+    "url": "https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T09:46:58.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Intesa Sanpaolo launches €34.5bn cash-and-share offer for Monte dei Paschi",
+    "url": "https://www.investing.com/news/stock-market-news/intesa-sanpaolo-launches-345bn-cashandshare-offer-for-monte-dei-paschi-5043303",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T08:56:23.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T08:27:00.000Z",
+    "excerpt": "For weeks, Burnham and his most senior Cabinet colleagues have been consumed by the possibility Trump could resume major strikes on Iran",
+    "tickers": []
+  },
+  {
+    "title": " U.S. Agriculture Department and FBI breached by hackers, reports say ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T08:13:00.000Z",
+    "excerpt": "The reports come as concerns deepened over the recent spate of tech outages at key American institutions.",
+    "tickers": []
+  },
+  {
+    "title": " Anthropic researcher says Claude solved math’s greatest riddle ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T07:46:00.000Z",
+    "excerpt": "The firm's chatbot may have helped prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+    "tickers": []
+  },
+  {
+    "title": " Countries open path towards ‘killer robots’ pact ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T07:41:00.000Z",
+    "excerpt": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
+    "tickers": []
+  },
+  {
+    "title": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
+    "url": "https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T07:38:34.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today ",
+    "url": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T07:30:00.000Z",
+    "excerpt": "Two decades after the debut of Satoshi Kon's \"Paprika,\" its innovative soundtrack has found new life on social media.",
+    "tickers": []
+  },
+  {
+    "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
+    "url": "https://www.investing.com/news/stock-market-news/how-are-ai-chip-flows-reshaping-dollar-dominance-deutsche-bank-explains-5043246",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T06:58:35.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "How to invest in transformational innovation",
+    "url": "https://www.investing.com/news/stock-market-news/how-to-invest-in-transformational-innovation-5043160",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T04:52:37.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " As Trump courts Xi and Putin, middle powers make their own moves ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/trump-xi-putin-middle-powers-analysis/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T04:42:00.000Z",
+    "excerpt": "Efforts to forge new alliances show how middle powers can reach for alternative markets, while new defense tie-ups give them more options on security.",
+    "tickers": []
+  },
+  {
+    "title": " Anthropic’s post-debut stumble delivers reality check for AI trade ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T04:19:00.000Z",
+    "excerpt": "A dramatic unraveling of the AI trade showed that even a blockbuster listing could not shake the gloom hanging over the sector.",
+    "tickers": []
+  },
+  {
+    "title": " Why Kim didn’t meet Trump, despite the hype ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/asia-pacific/politics/why-kim-didnt-meet-trump/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T04:15:00.000Z",
+    "excerpt": "U.S. President Donald Trump knocked repeatedly at Kim Jong Un's door, but the North Korean leader was out at a ski resort and a naval university.",
+    "tickers": []
+  },
+  {
+    "title": " Trump ousts cyber director after tech outages spark criticism ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/us-cyber-director-ousted/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T03:48:00.000Z",
+    "excerpt": "The firing come days after technology outages disrupted U.S. air travel, banking and national security systems.",
+    "tickers": []
+  },
+  {
+    "title": " From Hong Kong to Africa: Humble bag carries history of migration ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/humble-bag-migration-history/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T03:23:00.000Z",
+    "excerpt": "An everyday utility used to carry clothes, household goods and food, the bag also carries painful memories of mass expulsion and displacement.",
+    "tickers": []
+  },
+  {
+    "title": " Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T03:20:00.000Z",
+    "excerpt": "Iranian Foreign Minister Abbas Araqchi said Tehran wanted guarantees that Washington was serious about negotiations before proceeding further.",
+    "tickers": []
+  },
+  {
+    "title": " Mao Shimada grabs lead at Finlandia Trophy after short program ",
+    "url": "https://www.japantimes.co.jp/sports/2026/11/21/more-sports/mao-shimada-finlandia-trophy/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-21T03:10:00.000Z",
+    "excerpt": "Shimada, a four-time world junior champion, is targeting her second win in her debut season after taking gold at Skate Canada earlier this month.",
+    "tickers": []
+  },
+  {
+    "title": "Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+    "url": "https://www.investing.com/news/stock-market-news/analysiswall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-5042444",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T02:12:22.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Singaporean extradited to face US charges over global insider trading scheme",
+    "url": "https://www.investing.com/news/stock-market-news/singaporean-extradited-to-face-us-charges-over-global-insider-trading-scheme-5042823",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T02:06:58.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "US was warned of telecom security risks years before Salt Typhoon",
+    "url": "https://www.investing.com/news/stock-market-news/us-was-warned-of-telecom-security-risks-years-before-salt-typhoon-5043030",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-21T01:54:24.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
     "title": "Canadian Stocks Head for Correction as Metals, Tech Push Lower",
     "url": "https://www.bloomberg.com/news/articles/2026-11-20/canadian-stocks-head-for-correction-as-metals-tech-push-lower",
     "source": "Bloomberg — Markets (Japan-relevant)",
@@ -365,278 +637,6 @@
     "source": "Bloomberg — Markets (Japan-relevant)",
     "publishedAt": "2026-11-19T21:00:00.000Z",
     "excerpt": "India’s Tata Group is entering a critical fortnight as the conglomerate’s controlling shareholders and holding company prepare for back-to-back meetings amid a governance dispute that has spilled beyond the boardroom.",
-    "tickers": []
-  },
-  {
-    "title": "BMO highlights top materials stock pick",
-    "url": "https://www.investing.com/news/stock-market-news/bmo-highlights-top-materials-stock-pick-5039891",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:44:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
-    "url": "https://www.investing.com/news/stock-market-news/jpmorgan-says-thirdparty-vendors-targeted-in-cyberattack-5039129",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:36:40.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Why is BCE stock sliding today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-bce-stock-sliding-today-93CH-5039886",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:33:19.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Why is Canadian Natural Resources stock sliding today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-sliding-today-93CH-5039884",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:31:38.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Synopsys vs Cadence: value and quality compared",
-    "url": "https://www.investing.com/news/stock-market-news/synopsys-vs-cadence-value-and-quality-compared-93CH-5039883",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:31:30.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "PepsiCo stands out in consumer staples as sector breaks three-year downtrend",
-    "url": "https://www.investing.com/news/stock-market-news/pepsico-stands-out-in-consumer-staples-as-sector-breaks-threeyear-downtrend-93CH-5039880",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:30:57.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "New York sues IHG, others over Holiday Inn accused of exploiting immigrant workers",
-    "url": "https://www.investing.com/news/stock-market-news/new-york-sues-ihg-others-over-holiday-inn-accused-of-exploiting-immigrant-workers-5039864",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:30:27.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "PDD earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/pdd-earnings-analysis-questions-answered-and-next-catalysts-93CH-5039879",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:30:21.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Warner Music Group earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/warner-music-group-earnings-analysis-questions-answered-and-next-catalysts-93CH-5039876",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-19T20:30:11.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T20:10:10.000Z",
-    "excerpt": "Two prepaid energy deals totaling $3 billion, which featured Google parent company Alphabet Inc. as funding recipient, were delayed due to lackluster investor demand amid market volatility, according to a person familiar with the matter.",
-    "tickers": []
-  },
-  {
-    "title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T20:04:12.000Z",
-    "excerpt": "What began as an oil-market shock from the Iran war has broadened into a cost squeeze across the US, with business owners growing significantly more concerned about commodity prices.",
-    "tickers": []
-  },
-  {
-    "title": "Bloomberg Green New York 2026 Highlights",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-green-new-york-2026-highlights-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T20:01:26.000Z",
-    "excerpt": "Bloomberg Green convened industry leaders, policymakers, and climate innovators during Climate Week NYC to explore what's next in the transition to a more resilient and future-ready world. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Australia’s Leader to Navigate Trade, Security in Talks With Xi",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/australia-s-leader-to-navigate-trade-security-in-talks-with-xi",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T20:00:00.000Z",
-    "excerpt": "Australian Prime Minister Anthony Albanese will aim to navigate delicate security and trade issues when he meets Chinese President Xi Jinping on Friday, seeking to ease access for commodities to its biggest export partner.",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic IPO Said to Draw Over $9.4 Billion in Japan Order Book",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-draw-over-9-4-billion-in-japan-order-book",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T20:00:00.000Z",
-    "excerpt": "Anthropic PBC drew orders for more than three times the shares available in the Japan tranche of its US initial public offering.",
-    "tickers": []
-  },
-  {
-    "title": "Fed's Barr Says Inflation Calls for Further Policy Adjustment",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/fed-s-barr-says-inflation-calls-for-policy-adjustment-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T19:59:01.000Z",
-    "excerpt": "Federal Reserve Governor Michael Barr says inflation is too high and monetary policy needs to be adjusted further to balance risks at FinRegLab's AI Symposium. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Traders and Investors Want to Exercise Their Convictions: Bilal Little",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-19/traders-and-investors-act-on-convictions-bilal-little-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T19:47:41.000Z",
-    "excerpt": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of “Bloomberg Markets.” Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on the upside and the do",
-    "tickers": []
-  },
-  {
-    "title": "Latin America Currencies Sink on Rate Worries; Brazil Intervenes",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-s-rand-ticks-higher-as-most-emerging-fx-steadies",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T12:41:16.000Z",
-    "excerpt": "A sell-off in Latin American currencies deepened Thursday, sending the Mexican peso to its lowest since June 2025 and forcing Brazil’s central bank to step in to prop up the real, amid the mounting prospect of more rate hikes in the US.",
-    "tickers": []
-  },
-  {
-    "title": " COP31 negotiators publish revised deal text with no mention of fossil fuels ",
-    "url": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T12:14:00.000Z",
-    "excerpt": "The first draft contained two references to fossil fuels and limiting their use — a topic that deeply divides nations in the negotiations every year.",
-    "tickers": []
-  },
-  {
-    "title": " Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T12:00:00.000Z",
-    "excerpt": "It was the first time the court held a state responsible for genocide.",
-    "tickers": []
-  },
-  {
-    "title": " Rakuten Securities rushes to cope with data breach ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/rakuten-securities-data-breach/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T11:55:00.000Z",
-    "excerpt": "The data breach has raised questions about the company's information management system.",
-    "tickers": []
-  },
-  {
-    "title": " South Korea court orders retrial of ex-PM Han in martial law case ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T11:45:00.000Z",
-    "excerpt": "The 2024 decree issued by the president at the time, Yoon Suk Yeol, plunged the country into chaos, but lasted only around six hours.",
-    "tickers": []
-  },
-  {
-    "title": " Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’ ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T11:31:00.000Z",
-    "excerpt": "Takaichi made these remarks at a news conference in Shenzhen, China, following a series of diplomatic engagements in the Philippines and China.",
-    "tickers": []
-  },
-  {
-    "title": " Riyadh’s tallest building damaged as Saudi reports new Houthi attacks ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/world/riyadh-saudi-houthi-attacks/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T11:25:00.000Z",
-    "excerpt": "A skyscraper in Riyadh housing the headquarters of Saudi Arabia's sovereign wealth fund was damaged on Thursday, witnesses said, as the kingdom reported new attacks by Yemen's Houthis.",
-    "tickers": []
-  },
-  {
-    "title": " Japan government under fire for using conspiracy theory YouTuber in PR ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/conspiracy-theory-youtuber-pr/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T10:52:00.000Z",
-    "excerpt": "The government says that the use of the YouTuber is intended to deepen understanding of security policy among people in their 20s and 30s.",
-    "tickers": []
-  },
-  {
-    "title": " Nearly 40% disapprove of Takaichi’s China stance, poll shows ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-china-stance-disapprove/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T10:45:00.000Z",
-    "excerpt": "The survey found that 38.4% of respondents disapprove of Takaichi's China stance, higher than the 33.6% who approved it.",
-    "tickers": []
-  },
-  {
-    "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
-    "url": "https://www.digital.go.jp/news/2026-0911-01",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-19T10:29:08.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " China, U.S. and Russia issue ‘peace declaration’ after unprecedented summit ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/trump-putin-xi-summit-apec-nuclear-weapons/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T09:25:00.000Z",
-    "excerpt": "The three countries' leaders discussed reforming the U.N., increasing petroleum product supplies, reining in international courts and nuclear weapons.",
-    "tickers": []
-  },
-  {
-    "title": " Japan Tobacco hit by $8.9 billion charge on Russia seizure ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/19/japan-tobacco-russia-seizure-charge/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T09:17:00.000Z",
-    "excerpt": "The Tokyo-based company now expects an operating loss of ¥368 billion instead of a ¥1 trillion profit.",
-    "tickers": []
-  },
-  {
-    "title": " South Korea’s Lee hopes reopening talks with North Korea could lead to lasting peace ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-lee-north-korea-peace/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T09:12:00.000Z",
-    "excerpt": "Speaking at the APEC summit in Shenzhen, Lee said peace and stability on the Korean Peninsula were essential to shared regional prosperity.",
-    "tickers": []
-  },
-  {
-    "title": " Takaichi stresses need for ‘stable’ ties with China after encounters with Xi ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/xi-takaichi-apec-greeting-protocol/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-19T08:25:00.000Z",
-    "excerpt": "Prime Minister Sanae Takaichi had two brief but warm encounters with China's Xi Jinping at a regional summit, the first since her remarks on Taiwan.",
-    "tickers": []
-  },
-  {
-    "title": "US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T07:09:16.000Z",
-    "excerpt": "US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.",
-    "tickers": []
-  },
-  {
-    "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当）の予約方法を公開しました",
-    "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-19T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "China Sells $2 Billion of Dollar Bonds as Xi, Trump Meet",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-19T00:57:50.000Z",
-    "excerpt": "China sold $2 billion of dollar-denominated sovereign bonds on Thursday as leaders of the world’s two largest economies met in Shenzhen.",
-    "tickers": []
-  },
-  {
-    "title": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-18T22:07:41.000Z",
-    "excerpt": "A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.",
     "tickers": []
   }
 ]
