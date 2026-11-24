@@ -1,5 +1,277 @@
 [
   {
+    "title": " Burnham says ‘unthinkable’ to join EU without U.K. referendum ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/24/world/politics/burnham-eu-uk-referendum/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-24T00:35:00.000Z",
+    "excerpt": "The prime minister's comments come as his administration seeks closer ties with the bloc that Britain left almost seven years ago.",
+    "tickers": []
+  },
+  {
+    "title": "古川デジタル大臣がアリベルティ次期駐日欧州連合大使の表敬を受けました",
+    "url": "https://www.digital.go.jp/press/58c00de5-c13a-4fd9-8df9-e4b5ea345ba1",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-24T00:26:57.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Trump flexes influence after midterm losses with intervention at Nvidia",
+    "url": "https://www.investing.com/news/stock-market-news/trump-says-nvidia-board-made-right-call-on-huang-reinstatement-5045885",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-24T00:12:40.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Deputy FBI director to retire in December, Washington Post reports",
+    "url": "https://www.investing.com/news/stock-market-news/deputy-fbi-director-to-retire-in-december-washington-post-reports-5046736",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-24T00:12:26.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "US Senate Probes Vance Role in Vitol Choice for Venezuela Oil",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-24T00:11:51.000Z",
+    "excerpt": "A US senator is investigating the role Vice President JD Vance played in awarding a lucrative Venezuelan oil contract to a political donor and then-executive at commodities trader Vitol Group.",
+    "tickers": []
+  },
+  {
+    "title": "Petrobras Makes $470 Million Ethanol Bet in Brazil With Neomille Stake",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/petrobras-makes-470-million-ethanol-bet-in-brazil-with-neomille-stake",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-24T00:08:20.000Z",
+    "excerpt": "Brazil’s state-controlled oil producer Petrobras is buying a stake in corn-ethanol producer Neomille SA as part of a wider expansion into biofuels.",
+    "tickers": []
+  },
+  {
+    "title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-24T00:06:57.000Z",
+    "excerpt": "Gold steadied after surging Monday, as Jensen Huang’s surprise return to the helm of Nvidia Corp. recharged bets on artificial intelligence and spurred rallies across markets.",
+    "tickers": []
+  },
+  {
+    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
+    "url": "https://www.investing.com/news/stock-market-news/teamsters-urge-us-lawmakers-to-quickly-pass-chinese-car-ban-5046730",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-24T00:06:21.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "NY Fed’s Williams says high inflation necessitates more rate hikes",
+    "url": "https://www.investing.com/news/stock-market-news/ny-feds-williams-says-high-inflation-necessitates-more-rate-hikes-93CH-5046727",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-24T00:05:19.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Why is Reliance Worldwide stock surging today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-reliance-worldwide-stock-surging-today-93CH-5046714",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-24T00:00:33.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "CFTC finalises permanent data-reporting rules for event contracts",
+    "url": "https://www.investing.com/news/stock-market-news/cftc-finalises-permanent-datareporting-rules-for-event-contracts-5046713",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-24T00:00:22.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "US agency to vote to ease ownership limits on local TV, radio stations",
+    "url": "https://www.investing.com/news/stock-market-news/us-agency-to-vote-to-ease-ownership-limits-on-local-tv-radio-stations-5046494",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-23T23:54:36.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Jensen Huang’s comeback to Nvidia underscores his outsized grip on AI",
+    "url": "https://www.investing.com/news/stock-market-news/jensen-huangs-comeback-to-nvidia-underscores-his-outsized-grip-on-ai-5046711",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-23T23:54:20.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Asian Chip Stocks Jump as Huang Comeback Reignites AI Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T23:45:20.000Z",
+    "excerpt": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
+    "tickers": []
+  },
+  {
+    "title": "Anthropic options post solid debut, trailing SpaceX record",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-23T23:30:40.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+    "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T23:20:08.000Z",
+    "excerpt": "A White House pressure campaign and a $5 trillion market slide forced Nvidia to reinstate its founder — proving that in the AI race, boardroom discipline is a luxury shareholders can’t afford.",
+    "tickers": []
+  },
+  {
+    "title": "US Medicare says price cuts on 13 more drugs will reduce spending by 45%",
+    "url": "https://www.investing.com/news/stock-market-news/us-medicare-says-price-cuts-on-13-more-drugs-will-reduce-spending-by-45-5046673",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-23T23:12:22.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Startup Options Exchange Asks SEC to Approve Two New Venues",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T23:08:44.000Z",
+    "excerpt": "Options Xchange Group Inc., a startup bourse focused on equity derivatives, is seeking to start two new venues.",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Nov. 24",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T23:04:12.000Z",
+    "excerpt": "Oil steadied after sliding almost 4% in the previous session on cautious optimism over efforts to end the US-Iran war.",
+    "tickers": []
+  },
+  {
+    "title": " Allies say Russia may launch nuclear space weapon next month ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/24/world/politics/russia-nuclear-space-weapon/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T22:38:00.000Z",
+    "excerpt": "Such a weapon could lead to the rapid destruction or degradation of thousands of satellites.",
+    "tickers": []
+  },
+  {
+    "title": "Asian Stocks Rally as Huang’s Return Revives AI: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T22:06:46.000Z",
+    "excerpt": "Asian shares climbed as a wave of optimism sparked by Jensen Huang’s return to lead Nvidia Corp. fueled a rally in global equities and propelled Wall Street to its best day since April 2025.",
+    "tickers": []
+  },
+  {
+    "title": " Nvidia rehires Huang in stunning reversal after Trump push ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/24/tech/nvidia-huang-trump-push/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T21:58:00.000Z",
+    "excerpt": "President Donald Trump had pressed for the move, and the board cited the U.S. government's input when making the announcement.",
+    "tickers": []
+  },
+  {
+    "title": "Canadian Stocks Recover as Huang’s Return Fuels Metals, Tech",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/canadian-stocks-recover-as-huang-s-return-fuels-metals-tech",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T15:50:34.000Z",
+    "excerpt": "Canada’s equity benchmark posted its biggest gain since April 2025, fueled by surging precious metals and technology stocks, after Nvidia Corp. reinstated Jensen Huang as its chief executive officer.",
+    "tickers": []
+  },
+  {
+    "title": " Japanese and North Korean intel officials likely had contact during Asian Games ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/japan-nk-intel-asian-games/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T11:20:00.000Z",
+    "excerpt": "The North Korean official was said to have entered Japan as a member of the North Korean delegation for the Asian Games.",
+    "tickers": []
+  },
+  {
+    "title": "Margin Calls Rose 200-Fold in Taiwan as Traders Fled AI Bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-23T10:11:28.000Z",
+    "excerpt": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
+    "tickers": []
+  },
+  {
+    "title": " Japan’s Tamagotchi digital pet toy marks 30th anniversary ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/23/tamagotchi-30th-anniversary/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T09:18:00.000Z",
+    "excerpt": "The Tamagotchi digital pet toy, created by Japan's Bandai, on Monday marked the 30th anniversary of its release, having won fans across generations in and outside its home country.",
+    "tickers": []
+  },
+  {
+    "title": " Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/23/world/libya-drone-attack-russian-ship-ukraine/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T08:36:00.000Z",
+    "excerpt": "Zelenskyy said Monday ​morning that Ukraine used seven naval drones in Sunday's attack.",
+    "tickers": []
+  },
+  {
+    "title": " China is getting inflation in all the wrong places ",
+    "url": "https://www.japantimes.co.jp/commentary/2026/11/23/world/china-getting-inflation/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T08:30:00.000Z",
+    "excerpt": "The country has a problem with \"bad inflation\" driven by raw material costs, which could lead to deflationary forces when they subside.",
+    "tickers": []
+  },
+  {
+    "title": " It’s no urban legend; it’s failed government communication ",
+    "url": "https://www.japantimes.co.jp/commentary/2026/11/23/japan/japan-failed-government-communication/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T08:10:00.000Z",
+    "excerpt": "Japan's government is borrowing entertainers and influencers to sell its defense buildup because it lacks a compelling national narrative of its.",
+    "tickers": []
+  },
+  {
+    "title": " Cost burden keeps Fukushima’s hydrogen dream from taking off ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/society/fukushima-hydrogen-station-struggle/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T07:37:00.000Z",
+    "excerpt": "A private company's struggle in keeping its hydrogen station afloat highlights the challenges for realizing a future powered by the alternative fuel.",
+    "tickers": []
+  },
+  {
+    "title": " Restored main hall of Okinawa’s Shuri Castle opens to public ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/shuri-castle-seiden-opens-public/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T07:31:00.000Z",
+    "excerpt": "Before the public opening, an event hosted by the Okinawa Prefectural Government took place in the square.",
+    "tickers": []
+  },
+  {
+    "title": " 49ers rout Vikings as NFL wraps up international slate in style in Mexico City ",
+    "url": "https://www.japantimes.co.jp/sports/2026/11/23/more-sports/49ers-rout-vikings-mexico-city/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T07:27:00.000Z",
+    "excerpt": "More than 85,000 fans filled the stadium, underlining the popularity of the sport in Mexico, which is the NFL's largest market outside the United States.",
+    "tickers": []
+  },
+  {
+    "title": " Thailand plans to ban exports of chemicals as it tackles pollution ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/23/asia-pacific/thailand-ban-exports-chemicals-pollution/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-23T07:01:00.000Z",
+    "excerpt": "The country will work with China and Myanmar to address elevated arsenic levels in its northern rivers.",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Nov. 23",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-22T23:06:06.000Z",
+    "excerpt": "Oil fell to the lowest since August as investors unwound hedges against a weekend escalation by US forces in Iran, with Washington taking a more dovish stance for now.",
+    "tickers": []
+  },
+  {
     "title": "Delta flights faced brief delays at Atlanta airport over automated system issue",
     "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
     "source": "Investing.com — Nikkei 225 News",
@@ -141,6 +413,14 @@
     "source": "Bloomberg — Markets (Japan-relevant)",
     "publishedAt": "2026-11-22T13:32:30.000Z",
     "excerpt": "On Bloomberg This Weekend, Governors Wes Moore, Spencer Cox, Josh Stein and Mike Braun tell host Christina Ruffini that states need to take a larger role in shaping AI and data center policy as concerns grow over electricity costs, water us",
+    "tickers": []
+  },
+  {
+    "title": "Strong Earnings No Match for the Crumbling AI Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-22T13:30:00.000Z",
+    "excerpt": "For years, a strong earnings season has given Wall Street something to fall back on. But the crumbling artificial-intelligence trade has ripped away that support.",
     "tickers": []
   },
   {
@@ -357,286 +637,6 @@
     "source": "Bloomberg — Markets (Japan-relevant)",
     "publishedAt": "2026-11-21T13:43:18.000Z",
     "excerpt": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations ",
-    "tickers": []
-  },
-  {
-    "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-21T13:19:50.000Z",
-    "excerpt": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffei",
-    "tickers": []
-  },
-  {
-    "title": "Putin Gains From Trump, Xi Summit Spotlight",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-21T13:12:23.000Z",
-    "excerpt": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside th",
-    "tickers": []
-  },
-  {
-    "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-21T11:44:46.000Z",
-    "excerpt": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
-    "tickers": []
-  },
-  {
-    "title": "Spain to extend banking tax through 2027 to fund housing policies",
-    "url": "https://www.investing.com/news/stock-market-news/spain-to-extend-banking-tax-through-2027-to-fund-housing-policies-5043370",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T10:58:44.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "UBS assesses impact of nationwide ground stop on US airlines’ 4Q outlook",
-    "url": "https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T09:46:58.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Intesa Sanpaolo launches €34.5bn cash-and-share offer for Monte dei Paschi",
-    "url": "https://www.investing.com/news/stock-market-news/intesa-sanpaolo-launches-345bn-cashandshare-offer-for-monte-dei-paschi-5043303",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T08:56:23.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T08:27:00.000Z",
-    "excerpt": "For weeks, Burnham and his most senior Cabinet colleagues have been consumed by the possibility Trump could resume major strikes on Iran",
-    "tickers": []
-  },
-  {
-    "title": " U.S. Agriculture Department and FBI breached by hackers, reports say ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T08:13:00.000Z",
-    "excerpt": "The reports come as concerns deepened over the recent spate of tech outages at key American institutions.",
-    "tickers": []
-  },
-  {
-    "title": " Anthropic researcher says Claude solved math’s greatest riddle ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T07:46:00.000Z",
-    "excerpt": "The firm's chatbot may have helped prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
-    "tickers": []
-  },
-  {
-    "title": " Countries open path towards ‘killer robots’ pact ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T07:41:00.000Z",
-    "excerpt": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
-    "tickers": []
-  },
-  {
-    "title": "South Korea’s Lee urges faster AI investment during $5.2bn data center visit",
-    "url": "https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T07:38:34.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today ",
-    "url": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T07:30:00.000Z",
-    "excerpt": "Two decades after the debut of Satoshi Kon's \"Paprika,\" its innovative soundtrack has found new life on social media.",
-    "tickers": []
-  },
-  {
-    "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
-    "url": "https://www.investing.com/news/stock-market-news/how-are-ai-chip-flows-reshaping-dollar-dominance-deutsche-bank-explains-5043246",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T06:58:35.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "LIT Alert: The Survey Says “Fewer Posts, Better Posts”",
-    "url": "https://rudajev.substack.com/p/lit-alert-the-survey-says-fewer-posts",
-    "source": "Rudajev — Japan Macro",
-    "publishedAt": "2026-11-21T06:57:53.000Z",
-    "excerpt": "&#8220;We all need people who will give us feedback. That's how we improve.&#8221; &#8211; Bill Gates",
-    "tickers": []
-  },
-  {
-    "title": "How to invest in transformational innovation",
-    "url": "https://www.investing.com/news/stock-market-news/how-to-invest-in-transformational-innovation-5043160",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T04:52:37.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " As Trump courts Xi and Putin, middle powers make their own moves ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/trump-xi-putin-middle-powers-analysis/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T04:42:00.000Z",
-    "excerpt": "Efforts to forge new alliances show how middle powers can reach for alternative markets, while new defense tie-ups give them more options on security.",
-    "tickers": []
-  },
-  {
-    "title": " Anthropic’s post-debut stumble delivers reality check for AI trade ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T04:19:00.000Z",
-    "excerpt": "A dramatic unraveling of the AI trade showed that even a blockbuster listing could not shake the gloom hanging over the sector.",
-    "tickers": []
-  },
-  {
-    "title": " Why Kim didn’t meet Trump, despite the hype ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/asia-pacific/politics/why-kim-didnt-meet-trump/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T04:15:00.000Z",
-    "excerpt": "U.S. President Donald Trump knocked repeatedly at Kim Jong Un's door, but the North Korean leader was out at a ski resort and a naval university.",
-    "tickers": []
-  },
-  {
-    "title": " Trump ousts cyber director after tech outages spark criticism ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/us-cyber-director-ousted/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T03:48:00.000Z",
-    "excerpt": "The firing come days after technology outages disrupted U.S. air travel, banking and national security systems.",
-    "tickers": []
-  },
-  {
-    "title": " From Hong Kong to Africa: Humble bag carries history of migration ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/humble-bag-migration-history/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T03:23:00.000Z",
-    "excerpt": "An everyday utility used to carry clothes, household goods and food, the bag also carries painful memories of mass expulsion and displacement.",
-    "tickers": []
-  },
-  {
-    "title": " Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T03:20:00.000Z",
-    "excerpt": "Iranian Foreign Minister Abbas Araqchi said Tehran wanted guarantees that Washington was serious about negotiations before proceeding further.",
-    "tickers": []
-  },
-  {
-    "title": " Mao Shimada grabs lead at Finlandia Trophy after short program ",
-    "url": "https://www.japantimes.co.jp/sports/2026/11/21/more-sports/mao-shimada-finlandia-trophy/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-21T03:10:00.000Z",
-    "excerpt": "Shimada, a four-time world junior champion, is targeting her second win in her debut season after taking gold at Skate Canada earlier this month.",
-    "tickers": []
-  },
-  {
-    "title": "Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
-    "url": "https://www.investing.com/news/stock-market-news/analysiswall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-5042444",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T02:12:22.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Singaporean extradited to face US charges over global insider trading scheme",
-    "url": "https://www.investing.com/news/stock-market-news/singaporean-extradited-to-face-us-charges-over-global-insider-trading-scheme-5042823",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T02:06:58.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "US was warned of telecom security risks years before Salt Typhoon",
-    "url": "https://www.investing.com/news/stock-market-news/us-was-warned-of-telecom-security-risks-years-before-salt-typhoon-5043030",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-21T01:54:24.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Canadian Stocks Head for Correction as Metals, Tech Push Lower",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/canadian-stocks-head-for-correction-as-metals-tech-push-lower",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-20T20:47:53.000Z",
-    "excerpt": "A key benchmark of Canadian equities is heading toward a technical correction on Friday as a selloff pushed metals, technology and energy stocks lower.",
-    "tickers": []
-  },
-  {
-    "title": "TD Cowen names UnitedHealth its 2027 best idea, upgrades shares",
-    "url": "https://www.investing.com/news/stock-market-news/td-cowen-names-unitedhealth-its-2027-best-idea-upgrades-shares-5042562",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:38:35.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Honda to recall more than 800,000 US vehicles over Takata air bag rupture risk",
-    "url": "https://www.investing.com/news/stock-market-news/honda-to-recall-more-than-800000-us-vehicles-over-takata-air-bag-rupture-risk-5042550",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:30:40.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Christian Dior board approves Agache merger terms",
-    "url": "https://www.investing.com/news/stock-market-news/christian-dior-board-approves-agache-merger-terms-93CH-5042545",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:28:03.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "S&amp;P 500 and Dow enter correction territory, Nasdaq craters over 4% amid AI rout",
-    "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:25:18.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Ford, Honda, Stellantis and Volkswagen sue New Jersey over law",
-    "url": "https://www.investing.com/news/stock-market-news/ford-honda-stellantis-and-volkswagen-sue-new-jersey-over-law-93CH-5042541",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:21:17.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Chip stocks to consider on the dip: Micron and Nvidia lead the screen",
-    "url": "https://www.investing.com/news/stock-market-news/chip-stocks-to-consider-on-the-dip-micron-and-nvidia-lead-the-screen-93CH-5042540",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:21:16.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Nasdaq’s weakness prompts investors to shift from tech to bonds",
-    "url": "https://www.investing.com/news/stock-market-news/nasdaqs-weakness-prompts-investors-to-shift-from-tech-to-bonds-93CH-5042538",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-20T20:19:49.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "SEC Moves to Directly Oversee Database Criticized by Wall Street",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-20T20:18:31.000Z",
-    "excerpt": "The Securities and Exchange Commission moved Friday to bring a controversial trade reporting database loathed by much of Wall Street under its direct oversight.",
-    "tickers": []
-  },
-  {
-    "title": "Trillions Podcast Live From Bloomberg ETFs in Depth: The Big Three",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/trillions-podcast-live-etfs-in-depth-the-big-three-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-20T20:13:45.000Z",
-    "excerpt": "Vanguard's Principal & Head of Bank & Institutional Financial Advisor Services Janel Jackson, Anna Paglia, Chief Business Officer at State Street Investment Management, and Elise Terry, Co-Head of Americas, Global Product Solutions & Head o",
     "tickers": []
   }
 ]

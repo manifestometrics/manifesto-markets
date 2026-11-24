@@ -1,5 +1,573 @@
 [
   {
+    "title": "Disaster warnings on your phone: what Malaysians need to know",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/disaster-warnings-on-your-phone-what-malaysians-need-to-know",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:30:00.000Z",
+    "excerpt": "FMT explains how Malaysia’s new emergency alerts system will work and how to prepare your phone for a nationwide test scheduled for Nov 29.",
+    "tickers": []
+  },
+  {
+    "title": "Amaran bencana terus ke telefon, ini yang rakyat perlu tahu",
+    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/24/amaran-bencana-terus-ke-telefon-ini-yang-rakyat-perlu-tahu",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:30:00.000Z",
+    "excerpt": "FMT menjelaskan cara sistem amaran kecemasan baharu ini berfungsi serta langkah perlu diambil pengguna telefon bimbit menjelang ujian di seluruh negara pada 29 Nov.",
+    "tickers": []
+  },
+  {
+    "title": "Deputy FBI director to retire in December, Washington Post reports",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/24/deputy-fbi-director-to-retire-in-december-washington-post-reports",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:21:06.000Z",
+    "excerpt": "Major personnel changes at the FBI under US president Donald Trump have raised concerns over the use of federal investigations against political opponents and critics.",
+    "tickers": []
+  },
+  {
+    "title": "US Senate Probes Vance Role in Vitol Choice for Venezuela Oil",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-24T00:11:51.000Z",
+    "excerpt": "A US senator is investigating the role Vice President JD Vance played in awarding a lucrative Venezuelan oil contract to a political donor and then-executive at commodities trader Vitol Group.",
+    "tickers": []
+  },
+  {
+    "title": "Petrobras Makes $470 Million Ethanol Bet in Brazil With Neomille Stake",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/petrobras-makes-470-million-ethanol-bet-in-brazil-with-neomille-stake",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-24T00:08:20.000Z",
+    "excerpt": "Brazil’s state-controlled oil producer Petrobras is buying a stake in corn-ethanol producer Neomille SA as part of a wider expansion into biofuels.",
+    "tickers": []
+  },
+  {
+    "title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-24T00:06:57.000Z",
+    "excerpt": "Gold steadied after surging Monday, as Jensen Huang’s surprise return to the helm of Nvidia Corp. recharged bets on artificial intelligence and spurred rallies across markets.",
+    "tickers": []
+  },
+  {
+    "title": "Aviation groups urge at least US$30bil boost for FAA modernisation",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/24/aviation-groups-urge-at-least-us-30bil-boost-for-faa-modernisation",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:06:49.000Z",
+    "excerpt": "The call comes after a Nov 13 nationwide ground stop blamed on a single router resulted in more ​than 18,000 cancelled flights.",
+    "tickers": []
+  },
+  {
+    "title": "DeepSeek founder is worth US$55bil after latest fundraising",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/24/deepseek-founder-is-worth-us-55bil-after-latest-fundraising",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:02:50.000Z",
+    "excerpt": "Liang Wenfeng cemented his status as the world's richest creator of AI models after his Chinese startup attracted investment from industrial tycoons.",
+    "tickers": []
+  },
+  {
+    "title": "Zahid resisting further BN-PN cooperation to gain leverage, says analyst",
+    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/zahid-resisting-further-bn-pn-cooperation-to-gain-leverage-says-analyst",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "excerpt": "Syaza Shukri describes this as 'insurance' in case things do not work out with PN.",
+    "tickers": []
+  },
+  {
+    "title": "Zahid enggan lanjut kerjasama BN-PN untuk kekal berpengaruh dalam rundingan",
+    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/24/zahid-enggan-lanjut-kerjasama-bn-pn-untuk-kekal-berpengaruh-dalam-rundingan",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "excerpt": "Penganalisis Syaza Shukri menyifatkan langkah itu sebagai 'persediaan' jika rundingan dengan PN tidak membuahkan hasil.",
+    "tickers": []
+  },
+  {
+    "title": "When Ipoh becomes one big stage",
+    "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/24/when-ipoh-becomes-one-big-stage",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "excerpt": "For four weeks, the city’s cafés, heritage buildings and public spaces will host everything from outdoor movies and theatre to art, craft and music.",
+    "tickers": []
+  },
+  {
+    "title": "Kerajaan teliti cadangan bina lebuh raya baharu atasi kesesakan di Lebuhraya Persekutuan",
+    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/24/kerajaan-teliti-cadangan-bina-lebuh-raya-baharu-atasi-kesesakan-di-lebuhraya-persekutuan",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-23T23:58:00.000Z",
+    "excerpt": " Kementerian Kerja Raya terima beberapa cadangan pihak swasta, yang akan diteliti sebelum dibawa ke Jemaah Menteri untuk pertimbangan.",
+    "tickers": []
+  },
+  {
+    "title": "YouTube star Ms Rachel protests US child immigration hearings",
+    "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/24/youtube-star-ms-rachel-protests-us-child-immigration-hearings",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-23T23:47:00.000Z",
+    "excerpt": "The American creator of educational toddler videos appeared at a New York youth court to shine light on the Trump administration's immigration policies.",
+    "tickers": []
+  },
+  {
+    "title": "Asian Chip Stocks Jump as Huang Comeback Reignites AI Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T23:45:20.000Z",
+    "excerpt": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
+    "tickers": []
+  },
+  {
+    "title": "F1 hails Las Vegas success after record overtakes, sell-out crowd",
+    "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/24/f1-hails-las-vegas-success-after-record-overtakes-sell-out-crowd",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-23T23:32:22.000Z",
+    "excerpt": "The 50-lap race along the famed Strip saw 352 overtakes and 35 lead changes, producing intense wheel-to-wheel battles throughout the field.",
+    "tickers": []
+  },
+  {
+    "title": "PH-Bersatu kembali berpaut, siapa sanggup bayar harga politik?",
+    "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/11/24/ph-bersatu-kembali-berpaut-siapa-sanggup-bayar-harga-politik",
+    "source": "Free Malaysia Today",
+    "publishedAt": "2026-11-23T23:30:00.000Z",
+    "excerpt": "Kekalahan di kerusi majoriti Melayu menghidupkan semula idea 'khemah besar' namun ada persoalan seperti restu pimpinan dan bayangan 'BersaDAP'.",
+    "tickers": []
+  },
+  {
+    "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+    "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T23:20:08.000Z",
+    "excerpt": "A White House pressure campaign and a $5 trillion market slide forced Nvidia to reinstate its founder — proving that in the AI race, boardroom discipline is a luxury shareholders can’t afford.",
+    "tickers": []
+  },
+  {
+    "title": "Startup Options Exchange Asks SEC to Approve Two New Venues",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T23:08:44.000Z",
+    "excerpt": "Options Xchange Group Inc., a startup bourse focused on equity derivatives, is seeking to start two new venues.",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Nov. 24",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T23:04:12.000Z",
+    "excerpt": "Oil steadied after sliding almost 4% in the previous session on cautious optimism over efforts to end the US-Iran war.",
+    "tickers": []
+  },
+  {
+    "title": "Malaysia must move beyond raw rare earth exports under France deal, says analyst",
+    "url": "https://www.malaymail.com/news/money/2026/11/24/malaysia-must-move-beyond-raw-rare-earth-exports-under-france-deal-says-analyst/244392",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T23:00:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 24 — Malaysia must ensure that its newly elevated strategic partnership with France translates into me...",
+    "tickers": []
+  },
+  {
+    "title": "No more ‘white, round pills’: MySejahtera’s second life as Malaysia’s digital health hub",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/24/no-more-white-round-pills-mysejahteras-second-life-as-malaysias-digital-health-hub/243784",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T23:00:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 24 — What began as a mandatory crisis response tool at the height of the Covid-19 pandemic has evolved...",
+    "tickers": []
+  },
+  {
+    "title": "Otters make a splash in KL’s Klang River, bringing hope for cleaner waters — and trouble for fish pond owners",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/24/otters-make-a-splash-in-kls-klang-river-bringing-hope-for-cleaner-waters-and-trouble-for-fish-pond-owners/244394",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T23:00:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 24 — Beneath a tangle of highway in the Malaysian capital Kuala Lumpur, a family of otters rolls aroun...",
+    "tickers": []
+  },
+  {
+    "title": "Five minutes to Johor: Businesses hope new RTS Link with Singapore brings more than day-trippers",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/24/five-minutes-to-johor-businesses-hope-new-rts-link-with-singapore-brings-more-than-day-trippers/244388",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T23:00:00.000Z",
+    "excerpt": "JOHOR BAHRU, Nov 24 — If all goes according to plan, the Johor Bahru-Singapore Rapid Transit System (RTS) Link will begi...",
+    "tickers": []
+  },
+  {
+    "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+    "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T22:21:44.000Z",
+    "excerpt": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure ",
+    "tickers": []
+  },
+  {
+    "title": "Asian Stocks Rally as Huang’s Return Revives AI: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T22:06:46.000Z",
+    "excerpt": "Asian shares climbed as a wave of optimism sparked by Jensen Huang’s return to lead Nvidia Corp. fueled a rally in global equities and propelled Wall Street to its best day since April 2025.",
+    "tickers": []
+  },
+  {
+    "title": "Nasdaq jumps 7% as Nvidia shares soar",
+    "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T22:01:02.000Z",
+    "excerpt": "Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%",
+    "tickers": []
+  },
+  {
+    "title": "Can Indonesia turn over 12 million hectares of degraded land into food and biofuel farms?",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-degraded-land-farms-food-biofuel-6568511",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T22:00:00.000Z",
+    "excerpt": "Indonesia plans to turn millions of hectares of degraded land into farms and biofuel plantations. Experts warn that costly rehabilitation, unsuitable soil conditions and the risk of further environmental damage could undermine the ambitious",
+    "tickers": []
+  },
+  {
+    "title": "Gaming cafes packed, offices declare holidays: How Grand Theft Auto VI fever gripped India",
+    "url": "https://www.channelnewsasia.com/asia/gaming-cafes-packed-offices-declare-holidays-how-grand-theft-auto-vi-fever-gripped-india-6574361",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T22:00:00.000Z",
+    "excerpt": "From gamers travelling up to 70km to play Grand Theft Auto VI (GTA VI) to cafes booked for days, the launch has highlighted India&#039;s appetite for gaming. Cafe owners hope the boom will last, while industry experts tell CNA that enthusia",
+    "tickers": []
+  },
+  {
+    "title": "The leveraged short Nvidia ETFs have just blown up",
+    "url": "https://www.ft.com/content/6a18ca6e-e85a-4f07-b8ff-08344b982609",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T17:44:08.000Z",
+    "excerpt": "You love to see it",
+    "tickers": []
+  },
+  {
+    "title": "SpaceX’s big bad Black Friday bond hangover",
+    "url": "https://www.ft.com/content/5ddc1453-026e-4adb-a5eb-950e7d666abc",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T16:41:40.000Z",
+    "excerpt": "🪐 🚀",
+    "tickers": []
+  },
+  {
+    "title": "DR Congo reimposes cobalt export ban to shore up prices",
+    "url": "https://www.ft.com/content/7421ec30-dde5-409a-971c-64359c21ea3d?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T16:13:19.000Z",
+    "excerpt": "Move marks second time in two years that the world’s top producer of the metal has cut off supply to try to gain leverage over market ",
+    "tickers": []
+  },
+  {
+    "title": "What happens when bubbles burst",
+    "url": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T16:00:11.000Z",
+    "excerpt": "AI enthusiasm has turned into major investor concern that a market might be heading for a fall",
+    "tickers": []
+  },
+  {
+    "title": "Canadian Stocks Recover as Huang’s Return Fuels Metals, Tech",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/canadian-stocks-recover-as-huang-s-return-fuels-metals-tech",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T15:50:34.000Z",
+    "excerpt": "Canada’s equity benchmark posted its biggest gain since April 2025, fueled by surging precious metals and technology stocks, after Nvidia Corp. reinstated Jensen Huang as its chief executive officer.",
+    "tickers": []
+  },
+  {
+    "title": "Oriental Kopi enters fourth overseas market with Cambodia franchise deal",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/oriental-kopi-enters-fourth-overseas-market-with-cambodia-franchise-deal/244480",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T12:30:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Oriental Kopi Holdings Bhd is expanding into Cambodia through a franchise agreement, marking its...",
+    "tickers": []
+  },
+  {
+    "title": "Traders start to move US copper to China as Trump tariff fears ease",
+    "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T12:21:55.000Z",
+    "excerpt": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+    "tickers": []
+  },
+  {
+    "title": "Teo: No licensing plan for online gaming firms as CMCF studies child safety risks",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/teo-no-licensing-plan-for-online-gaming-firms-as-cmcf-studies-child-safety-risks/244478",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T12:08:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — The government has no plans to introduce special licensing requirements for online gaming service...",
+    "tickers": []
+  },
+  {
+    "title": "Even BN funded KLSCAH, Hannah Yeoh tells Parliament amid RM1,000 land premium row",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/even-bn-funded-klscah-hannah-yeoh-tells-parliament-amid-rm1000-land-premium-row/244477",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T12:02:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Barisan Nasional administrations had previously given public funds to the Kuala Lumpur and Selang...",
+    "tickers": []
+  },
+  {
+    "title": "Replica of Picasso work recovered from 1MDB to feature at KL art fair this week",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/replica-of-picasso-work-recovered-from-1mdb-to-feature-at-kl-art-fair-this-week/244475",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T11:47:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — A reproduction of a Pablo Picasso artwork linked to the 1Malaysia Development Bhd (1MDB) case wil...",
+    "tickers": []
+  },
+  {
+    "title": "Worldwide Holdings recognised for major waste-to-energy investment at Selangor Investors Appreciation Awards",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/worldwide-holdings-recognised-for-major-waste-to-energy-investment-at-selangor-investors-appreciation-awards/244473",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T11:34:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Worldwide Holdings Berhad (WHB), through its subsidiary Worldwide TG12 WTE Sdn Bhd, has been reco...",
+    "tickers": []
+  },
+  {
+    "title": "Govt’s Duta Enclave valuation complied with law, Semantan Estate’s figure ‘excessively high’, court told",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/govts-duta-enclave-valuation-complied-with-law-semantan-estates-figure-excessively-high-court-told/244472",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T11:33:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — The High Court was told today that the Government’s valuation for acquiring 263.272 acres from Se...",
+    "tickers": []
+  },
+  {
+    "title": "Prabowo names two candidates to replace Gibran as Indonesia’s vice president",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-names-vice-president-candidates-gibran-6574471",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T11:24:00.000Z",
+    "excerpt": "Indonesia&#039;s parliament is scheduled to convene a plenary session on Dec 11 to select the new vice president after vetting the two candidates.",
+    "tickers": []
+  },
+  {
+    "title": "Nancy Shukri eyes homelessness Bill by 2028, says tackling foreign beggars needs inter-agency effort",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/nancy-shukri-eyes-homelessness-bill-by-2028-says-tackling-foreign-beggars-needs-inter-agency-effort/244470",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T11:23:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — The Women, Family and Community Development Ministry (KPWKM) aims to table a Bill specifically ad...",
+    "tickers": []
+  },
+  {
+    "title": "Anwar, Pakistan army chief Asim Munir discuss maritime security, counterterrorism cooperation",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/anwar-pakistan-army-chief-asim-munir-discuss-maritime-security-counterterrorism-cooperation/244469",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T11:20:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Malaysia and Pakistan are committed to strengthening defence and security cooperation, including...",
+    "tickers": []
+  },
+  {
+    "title": "Negeri Sembilan Pakatan pledges loyalty to Tuanku Muhriz, says crisis must not derail 2027 state budget",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/negeri-sembilan-pakatan-pledges-loyalty-to-tuanku-muhriz-says-crisis-must-not-derail-2027-state-budget/244467",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T11:01:00.000Z",
+    "excerpt": "SEREMBAN, Nov 23 — Negeri Sembilan Pakatan Harapan (NSPH) hopes for an immediate resolution to the prolonged political a...",
+    "tickers": []
+  },
+  {
+    "title": "HRD Corp approves RM2.1b for worker training from this year’s levy collection, says deputy minister",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/hrd-corp-approves-rm21b-for-worker-training-from-this-years-levy-collection-says-deputy-minister/244466",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T10:59:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — The Human Resources Development Corporation (HRD Corp) collected RM2.223 billion in levies this y...",
+    "tickers": []
+  },
+  {
+    "title": "FirstFT: Wall Street set to rebound after AI stock sell-off  ",
+    "url": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T10:58:12.000Z",
+    "excerpt": "Also in today’s newsletter: Democrats win House seat in North Carolina and how China is winning the car war",
+    "tickers": []
+  },
+  {
+    "title": "India’s Visakhapatnam looks to Singapore for ideas to tackle water shortages amid data centre expansion",
+    "url": "https://www.channelnewsasia.com/asia/india-visakhapatnam-singapore-ideas-water-shortages-6574501",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T10:38:05.000Z",
+    "excerpt": "A Singapore-inspired water management approach could offer a way forward as billions of dollars in data centre investments raise concerns over the city’s strained water supplies.",
+    "tickers": []
+  },
+  {
+    "title": "Ringgit ends lower against US dollar amid hawkish Fed expectations",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/ringgit-ends-lower-against-us-dollar-amid-hawkish-fed-expectations/244464",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T10:32:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — The ringgit closed slightly lower against the US dollar on Monday as investors remained cautious...",
+    "tickers": []
+  },
+  {
+    "title": "MAHB moves to fix KLIA VIP room after Sabah minister slips, hurts head",
+    "url": "https://www.malaymail.com/news/malaysia/2026/11/23/mahb-moves-to-fix-klia-vip-room-after-sabah-minister-slips-hurts-head/244462",
+    "source": "Malay Mail — Malaysia",
+    "publishedAt": "2026-11-23T10:22:00.000Z",
+    "excerpt": "SEPANG, Nov 23 — Malaysia Airports Holdings Bhd (MAHB) has initiated immediate rectification action following an inciden...",
+    "tickers": []
+  },
+  {
+    "title": "Margin Calls Rose 200-Fold in Taiwan as Traders Fled AI Bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-23T10:11:28.000Z",
+    "excerpt": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
+    "tickers": []
+  },
+  {
+    "title": "Tech stocks rebound, but utilities drag Bursa Malaysia into negative territory",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/tech-stocks-rebound-but-utilities-drag-bursa-malaysia-into-negative-territory/244460",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T10:11:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Bursa Malaysia ended lower on Monday as persistent selling in selected heavyweight counters, part...",
+    "tickers": []
+  },
+  {
+    "title": "Bangladesh vows to arrest Hasina if she returns from India",
+    "url": "https://www.channelnewsasia.com/asia/bangladesh-vows-arrest-hasina-if-returns-india-6574441",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T09:59:04.000Z",
+    "excerpt": "Former prime minister Sheikh Hasina faces a death sentence in Bangladesh and her Awami League party is banned following the 2024 uprising that ended her long rule.&amp;nbsp;",
+    "tickers": []
+  },
+  {
+    "title": "KTMB’s Asean Express nearly ready to roll, awaiting Thai locomotive clearance, CEO says",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/ktmbs-asean-express-nearly-ready-to-roll-awaiting-thai-locomotive-clearance-ceo-says/244456",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T09:34:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Keretapi Tanah Melayu Berhad (KTMB) plans to reactivate the Asean Express cross-border rail freig...",
+    "tickers": []
+  },
+  {
+    "title": "AirAsia halves Q3 losses to RM381m as higher fares cushion fuel costs",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/airasia-halves-q3-losses-to-rm381m-as-higher-fares-cushion-fuel-costs/244455",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T09:29:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — AirAsia Group narrowed its third-quarter net loss by 54 per cent to RM381.3 million as higher tic...",
+    "tickers": []
+  },
+  {
+    "title": "AirAsia third-quarter loss narrows, but cash dwindles and liabilities rise",
+    "url": "https://www.channelnewsasia.com/business/airasia-third-quarter-loss-fuel-costs-6574456",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T09:13:00.000Z",
+    "excerpt": "Malaysian budget airline AirAsia has said it is grappling with its most challenging financial period since the pandemic after the Iran war led to a surge in jet fuel prices.",
+    "tickers": []
+  },
+  {
+    "title": "Malaysia’s vehicle sales forecast to rise 2.2pc to 815,000 units in 2026, says CIMB Securities",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/malaysias-vehicle-sales-forecast-to-rise-22pc-to-815000-units-in-2026-says-cimb-securities/244444",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T08:54:00.000Z",
+    "excerpt": "KUALA LUMPUR — CIMB Securities Sdn Bhd is forecasting a 2.2 per cent growth in Malaysia’s new vehicle sales, also known...",
+    "tickers": []
+  },
+  {
+    "title": "Maybank 3Q net profit rises to RM2.74b despite lower revenue",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/maybank-3q-net-profit-rises-to-rm274b-despite-lower-revenue/244436",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T08:30:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Malayan Banking Bhd (Maybank) posted a higher net profit of RM2.74 billion for the third quarter...",
+    "tickers": []
+  },
+  {
+    "title": "Thai appeal court halves jail term of opposition lawmaker convicted of royal insult",
+    "url": "https://www.channelnewsasia.com/asia/thailand-appeal-court-jail-term-opposition-lawmaker-6574201",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T08:29:49.000Z",
+    "excerpt": "Rukchanok Srinork of the People’s Party was accused of defaming Thailand&#039;s monarchy on two different social media posts.&amp;nbsp;",
+    "tickers": []
+  },
+  {
+    "title": "Asian markets slide as tech sell-off deepens after Wall Street rout",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/asian-markets-slide-as-tech-sell-off-deepens-after-wall-street-rout/244435",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T08:20:00.000Z",
+    "excerpt": "HONG KONG, Nov 23 — Asian stock markets struggled to recover on Monday from last week’s sell-off, with tech firms again...",
+    "tickers": []
+  },
+  {
+    "title": "Verify oil origin with official papers, not trader documents, says maritime expert amid US sanctions warning",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/verify-oil-origin-with-official-papers-not-trader-documents-says-maritime-expert-amid-us-sanctions-warning/244426",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T07:19:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Authorities should verify the actual origin of petroleum cargoes and the authenticity of their do...",
+    "tickers": []
+  },
+  {
+    "title": "China sets 2030 targets to boost support for older people, childcare",
+    "url": "https://www.channelnewsasia.com/east-asia/china-2030-targets-older-people-childcare-support-6573991",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T06:43:19.000Z",
+    "excerpt": "China is expanding care for both ends of its population – more nursing facilities for a rapidly growing elderly population and more childcare to encourage marriage and births.",
+    "tickers": []
+  },
+  {
+    "title": "India to test all bottled water brands after Bisleri sample found unsafe",
+    "url": "https://www.channelnewsasia.com/asia/india-test-all-bottled-water-brands-bisleri-sample-unsafe-6573131",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T06:35:59.000Z",
+    "excerpt": "Bisleri, introduced in India in 1965, is a household name in the country where poor water quality often prompts people and tourists to buy packaged water both for homes and at restaurants.",
+    "tickers": []
+  },
+  {
+    "title": "From rotation to contagion",
+    "url": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T06:30:02.000Z",
+    "excerpt": "Plus, chips are not cheap",
+    "tickers": []
+  },
+  {
+    "title": "Prabowo to name two candidates to replace Gibran as Indonesia vice president",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-vice-president-candidates-prabowo-subianto-6574086",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T06:10:43.000Z",
+    "excerpt": "Analysts say that with Indonesian President Prabowo Subianto facing plummeting approval ratings, his choice for vice president could be an important indicator of his political strategy moving ahead.",
+    "tickers": []
+  },
+  {
+    "title": "Asian regulators rush to support sagging markets as AI trade falters",
+    "url": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T06:07:01.000Z",
+    "excerpt": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+    "tickers": []
+  },
+  {
+    "title": "Miti urges Malaysian manufacturers to adopt advanced technology, move up value chain",
+    "url": "https://www.malaymail.com/news/money/2026/11/23/miti-urges-malaysian-manufacturers-to-adopt-advanced-technology-move-up-value-chain/244410",
+    "source": "Malay Mail — Money",
+    "publishedAt": "2026-11-23T05:57:00.000Z",
+    "excerpt": "KUALA LUMPUR, Nov 23 — Domestic manufacturers are encouraged to move towards higher-complexity manufacturing and more so...",
+    "tickers": []
+  },
+  {
+    "title": "The Federal Reserve’s balance sheet yo-yo",
+    "url": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T05:30:02.000Z",
+    "excerpt": "Recent money market stress is likely to prompt the Fed to expand its balance sheet before action next year to shrink it ",
+    "tickers": []
+  },
+  {
+    "title": "Pension fund managers complain they were fired for shunning tech stocks ",
+    "url": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
+    "source": "Financial Times — Markets",
+    "publishedAt": "2026-11-23T05:00:13.000Z",
+    "excerpt": "Financial Conduct Authority to remind pension trustees not to focus solely on returns ",
+    "tickers": []
+  },
+  {
+    "title": "Asian tech back in the firing line as traders track Wall Street rout",
+    "url": "https://www.channelnewsasia.com/business/asian-tech-markets-traders-wall-street-rout-6573896",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T04:13:00.000Z",
+    "excerpt": "Hong Kong, Sydney, Singapore, Wellington, Mumbai and Bangkok all dropped into negative territory.&amp;nbsp;",
+    "tickers": []
+  },
+  {
+    "title": "North Korea leader highlights &#039;sovereignty&#039; in ties after Trump no-show",
+    "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sovereignty-foreign-relations-6573851",
+    "source": "Channel News Asia",
+    "publishedAt": "2026-11-23T03:25:00.000Z",
+    "excerpt": "Pyongyang&#039;s diplomatic goal is to &quot;expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security&quot;, said North Korean leader Kim",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Nov. 23",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+    "source": "Bloomberg — Markets",
+    "publishedAt": "2026-11-22T23:06:06.000Z",
+    "excerpt": "Oil fell to the lowest since August as investors unwound hedges against a weekend escalation by US forces in Iran, with Washington taking a more dovish stance for now.",
+    "tickers": []
+  },
+  {
     "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
     "url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
     "source": "Bloomberg — Markets",
@@ -69,574 +637,6 @@
     "source": "Free Malaysia Today",
     "publishedAt": "2026-11-22T15:50:00.000Z",
     "excerpt": "Amalen Sathananthar was removed from the conference after protesting the omission of references to fossil fuels from the final draft agreement.",
-    "tickers": []
-  },
-  {
-    "title": "Amanah bawa cadangan hadapi PRU16 tanpa BN ke majlis presiden PH",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/22/amanah-bawa-cadangan-hadapi-pru16-tanpa-bn-ke-majlis-presiden-ph",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T15:46:54.000Z",
-    "excerpt": "Konvensyen nasional Amanah hari ini menyaksikan hampir semua perwakilan menyokong usul supaya Amanah menghadapi PRU16 tanpa kerjasama dengan BN.",
-    "tickers": []
-  },
-  {
-    "title": "DAP’s Chong, Yong to defend seats in Sarawak polls",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/dap-s-chong-oon-to-defend-seats-in-sarawak-polls",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T15:33:00.000Z",
-    "excerpt": "Party announces seven more candidates, including Bandar Kuching MP Dr Kelvin Yii standing in Batu Lintang.",
-    "tickers": []
-  },
-  {
-    "title": "Liga leaders Barca mount impressive Villarreal comeback win",
-    "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/22/liga-leaders-barca-mount-impressive-villarreal-comeback-win",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T15:30:04.000Z",
-    "excerpt": "Barcelona came from two goals behind to beat Villarreal 3-2 and restore their three-point lead at the top of La Liga.",
-    "tickers": []
-  },
-  {
-    "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-22T15:18:13.000Z",
-    "excerpt": "Wall Street strategist Ed Yardeni cut his S&amp;P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction.",
-    "tickers": []
-  },
-  {
-    "title": "Spaniard Marquez secures eighth MotoGP world title",
-    "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/22/spaniard-marquez-secures-eighth-motogp-world-title",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T15:13:58.000Z",
-    "excerpt": "Ducati rider Marc Marquez finished eighth, but it was enough to seal a second consecutive world title and eighth in the premier class, drawing level with Italian Giacomo Agostini.",
-    "tickers": []
-  },
-  {
-    "title": "DAP Sarawak umum 7 lagi calon",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/22/dap-sarawak-umum-7-lagi-calon",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T15:11:00.000Z",
-    "excerpt": "Pengerusi Chong Chieng Jen akan mempertahankan Padungan manakala Violet Yong akan mempertahankan Pending.",
-    "tickers": []
-  },
-  {
-    "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-22T15:00:00.000Z",
-    "excerpt": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
-    "tickers": []
-  },
-  {
-    "title": "Budak 1 tahun 8 bulan hilang di Kuala Krai",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/22/budak-1-tahun-8-bulan-hilang-di-kuala-krai",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T14:58:00.000Z",
-    "excerpt": "Air kolam ikan dekat kediaman sudah dipam keluar namun kelibat mangsa tidak ditemukan.",
-    "tickers": []
-  },
-  {
-    "title": "Camaraderie key to resolving differences, says Abang Jo of PDP’s electoral goals",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/camaraderie-key-to-resolving-differences-says-abang-jo-of-pdp-s-electoral-goals",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T14:54:00.000Z",
-    "excerpt": "The GPS chairman says there is ‘no sea that does not experience rough waters’.\n",
-    "tickers": []
-  },
-  {
-    "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
-    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/22/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T14:50:15.000Z",
-    "excerpt": "Anthropic imposed unusual restrictions on underwriters, including limits on the number of bankers working on the deal and restrictions on some from working with rival companies.",
-    "tickers": []
-  },
-  {
-    "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-22T14:41:40.000Z",
-    "excerpt": "A heavy storm that hit Brazil’s southern state of Rio Grande do Sul on Friday devastated a small town and raised concerns that continued rains and strong winds may bring further damage to crucial agriculture areas.",
-    "tickers": []
-  },
-  {
-    "title": "Four-goal Juventus sink Venezia to move sixth in Serie A",
-    "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/22/four-goal-juventus-sink-venezia-to-move-sixth-in-serie-a",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-22T14:26:06.000Z",
-    "excerpt": "Goals from Nick Woltemade, Teun Koopmeiners, Juan Cabal and Randal Kolo Muani sealed a 4-0 victory as Juventus extended their unbeaten run to four matches in all competitions.",
-    "tickers": []
-  },
-  {
-    "title": "GTA VI Takes Over Thanksgiving Week",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-22T14:25:23.000Z",
-    "excerpt": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taking time off and preparing to play throug",
-    "tickers": []
-  },
-  {
-    "title": "Fed’s Inflation Fight May Require More Hikes",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-22T14:19:26.000Z",
-    "excerpt": "Neil Dutta, head of US economic research at Renaissance Macro Research, tells Bloomberg This Weekend that the Federal Reserve made a mistake by holding rates steady in October and may need multiple hikes as inflation remains stubbornly abov",
-    "tickers": []
-  },
-  {
-    "title": "Governors Push States to Lead on AI",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-22T13:32:30.000Z",
-    "excerpt": "On Bloomberg This Weekend, Governors Wes Moore, Spencer Cox, Josh Stein and Mike Braun tell host Christina Ruffini that states need to take a larger role in shaping AI and data center policy as concerns grow over electricity costs, water us",
-    "tickers": []
-  },
-  {
-    "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
-    "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T12:00:06.000Z",
-    "excerpt": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
-    "tickers": []
-  },
-  {
-    "title": "Will Anthropic’s IPO buck the tech sell-off?",
-    "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T12:00:06.000Z",
-    "excerpt": "Market Questions is the FT’s guide to the week ahead",
-    "tickers": []
-  },
-  {
-    "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
-    "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T11:32:52.000Z",
-    "excerpt": "UK data centre operator pauses hiring for all but critical roles",
-    "tickers": []
-  },
-  {
-    "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
-    "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T11:00:05.000Z",
-    "excerpt": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
-    "tickers": []
-  },
-  {
-    "title": "North Korea delays international marathon until October: Tour agency",
-    "url": "https://www.channelnewsasia.com/sport/north-korea-delays-international-marathon-october-2027-6572716",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-22T07:06:06.000Z",
-    "excerpt": "The Pyongyang Marathon, which usually sees hundreds of local and foreign athletes, is North Korea&#039;s largest international sporting event.",
-    "tickers": []
-  },
-  {
-    "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
-    "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T05:00:14.000Z",
-    "excerpt": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
-    "tickers": []
-  },
-  {
-    "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-    "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T05:00:06.000Z",
-    "excerpt": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
-    "tickers": []
-  },
-  {
-    "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
-    "url": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-22T05:00:06.000Z",
-    "excerpt": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
-    "tickers": []
-  },
-  {
-    "title": "South Korea education chief resigns amid AI cheating scandal",
-    "url": "https://www.channelnewsasia.com/east-asia/south-korea-education-chief-resigns-ai-cheating-scandal-suneung-6572626",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-22T04:25:00.000Z",
-    "excerpt": "Last week,&amp;nbsp;the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score.",
-    "tickers": []
-  },
-  {
-    "title": "Three dead, 36 missing after Indonesia factory fire",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-factory-fire-39-missing-6572421",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-22T02:58:00.000Z",
-    "excerpt": "Fires were still burning in parts of the factory on Sunday, complicating the search for missing victims.",
-    "tickers": []
-  },
-  {
-    "title": "Pakistani women turn to digital platforms for financial freedom, but challenges remain",
-    "url": "https://www.channelnewsasia.com/asia/pakistani-women-turn-digital-platforms-financial-freedom-challenges-remain-6561651",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-21T22:00:00.000Z",
-    "excerpt": "From home kitchens to handmade jewellery, Pakistani women are finding new ways to earn online despite family responsibilities and rising costs. But experts tell CNA that many still struggle to control their earnings, manage costs and build ",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T17:01:32.000Z",
-    "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman &",
-    "tickers": []
-  },
-  {
-    "title": "Azmin hadir konvensyen Amanah bukan isyarat kerjasama politik, kata Tun Faisal",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/22/azmin-hadir-konvensyen-amanah-bukan-isyarat-kerjasama-politik-kata-tun-faisal",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T16:06:03.000Z",
-    "excerpt": " Ketua penerangan Bersatu kata setiausaha agung memenuhi undangan Amanah.",
-    "tickers": []
-  },
-  {
-    "title": "Cadangan penempatan semula Rohingya di Turki masih diselaras",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/22/cadangan-penempatan-semula-rohingya-di-turki-masih-diselaras",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T16:04:00.000Z",
-    "excerpt": "Setiausaha akhbar kepada Zahid Hamidi, Shuhaimi Mohamed berkata ada perkara masih memerlukan penjelasan lanjut dan penyelarasan dengan pihak berkaitan.",
-    "tickers": []
-  },
-  {
-    "title": "Long wait for admission at Ampang Hospital as emergency cases surge",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/long-wait-for-admission-at-ampang-hospital-as-emergency-cases-surge",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T16:02:00.000Z",
-    "excerpt": "Health department says the hospital's management has taken steps to cope with the 25% increase in the number of patients.",
-    "tickers": []
-  },
-  {
-    "title": "French protesters rally for sixth weekend over living costs, public services",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/21/french-protesters-rally-for-sixth-weekend-over-living-costs-public-services",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:53:42.000Z",
-    "excerpt": "Several thousand people gathered in central Paris's Place de la Republique square in a festive atmosphere, with musicians playing, food trucks, costumes and homemade signs.",
-    "tickers": []
-  },
-  {
-    "title": "Don’t read too much into Azmin’s presence at Amanah meet, says Bersatu man",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/21/don-t-read-too-much-into-azmin-s-presence-at-amanah-convention-says-bersatu-man",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:46:00.000Z",
-    "excerpt": "Bersatu information chief Tun Faisal Ismail Aziz says his party’s secretary-general was there at Amanah’s invitation.",
-    "tickers": []
-  },
-  {
-    "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T15:43:12.000Z",
-    "excerpt": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out t",
-    "tickers": []
-  },
-  {
-    "title": "2 wanita maut tercampak, pemandu Mercedes-Benz diburu",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/21/2-wanita-maut-tercampak-pemandu-mercedes-benz-diburu",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:43:00.000Z",
-    "excerpt": "Dua penumpang tercampak keluar melalui cermin belakang selepas kereta mewah itu terbabas di Lebuhraya Persekutuan.",
-    "tickers": []
-  },
-  {
-    "title": "Bayern announce record revenues, membership figures at AGM",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/21/bayern-announce-record-revenues-membership-figures-at-agm",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:39:48.000Z",
-    "excerpt": "The club reported a pre-tax profit of €35.3 million, down from €42.5 million last season, while membership doubled from 250,000 in 2014 to 500,000 this year.",
-    "tickers": []
-  },
-  {
-    "title": "Hospital Ampang laksana penambahbaikan tangani kesesakan",
-    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/21/hospital-ampang-laksana-penambahbaikan-tangani-kesesakan",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:34:00.000Z",
-    "excerpt": " JKT Hospital Ampang terima lonjakan jumlah pesakit di zon kuning dalam tempoh kebelakangan ini, dengan peningkatan pesakit sehingga 25% daripada purata kehadiran harian.",
-    "tickers": []
-  },
-  {
-    "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases  ",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T15:31:22.000Z",
-    "excerpt": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
-    "tickers": []
-  },
-  {
-    "title": "Bezzecchi wins Portuguese MotoGP sprint, Marc Marquez crashes",
-    "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/21/bezzecchi-wins-portuguese-motogp-sprint-marc-marquez-crashes",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:29:00.000Z",
-    "excerpt": "Raul Fernandez and Alex Marquez finished second and third respectively behind Aprilia's Marco Bezzecchi, who claimed his first sprint victory of the season.",
-    "tickers": []
-  },
-  {
-    "title": "Thanksgiving Dinner Is Moving to Restaurants",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T15:28:00.000Z",
-    "excerpt": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attractive. Speaking with",
-    "tickers": []
-  },
-  {
-    "title": "Plan to relocate Rohingya to Turkey still being coordinated, says Zahid’s aide",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/21/plan-to-relocate-rohingya-to-turkey-still-being-coordinated-says-zahid-s-aide",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:25:00.000Z",
-    "excerpt": "Press secretary Shuhaimi Mohamed says an earlier statement on the matter was issued because efforts were indeed under way.",
-    "tickers": []
-  },
-  {
-    "title": "2 women killed after being thrown from car on Federal Highway",
-    "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/21/2-women-killed-after-being-thrown-from-car-on-federal-highway",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:21:00.000Z",
-    "excerpt": "Police are seeking the driver, who fled the scene after the accident at about 7am today.",
-    "tickers": []
-  },
-  {
-    "title": "The 1982 War Still Haunts the Middle East",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T15:19:32.000Z",
-    "excerpt": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in the region today. S",
-    "tickers": []
-  },
-  {
-    "title": "Trump told Europe it was spending heavily on Ukraine, says Zelensky",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/21/trump-told-europe-it-was-spending-heavily-on-ukraine-says-zelensky",
-    "source": "Free Malaysia Today",
-    "publishedAt": "2026-11-21T15:15:30.000Z",
-    "excerpt": "Volodymyr Zelensky said Donald Trump told Ukraine's Coalition of the Willing allies meeting in Berlin that Europe was spending heavily on the war and instead could use the money for its own needs.",
-    "tickers": []
-  },
-  {
-    "title": "Is AI a Bubble? History Offers Some Clues",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T15:09:32.000Z",
-    "excerpt": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor sentiment important risks",
-    "tickers": []
-  },
-  {
-    "title": "Shenzhen Wants to Become a Cultural Capital",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T14:24:08.000Z",
-    "excerpt": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and tourism. Speaking with hosts",
-    "tickers": []
-  },
-  {
-    "title": "EU, Indonesia officially sign &#039;ambitious&#039; trade deal",
-    "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-21T14:05:00.000Z",
-    "excerpt": "Brussels said the deal will boost economic growth, with the EU&#039;s GDP projected to be 16 billion euros higher and Indonesia&#039;s 27 billion euros higher by 2042 than they would be without the agreement.&amp;nbsp;",
-    "tickers": []
-  },
-  {
-    "title": "Trump’s Putin Outreach Tests Ukraine Talks",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T13:56:40.000Z",
-    "excerpt": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to diplomacy but left major questions unresolv",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic IPO Fails to Calm AI Jitters",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T13:43:18.000Z",
-    "excerpt": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations ",
-    "tickers": []
-  },
-  {
-    "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T13:19:50.000Z",
-    "excerpt": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a cold-brew tea with 120 milligrams of caffei",
-    "tickers": []
-  },
-  {
-    "title": "Putin Gains From Trump, Xi Summit Spotlight",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T13:12:23.000Z",
-    "excerpt": "Bloomberg News White House Correspondent Jeff Mason tells Bloomberg This Weekend that Vladimir Putin emerged as a key beneficiary of his historic meeting with President Donald Trump and Xi Jinping, returning to the global stage alongside th",
-    "tickers": []
-  },
-  {
-    "title": "No shortcuts, no instant paste: How Banglo289 keeps traditional Malay cuisine authentic at mid-market prices",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/no-shortcuts-no-instant-paste-how-banglo289-keeps-traditional-malay-cuisine-authentic-at-mid-market-prices/244230",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T13:00:00.000Z",
-    "excerpt": "KUALA LUMPUR, Nov 21 —&nbsp; In an increasingly competitive food and beverage industry, the use of instant ingredients a...",
-    "tickers": []
-  },
-  {
-    "title": "Thailand only a transit route for drug syndicates targeting Malaysia, says Kelantan police chief after 700kg meth bust",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/thailand-only-a-transit-route-for-drug-syndicates-targeting-malaysia-says-kelantan-police-chief-after-700kg-meth-bust/244244",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T12:16:00.000Z",
-    "excerpt": "KOTA BHARU, Nov 21 — Malaysia-Thailand cross-border security cooperation has continued to strengthen, with authorities i...",
-    "tickers": []
-  },
-  {
-    "title": "Traders start to move US copper to China as Trump tariff fears ease",
-    "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-21T12:00:08.000Z",
-    "excerpt": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-    "tickers": []
-  },
-  {
-    "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-    "source": "Bloomberg — Markets",
-    "publishedAt": "2026-11-21T11:44:46.000Z",
-    "excerpt": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
-    "tickers": []
-  },
-  {
-    "title": "Four teenagers under 15 arrested after ramming police car during chase on North-South Expressway",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/four-teenagers-under-15-arrested-after-ramming-police-car-during-chase-on-north-south-expressway/244239",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T10:33:00.000Z",
-    "excerpt": "IPOH, Nov 21 — Police detained four underage teenagers (under 15 years old) for allegedly obstructing public servants fr...",
-    "tickers": []
-  },
-  {
-    "title": "Going public, but only a little",
-    "url": "https://www.ft.com/content/c5bcb64e-35b8-40b8-842e-e4b5c9b3150d?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-21T10:30:07.000Z",
-    "excerpt": "Big IPOs, small floats",
-    "tickers": []
-  },
-  {
-    "title": "11 dead, over 180 hospitalised after drinking illicit alcohol in India",
-    "url": "https://www.channelnewsasia.com/asia/india-alcohol-poisoning-11-dead-6571401",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-21T09:30:41.000Z",
-    "excerpt": "Deaths from illicit or adulterated alcohol are regularly reported in India, where cheap liquor sold outside regulated channels can contain methanol, a highly toxic industrial chemical.",
-    "tickers": []
-  },
-  {
-    "title": "Don’t push your child into a boarding school if they’re not ready, Fadhlina tells parents as Education Ministry weighs more wardens and counsellors",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/dont-push-your-child-into-a-boarding-school-if-theyre-not-ready-fadhlina-tells-parents-as-education-ministry-weighs-more-wardens-and-counsellors/244233",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T09:29:00.000Z",
-    "excerpt": "KUALA LUMPUR, Nov 21 — The Ministry of Education is looking into the need to increase the number of assistant wardens an...",
-    "tickers": []
-  },
-  {
-    "title": "EU mulls tax on Big Tech to boost budget",
-    "url": "https://www.malaymail.com/news/money/2026/11/21/eu-mulls-tax-on-big-tech-to-boost-budget/244232",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-11-21T09:14:00.000Z",
-    "excerpt": "BRUSSELS, Nov 21 — The European Union is weighing a tax on the world’s biggest digital companies to fund its next long-t...",
-    "tickers": []
-  },
-  {
-    "title": "Bumiputera firms are listing on Bursa, but Akmal Nasrullah wants them to go bigger",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/bumiputera-firms-are-listing-on-bursa-but-akmal-nasrullah-wants-them-to-go-bigger/244231",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T09:12:00.000Z",
-    "excerpt": "KUALA LUMPUR, Nov 21 — Five Bumiputera companies successfully listed on Bursa Malaysia between April 2025 and September...",
-    "tickers": []
-  },
-  {
-    "title": "Pahang puts RM450,000 into hunt for invasive redtail catfish threatening native fish",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/pahang-puts-rm450000-into-hunt-for-invasive-redtail-catfish-threatening-native-fish/244229",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T08:54:00.000Z",
-    "excerpt": "TEMERLOH, Nov 21 — The Pahang government has allocated RM450,000 for a programme to control the redtail catfish populati...",
-    "tickers": []
-  },
-  {
-    "title": "ECB names new board members, next chief may already be agreed",
-    "url": "https://www.malaymail.com/news/money/2026/11/21/ecb-names-new-board-members-next-chief-may-already-be-agreed/244228",
-    "source": "Malay Mail — Money",
-    "publishedAt": "2026-11-21T08:50:00.000Z",
-    "excerpt": "BRUSSELS, Nov 21 — Two economists, one French and one German, are to join the European Central Bank’s top body, the EU s...",
-    "tickers": []
-  },
-  {
-    "title": "National health fund, cheaper insurance by 2027: Economy Ministry’s healthcare reform wish list",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/national-health-fund-cheaper-insurance-by-2027-economy-ministrys-healthcare-reform-wish-list/244227",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T08:44:00.000Z",
-    "excerpt": "KUALA LUMPUR, Nov 21 — The Ministry of Economy has outlined four strategic priorities to support the healthcare reform a...",
-    "tickers": []
-  },
-  {
-    "title": "Two vehicles, one viral cable heist: KL police on the hunt for daring thieves outside TREC",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/two-vehicles-one-viral-cable-heist-kl-police-on-the-hunt-for-daring-thieves-outside-trec/244224",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T08:33:00.000Z",
-    "excerpt": "KUALA LUMPUR, Nov 21 — The police are actively tracking down a group of individuals suspected of stealing cables in fron...",
-    "tickers": []
-  },
-  {
-    "title": "Sejingkat Bridge won’t shut Pending Port, Sarawak deputy premier tells DAP critics",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/sejingkat-bridge-wont-shut-pending-port-sarawak-deputy-premier-tells-dap-critics/244220",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T08:11:00.000Z",
-    "excerpt": "KUCHING, Nov 21 — Caretaker Deputy Premier Datuk Amar Douglas Uggah Embas has hit out at the Democratic Action Party (DA...",
-    "tickers": []
-  },
-  {
-    "title": "‘Sarawakians are smart’: Abang Johari welcomes BN, PAS decision to skip Sarawak polls",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/sarawakians-are-smart-abang-johari-welcomes-bn-pas-decision-to-skip-sarawak-polls/244218",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T07:59:00.000Z",
-    "excerpt": "KUCHING, Nov 21 — Caretaker Premier Tan Sri Abang Johari Openg has welcomed announcements by several non-local political...",
-    "tickers": []
-  },
-  {
-    "title": "Fadillah: Sarawak should maximise its rights through negotiation, not by undermining Federation",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/fadillah-sarawak-should-maximise-its-rights-through-negotiation-not-by-undermining-federation/244215",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T07:50:00.000Z",
-    "excerpt": "KUALA LUMPUR, Nov 21 — Deputy Prime Minister Datuk Seri Fadillah Yusof has reminded Sarawak that its pursuit of state ri...",
-    "tickers": []
-  },
-  {
-    "title": "Indonesia fines and sanctions firms for stock manipulation, disclosure failures",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-financial-services-authority-ojk-capital-market-violations-6571336",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-21T06:59:00.000Z",
-    "excerpt": "This comes amid efforts by Indonesia to strengthen enforcement, bolster market integrity and protect investors.",
-    "tickers": []
-  },
-  {
-    "title": "Ismail Lasim’s palace pledge vindicates us, Negeri Sembilan Pakatan says, urging BN and Perikatan to retract claims",
-    "url": "https://www.malaymail.com/news/malaysia/2026/11/21/ismail-lasims-palace-pledge-vindicates-us-negeri-sembilan-pakatan-says-urging-bn-and-perikatan-to-retract-claims/244208",
-    "source": "Malay Mail — Malaysia",
-    "publishedAt": "2026-11-21T06:21:00.000Z",
-    "excerpt": "SEREMBAN, Nov 21 — Negeri Sembilan Pakatan Harapan (PHNS) has described Menteri Besar Datuk Ismail Lasim’s stance on def...",
-    "tickers": []
-  },
-  {
-    "title": "Meta&#039;s India offices hit by opposition protests over account removals",
-    "url": "https://www.channelnewsasia.com/asia/india-congress-party-meta-protests-censorship-6571316",
-    "source": "Channel News Asia",
-    "publishedAt": "2026-11-21T06:14:58.000Z",
-    "excerpt": "Debate is growing in India about potential risks to free speech from the increasingly strict efforts of Prime Minister Narendra Modi&#039;s government to remove social media content it objects to.",
-    "tickers": []
-  },
-  {
-    "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
-    "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
-    "source": "Financial Times — Markets",
-    "publishedAt": "2026-11-21T05:00:35.000Z",
-    "excerpt": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
     "tickers": []
   }
 ]
