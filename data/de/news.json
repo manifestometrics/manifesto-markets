@@ -1,5 +1,629 @@
 [
   {
+    "title": "Champions League: Florian Wirtz trifft schon wieder, Stuttgart scheitert in Mailand",
+    "url": "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T22:03:00.000Z",
+    "excerpt": "In der Nationalmannschaft läuft es, mittlerweile auch immer besser beim FC Liverpool: Florian Wirtz findet seine Form. Der VfB Stuttgart hatte ein schwieriges Auswärtsspiel bei Inter Mailand.",
+    "tickers": []
+  },
+  {
+    "title": "Champions League: Bayern kassieren in Lille erste Saison-Niederlage",
+    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T21:58:37.000Z",
+    "excerpt": "In einer ohnehin schon turbulenten Woche mit vielen Verletzten und einer Musiala-Diskussion verliert der deutsche Rekordmeister beim OSC Lille. Entscheidend sind zwei schnelle Tore in Hälfte zwei.",
+    "tickers": []
+  },
+  {
+    "title": "Chipwerte im Sturzflug: Nvidia reißt die Wall Street in die Tiefe",
+    "url": "https://www.n-tv.de/wirtschaft/Nvidia-reisst-die-Wall-Street-in-die-Tiefe-id31578217.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T21:39:11.000Z",
+    "excerpt": "Die KI-Euphorie an den US-Börsen bröckelt, der Nvidia-Kurs bricht um rund sechs Prozent ein. Steigende Energiepreise und neue Strafzölle gegen die EU verschärfen die Lage zusätzlich.",
+    "tickers": []
+  },
+  {
+    "title": "US stocks close lower in volatile session as AI trade remains under pressure",
+    "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T21:26:33.000Z",
+    "excerpt": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
+    "tickers": []
+  },
+  {
+    "title": "Regierungsbildung in Berlin: Franziska Giffey sieht mit Ausschluss von Vanessa Emde keine Lösung mit Linken",
+    "url": "https://www.spiegel.de/politik/deutschland/regierungsbildung-in-berlin-franziska-giffey-sieht-mit-ausschluss-von-vanessa-emde-keine-loesung-mit-linken-a-19e6423b-d6dd-4769-a1c5-e9eabe7a0350#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T21:14:00.000Z",
+    "excerpt": "Die umstrittene Berliner Abgeordnete Vanessa Emde gehört nicht mehr zur Linke-Fraktion. Für Franziska Giffey ein »symbolischer Schritt« – er reiche aber nicht für eine Koalition von Rot-Rot-Grün.",
+    "tickers": []
+  },
+  {
+    "title": "Frida Gold: Frontfrau Alina Süggeler stellte sich bei Hirnblutung »auf Sterben ein«",
+    "url": "https://www.spiegel.de/panorama/leute/frida-gold-frontfrau-alina-sueggeler-stellte-sich-bei-hirnblutung-auf-sterben-ein-a-392f7f4f-60bf-4ea2-8bb4-201cec0b3ad3#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T21:11:00.000Z",
+    "excerpt": "Ihr Körper habe sich »auf Sterben einstellt«: Sängerin Alina Süggeler machte im April eine Hirnblutung öffentlich. Die Erfahrung habe ihr Angst gemacht, später aber auch genau dagegen geholfen.",
+    "tickers": []
+  },
+  {
+    "title": "Nvidia: Millionenvergleich nach Klagen wegen Kryptogeschäft",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-millionenvergleich-nach-klagen-wegen-kryptogeschaeft-a-254975c7-e4f6-4c79-acaf-8e3289adaeec#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T21:10:00.000Z",
+    "excerpt": "Jahrelang haben Anleger den Chipkonzern Nvidia wegen angeblich irreführender Angaben zum Kryptogeschäft verklagt. Nun soll eine Millionenzahlung den Rechtsstreit beenden, allerdings ohne ein Schuldeingeständnis.",
+    "tickers": []
+  },
+  {
+    "title": "Investitionsschwäche: Mehr Angebotspolitik",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/private-investitionen-schwaecheln-warum-staatsschulden-allein-nicht-reichen-201716738.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T21:00:54.000Z",
+    "excerpt": "Die Regierung investiert und verausgabt auf Pump, aber die privaten Investitionen rutschen weiter ab. Ein Schelm, wer da keinen Zusammenhang sieht.",
+    "tickers": []
+  },
+  {
+    "title": "Schwaches Wirtschaftswachstum: Die privaten Investitionen kommen einfach nicht in Gang",
+    "url": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T20:59:50.000Z",
+    "excerpt": "Wieso wächst die deutsche Wirtschaft so langsam? Die Schwäche der privaten Investitionen ist der wichtigste Grund. Sie hat Deutschland seit 2022 mehr als 125 Milliarden Euro an Wirtschaftsleistung gekostet.",
+    "tickers": []
+  },
+  {
+    "title": "EU-Kommission: 470-Millionen-Euro-Strafe gegen Parfümkartell",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-470-millionen-euro-strafe-gegen-parfuemkartell-a-b67298ac-ea3c-4961-8257-0d44689c4b2b#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T20:36:00.000Z",
+    "excerpt": "Drei der weltweit größten Duftstoffhersteller sollen sich über Jahre hinweg über Preise und Kosten abgestimmt haben. Die EU-Kommission verhängt deshalb Geldbußen von insgesamt mehr als 470 Millionen Euro.",
+    "tickers": []
+  },
+  {
+    "title": "Miss Universe: Jennifer Barreto aus Puerto Rico gewinnt Wettbewerb",
+    "url": "https://www.spiegel.de/panorama/miss-universe-jennifer-barreto-aus-puerto-rico-gewinnt-wettbewerb-a-1cae5ef7-0c9b-407c-bdd4-818493c0fdac#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T20:35:00.000Z",
+    "excerpt": "Sie ist Mutter und arbeitete für das US-Verteidigungsministerium: Jennifer Barreto hat den wohl bekanntesten Schönheitswettbewerb der Welt für sich entschieden. Ihr Sieg ist eine Premiere.",
+    "tickers": []
+  },
+  {
+    "title": "Russland: »Putin kann keinen Krieg führen wie Stalin« Sönke Neitzel und Hanna Notte im SPIEGEL-Talk",
+    "url": "https://www.spiegel.de/politik/deutschland/russland-putin-kann-keinen-krieg-fuehren-wie-stalin-soenke-neitzel-und-hanna-notte-im-spiegel-talk-a-2bd42a0d-8b31-42fe-adea-9592b8ef2507#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T20:33:00.000Z",
+    "excerpt": "Wie weit eskaliert Putin? Hier sprechen Russlandexpertin Hanna Notte und Militärhistoriker Sönke Neitzel über Raketen in Polen, Zeitfenster für Verhandlungen und eine Atomwaffe im All, über die die Szene schon länger spricht.",
+    "tickers": []
+  },
+  {
+    "title": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T20:24:20.000Z",
+    "excerpt": "Im Konjunkturbericht Beige Book der Fed heißt es, zugleich bleibe die Inflation hartnäckig. Die Notenbanker zeigen sich zunehmend besorgt über die Teuerung.",
+    "tickers": []
+  },
+  {
+    "title": "Deutschland Liveblog: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
+    "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor-faz-110093143.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T20:14:28.000Z",
+    "excerpt": "Die Christdemokraten bringen dafür eine „Respektrente“ ins Spiel +++ Merz zum Haushalt: „Wir haben das Geld nicht mehr für alles“ +++  alle Entwicklungen im Liveblog",
+    "tickers": []
+  },
+  {
+    "title": "Schweinfurt: Schülerin über Monate missbraucht – sieben Tatverdächtige",
+    "url": "https://www.spiegel.de/panorama/justiz/schweinfurt-schuelerin-ueber-monate-missbraucht-sieben-tatverdaechtige-a-9dd6daa6-d67b-4ede-8d05-1f93d7b9a0d9#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T19:52:00.000Z",
+    "excerpt": "Die Übergriffe dauerten monatelang an: Sieben Teenager sollen sich am Missbrauch einer 13-Jährigen beteiligt haben. Bei Razzien stellte die Polizei Beweismittel sicher.",
+    "tickers": []
+  },
+  {
+    "title": "Bonität: Ratingagentur S&P droht Nvidia nach Führungswirren mit Herabstufung",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ratingagentur-sp-droht-nvidia-nach-fuehrungswirren-mit-herabstufung/100272817.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T19:51:26.000Z",
+    "excerpt": "Die US-Ratingagentur sieht nach den jüngsten Turbulenzen an der Konzernspitze Schwächen in der Unternehmensführung des Chipkonzerns offengelegt. Darin liegt nach S&P-Ansicht Risikopotenzial.",
+    "tickers": []
+  },
+  {
+    "title": "Microsoft: Konzern reagiert mit »Code Red« auf globale IT-Störung",
+    "url": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T19:51:00.000Z",
+    "excerpt": "Ein weltweiter IT-Ausfall hat bei Microsoft Alarm ausgelöst. Der Konzern hat intern die höchste Krisenstufe ausgerufen und plant, seine Notfallabläufe zu überarbeiten. Das Ziel sei eine schnellere Reaktionsfähigkeit.",
+    "tickers": []
+  },
+  {
+    "title": "Bis zu einer Million Satelliten: Musk darf mit SpaceX Rechenzentren im All errichten",
+    "url": "https://www.n-tv.de/wirtschaft/Musk-darf-mit-SpaceX-Rechenzentren-im-All-errichten-id31578034.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T19:49:11.000Z",
+    "excerpt": "Rund 17.000 vom Menschen geschaffene Himmelskörper umkreisen derzeit die Erde. Geht es nach Elon Musk, soll in den kommenden Jahrzehnten ein Vielfaches hinzukommen. Hunderttausende kleine Rechenzentren will SpaceX ins All schießen.",
+    "tickers": []
+  },
+  {
+    "title": "Chen Jining: Die Angst schmiert Xi Jinpings Machtmaschine",
+    "url": "https://www.spiegel.de/ausland/chen-jining-xi-jinping-laesst-gegen-shanghais-parteichef-ermitteln-die-angst-schmiert-seine-machtmaschine-a-064febf6-98c7-4f63-9a15-3ef355c12df9#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T19:40:00.000Z",
+    "excerpt": "Chen Jining galt als einer der Shooting-Stars der Kommunistischen Partei. Nun hat Xi Jinping die Karriere des Shanghaier Parteisekretärs aus unbekannten Gründen beendet. Im Apparat wächst die Unsicherheit. Ist genau das Xis Plan?",
+    "tickers": []
+  },
+  {
+    "title": "Asteroid Dimorphos: Spektakuläre Fotos zeigen Dart-Einschlagkrater",
+    "url": "https://www.spiegel.de/wissenschaft/weltall/asteroid-dimorphos-spektakulaere-fotos-zeigen-dart-einschlagkrater-a-7e837a7b-49a8-438b-82e4-fb67fe31c74f#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T19:37:00.000Z",
+    "excerpt": "Die Sonde »Hera« hat Nahaufnahmen des Asteroiden Dimorphos zur Erde gefunkt. Auf ihm war vor vier Jahren absichtlich eine Sonde eingeschlagen. Der Test soll helfen, die Erde vor Gefahren aus dem All zu schützen.",
+    "tickers": []
+  },
+  {
+    "title": "Streitfall Wohnung: Deutschlands Vermieterschreck",
+    "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/daniel-halmer-leitet-ein-portal-das-an-der-mietpreisbremse-verdient-201690228.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T19:34:30.000Z",
+    "excerpt": "Daniel Halmer hat die Mietpreisbremse zum Geschäft gemacht und hilft Mietern, ihr Recht umzusetzen. Was nach Altruismus klingt, ist ein knallhartes Geschäft.",
+    "tickers": []
+  },
+  {
+    "title": "US-Zölle: Welche Folgen Donald Trumps neue Strafmaßnahmen für die EU haben",
+    "url": "https://www.spiegel.de/wirtschaft/us-zoelle-welche-folgen-donald-trumps-neue-strafmassnahmen-fuer-die-eu-haben-a-e8098dd8-1e2e-4161-bd76-0310a466a835#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-25T19:34:00.000Z",
+    "excerpt": "Die USA kündigen neue Zölle gegen mehrere Handelspartner an, darunter die EU. Trotz der jüngsten Niederlage bei den Midterms setzt der US-Präsident seine Lieblingsprojekte durch. Wie weit kann er damit kommen?",
+    "tickers": []
+  },
+  {
+    "title": "Börsen: Die Furcht vor einem KI-Crash will nicht weichen: Was kann die Angst der Anleger jetzt stoppen?",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/boersen-die-angst-vor-einem-ki-crash-haelt-an/100272767.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T19:01:06.000Z",
+    "excerpt": "Die US-Börsen haben ihre hohen Anfangsverluste am Mittwoch weitgehend aufgeholt. Nicht nur neue Zolldrohungen und die Aussicht auf höhere Zinsen belasten die Anleger.",
+    "tickers": []
+  },
+  {
+    "title": "Light-activated nano-robots bring more drugs to the brain",
+    "url": "https://www.ft.com/content/95b7e73d-a884-42bb-9845-f0e305699664?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T19:00:04.000Z",
+    "excerpt": "Research on mice suggests biodegradable agents may be able to deliver increased amounts of medication than other methods while causing less toxicity",
+    "tickers": []
+  },
+  {
+    "title": "Business-Ticker: Ratingagentur S&amp;P warnt Nvidia vor möglicher Herabstufung",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ratingagentur-sp-warnt-nvidia-vor-moeglicher-herabstufung-faz-200452404.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T19:00:00.000Z",
+    "excerpt": "Nvidia verliert nach S&amp;P-Warnung deutlich an Börsenwert +++ US-Behörden finden offenbar keine Beweise für Spionage bei Nvidia +++ Briten können demnächst Autos über Amazon kaufen +++ alle Neuigkeiten im Unternehmen-Liveblog",
+    "tickers": []
+  },
+  {
+    "title": "Satellitennetz „Starmind“: SpaceX darf eine Million Satelliten ins All bringen",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-201717821.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T18:44:17.000Z",
+    "excerpt": "Aktuell kreisen 17.000 künstliche Satelliten um die Erde, 11.000 von ihnen von Starlink. SpaceX darf nun noch mehr ins All schießen – unter Auflagen. Für Astronomen ist die Vorstellung ein Graus.",
+    "tickers": []
+  },
+  {
+    "title": "The fund manager’s dilemma over AI",
+    "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T18:05:53.000Z",
+    "excerpt": "Assessing concentration risks may be more complicated than it seems",
+    "tickers": []
+  },
+  {
+    "title": "Billionaire financier Todd Boehly strikes deal for Lukoil assets ",
+    "url": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T18:03:33.000Z",
+    "excerpt": "Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business",
+    "tickers": []
+  },
+  {
+    "title": "Flussspat-Förderung: Das Energiewende-Kristall liegt im Berg südlich von Pforzheim",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/pforzheimer-bergwerk-kaefersteige-flussspat-fuer-europas-energiewende-201715929.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T17:51:31.000Z",
+    "excerpt": "Das Bergwerk Käfersteige war jahrzehntelang ein Relikt – jetzt wird es zum Hoffnungsträger. Die Grube in Baden-Württemberg soll perspektivisch 20 Prozent des europäischen Bedarfs an Flussspat decken.",
+    "tickers": []
+  },
+  {
+    "title": "US Treasury financial crime watchdog hit by suspected cyber attack ",
+    "url": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T17:45:30.000Z",
+    "excerpt": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+    "tickers": []
+  },
+  {
+    "title": "Asteroidenmission „Hera“: An einem angeschossenen Mond",
+    "url": "https://www.faz.net/aktuell/wissen/weltraum/esa-sonde-hera-erreicht-dimorphos-was-der-nasa-einschlag-hinterliess-201713150.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T17:43:22.000Z",
+    "excerpt": "Vor vier Jahren rammt eine NASA-Sonde den kleinen Mond eines Asteroiden. Nun ist eine europäische Raumsonde am Tatort eingetroffen, um den Schaden zu besichtigen. Eine erste Überraschung gibt es bereits.",
+    "tickers": []
+  },
+  {
+    "title": "Genossenschaftsbanken: Genossenschaftsbanken bündeln Marketing in neuer Firma Coorelity",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-volksbanken-buendeln-drei-firmen-in-neuer-marketinggesellschaft/100272734.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T17:36:27.000Z",
+    "excerpt": "Die Volks- und Raiffeisenbanken schaffen einen zentralen Ansprechpartner für Marketing-Dienstleistungen. Der Chef des neuen Unternehmens kommt aus dem Sportartikelhandel.",
+    "tickers": []
+  },
+  {
+    "title": "Prozessauftakt: Anklage erhebt schwere Vorwürfe gegen Jones-Day-Anwälte",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/prozessauftakt-anklage-erhebt-schwere-vorwuerfe-gegen-jones-day-anwaelte/100272503.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T17:24:08.000Z",
+    "excerpt": "Laut Staatsanwaltschaft haben die Juristen gemeinschaftlich die Interessen ihrer Mandantin North Channel Bank verraten. Die Verteidiger weisen die Anschuldigungen scharf zurück.",
+    "tickers": []
+  },
+  {
+    "title": "Poundland collapses into administration",
+    "url": "https://www.ft.com/content/cfa5222e-c629-4f8c-8d32-d4723e13b7f4?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T17:14:25.000Z",
+    "excerpt": "Retailer’s demise follows criticism of US owner Gordon Brothers, which bought the business for less than £1 last year",
+    "tickers": []
+  },
+  {
+    "title": "KI-Ausverkauf und neue Zölle: Zollpläne belasten US-Börsen",
+    "url": "https://www.spiegel.de/wirtschaft/ki-ausverkauf-und-neue-zoelle-zollplaene-belasten-us-boersen-a-cf9db6a8-f3a2-4e85-9fd9-f448c9cf168f#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T17:01:00.000Z",
+    "excerpt": "Heftige Kursverluste bei Technologieaktien sowie die neu angekündigten Zölle von Donald Trumps Regierung haben den US-Börsen zugesetzt. Damit steigt die Sorge vor dem sogenannten Bärenmarkt.",
+    "tickers": []
+  },
+  {
+    "title": "Dax aktuell: Dax rutscht unter 25.000‑Punkte-Marke – und schließt auf tiefstem Stand seit Ende Juni",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-auf-tiefstem-stand-seit-ende-juni/100272589.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T16:59:02.000Z",
+    "excerpt": "Die Rally infolge der Reinstallation von Jensen Huang überzeugt Anleger nicht nachhaltig. Unterdessen verlor nicht nur der deutsche Aktienmarkt weiter.",
+    "tickers": []
+  },
+  {
+    "title": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel",
+    "url": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T16:54:07.000Z",
+    "excerpt": "EU and UK impose penalties over illegal collusion arranged at beer and curry meetings in London and over WhatsApp ",
+    "tickers": []
+  },
+  {
+    "title": "Teuer nicht nur wegen GTA 6: Warum Spielekonsolen fast überall ausverkauft sind",
+    "url": "https://www.n-tv.de/wirtschaft/Spielekonsolen-und-GTA6-warum-die-Konsolen-ausverkauft-sind-PS5-und-Xbox-id31577413.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T16:32:14.000Z",
+    "excerpt": "Das Videospiel GTA 6 sorgt für einen Ansturm auf Spielekonsolen. Die Geräte aber sind derzeit teuer oder komplett ausverkauft. Der Grund: in den Konsolen stecken Chips, die auch in der KI-Industrie begehrt sind. Wie der KI-Boom das Geschäft",
+    "tickers": []
+  },
+  {
+    "title": "Märkte Insight: Ist Anthropic nach dem Kursrutsch bereits entzaubert?",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-ist-anthropic-nach-dem-kursrutsch-bereits-entzaubert/100271552.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T16:11:22.000Z",
+    "excerpt": "Trotz der Verluste bleiben die meisten Analysten optimistisch. Der Claude-Entwickler hat zweifellos Substanz. Doch seriöse Prognosen für die Aktie sind kaum möglich, meint Michael Maisch.",
+    "tickers": []
+  },
+  {
+    "title": "EU verlängert Lockerung bei Staatshilfen wegen Energiekrise",
+    "url": "https://www.spiegel.de/wirtschaft/eu-verlaengert-lockerung-bei-staatshilfen-wegen-energiekrise-a-2a42cfb1-d7a5-4d1b-8873-cdb7f9feaa4f#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T16:08:00.000Z",
+    "excerpt": "Deutschland und andere EU-Staaten dürfen angesichts der Energiekrise länger Landwirte, Industrie und andere Unternehmen besonders entlasten. Die EU lockert ihre strengen Regeln für staatliche Beihilfen bis Juni 2027.",
+    "tickers": []
+  },
+  {
+    "title": "Deep Read: Kupfer aus Deutschland? Warum der Bergbau vor einem Comeback stehen könnte",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kupferschiefer-kupfer-aus-deutschland-bergbau-koennte-vor-comeback-stehen/100255103.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T16:05:33.000Z",
+    "excerpt": "Die Kupfernachfrage steigt, die Erzgehalte der südamerikanischen Vorkommen sinken – plötzlich werden auch Vorkommen in Deutschland für Bergbaukonzerne interessant. Ein Ortstermin.",
+    "tickers": []
+  },
+  {
+    "title": "Unternehmensgeschichte: Wie überlebt ein Unternehmen 500 Jahre?",
+    "url": "https://www.faz.net/podcasts/wirtschaftspodcast/wirtschaftswunder-podcast-das-geheimnis-der-aeltesten-familienfirmen-201716560.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T16:05:00.000Z",
+    "excerpt": "Im Druchschnitt wird ein deutsches Unternehmen zwölf Jahre alt. Dann ist Schluss. Die Familienunternehmen Coatinc und Prym gibt es seit fast 500 Jahren – und das, obwohl beide schon einmal kurz vor dem Aus standen.",
+    "tickers": []
+  },
+  {
+    "title": "North Korea closes Swiss diplomatic office in row over children’s camp",
+    "url": "https://www.ft.com/content/5b320dc9-ff58-4036-9f84-b4cb66cf9556?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T16:02:06.000Z",
+    "excerpt": "Sanctions on Songdowon International Children’s Camp were a ‘blatant hostile act’, says Pyongyang",
+    "tickers": []
+  },
+  {
+    "title": "Nvidia fallout exposes China’s fragility on frontier AI",
+    "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T16:00:04.000Z",
+    "excerpt": "The lack of US-style capital markets and domestic commercial demand makes it difficult for Beijing to fuel innovation",
+    "tickers": []
+  },
+  {
+    "title": "Wall Street: US-Börsen schließen uneinheitlich – Nvidia verliert",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-uneinheitlich-nvidia-verliert/100272701.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T15:58:32.000Z",
+    "excerpt": "Auch die Rückendeckung des US-Präsidenten für Nvidia-Chef Huang ändert nichts am Ausverkauf der Techwerte. Derweil denkt Trump sogar über eine Staatsbeteiligung bei dem Unternehmen nach.",
+    "tickers": []
+  },
+  {
+    "title": "Inside A7 — the Kremlin’s money laundering empire ",
+    "url": "https://www.ft.com/content/d0f678b5-3daf-4b41-a3e9-b649011e5bca?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T15:57:29.000Z",
+    "excerpt": "An FT investigation into how Moscow’s payments machine moves billions of dollars through crypto and western banks",
+    "tickers": []
+  },
+  {
+    "title": "Deutsche Bahn: Streit über Provisionen – Bahn erzielt Teilerfolg vor Gericht",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-streit-ueber-provisionen-bahn-erzielt-teilerfolg-vor-gericht-a-695a6d76-519f-43df-b9b2-887a0a2739d0#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T15:54:00.000Z",
+    "excerpt": "Muss die Bahn konkurrierenden Ticketplattformen eine Provision zahlen, weil diese Zahlungen und Buchungen abwickeln? Ja, entschied das Bundeskartellamt. Ein Düsseldorfer Gericht sieht das anders.",
+    "tickers": []
+  },
+  {
+    "title": "Konzern bis März finanziert: Galeria-Insolvenzverwalter: &quot;Werden deutlich tiefer schneiden müssen&quot;",
+    "url": "https://www.n-tv.de/wirtschaft/Galeria-Insolvenzverwalter-Werden-deutlich-tiefer-schneiden-muessen-id31577178.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T15:47:48.000Z",
+    "excerpt": "Ein gutes Dutzend Interessenten prüft einen Kauf oder Teilkauf der Warenhauskette Galeria. Der Insolvenzverwalter will noch in diesem Jahr Klarheit. Zugleich macht er deutlich, dass der Umbau schmerzhaft werden muss.",
+    "tickers": []
+  },
+  {
+    "title": "Verbraucherlaune trübt sich ein: US-Wirtschaft wächst deutlich kräftiger - Inflationsrate auch",
+    "url": "https://www.n-tv.de/wirtschaft/US-Wirtschaft-waechst-deutlich-kraeftiger-Inflationsrate-auch-id31577340.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T15:42:17.000Z",
+    "excerpt": "Im Sommer legt die US-Wirtschaft ein beeindruckendes Wachstumtempo an den Tag. Doch ausgerechnet der Konsum als Motor scheint zunehmend zu stottern. Die Verbraucherausgaben wachsen langsamer. Fraglich ist nun, wie groß der Zinsschritt der F",
+    "tickers": []
+  },
+  {
+    "title": "Debatte im Bundestag: Wird die Koalition noch zu einer Gemeinschaft der Gutwilligen?",
+    "url": "https://www.faz.net/aktuell/politik/inland/kommentar-der-deutsche-sozialstaat-wird-auch-in-der-ukraine-verteidigt-201716616.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T15:36:43.000Z",
+    "excerpt": "Der Kanzler hat im Bundestag eine gute Rede gehalten. Doch wird sein Appell verfangen, wenigstens im eigenen Regierungsbündnis? An Böswilligen fehlt es nicht.",
+    "tickers": []
+  },
+  {
+    "title": "Saudi Arabia’s PIF seeks to sell 25% stake in Newcastle United",
+    "url": "https://www.ft.com/content/b1e4ec25-2d1f-454d-9ca6-596612cc37de?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T15:32:47.000Z",
+    "excerpt": "Saudi wealth fund wants to raise capital to invest in Premier League football club’s infrastructure",
+    "tickers": []
+  },
+  {
+    "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit    ",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-bauen-sie-schritt-fuer-schritt-ihr-passives-einkommen-auf/100188789.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T15:12:00.000Z",
+    "excerpt": "Nichts tun und das Geld fließt trotzdem: Damit die Verheißung vom passiven Einkommen wahr werden kann, gilt es, häufige Fehler zu vermeiden – und sich von einer Illusion zu verabschieden.   ",
+    "tickers": []
+  },
+  {
+    "title": "Northern Ireland minister urges UK to drop exemptions to EU food rules",
+    "url": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T15:10:15.000Z",
+    "excerpt": "Andrew Muir calls for ‘full dynamic alignment’ with European regulations so Irish Sea trade border can be scrapped",
+    "tickers": []
+  },
+  {
+    "title": "Why do economists struggle to forecast the impact of AI? ",
+    "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T14:49:44.000Z",
+    "excerpt": "Frontier labs and officials present wildly different predictions for growth in the next few years ",
+    "tickers": []
+  },
+  {
+    "title": "Geldanlage: Ist jetzt eine gute Zeit für Anleihen, Frau Gomez-Bravo?",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/geldanlage-ist-jetzt-eine-gute-zeit-fuer-anleihen-frau-gomez-bravo/100270186.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T14:49:32.000Z",
+    "excerpt": "Die Renditen an den Bondmärkten sind deutlich gestiegen. Die Anleihe-Portfoliomanagerin beim US-Fondshaus MFS Investment erkennt noch Risiken, aber vor allem Chancen an den Anleihemärkten.",
+    "tickers": []
+  },
+  {
+    "title": "Der Börsen-Tag: Tech-Ausverkauf an den US-Börsen verschärft sich",
+    "url": "https://www.n-tv.de/wirtschaft/boersenkurse/Tech-Ausverkauf-an-den-US-Boersen-verschaerft-sich-id31577126.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T14:45:41.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "No, Burnham is not taking a risk over Europe",
+    "url": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T14:44:49.000Z",
+    "excerpt": "As long as he stops short of full Rejoin, all the political danger is on the side of his opponents ",
+    "tickers": []
+  },
+  {
+    "title": "Hamburg: Alte Sternbrücke mit Asbest und Blei belastet",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/hamburg-alte-sternbruecke-mit-asbest-und-blei-belastet-a-4868dddd-47e4-4654-861e-e69e6d2f47ff#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T14:42:00.000Z",
+    "excerpt": "Der Austausch der Sternbrücke in Hamburg bewegte diesen Sommer viele Menschen. Die alte Konstruktion war nach SPIEGEL-Informationen mit Asbest und Blei belastet. Wurden die Schadstoffe beim Abriss zur Gefahr?",
+    "tickers": []
+  },
+  {
+    "title": "Satelliteninternet: Hier startet Amazons Starlink-Konkurrenz",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satelliteninternet-hier-startet-die-starlink-konkurrenz-von-amazon-201714333.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-25T14:32:10.000Z",
+    "excerpt": "Amazon ist für seine großen Satelliten-Pläne erst mal auf die europäische Rakete Ariane 6 angewiesen. Das geopolitisch brisante Rennen ums Satelliteninternet entscheidet sich damit auch im südamerikanischen Regenwald. Ein Ortsbesuch.",
+    "tickers": []
+  },
+  {
+    "title": "Opec+’s largest members head for clash over oil production estimates",
+    "url": "https://www.ft.com/content/b24d5c8c-4c9b-48f0-b4a8-5f83eee2d3e9?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-25T14:27:46.000Z",
+    "excerpt": "Analysts expect Sunday’s meeting of the cartel and its allies to be ‘one of the most complicated in years’ as global markets swing back into oversupply",
+    "tickers": []
+  },
+  {
+    "title": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’",
+    "url": "https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T14:22:29.000Z",
+    "excerpt": "State-backed group responds to growing angst about continent’s dependence on US technology",
+    "tickers": []
+  },
+  {
+    "title": "Kartellamt legt Bericht vor: Keine günstigeren Strom- und Gaspreise in Sicht",
+    "url": "https://www.n-tv.de/wirtschaft/Keine-guenstigeren-Strom-und-Gaspreise-in-Sicht-id31576459.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T14:13:56.000Z",
+    "excerpt": "Mit dem Überfall Russlands auf die Ukraine sind die Energiepreise deutlich gestiegen. Und ein Rückgang auf das frühere Niveau ist nicht absehbar. Das hat auch mit den neuen Bezugsquellen zu tun.",
+    "tickers": []
+  },
+  {
+    "title": "Geldanlage: Die häufigsten Fehler beim Sparen mit ETFs – und wie Sie sie vermeiden     ",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-wie-diese-fehler-etf-sparern-jedes-jahr-viel-geld-kosten/100154021.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-25T14:12:00.000Z",
+    "excerpt": "Aus dem Handelsblatt-Archiv: ETFs gelten als einfach, günstig und hochrentabel. Damit die Geldanlage mit den Indexfonds entsprechend gelingt, sollten Sparer acht teure Fehler vermeiden.     ",
+    "tickers": []
+  },
+  {
+    "title": "Influential ‘sherpa’ who negotiated Burnham’s Brexit deal to step down",
+    "url": "https://www.ft.com/content/b8448886-e4e1-4961-97e8-055d1fa7916b?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T14:10:22.000Z",
+    "excerpt": "Former Treasury official Michael Ellam will take up a new position at Oxford in a blow to Britain’s diplomatic push",
+    "tickers": []
+  },
+  {
+    "title": "Trump announces raft of new tariffs on major economies",
+    "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T14:00:55.000Z",
+    "excerpt": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
+    "tickers": []
+  },
+  {
+    "title": "Erdoğan’s biggest rival barred from Turkish presidency bid",
+    "url": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T13:47:22.000Z",
+    "excerpt": "Invalidation of opposition leader Ekrem İmamoğlu’s university degree comes as $20bn Fonzi scandal ensnares more senior government officials",
+    "tickers": []
+  },
+  {
+    "title": "Befristete Arbeitsverträge: Arbeitsrechtler halten Ausweitung für womöglich verfassungswidrig",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/befristete-arbeitsvertraege-arbeitsrechtler-halten-ausweitung-fuer-womoeglich-verfassungswidrig-a-d87a6154-8998-411b-a439-5706f5097b88#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T13:37:00.000Z",
+    "excerpt": "Die Bundesregierung will die Befris­tung von Arbeitsverträgen erleichtern. Arbeitsrechtler halten die Pläne für so weitreichend, dass befristete Anstellungen künftig der neue Normalfall werden könnten.",
+    "tickers": []
+  },
+  {
+    "title": "USA planen neue Zölle gegen EU, China und 13 weitere Handelspartner",
+    "url": "https://www.spiegel.de/wirtschaft/usa-planen-neue-zoelle-gegen-eu-china-und-13-weitere-handelspartner-a-7ef83cdc-c400-43be-afd1-e5ab1a246e7d#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T13:35:00.000Z",
+    "excerpt": "Die USA haben neue Sonderzölle gegen die Europäische Union, China und weitere Handelspartner angekündigt. Die Sätze reichen bis zu 20 Prozent. Die EU-Kommission weist die Begründung für die neuen Zölle scharf zurück.",
+    "tickers": []
+  },
+  {
+    "title": "NBA rallies private equity for €10bn European arena fund",
+    "url": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T13:00:04.000Z",
+    "excerpt": "Basketball league wants to help teams finance new arenas as part of its effort to launch a European competition",
+    "tickers": []
+  },
+  {
+    "title": "Kosten für Rohstoffe steigen: Kerzen werden spürbar teurer",
+    "url": "https://www.n-tv.de/wirtschaft/Kerzen-werden-spuerbar-teurer-id31576309.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T12:45:37.000Z",
+    "excerpt": "Die Wochen vor Weihnachten und auch die Festtage sind die Zeit des Jahres, in der die meisten Kerzen angezündet werden. Das dürfte in diesem Jahr teurer werden als zuletzt. Die Hersteller rufen angesichts gestiegener Kosten deutlich höhere ",
+    "tickers": []
+  },
+  {
+    "title": "BMW: Gesamtbetriebsratschef Martin Kimmich attackiert Konzernchefs in Tarifkonflikt",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-gesamtbetriebsratschef-martin-kimmich-attackiert-konzernchefs-in-tarifkonflikt-a-2241c461-f01e-4162-b33c-1dd68cb2544f#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T12:29:00.000Z",
+    "excerpt": "Arbeitgeber und IG Metall ringen um Jobs, Gehälter und Arbeitszeiten. BMW-Gesamtbetriebsratschef Martin Kimmich greift die Autokonzernchefs hart an.",
+    "tickers": []
+  },
+  {
+    "title": "Macron begrüßt Ansiedlung: Chinas Autobauer BYD will in Frankreich Autos bauen",
+    "url": "https://www.n-tv.de/wirtschaft/Chinas-Autobauer-BYD-will-in-Frankreich-Autos-bauen-id31575567.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T12:21:57.000Z",
+    "excerpt": "Der chinesische Autobauer BYD will erstmals eine Produktionsstätte in Westeuropa eröffnen. In einem ehemaligen Smart-Werk im französischen Hambach könnten bereits Ende 2027 Fahrzeuge speziell für den europäischen Markt gebaut werden. Viele ",
+    "tickers": []
+  },
+  {
+    "title": "Russia is escalating conflict in Europe and space, warns Merz",
+    "url": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-25T11:56:23.000Z",
+    "excerpt": "German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine",
+    "tickers": []
+  },
+  {
+    "title": "EZB-Befragung: Kartenzahlung überholt erstmals Bargeld in Geschäften",
+    "url": "https://www.spiegel.de/wirtschaft/service/befragung-der-ezb-kartenzahlung-ueberholt-erstmals-bargeld-in-geschaeften-a-c4d64b3b-ca8d-4c98-a329-8564cf224ba7#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T11:45:00.000Z",
+    "excerpt": "Im Euroraum bezahlen in Geschäften mittlerweile mehr Menschen mit Karte als mit Scheinen und Münzen. Das geht aus einer Umfrage der Europäischen Zentralbank hervor. Allerdings verzichtet kaum jemand ganz auf Bargeld.",
+    "tickers": []
+  },
+  {
+    "title": "Kooperation im Fernverkehr: Deutsche Bahn verkauft jetzt auch Flixtrain-Tickets",
+    "url": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-verkauft-jetzt-auch-Flixtrain-Tickets-id31574476.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T10:14:25.000Z",
+    "excerpt": "Ab dem 7. Dezember sollen Reisende Fahrten mit dem Bahn-Konkurrenten auf den Plattformen der DB buchen können. Teilstrecken sollen sich sogar kombinieren lassen. Doch die Kooperation ist begrenzt. Gerade bei Verspätungen drohen Reisenden Na",
+    "tickers": []
+  },
+  {
+    "title": "Verbraucher sind zurückhaltend: Darum hinkt Deutschland beim Einkaufen mit KI deutlich hinterher",
+    "url": "https://www.n-tv.de/wirtschaft/Darum-hinkt-Deutschland-beim-Einkaufen-mit-KI-deutlich-hinterher-id31574216.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T10:05:39.000Z",
+    "excerpt": "In Deutschland haben einer repräsentativen Umfrage zufolge nur 13 Prozent der Befragten in den vergangenen drei Monaten KI-Tools beim Shopping genutzt - im Vergleich zu 27 Prozent weltweit. Das liegt nicht nur an Datenschutzbedenken.",
+    "tickers": []
+  },
+  {
+    "title": "Kerzen dürften deutlich teurer werden",
+    "url": "https://www.spiegel.de/wirtschaft/service/kerzen-duerften-deutlich-teurer-werden-a-516a9c19-aedb-4161-bd4f-2471951052cf#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-25T09:38:00.000Z",
+    "excerpt": "Weihnachtsfreunde müssen jetzt stark sein: Kerzen werden wohl spürbar mehr kosten. Hintergrund ist unter anderem die Entwicklung des Ölpreises.",
+    "tickers": []
+  },
+  {
+    "title": "&quot;Abwärtsdynamik verstärkte sich&quot;: Statistiker korrigieren Wirtschaftswachstum nach unten",
+    "url": "https://www.n-tv.de/wirtschaft/Statistiker-korrigieren-Wirtschaftswachstum-nach-unten-id31574489.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-25T08:33:44.000Z",
+    "excerpt": "Das deutsche Wirtschaftswachstum fällt im dritten Quartal niedriger aus als von Analysten zunächst prognostiziert. Unter anderem gesunkene Exporte belasten die Konjunktur. Für das Gesamtjahr bleiben Ökonomen dennoch optimistisch.",
+    "tickers": []
+  },
+  {
     "title": "Liveblog Ukrainekrieg: Lukaschenko: Könnte Selenskyj nach Moskau begleiten",
     "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lukaschenko-koennte-selenskyj-nach-moskau-begleiten-faz-110683325.html",
     "source": "FAZ Aktuell",
@@ -13,630 +637,6 @@
     "source": "N-tv Wirtschaft",
     "publishedAt": "2026-11-24T22:51:28.000Z",
     "excerpt": "Die Geschworenen in New York befinden den chinesischen Netzwerkausrüster in mehreren Anklagepunkten für schuldig - darunter Sanktionsverstöße im Iran und der Diebstahl von Geschäftsgeheimnissen. Huawei beteuert weiter seine Unschuld.",
-    "tickers": []
-  },
-  {
-    "title": "Champions League: Dortmund punktet beim FC Arsenal, Maximilian Beier trifft",
-    "url": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T22:43:00.000Z",
-    "excerpt": "Wie zäh ist dieser BVB? Niko Kovačs Borussia gelingt beim Premier-League-Tabellenführer dank des vom DFB verschmähten Maxi Beier das Comeback. Auch Abwehr-Youngster Joane Gadou bringt seine Kollegen ins Schwärmen.",
-    "tickers": []
-  },
-  {
-    "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
-    "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T22:36:29.000Z",
-    "excerpt": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
-    "tickers": []
-  },
-  {
-    "title": "Nasdaq gibt nach: Tech-Werte und Furcht vor neuen US-Strafzöllen belasten die Wall Street",
-    "url": "https://www.n-tv.de/wirtschaft/Tech-Werte-und-Furcht-vor-neuen-US-Strafzoellen-belasten-die-Wall-Street-id31573726.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T22:31:23.000Z",
-    "excerpt": "Gewinnmitnahmen im KI-Sektor nach der Rückkehr von Jensen Huang an die Nvidia-Spitze drücken den Nasdaq ins Minus. Berichte über neue US-Zollpläne schüren Nervosität an den Märkten. Die Modemarke Abercrombie &amp; Fitch sorgt dagegen für po",
-    "tickers": []
-  },
-  {
-    "title": "Warum Heino für den Kanzler eigentlich ein Grüner ist",
-    "url": "https://www.spiegel.de/panorama/warum-heino-fuer-den-kanzler-eigentlich-ein-gruener-ist-a-84f3c67c-48c5-4a4c-bec3-64df374f4215#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T22:21:00.000Z",
-    "excerpt": "Mit fünf besuchte er das erste Konzert: Friedrich Merz hat sich als jahrzehntelanger Fan des Schlagersängers Heino geoutet. Bei einer Gala rückte der Kanzler den Sänger in die Nähe der Grünen und dankte ihm für den Mut, die Nationalhymne zu",
-    "tickers": []
-  },
-  {
-    "title": "Keine Nachfolgeregelung geplant: Nvidia-Chef Huang geht nach Rückkehr in tägliche Therapiesitzungen",
-    "url": "https://www.n-tv.de/wirtschaft/Nvidia-Chef-Huang-geht-nach-Rueckkehr-in-taegliche-Therapiesitzungen-id31573699.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T22:19:00.000Z",
-    "excerpt": "Nach nur elf Tagen kehrt Jensen Huang zurück an die Nvidia-Spitze. Nach eigenen Angaben arbeitet er in 90-minütigen Therapiesitzungen an sich. Dutzende Manager berichten beim Chiphersteller direkt an Huang. An dieser Hierarchiestruktur hält",
-    "tickers": []
-  },
-  {
-    "title": "Jensen Huang: „Ich mache täglich eineinhalb Stunden Therapie“",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T22:16:43.000Z",
-    "excerpt": "Der alte und neue Nvidia-Vorstandschef hält die erste Mitarbeiterversammlung seit seiner Rückkehr. Er gibt sich dabei kleinlaut und kämpferisch zugleich.",
-    "tickers": []
-  },
-  {
-    "title": "Champions League: BVB erkämpft Punkt bei Arsenal",
-    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/bvb-erkaempft-punkt-in-champions-league-bei-arsenal-201305462.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T22:12:00.000Z",
-    "excerpt": "Borussia Dortmund geht als Außenseiter ins Champions-League-Spiel in London. Von einem frühen Rückschlag erholt sich der Revierklub.",
-    "tickers": []
-  },
-  {
-    "title": "Champions League: RB Leipzig besiegt RC Lens, Real Madrid bezwingt PSV Eindhoven",
-    "url": "https://www.spiegel.de/sport/fussball/champions-league-rb-leipzig-besiegt-rc-lens-real-madrid-bezwingt-psv-eindhoven-a-3c7f16ab-4fc8-4707-9228-16e41ebf9a22#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T22:06:00.000Z",
-    "excerpt": "Real Madrid behält auch am fünften Spieltag der Champions League seine weiße Weste. RB Leipzig kriegt gegen Lens noch einmal die Kurve, während Manchester City einen unerwarteten Dämpfer kassiert.",
-    "tickers": []
-  },
-  {
-    "title": "Huawei: US-Gericht verurteilt Telekommunikationskonzern wegen Industriespionage",
-    "url": "https://www.spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T22:04:00.000Z",
-    "excerpt": "Bankbetrug, Sanktionsverstöße und Industriespionage: Ein US-Gericht hat den chinesischen Telekommunikationsanbieter Huawei in all diesen Punkten schuldig gesprochen. Die Technologie des Konzerns gilt auch in Deutschland als Sicherheitsrisik",
-    "tickers": []
-  },
-  {
-    "title": "FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial",
-    "url": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T21:55:32.000Z",
-    "excerpt": "Also in today’s newsletter: Nvidia’s Jensen Huang strikes a defiant tone and Trump readies a raft of new tariffs",
-    "tickers": []
-  },
-  {
-    "title": "Rudy Giuliani: Trump zeichnet früheren New Yorker Bürgermeister Giuliani mit »Medal of Freedom« aus",
-    "url": "https://www.spiegel.de/ausland/rudy-giuliani-trump-zeichnet-frueheren-new-yorker-buergermeister-giuliani-mit-medal-of-freedom-aus-a-696c53ba-4efd-4206-97f7-886b4dc1ec2f#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T21:17:00.000Z",
-    "excerpt": "Er wurde am 11. September zum amerikanischen Helden und verbreitete später Trumps Lüge von der verlorenen Wahl 2020: New Yorks Ex-Bürgermeister Rudy Giuliani hat vom Präsidenten die höchste zivile Auszeichnung der USA bekommen.",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic closes below IPO price as tech rally fades",
-    "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T21:11:37.000Z",
-    "excerpt": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-    "tickers": []
-  },
-  {
-    "title": "Is the Booma-Huang a bad day for capitalism?",
-    "url": "https://www.ft.com/content/32e2579e-fbb1-47d3-b2f8-e71484eb2d39?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T21:00:00.000Z",
-    "excerpt": "What does it mean when the US president reinstates your CEO?",
-    "tickers": []
-  },
-  {
-    "title": "Britain bought fake C4 explosives for Ukraine ",
-    "url": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T20:50:20.000Z",
-    "excerpt": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4",
-    "tickers": []
-  },
-  {
-    "title": "Vanessa Emde: Berliner Linke stimmt knapp für Ausschluss aus Fraktion",
-    "url": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-stimmt-knapp-fuer-ausschluss-aus-fraktion-a-8de561c3-e2ae-4d93-b6e1-1aa5fb438f7a#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T20:27:00.000Z",
-    "excerpt": "Die Berliner Linkenabgeordnete Vanessa Emde wird aus ihrer Fraktion ausgeschlossen. Die angehenden Koalitionspartner atmen auf. Doch der Fall dürfte Rot-Grün-Rot auch in Zukunft belasten.",
-    "tickers": []
-  },
-  {
-    "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
-    "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T20:18:29.000Z",
-    "excerpt": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
-    "tickers": []
-  },
-  {
-    "title": "Was geschah bei Nvidia: Die Chronologie der Staatsaffäre Huang",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-kehrt-zu-nvidia-zurueck-die-chronologie-des-dramas-201712827.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T20:09:58.000Z",
-    "excerpt": "Zwischen dem Rücktritt Jensen Huangs von der Spitze des Chipkonzerns Nvidia und seiner Rückkehr als Vorstandschef liegen nur elf Tage. Dazwischen wurde eine Petition geschrieben und eine Abfuhr erteilt. Ein Überblick.",
-    "tickers": []
-  },
-  {
-    "title": "Russische Atomwaffe im All?: Was eine Atombombe im Orbit anrichten könnte",
-    "url": "https://www.faz.net/aktuell/wissen/weltraum/bedrohung-aus-russland-was-eine-atombombe-im-weltall-ausloesen-kann-201713159.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T20:06:13.000Z",
-    "excerpt": "Russland plant Medienberichten zufolge noch in diesem Jahr die Stationierung einer Atomwaffe im Weltraum. Welche Folgen hätte das? Ein Überblick in Grafiken.",
-    "tickers": []
-  },
-  {
-    "title": "Starke Schwankungen: Butterpreis fällt unter einen Euro pro Packung",
-    "url": "https://www.n-tv.de/wirtschaft/Butterpreis-faellt-unter-einen-Euro-pro-Packung-id31573397.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T19:55:54.000Z",
-    "excerpt": "Vor einem Jahr zahlen Verbrauchen noch 2,39 Euro für 250 Gramm Butter. Bei zwei großen Discountern kostet eine Packung nun weniger als ein Euro. Die Händler verweisen auf gesunkene Rohstoff- und Einkaufspreise.",
-    "tickers": []
-  },
-  {
-    "title": "Wladimir Putin wirft bekannten Regisseur Alexander Sokurow aus Menschenrechtsrat",
-    "url": "https://www.spiegel.de/ausland/wladimir-putin-wirft-bekannten-regisseur-alexander-sokurow-aus-menschenrechtsrat-a-9da133f1-a8d8-4095-bcd9-c6df0c82dd1a#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T19:26:00.000Z",
-    "excerpt": "Alexander Sokurow kritisierte Repression und prangerte Zensur im russischen Kino an. Nun hat Kremlchef Wladimir Putin den Regisseur aus seinem Menschenrechtsrat ausgeschlossen.",
-    "tickers": []
-  },
-  {
-    "title": "Weihnachten: Rostock streitet über den digitalen Beamer-Weihnachtsbaum",
-    "url": "https://www.spiegel.de/panorama/weihnachten-rostock-streitet-ueber-den-digitalen-beamer-weihnachtsbaum-a-f542888e-f824-4e65-8602-06a08afe0b7f#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T19:21:00.000Z",
-    "excerpt": "Statt leuchtender Tanne nur eine Beamer-Projektion an einer Wand: Rostock spart sich dieses Jahr einen echten Baum auf dem Weihnachtsmarkt. Bei den Besuchern kommt das nicht gut an.",
-    "tickers": []
-  },
-  {
-    "title": "»Wie ich so glücklich wurde«: So beschreibt Nele Pollatschek ihren Weg zum Glück",
-    "url": "https://www.spiegel.de/kultur/literatur/wie-ich-so-gluecklich-wurde-so-beschreibt-nele-pollatschek-ihren-weg-zum-glueck-a-18c5c4a0-fd4c-439a-897e-a541efd3298e#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T19:21:00.000Z",
-    "excerpt": "Die Autorin Nele Pollatschek erzählt in ihrem Buch »Wie ich so glücklich wurde« von den Vorzügen eines positiven Blicks auf die Welt. Hilft der einem wirklich?",
-    "tickers": []
-  },
-  {
-    "title": "Koalitionsverhandlungen: Was Emdes Ausschluss für Rot-Grün-Rot in Berlin bedeutet",
-    "url": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-aus-linksfraktion-ausgeschlossen-was-das-fuer-rot-gruen-rot-bedeutet-201714282.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T19:20:40.000Z",
-    "excerpt": "Für Linken-Bürgermeisterkandidatin Elif Eralp ist ein großes Hindernis aus dem Weg geräumt. Rot-Grün-Rot muss aber mit weiteren Unwägbarkeiten rechnen.",
-    "tickers": []
-  },
-  {
-    "title": "Vanessa Emde: SPD und Grüne begrüßen Fraktionsausschluss der Berliner Linkenpolitikerin",
-    "url": "https://www.spiegel.de/politik/vanessa-emde-spd-und-gruene-begruessen-fraktionsausschluss-der-berliner-linkenpolitikerin-a-bf3b262f-81df-4b90-b0aa-0996deecfa24#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T19:19:00.000Z",
-    "excerpt": "Die möglichen Koalitionspartner der Berliner Linkspartei haben positiv auf den Ausschluss von Vanessa Emde aus der Linksfraktion reagiert. Die Berliner CDU sieht weiterhin ein Antisemitismusproblem bei der Linken.",
-    "tickers": []
-  },
-  {
-    "title": "Vergewaltigungsprozess gegen Marvin S. in Berlin: »Es ist eigentlich kein Leben mehr, das ich führe«",
-    "url": "https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-marvin-s-in-berlin-es-ist-eigentlich-kein-leben-mehr-das-ich-fuehre-a-593e95bd-5231-4c6c-b6a8-35223e945353#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T19:17:00.000Z",
-    "excerpt": "Marvin S. hat mehrere Frauen vergewaltigt. Vor Gericht berichten drei Betroffene, wie sehr die abscheulichen Taten ihr Leben bis heute belasten. Eine von ihnen überlebte nur knapp.",
-    "tickers": []
-  },
-  {
-    "title": "USA nach den Midterms: Können die Demokraten ihre Stärke nutzen?",
-    "url": "https://www.spiegel.de/ausland/usa-nach-den-midterms-koennen-die-demokraten-ihre-staerke-nutzen-a-3a54f8f3-93f5-40c6-bcdd-487b6d6ea2ac#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-24T19:17:00.000Z",
-    "excerpt": "Der Triumph der US-Demokraten bei den Midterms legt auch alte Gräben frei: Progressive wie Abdul El-Sayed drängen nach links, Zentristen bremsen. Kann die Partei bis zur nächsten Präsidentenwahl zusammenfinden?",
-    "tickers": []
-  },
-  {
-    "title": "Wall Street: US-Börsen schließen uneinheitlich – Nvidia verliert 5,9 Prozent",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-uneinheitlich-nvidia-verliert-59-prozent/100272379.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T19:11:00.000Z",
-    "excerpt": "Am Montag sorgten die jüngsten Entwicklungen bei Nvidia noch für Euphorie. Nur einen Tag später ebbte diese wieder ab – und mehrere Tech-Werte verloren deutlich an Wert.",
-    "tickers": []
-  },
-  {
-    "title": "The expanding boundaries of the Ukraine war",
-    "url": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T18:38:23.000Z",
-    "excerpt": "Kyiv has a right to strike Russian targets but needs to choose them with care",
-    "tickers": []
-  },
-  {
-    "title": "Beauty has become a risky business",
-    "url": "https://www.ft.com/content/770ea8b8-e272-492b-81f9-72b726d8487e?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T18:36:10.000Z",
-    "excerpt": "Shopping for cosmetics increasingly feels like browsing a chemicals catalogue",
-    "tickers": []
-  },
-  {
-    "title": "Fraktionsausschluss: Emde ist raus, der Extremismus bleibt",
-    "url": "https://www.faz.net/aktuell/politik/inland/emdes-ausschluss-aus-der-linksfraktion-loest-das-problem-nicht-201714240.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T18:07:02.000Z",
-    "excerpt": "Die Linksfraktion in Berlin hat dem Druck von außen nachgegeben. Doch die anderen Parteien müssen sich weiterhin fragen, ob sie gemeinsame Sache mit Juden- und Polizeihassern machen wollen.",
-    "tickers": []
-  },
-  {
-    "title": "EU warns France and Belgium to put public finances on ‘sustainable path’",
-    "url": "https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T18:02:04.000Z",
-    "excerpt": "Commission also warns Berlin it could face additional monitoring next year owing to excessive public spending",
-    "tickers": []
-  },
-  {
-    "title": "Aktien: Huang-Effekt verpufft – wovon der KI-Trade nun abhängt",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-huang-effekt-verpufft-wovon-der-ki-trade-nun-abhaengt/100272271.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T17:38:18.000Z",
-    "excerpt": "Mit dem Comeback von Jensen Huang an der Spitze von Nvidia setzte eine neue Phase der KI-Rally ein. Doch alte Risiken bleiben. Wie nachhaltig ist die Rückkehr des KI-Trades?",
-    "tickers": []
-  },
-  {
-    "title": "Märkte Insight: Warum der Dollar nicht mehr als sicherer Hafen taugt",
-    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T17:22:37.000Z",
-    "excerpt": "Der KI-Boom lässt den Dollar aufwerten. Das ist ungewöhnlich für die Devise, die oft in Krisenzeiten gefragt ist – und sollte Investoren zu denken geben, meint Jakob Blume.",
-    "tickers": []
-  },
-  {
-    "title": "Standorte, Preise, Sortiment: Worauf sich Kunden von Obi und Toom einstellen müssen",
-    "url": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T17:21:03.000Z",
-    "excerpt": "Obi und Toom schließen sich zusammen. Welche Kunden nun um &quot;ihren&quot; Baumarkt bangen müssen, welche Jobs in Gefahr sind und wie sich die Preise entwickeln werden, erklärt Handelsexperte Jörg Funder im Interview mit ntv.de. Die gesam",
-    "tickers": []
-  },
-  {
-    "title": "Dax aktuell: Dax schließt im Minus – Chip-Aktie verliert mehr als neun Prozent",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-chip-aktie-verliert-mehr-als-neun-prozent/100272268.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T17:19:38.000Z",
-    "excerpt": "Das starke Plus nach dem Comeback von Nvidia-Chef Huang haben die Märkte bereits verarbeitet. Zwar verliert der Index wieder zahlreiche Zähler – etwas Positives bleibt allerdings.",
-    "tickers": []
-  },
-  {
-    "title": "Ex-Petrofac executives accused of paying millions to win $3.4bn of contracts",
-    "url": "https://www.ft.com/content/f6c2d0f7-b096-48fb-96af-931c33ec54ba?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T17:01:25.000Z",
-    "excerpt": "Marwan Chedid and George Salibi are on trial for involvement in alleged bribery for UAE oil and gas deals between 2012 and 2018",
-    "tickers": []
-  },
-  {
-    "title": "Nvidia: Einsatz verdreifacht: Ein Investor verdiente mehr als 150.000 Dollar durch die Rückkehr Huangs",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/nvidia-ein-anleger-verdient-mit-huangs-rueckkehr-ueber-150.000-dollar/100272161.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T17:01:01.000Z",
-    "excerpt": "Als Nvidia die Rückkehr von Jensen Huang verkündet, reagiert ein Polymarket-Konto schneller als alle anderen. Medien berichten erst Minuten später. Wie konnte das gelingen?",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic-Aktie fällt unter Ausgabepreis – auch Nvidia im Minus",
-    "url": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T16:45:00.000Z",
-    "excerpt": "Die Aktienkurse zweier großer KI-Unternehmen sinken. Manche Marktbeobachter sehen darin Gewinnmitnahmen nach dem Hoch zum Wochenstart. Nvidia hatte zwischenzeitlich von der überraschenden Rückkehr Jensen Huangs profitiert.",
-    "tickers": []
-  },
-  {
-    "title": "Etat 2027 im Bundestag: SPD-Haushaltssprecher wirft Koalition „Missachtung des Parlaments“ vor",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromsteuer-spd-haushaltssprecher-rudolph-wirft-koalition-missachtung-des-parlaments-vor-201712522.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T16:43:05.000Z",
-    "excerpt": "Dass die Opposition die Arbeit der Regierung kritisiert, ist normal. Wenn aber der haushaltspolitische Sprecher der SPD die Regierung kritisiert, lässt das aufhorchen.",
-    "tickers": []
-  },
-  {
-    "title": "Hailey Bieber: Haben wir uns zu sehr an Podcastgekuschel gewöhnt?",
-    "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/hailey-bieber-bei-der-new-york-times-201711868.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T16:31:18.000Z",
-    "excerpt": "Topmodel und Unternehmerin Hailey Bieber gibt der „New York Times“ ein bizarres Interview. Die Aufregung im Netz richtet sich auch gegen den Journalisten, mit dem sie sprach. Warum?",
-    "tickers": []
-  },
-  {
-    "title": "Gewalt gegen Frauen: Gleichstellung ist kein Nullsummenspiel",
-    "url": "https://www.faz.net/aktuell/politik/inland/anstieg-der-gewalt-gegen-frauen-gleichstellung-ist-kein-nullsummenspiel-201712963.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T16:20:46.000Z",
-    "excerpt": "Der Anstieg von häuslicher Gewalt und Gewalt gegen Frauen ist erschreckend. Um das Problem zu bekämpfen, braucht es auch einen besseren Blick auf die Probleme von Männern.",
-    "tickers": []
-  },
-  {
-    "title": "&quot;Solange wir noch was kriegen&quot;: Top-Ökonom schlägt Verkauf von Volkswagen an China vor",
-    "url": "https://www.n-tv.de/wirtschaft/Top-Oekonom-schlaegt-Verkauf-von-Volkswagen-an-China-vor-id31572644.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T16:05:30.000Z",
-    "excerpt": "Bei einer Industriekonferenz sorgt Top-Ökonom Schularick für Raunen im Saal. Sein Vorschlag in Richtung Wolfsburg dürfte bei VW als gezielte Provokation gewertet werden. Der Präsident des Kiel-Instituts sieht Deutschland beim Autobauen nur ",
-    "tickers": []
-  },
-  {
-    "title": "Black Friday Sale Now On",
-    "url": "https://www.ft.com/content/d7a7b7e3-9fe0-45f1-ab12-479b28d509bd",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T16:05:29.000Z",
-    "excerpt": "It’s an Anthropic PBC blowout sale, and everything must go",
-    "tickers": []
-  },
-  {
-    "title": "Insurance Summit 2026: Wie Versicherer mit der KI-Transformation umgehen",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/insurance-summit-2026-wie-versicherer-mit-der-ki-transformation-umgehen/100268674.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T15:51:59.000Z",
-    "excerpt": "Die Versicherungsindustrie steht in den nächsten zehn Jahren vor großen und teuren Veränderungen. Experten sind sich einig: Um wettbewerbsfähig zu bleiben, sind vier Bereiche entscheidend.",
-    "tickers": []
-  },
-  {
-    "title": "NATO-Gipfel von 2008: Als Berlin Moskau nicht zu viel zumuten wollte",
-    "url": "https://www.faz.net/aktuell/politik/ausland/nato-beitritt-der-ukraine-was-wurde-2008-beschlossen-201712690.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T15:46:46.000Z",
-    "excerpt": "Friedrich Merz hält es für einen Fehler, dass die NATO vor 18 Jahren nicht die Ukraine aufgenommen hat. Dabei gab es damals sogar eine Zusage – für den Tag Sankt Nimmerlein.",
-    "tickers": []
-  },
-  {
-    "title": "Bau: „2027 wird das bislang anspruchsvollste Jahr“: Refinanzierungskrise bei Gewerbeimmobilien spitzt sich zu",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-extrem-wird-2027-die-refinanzierungskrise-spitzt-sich-zu/100270884.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T15:45:08.000Z",
-    "excerpt": "Der erneute Zinsanstieg macht Refinanzierungen von Immobiliendarlehen immer schwieriger. Experten sehen die Branche vor einem Umbruch.",
-    "tickers": []
-  },
-  {
-    "title": "Versicherung: Generali baut 800 Stellen in Deutschland ab",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/generali-deutschland-800-stellen-fallen-weg-jobgarantie-gilt-bis-2032/100272478.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T15:32:25.000Z",
-    "excerpt": "Der Versicherer schließt drei Standorte und begründet den Umbau mit dem Einsatz von Künstlicher Intelligenz. Wohin die Beschäftigten wechseln sollen, steht schon fest.",
-    "tickers": []
-  },
-  {
-    "title": "BioNTech founders to raise $1bn for cancer start-up   ",
-    "url": "https://www.ft.com/content/00eace12-390a-492d-ae91-639ae0ac93f5?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T15:31:46.000Z",
-    "excerpt": "Plural leads funding round for oncology company to be helmed by Uğur Şahin and Özlem Türeci",
-    "tickers": []
-  },
-  {
-    "title": "Ratcliffe’s Ineos in talks to sell French car plant to BYD in US production shift",
-    "url": "https://www.ft.com/content/a175e762-4114-42e0-8d97-3631a26fb66b?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T15:14:22.000Z",
-    "excerpt": "Struggling carmaker has sought to build Grenadier off-roader in US for more than a year in response to tariffs",
-    "tickers": []
-  },
-  {
-    "title": "Tech-Papiere unter Druck: Anthropic-Aktie fällt unter den Ausgabepreis",
-    "url": "https://www.n-tv.de/wirtschaft/Anthropic-Aktie-faellt-unter-den-Ausgabepreis-id31572716.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T15:14:16.000Z",
-    "excerpt": "34 Prozent über dem Ausgabepreis lagen die Papiere von Anthropic kurz nach deren Debüt an der Börse in der vergangenen Woche. Mittlerweile ist Ernüchterung eingezogen - die Aktie liegt unter dem Ausgabepreis.",
-    "tickers": []
-  },
-  {
-    "title": "Öl: Preise stabilisieren sich sich nach Vortagsverlusten",
-    "url": "https://www.spiegel.de/wirtschaft/oel-preise-stabilisieren-sich-sich-nach-vortagsverlusten-a-bc31a2d2-29a0-493f-990a-53971fb94289#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T15:08:00.000Z",
-    "excerpt": "Vorsichtiger Optimismus bei den Verhandlungen zwischen den USA und Iran hat die Ölpreise zuletzt fallen lassen. Nun zeichnet sich ein erneuter Anstieg beim Brent-Preis ab – die Lage bleibt unsicher.",
-    "tickers": []
-  },
-  {
-    "title": "S&amp;P 500 im Chart-Check: Marktbreite: wichtige Signale für 2027",
-    "url": "https://www.n-tv.de/wirtschaft/boerse/Marktbreite-wichtige-Signale-fuer-2027-id30347915.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T14:56:00.000Z",
-    "excerpt": "Im Podcast HSBC Daily Trading analysiert Jörg Scherer, Leiter technische Analyse bei der HSBC wöchentlich neue Themen am Finanzmarkt:  In der aktuellen Folge geht es um den S&amp;P 500 und wichtige Signale für 2027.",
-    "tickers": []
-  },
-  {
-    "title": "Banks regain some ground in the private credit tug of war",
-    "url": "https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-24T14:46:28.000Z",
-    "excerpt": "For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity",
-    "tickers": []
-  },
-  {
-    "title": "Statistik gehackt: Jedes Jahr fallen im Krieg gegen die Ukraine mehr russische Soldaten",
-    "url": "https://www.faz.net/aktuell/politik/ukraine/wohl-mehr-als-700-000-russische-soldaten-in-der-ukraine-gefallen-201711881.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-24T14:36:12.000Z",
-    "excerpt": "Dank eines Eindringens in die Daten der russischen Statistikbehörde zählen Exiljournalisten über 700.000 russische Kriegstote. Besonders das vergangene Jahr war verlustreich.",
-    "tickers": []
-  },
-  {
-    "title": "BYD: Autohersteller will ehemalige Smart-Fabrik in Lothringen kaufen",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T14:34:00.000Z",
-    "excerpt": "Bislang läuft jeder in Europa verkaufte BYD in chinesischen Werken vom Band. Das soll sich ändern: Der Autohersteller will eine Fabrik in Frankreich kaufen.",
-    "tickers": []
-  },
-  {
-    "title": "Wegen Iran-Kriegs kaum gefüllt: Private Heizölvorräte sind zu Winterbeginn ungewöhnlich niedrig",
-    "url": "https://www.n-tv.de/wirtschaft/Private-Heizoelvorraete-sind-zu-Winterbeginn-ungewoehnlich-niedrig-id31572296.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T14:33:27.000Z",
-    "excerpt": "Wie stark sich der Energiepreisschock infolge des Iran-Kriegs auswirkt, zeigt sich auch am Füllstand der Heizöltanks in mehr als sieben Millionen deutschen Häusern und Wohnungen. Die Vorräte zu Beginn der Heizsaison liegen viel niedriger al",
-    "tickers": []
-  },
-  {
-    "title": "MI5 warns UK companies supplying Ukraine military about Russian sabotage risk",
-    "url": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T14:30:21.000Z",
-    "excerpt": "Acts could include arson attacks carried out by proxy agents, say security chiefs",
-    "tickers": []
-  },
-  {
-    "title": "Hotel: Gelingt der Adlon-Verkauf im zweiten Anlauf?",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/hotel-neuer-anlauf-fuer-den-verkauf-des-hotel-adlon/100272450.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T14:29:34.000Z",
-    "excerpt": "Das Berliner Luxushotel soll verkauft werden, doch dafür müssen die Fonds-Anteilseigner zustimmen. Nun startet die Fondsgesellschaft einen zweiten Versuch – mit weniger Erfolgsprämien.",
-    "tickers": []
-  },
-  {
-    "title": "Strafverfahren: Drei Anwälte der Kanzlei Jones Day wegen Parteiverrats angeklagt",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/strafverfahren-drei-anwaelte-der-kanzlei-jones-day-wegen-parteiverrats-angeklagt/100272165.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T14:25:31.000Z",
-    "excerpt": "Vor dem Landgericht Frankfurt beginnt am Mittwoch ein Strafverfahren gegen die Juristen. Es geht um die Beratung der Mainzer North Channel Bank, die Geld gewaschen haben soll.",
-    "tickers": []
-  },
-  {
-    "title": "&quot;Respektlose&quot; Forderungen: IG Metall zeigt VW-Arbeitgebern vor Tarifrunde die kalte Schulter",
-    "url": "https://www.n-tv.de/wirtschaft/IG-Metall-zeigt-VW-Arbeitgebern-vor-Tarifrunde-die-kalte-Schulter-id31571545.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T14:07:56.000Z",
-    "excerpt": "Die Tarifgespräche bei VW starten gerade erst, da sind die Fronten schon maximal verhärtet. Vertreter der IG Metall bezeichnen die geplanten Einschnitte durch die Arbeitgeber als respektlos. Die Gewerkschaft sehe daher keinerlei Grund, eige",
-    "tickers": []
-  },
-  {
-    "title": "Neobroker: Aktivistischer Investor setzt Flatex-Management unter Druck",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/neobroker-aktivistischer-investor-setzt-flatex-management-unter-druck/100272317.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T14:00:44.000Z",
-    "excerpt": "Die Flatex-Aktie hat rund 40 Prozent verloren. Der aktivistische Investor Primestone Capital verlangt die Prüfung eines Verkaufs. Finanzinvestoren zeigen Interesse, zögern aber.",
-    "tickers": []
-  },
-  {
-    "title": "Hauskauf: Klingbeil will Steuerschlupfloch beim Immobilienkauf schließen",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/hauskauf-klingbeil-will-steuerschlupfloch-beim-immobilienkauf-schliessen/100272430.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-24T13:35:10.000Z",
-    "excerpt": "Der Bundesfinanzminister will Tricksereien bei der Grunderwerbsteuer eindämmen. Ab 2027 sollen strengere Regeln für sogenannte Share Deals beim Grundstücks- oder Wohnungskauf gelten.",
-    "tickers": []
-  },
-  {
-    "title": "Donald Trump: Nvidia-Aktien könnten Millionen an Wert gewonnen haben",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-trumps-aktienbeteiligung-profitiert-von-huangs-schneller-rueckkehr-a-bb0f98ee-d9fa-4bf0-a71d-fa68aca801fd#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T13:27:00.000Z",
-    "excerpt": "Donald Trumps Eingreifen bei Nvidia könnte ihm dank seiner Aktienbeteiligung einen millionenschweren Wertzuwachs beschert haben. Investoren warnen vor den Risiken von Huangs schneller Rückkehr an die Konzernspitze.",
-    "tickers": []
-  },
-  {
-    "title": "Schädlingsbekämpfung mithilfe von KI: Die Rattenfängerin von Hannover",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaedlingsbekaempfung-mithilfe-von-ki-die-rattenfaengerin-von-hannover-a-c6f0bbb9-a507-4b55-983e-093b2ede6b66#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T13:06:00.000Z",
-    "excerpt": "Sina Schaper führt in dritter Generation ein Unternehmen für Schädlingsbekämpfung. Eine KI half, das Wissen ihres Vaters zu sichern, bevor er starb.",
-    "tickers": []
-  },
-  {
-    "title": "EU: E-Autos boomen – besonders aus China",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/e-auto-elektrofahrzeuge-boomen-in-der-eu-rekordanteil-von-chinesischen-modellen-a-5a77379f-8945-4230-94a7-3e7a5acd5b01#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T12:29:00.000Z",
-    "excerpt": "Autofahrer in der EU setzen auf Elektrofahrzeuge, die Neuzulassungen stiegen zuletzt um 61,4 Prozent. Hersteller aus China machen dabei das Rennen – und Brüssel reagiert.",
-    "tickers": []
-  },
-  {
-    "title": "EU edges towards Made in Europe deal for UK cars",
-    "url": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T12:07:48.000Z",
-    "excerpt": "Inclusion in bloc’s subsidy scheme would be a significant diplomatic win for PM Andy Burnham",
-    "tickers": []
-  },
-  {
-    "title": "COP31’s fossil fuels fight and the limits of carbon capture",
-    "url": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T12:00:05.000Z",
-    "excerpt": "Also in today’s newsletter, China’s dream of hydrogen-powered transport falters",
-    "tickers": []
-  },
-  {
-    "title": "Russian navy licks its wounds as another warship is sunk",
-    "url": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T11:51:27.000Z",
-    "excerpt": "Ukrainian drones have struck Moscow’s warships and freighters in the Black Sea, Baltic and Mediterranean",
-    "tickers": []
-  },
-  {
-    "title": "Nvidia-Beben an der Börse: »Der nächste Crash ist keine Theorie. Er wird kommen.«",
-    "url": "https://www.spiegel.de/wirtschaft/service/vermoegensverwalter-ueber-boersenturbulenzen-der-naechste-crash-ist-keine-theorie-er-wird-unweigerlich-kommen-a-ebfda3a9-4d45-4525-bac8-d2af7ca6255a#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T11:24:00.000Z",
-    "excerpt": "Nvidia-Chef Huang ist zurück, Techaktien erholen sich. Aber wie lange? Vermögensverwalter Nikolaus Braun erklärt, was Anleger aus der Affäre lernen können. Und er sagt, warum der nächste Absturz nur eine Frage der Zeit ist.",
-    "tickers": []
-  },
-  {
-    "title": "VW und Mercedes: In der Autoindustrie wackelt jetzt auch die 35-Stunden-Woche",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-und-mercedes-preschen-vor-in-der-autoindustrie-wackelt-die-35-stundenwoche-a-8bd3a926-6d68-4968-9616-377e9688f170#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T11:02:00.000Z",
-    "excerpt": "Die deutschen Autokonzerne bauen Zehntausende Stellen ab, doch das reicht den Bossen nicht. Im Tarifkampf mit der IG Metall steht das gesamte System infrage. Die Beschäftigten müssen sich auf mehr Arbeit einstellen.",
-    "tickers": []
-  },
-  {
-    "title": "Untapping Chartreuse — the world’s most mysterious liqueur",
-    "url": "https://www.ft.com/content/cdc793c5-8735-4c02-bbe8-65e41f1358e4",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T11:00:04.000Z",
-    "excerpt": "The HTSI drinks expert uncovers the Carthusian distillery’s 400-year-old secrets ",
-    "tickers": []
-  },
-  {
-    "title": "Donald Trump und Nvidia-CEO Jensen Huang: Chronologie einer Männerfreundschaft",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-donald-trump-und-jensen-huang-chronologie-einer-maennerfreundschaft-a-30eab5d4-81f6-415c-8b05-13a7ffdafcca#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T11:00:00.000Z",
-    "excerpt": "Nvidia-Boss Jensen Huang ist zurück, auch dank Donald Trump. Das Team von dessen früherer Gegenspielerin Kamala Harris listet eine Chronologie der Männerfreundschaft auf. Inklusive finanzieller Vorteile des US-Präsidenten.",
-    "tickers": []
-  },
-  {
-    "title": "1000 neue Jobs möglich: Ryanair-Chef O&apos;Leary bietet Deutschland Wachstum für Steuerabschaffung",
-    "url": "https://www.n-tv.de/wirtschaft/Ryanair-Chef-O-Leary-bietet-Deutschland-Wachstum-fuer-Steuerabschaffung-id31570780.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T10:55:21.000Z",
-    "excerpt": "Ryanair stellt im Sommer 2025 zahlreiche Verbindungen in Deutschland ein. Begründet wird der Schritt mit hohen Abgaben und Steuern in Deutschland, die die Nachfrage deutlich dämpfen. Der Chef des Billigfliegers, O&apos;Leary, macht der Bund",
-    "tickers": []
-  },
-  {
-    "title": "Diebstahl: 14 Prozent weniger Autodiebstähle in Deutschland",
-    "url": "https://www.spiegel.de/wirtschaft/service/diebstahl-14-prozent-weniger-autodiebstaehle-in-deutschland-a-67e0f0d9-5f61-4f10-86f4-9a41dc31e191#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T10:25:00.000Z",
-    "excerpt": "In Berlin werden statistisch gesehen jeden Tag etwa acht Autos geklaut. Die Hauptstadt hält in Deutschland den Rekord, bundesweit sind die Zahlen aber rückläufig.",
-    "tickers": []
-  },
-  {
-    "title": "&quot;Habe den Deal gemacht&quot;: Huangs Rückkehr ist für Trump ein lukratives Geschäft",
-    "url": "https://www.n-tv.de/wirtschaft/Huangs-Rueckkehr-ist-fuer-Trump-ein-lukratives-Geschaeft-id31570590.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-24T09:49:48.000Z",
-    "excerpt": "Donald Trump nimmt für sich in Anspruch, Jensen Huang zurück an die Nvidia-Spitze gebracht zu haben. Der US-Präsident hat gute Gründe, sich über das Comeback zu freuen. Einer davon ist sein eigenes Aktiendepot.",
-    "tickers": []
-  },
-  {
-    "title": "Nvidia und CEO Jensen Huang: In den USA sind die Tech-Bros jetzt der Staat",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-und-die-anderen-tech-bros-sind-in-den-usa-jetzt-der-staat-a-7adbbe97-8e4c-4d8c-9928-f429f3d494ed#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T09:49:00.000Z",
-    "excerpt": "Der Fall Jensen Huang zeigt: Das Silicon Valley ist zu mächtig geworden. Ein paar Unternehmensbosse machen sich die Welt, wie sie ihnen gefällt – auf Kosten des Rechtsstaats.",
-    "tickers": []
-  },
-  {
-    "title": "Konjunktur: Ifo-Geschäftsklima steigt auf Höchststand seit Frühjahr 2023",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-geschaeftsklima-steigt-auf-hoechststand-seit-fruehjahr-2023-a-cfccd10f-85d6-4cab-b772-17222a85e822#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-24T09:33:00.000Z",
-    "excerpt": "In der deutschen Wirtschaft nimmt der Aufschwung Fahrt auf. Das wichtigste deutsche Konjunkturbarometer legte erneut zu, aber dem Aufschwung fehlt es laut dem Ifo-Institut »noch an Breite«.",
-    "tickers": []
-  },
-  {
-    "title": "Compass reignites City exodus fears",
-    "url": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-24T07:29:37.000Z",
-    "excerpt": "Catering company is latest heavyweight to plan New York shift as groups seek to boost liquidity and valuations ",
     "tickers": []
   }
 ]
