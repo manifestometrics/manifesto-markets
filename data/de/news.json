@@ -1,5 +1,613 @@
 [
   {
+    "title": "OpenAI: KI-Entwickler wirft Apple Diebstahl von Geschäftsgeheimnissen vor",
+    "url": "https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T21:44:00.000Z",
+    "excerpt": "Der Streit zwischen OpenAI und Apple spitzt sich zu: Der KI-Entwickler dem iPhone-Konzern vor, Geschäftsgeheimnisse gestohlen und den Zugang zu Lieferanten blockiert zu haben.",
+    "tickers": []
+  },
+  {
+    "title": "S&P cuts France outlook to negative ",
+    "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T21:34:13.000Z",
+    "excerpt": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+    "tickers": []
+  },
+  {
+    "title": "Collien Fernandes: Ermittlungen auf Mallorca werden fortgesetzt",
+    "url": "https://www.spiegel.de/panorama/collien-fernandes-ermittlungen-auf-mallorca-werden-fortgesetzt-a-38686b85-af44-44d0-ae38-d3d632769c75#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T21:06:00.000Z",
+    "excerpt": "Es war das Ziel von Collien Fernandes und ihrem Anwalt: Zu den mutmaßlichen Taten von Christian Ulmen auf spanischem Hoheitsgebiet wird auch künftig dort ermittelt. Damit endet ein monatelanger Streit über Zuständigkeiten.",
+    "tickers": []
+  },
+  {
+    "title": "Afd und Erinnerungskultur: Ist die Schoa-Erinnerung zur nationalen Selbstentlastung geworden?",
+    "url": "https://www.faz.net/aktuell/feuilleton/debatten/zukunft-der-deutschen-erinnerungskultur-und-die-afd-201717274.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T20:37:47.000Z",
+    "excerpt": "Wenn die Erinnerungskultur nur noch als Beweis deutscher Läuterung dient, verliert das Gedenken seine selbstkritische Kraft. So wird es anfällig für eine völkische Geschichtspolitik, die die NS-Verbrechen relativiert.",
+    "tickers": []
+  },
+  {
+    "title": "Ibiza: Gekenterter Tanker mit 7000 Tonnen Diesel soll in Hafen",
+    "url": "https://www.spiegel.de/panorama/ibiza-gekenterter-tanker-mit-7000-tonnen-diesel-soll-in-hafen-a-56c647c6-c83b-4271-bec0-eb8543ca0cee#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T20:29:00.000Z",
+    "excerpt": "Vor der spanischen Insel Ibiza ist ein Tanker mit Millionen Litern Diesel gekentert. Nun soll das Schiff nach Cartagena geschleppt werden. Das Abpumpen und das anschließende Aufrichten werden wohl mehrere Wochen dauern.",
+    "tickers": []
+  },
+  {
+    "title": "Zugang zu Kitas: Unwürdiges Feilschen um die frühe Bildung",
+    "url": "https://www.faz.net/aktuell/politik/inland/kita-plaetze-warum-armutsgefaehrdete-kinder-oft-leer-ausgehen-201719382.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T20:27:27.000Z",
+    "excerpt": "Kinder ohne Deutschkenntnisse finden oft keinen Kita-Platz. Währenddessen verrennen sich Bund und Länder im Feilschen um das Qualitätsgesetz.",
+    "tickers": []
+  },
+  {
+    "title": "US tech stocks rise in latest market swing",
+    "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T20:08:09.000Z",
+    "excerpt": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+    "tickers": []
+  },
+  {
+    "title": "Deutschland Liveblog: Schweitzer bezeichnet seine Rentenpläne als einen „guten Kompromiss“",
+    "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-reichinnek-kritisiert-rentenplaene-als-einziges-kuerzungsprogramm-faz-110093143.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T20:02:23.000Z",
+    "excerpt": "SPD-Arbeitsminister will „Rente mit 65“ statt „Rente mit 63“ +++ Linken-Fraktionsvorsitzende Reichinnek kritisiert Pläne als „einziges Kürzungsprogramm“  +++ Juso-Chef Türmer wirft seiner Partei diffuse Mitte-Strategie vor +++  alle Entwick",
+    "tickers": []
+  },
+  {
+    "title": "nukleare Bedrohung: Russlands Bombe im All",
+    "url": "https://www.faz.net/aktuell/politik/ausland/russlands-atombombe-im-all-bedrohung-oder-bluff-201712317.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T19:44:39.000Z",
+    "excerpt": "Atomwaffen im Weltraum können in die Apokalypse führen. Gerade deshalb glauben manche Fachleute, dass es sie nie geben wird.",
+    "tickers": []
+  },
+  {
+    "title": "KI: Ex-US-Arbeitsminister Robert Reich will die Macht der Techmilliardäre brechen",
+    "url": "https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T19:28:00.000Z",
+    "excerpt": "Robert Reich gilt als Vordenker der Demokratischen Partei und war Arbeitsminister unter Bill Clinton. Er hat einen Vorschlag, wie die Macht der KI-Milliardäre zu brechen wäre.",
+    "tickers": []
+  },
+  {
+    "title": "KI-Flut bei Gerichten: Was ist dran am „Agentic Flooding“?",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/agentic-flooding-wie-ki-die-sozialgerichte-ueberlastet-und-welche-loesungsansaetze-es-gibt-201697218.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T19:26:37.000Z",
+    "excerpt": "Die KI sorgt für Unmut bei Gerichte, der Ruf nach Gebühren oder Beschränkungen wird lauter. Doch Kritiker warnen vor neuen Hürden.",
+    "tickers": []
+  },
+  {
+    "title": "Konstantin Lifschitz: Er ließ Beethoven über die Ufer treten",
+    "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/zum-tod-des-pianisten-konstantin-lifschitz-201724938.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T19:21:41.000Z",
+    "excerpt": "Der Ukrainer Konstantin Lifschitz war einer der phantasievollsten Bach- und Beethoven-Interpreten unserer Zeit. Jetzt ist der Pianist mit 49 Jahren einer schweren Krankheit erlegen.",
+    "tickers": []
+  },
+  {
+    "title": "Schröder vs. Poschardt: Wie der Moderator an dem Krawall-Autor scheitert",
+    "url": "https://www.spiegel.de/kultur/tv/schroeder-vs-poschardt-wie-der-moderator-an-dem-krawall-autor-scheitert-a-50afd16b-a7f4-4f71-a65c-6e53299b2c2d#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T19:03:00.000Z",
+    "excerpt": "Der Talkmaster hat versucht, den Krawall-Denker in seiner Sendung zu »entlarven« – und dann ein Eigentor nach dem anderen versenkt.",
+    "tickers": []
+  },
+  {
+    "title": "Spanien: Mindestens acht Tote auf Flüchtlingsboot vor El Hierro",
+    "url": "https://www.spiegel.de/ausland/spanien-mindestens-acht-tote-auf-fluechtlingsboot-vor-el-hierro-a-cfe8e9a9-1634-409e-9390-970de196082f#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T19:01:00.000Z",
+    "excerpt": "2100 Migranten an einem Tag, überlastete Behörden und nun erneut Tote: Vor El Hierro sind mindestens acht Menschen auf einem Flüchtlingsboot ums Leben gekommen. Rund 100 Menschen konnten gerettet werden.",
+    "tickers": []
+  },
+  {
+    "title": "Trübe Monatsbilanz: Die Käufer kehren an der Wall Street zurück",
+    "url": "https://www.n-tv.de/wirtschaft/Die-Kaeufer-kehren-an-der-Wall-Street-zurueck-id31587271.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T18:50:06.000Z",
+    "excerpt": "Nach dem satten Abschlag zu Wochenbeginn setzt die Gegenbewegung ein an der US-Börse ein. &quot;Unvermeidlich&quot; analysiert ein Experte. Vor allem bei Tech-Titel griffen Anleger wieder zu. Allerdings war der Handel nach dem Feiertag ausg",
+    "tickers": []
+  },
+  {
+    "title": "OpenAI countersues Apple for stealing trade secrets  ",
+    "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T18:20:05.000Z",
+    "excerpt": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+    "tickers": []
+  },
+  {
+    "title": "AI and the decryption nightmare",
+    "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T18:18:27.000Z",
+    "excerpt": "New breakthroughs call for faster upgrades to security, not panic",
+    "tickers": []
+  },
+  {
+    "title": "Can AI crack encryption?",
+    "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T18:16:51.000Z",
+    "excerpt": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+    "tickers": []
+  },
+  {
+    "title": "Wall Street: US-Börsen schließen im Plus – Nvidia-Aktie sackt zwischenzeitlich ab",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-im-plus-anthropic-wieder-ueber-ausgabepreis/100273324.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T18:04:00.000Z",
+    "excerpt": "Die US-Börsen notierten an einem verkürzten Börsentag unter positiven Vorzeichen. Die Titel des KI-Entwicklers Anthropic notieren wieder über ihrem Ausgabepreis. Ein Medienbericht beeinflusste Nvidia.",
+    "tickers": []
+  },
+  {
+    "title": "Directors’ Deals: M&S chief offloads shares after they hit multiyear peak",
+    "url": "https://www.ft.com/content/ca9f958e-40a4-4fc4-b300-866343f9228f",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T18:00:05.000Z",
+    "excerpt": "£4mn sale follows encouraging interim results",
+    "tickers": []
+  },
+  {
+    "title": "Thames Water seeks to delay debt repayments to secure £2.4bn emergency loan",
+    "url": "https://www.ft.com/content/f7c0d928-ed8b-4835-9a60-1acf098a98c1?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T17:33:17.000Z",
+    "excerpt": "Fresh funding will keep the embattled utility afloat but pile on hundreds of millions of pounds in additional financing costs",
+    "tickers": []
+  },
+  {
+    "title": "Berlin: Zwei »Compact«-Journalisten bei YouTube-Awards angegriffen",
+    "url": "https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T17:33:00.000Z",
+    "excerpt": "Am Rande der YouTube-Awards in Berlin sollen Mitarbeiter des rechtsextremen Mediums »Compact« attackiert worden sein. Die Journalisten behaupten, dass die Angreifer aus dem Umfeld einer bekannten Rapperin kämen.",
+    "tickers": []
+  },
+  {
+    "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+    "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T17:29:29.000Z",
+    "excerpt": "US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region",
+    "tickers": []
+  },
+  {
+    "title": "Fall Fernandes: Nun wird auch wegen Nachstellung gegen Christian Ulmen ermittelt",
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/staatsanwaltschaft-ermittelt-wegen-nachstellung-gegen-christian-ulmen-201724605.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T17:19:20.000Z",
+    "excerpt": "Collien Fernandes wirft ihrem Ex-Mann digitale und körperliche Gewalt vor. Jetzt hat die Staatsanwaltschaft Potsdam ihre Ermittlungen gegen den Schauspieler Christian Ulmen ausgeweitet.",
+    "tickers": []
+  },
+  {
+    "title": "Israel: Gadi Eisenkot kritisiert Likud von Benjamin Netanyahu wegen Koalitionsgesprächen",
+    "url": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-kritisiert-likud-von-benjamin-netanyahu-wegen-koalitionsgespraechen-a-e8db144e-6357-4c68-8080-d87bf93c7a3c#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T17:16:00.000Z",
+    "excerpt": "Die Regierungsbildung in Israel droht zu scheitern: Die großen Parteien machen einander Vorwürfe. Aber Gadi Eisenkot kann auch Erfolge melden.",
+    "tickers": []
+  },
+  {
+    "title": "Experte für Viertagewoche: Fällt jetzt die 35-Stunden-Woche bei VW?",
+    "url": "https://www.n-tv.de/wirtschaft/Faellt-jetzt-die-35-Stunden-Woche-bei-VW-id31586657.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T17:06:04.000Z",
+    "excerpt": "In der Metall- und Elektroindustrie ist die Tür zu höheren Arbeitszeiten geöffnet. Auf die dringt auch das VW-Management. Das Ende der dortigen 35-Stunden-Woche scheint in Sicht. Ob künftig mehr oder vielleicht sogar weniger gearbeitet wird",
+    "tickers": []
+  },
+  {
+    "title": "Frankreich-Wahl: Verhindert David Lisnard den Sieg von Marine Le Pen?",
+    "url": "https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T16:59:00.000Z",
+    "excerpt": "David Lisnard ist Bürgermeister von Cannes und Senkrechtstarter in Umfragen zur französischen Präsidentschaftswahl. Sein Plan: die rechtsnationale Favoritin Marine Le Pen ausbremsen – als freundlicher Rechtspopulist.",
+    "tickers": []
+  },
+  {
+    "title": "Dax aktuell: Dax beendet die Woche im Plus – „Black Friday“ verläuft ruhig",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-beendet-die-woche-im-plus-black-friday-verlaeuft-ruhig/100273204.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T16:49:15.000Z",
+    "excerpt": "Die Erholung an den Märkten setzt sich am „Black Friday“ weiter fort. Unterstützung kommt dabei aus Asien und von den US‑Börsen. Anleger greifen bei hiesigen Tech-Aktien zu.",
+    "tickers": []
+  },
+  {
+    "title": "El Niño: Uno warnt vor Verschärfung der globalen Hungerkrise",
+    "url": "https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise-a-717ca946-4e3d-42d0-930c-0275b5ebecdb#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T16:47:00.000Z",
+    "excerpt": "Das Wetterphänomen El Niño trägt dazu bei, dass in vielen Teilen der Welt Dürren heftiger ausfallen. Nun warnen die Vereinten Nationen vor den Auswirkungen. Sie nennen 16 Hungerbrennpunkte.",
+    "tickers": []
+  },
+  {
+    "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
+    "url": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T16:45:39.000Z",
+    "excerpt": "Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally",
+    "tickers": []
+  },
+  {
+    "title": "UK Department for Work and Pensions hit by cyber incident",
+    "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T16:44:31.000Z",
+    "excerpt": "Agency says it has taken most of its online services down as it investigates possible attack ",
+    "tickers": []
+  },
+  {
+    "title": "Witten: Sohn mit Küchenmesser erstochen – Lebenslange Haft für Mann",
+    "url": "https://www.spiegel.de/panorama/justiz/witten-sohn-mit-kuechenmesser-erstochen-lebenslange-haft-fuer-mann-a-3974399e-ec79-4064-bc29-60cb02a3b9e0#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T16:39:00.000Z",
+    "excerpt": "Ein 41-jähriger Mann aus Witten erstach seinen Sohn und verletzte Frau und Tochter schwer. Er muss in Haft. Sein Motiv akzeptiert der Richter nicht.",
+    "tickers": []
+  },
+  {
+    "title": "Hedgefonds sucht Risikomanager: KI-Wunderkind verlor 30 Milliarden Dollar und liegt trotzdem im Plus",
+    "url": "https://www.n-tv.de/wirtschaft/KI-Wunderkind-verlor-30-Milliarden-Dollar-und-liegt-trotzdem-im-Plus-id31586226.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T16:37:23.000Z",
+    "excerpt": "Nie zuvor verlor ein Hedgefonds-Manager so viel Geld auf einmal. Doch für den 25-jährigen Leopold Aschenbrenner ist nach einem 30-Milliarden-Dollar-Verlust noch lange nicht Schluss. Sein Fonds gehe gestärkt aus der Krise hervor, schreibt er",
+    "tickers": []
+  },
+  {
+    "title": "Banken: Unicredit erwägt Aufstockung von Anteil an Generali",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-erwaegt-aufstockung-von-anteil-an-generali/100273371.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T16:24:40.000Z",
+    "excerpt": "Nach dem Einstieg bei der Commerzbank nimmt UniCredit den italienischen Versicherer Generali stärker ins Visier. Die Beteiligung könnte auf bis zu 13,4 Prozent steigen.",
+    "tickers": []
+  },
+  {
+    "title": "News des Tages: Haushalt, SAP, Johann Wadephul, gendern",
+    "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss",
+    "source": "Spiegel Schlagzeilen",
+    "publishedAt": "2026-11-27T16:24:00.000Z",
+    "excerpt": "Deutschlands Haushalt für 2027 ist beschlossene Sache. Der Softwarekonzern SAP hat Sicherheitsprobleme. Und Außenminister Wadephul kämpft gegen Gendersternchen. Das ist die Lage am Freitagabend.",
+    "tickers": []
+  },
+  {
+    "title": "RentenGesetzentwurf: Schweitzer will „Rente mit 65“ statt „Rente mit 63“",
+    "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T16:23:17.000Z",
+    "excerpt": "Der Arbeitsminister will die abschlagsfreie Frührente einschränken. Der Koalitionspartner CDU zeigt sich von dem Gesetzentwurf überrascht.",
+    "tickers": []
+  },
+  {
+    "title": "Wave of cyber incidents rattles western economies",
+    "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T16:19:21.000Z",
+    "excerpt": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+    "tickers": []
+  },
+  {
+    "title": "Koalition stolpert vorwärts: Haushalt 2027? Endlich durch! Steuerpaket? Vielleicht später!",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/cdu-und-spd-streiten-ueber-steuern-rente-und-benzinpreisdeckel-201722938.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T16:07:17.000Z",
+    "excerpt": "Um den Koalitionsfrieden ist es weiterhin nicht gut bestellt. Der Streit über Steuern, Rente, Benzinpreisdeckel überlagert den Erfolg mit dem Etat, den die Koalition nach zähem Ringen vorweisen kann.",
+    "tickers": []
+  },
+  {
+    "title": "Immobilien: Hausverkauf – wie die Solaranlage den Preis beeinflusst",
+    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hausverkauf-wie-die-solaranlage-den-preis-beeinflusst/100271538.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T16:01:54.000Z",
+    "excerpt": "Wer ein Haus mit Photovoltaik-Anlage veräußert, muss deren Wert ermitteln und mit dem Käufer einige wichtige Punkte im Kaufvertrag festhalten. Experten erklären, worauf es ankommt.",
+    "tickers": []
+  },
+  {
+    "title": "CA Immo: Was diese Österreich-Aktie neben der Sonderdividende ausmacht",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ca-immo-diese-oesterreich-aktie-bietet-mehr-als-nur-eine-sonderdividende/100272102.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T15:45:31.000Z",
+    "excerpt": "CA Immo plant eine hohe Extra-Ausschüttung vor Weihnachten. Weitere Zahlungen an die Anleger könnten folgen, dabei geht das Geschäft zurück. Welche Strategie dahintersteckt.",
+    "tickers": []
+  },
+  {
+    "title": "René Benko: Gericht korrigiert Strafe nach oben – nun drei Jahre Haft",
+    "url": "https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T15:29:00.000Z",
+    "excerpt": "Die Prozessserie rund um den österreichischen Investor René Benko geht weiter. Nun hat das Oberlandesgericht Innsbruck die Strafe für ein Verfahren angepasst. Das sind schlechte Nachrichten für Benko.",
+    "tickers": []
+  },
+  {
+    "title": "Russia set to criminalise sharing information about Ukrainian strikes",
+    "url": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T15:16:07.000Z",
+    "excerpt": "Moscow looks to extend wartime crackdown to pro-war bloggers and regular citizens posting about Kyiv’s drones hitting oil refineries",
+    "tickers": []
+  },
+  {
+    "title": "From Jobs to Jensen: tech’s metamorphosis",
+    "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T15:10:17.000Z",
+    "excerpt": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+    "tickers": []
+  },
+  {
+    "title": "Sauter: Klavierbauer stellt Insolvenzantrag",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T14:58:00.000Z",
+    "excerpt": "Seit mehr als 200 Jahren baut die Firma Sauter aus Baden-Württemberg Flügel und Klaviere. Was das Finanzielle betrifft, braucht sie nun offenbar Unterstützung.",
+    "tickers": []
+  },
+  {
+    "title": "Handgepäck: Oberlandesgericht Frankfurt am Main erlaubt nur eine Tasche",
+    "url": "https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T14:34:00.000Z",
+    "excerpt": "Welche Gepäckstücke Passagiere mit in die Kabine nehmen dürfen, regelt jede Airline anders. Das Oberlandesgericht Frankfurt hat nun entschieden: Eine kleine Tasche genügt. Rechtskräftig ist das Urteil bisher nicht.",
+    "tickers": []
+  },
+  {
+    "title": "Bundeshaushalt 2027: Diese Grafiken zeigen, wohin Ihr Steuergeld fließt",
+    "url": "https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T14:07:00.000Z",
+    "excerpt": "Der Haushalt 2027 ist beschlossen, es ist der größte in der Geschichte der Bundesrepublik. Sehen Sie hier, wo der Staat wie viel Geld ausgibt – und wo die Tücken für die Zukunft liegen.",
+    "tickers": []
+  },
+  {
+    "title": "Black-Friday-Geschichte: Wie das Shopping zum Kontaktsport wurde",
+    "url": "https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
+    "excerpt": "Tiger in den Straßen, Handgreiflichkeiten in Geschäften und sogar Tote und Verletzte: In der Geschichte des Black Friday geht es nicht immer nur um das günstigste Schnäppchen. Der Rückblick.",
+    "tickers": []
+  },
+  {
+    "title": "Shanghaier Parteichef: Darum ließ Xi einen internationalen Hoffnungsträger entfernen",
+    "url": "https://www.faz.net/aktuell/politik/ausland/wurde-chen-jining-parteichef-xi-jinping-zu-gefaehrlich-201721949.html",
+    "source": "FAZ Aktuell",
+    "publishedAt": "2026-11-27T13:41:11.000Z",
+    "excerpt": "Shanghais Parteichef Chen Jining war beliebt, international vernetzt und ein natürlicher Anwärter auf hohe Staatsämter. Jetzt wurde er von Xi Jinping gestürzt. Wurde Chen ihm zu gefährlich?",
+    "tickers": []
+  },
+  {
+    "title": "Inflation and interest rates tracker: see how your country compares",
+    "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T13:39:05.000Z",
+    "excerpt": "Explore the latest data through interactive charts",
+    "tickers": []
+  },
+  {
+    "title": "The reforms the NHS needs (and those it doesn’t)",
+    "url": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+    "source": "Financial Times — Companies",
+    "publishedAt": "2026-11-27T13:27:45.000Z",
+    "excerpt": "Different age groups make totally different demands on healthcare — here’s what I learnt in adapting how the London Ambulance Service responds",
+    "tickers": []
+  },
+  {
+    "title": "EU weighs tighter export controls to prevent battery waste going to China",
+    "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T13:26:26.000Z",
+    "excerpt": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+    "tickers": []
+  },
+  {
+    "title": "Mitten im Zollstreit mit den USA: Trump-Tower für eine Milliarde Dollar soll in Hanoi entstehen",
+    "url": "https://www.n-tv.de/wirtschaft/Trump-Tower-fuer-eine-Milliarde-Dollar-soll-in-Hanoi-entstehen-id31585115.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T13:24:10.000Z",
+    "excerpt": "Vietnam ringt mit den USA um ein Handelsabkommen, um hohe Zölle abzuwenden. Gleichzeitig treiben Geschäftspartner der Trump Organization Insidern zufolge ein milliardenschweres Bauprojekt in Hanoi voran. Es ist nicht das einzige Vorhaben di",
+    "tickers": []
+  },
+  {
+    "title": "Annika Steiner: „Wärmepumpen oder KI machen ein Gebäude nicht zukunftsfähig“",
+    "url": "https://www.handelsblatt.com/finanzen/immobilien/annika-steiner-waermepumpen-oder-ki-machen-ein-gebaeude-nicht-zukunftsfaehig/100271497.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T13:18:53.000Z",
+    "excerpt": "Warum Technik allein als Lösung für nachhaltige Gebäude überschätzt wird, erklärt die Managerin bei Wüest Partner. Was es außerdem braucht und warum die Immobilienbranche mutiger sein sollte.",
+    "tickers": []
+  },
+  {
+    "title": "Delivery Hero: Uber sichert sich fast 90 Prozent der Anteile",
+    "url": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T13:08:00.000Z",
+    "excerpt": "Das US-Start-up Uber setzt seine aggressive Wachstumspolitik fort. Die milliardenschwere Übernahme des Berliner Essenskuriers Delivery Hero ist fast abgeschlossen.",
+    "tickers": []
+  },
+  {
+    "title": "IG Metall und Arbeitgeber einigen sich: Das Herz der Wirtschaft schlägt noch – Meinung",
+    "url": "https://www.spiegel.de/wirtschaft/tarifabschluss-in-der-metall-und-elektroindustrie-das-herz-der-deutschen-wirtschaft-schlaegt-noch-a-866a0dba-a8ab-471b-bdc7-ace99989afb2#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T12:54:00.000Z",
+    "excerpt": "Nach erbitterten Auseinandersetzungen haben Arbeitgeber und IG Metall die Grundlage geschaffen, damit sich die deutsche Industrie erholen kann. Jetzt ist die Politik dran.",
+    "tickers": []
+  },
+  {
+    "title": "Interview: Herr Joseph, wie kamen Sie an das Datenleck der Deutschen Bank?",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/inside-deutsche-bank-herr-joseph-wie-kamen-sie-an-das-datenleck-der-deutschen-bank/100272415.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T12:26:55.000Z",
+    "excerpt": "Der indische Investigativjournalist Josy Joseph gewann das Vertrauen eines Anwalts und brachte so die internationalen Recherchen zur Deutschen Bank ins Rollen. Ein Blick hinter die Kulissen.",
+    "tickers": []
+  },
+  {
+    "title": "Märkte: EU erlaubt Deutscher Börse Milliarden-Übernahme von Allfunds",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-eu-erlaubt-deutscher-boerse-milliarden-uebernahme-von-allfunds/100273297.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T12:16:25.000Z",
+    "excerpt": "Mit der größten Übernahme der Firmengeschichte baut die Deutsche Börse ihre Fondsgeschäfte deutlich aus. Die EU-Kommission hat keine Bedenken für den Wettbewerb.",
+    "tickers": []
+  },
+  {
+    "title": "Record temperature surge in November fuels extreme weather ",
+    "url": "https://www.ft.com/content/738aaed8-7d4a-4321-aead-0f2bf71e286f?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T12:13:22.000Z",
+    "excerpt": "Storms batter east and west coasts of US as El Niño warming phenomenon takes hold",
+    "tickers": []
+  },
+  {
+    "title": "London is playing a game of penthouse one-upmanship",
+    "url": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T12:00:05.000Z",
+    "excerpt": "A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops",
+    "tickers": []
+  },
+  {
+    "title": "French economy shrinks 0.2% in third quarter",
+    "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T11:38:30.000Z",
+    "excerpt": "Quarterly GDP reduction was worse than initially estimated",
+    "tickers": []
+  },
+  {
+    "title": "Rasperia: RBI beantragt Freigabe eingefrorener russischer Vermögenswerte",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/rasperia-rbi-beantragt-freigabe-eingefrorener-russischer-vermoegenswerte/100273284.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T11:20:00.000Z",
+    "excerpt": "Damit will die Bank 3,15 Milliarden Euro Schadensersatz durchsetzen. Der Zugriff auf die Vermögenswerte würde der RBI Milliarden außerhalb Russlands sichern.",
+    "tickers": []
+  },
+  {
+    "title": "Hostility to immigration threatens Europe’s future",
+    "url": "https://www.ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T11:16:10.000Z",
+    "excerpt": "A defeat for Pedro Sánchez in Spain’s election will remove the EU’s last loud voice in favour of liberal policy",
+    "tickers": []
+  },
+  {
+    "title": "Volksbanken: Spencer Stuart mit Kandidatensuche für BVR-Spitze beauftragt",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/volksbanken-spencer-stuart-mit-kandidatensuche-fuer-bvr-spitze-beauftragt/100272178.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T11:14:43.000Z",
+    "excerpt": "Der Verwaltungsrat des Lobbyverbands muss einen Nachfolger für BVR-Präsidentin Marija Kolak finden. Eine der großen internationalen Personalberatungen ist nun mandatiert.",
+    "tickers": []
+  },
+  {
+    "title": "Konjunktur: Inflation in Spanien und Frankreich lässt überraschend nach",
+    "url": "https://www.handelsblatt.com/finanzen/geldpolitik/konjunktur-inflation-in-spanien-und-frankreich-laesst-ueberraschend-nach/100273264.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T11:09:45.000Z",
+    "excerpt": "Gegen den Trend in Frankreich und Spanien dürfte die Inflation im gesamten Euroraum jedoch nicht sinken. Auch die Verbraucher heben ihre Inflationserwartungen deutlich an.",
+    "tickers": []
+  },
+  {
+    "title": "Unicredit: Bundesregierung stellt sich hinter Orcel-Pläne für den Aufsichtsrat der Commerzbank",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-bundesregierung-stellt-sich-hinter-orcels-plaene-fuer-den-aufsichtsrat/100273270.html",
+    "source": "Handelsblatt Finanzen",
+    "publishedAt": "2026-11-27T10:35:31.000Z",
+    "excerpt": "Das Finanzministerium unterstützt die beiden Kandidaten der italienischen Unicredit für den Aufsichtsrat der Commerzbank. Berlin nähert sich der Übernahme damit sichtbar an.",
+    "tickers": []
+  },
+  {
+    "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
+    "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T10:08:00.000Z",
+    "excerpt": "Der Softwarekonzern SAP ist mit der rasanten Veränderung des Marktes durch künstliche Intelligenz konfrontiert. Das Management lässt offenbar schon Pläne für einen umfangreichen Stellenabbau schmieden.",
+    "tickers": []
+  },
+  {
+    "title": "Nvidia: Weitere Beziehung einer Führungskraft mit China-Bezug wirft Fragen auf",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china-a-7f83f64a-dd44-44b2-abdb-b3ece72cd6fb#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T09:39:00.000Z",
+    "excerpt": "Nvidia-Chef Huang stolperte über Affären, eine der Frauen soll eine chinesische Spionin sein. Das »Wall Street Journal« berichtet über eine weitere potenziell heikle Liaison aus dem Unternehmenskosmos.",
+    "tickers": []
+  },
+  {
+    "title": "Arbeitsmarkt: Herbstkonjunktur kann Abwärtstrend nicht bremsen",
+    "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T09:35:00.000Z",
+    "excerpt": "Die Zahl der Arbeitslosen in Deutschland ist im November leicht gesunken. Das folgt zwar den Gesetzmäßigkeiten der Herbstkonjunktur. Doch der Vergleich zum Vorjahr zeigt, wie es wirklich steht.",
+    "tickers": []
+  },
+  {
+    "title": "Mehr als 2,9 Millionen ohne Job: Arbeitsmarkt bleibt schwach - 51.000 Arbeitslose mehr als vor einem Jahr",
+    "url": "https://www.n-tv.de/wirtschaft/Arbeitsmarkt-bleibt-schwach-51-000-Arbeitslose-mehr-als-vor-einem-Jahr-id31584340.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T08:58:43.000Z",
+    "excerpt": "Die Zahl der Arbeitslosen in Deutschland sinkt im November saisonbedingt um 19.000 auf 2,936 Millionen . Die Arbeitslosenquote gibt zum Oktober um 0,1 Punkte auf 6,2 Prozent nach. Im Vergleich zum November 2025 steigt die Zahl der Arbeitslo",
+    "tickers": []
+  },
+  {
+    "title": "Argentinien: Zentralbank darf Staat keine Kredite mehr gewähren",
+    "url": "https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren-a-f9704e1e-1596-40b6-a8b6-04dbaa4af278#ref=rss",
+    "source": "Spiegel Wirtschaft",
+    "publishedAt": "2026-11-27T06:47:00.000Z",
+    "excerpt": "Eine Notenbank hielt Argentiniens Präsident Javier Milei eigentlich für unnötig. Seine jetzt ohne eigene Mehrheiten in beiden Kongresskammern durchgesetzte Reform zeigt, wie ernst er es damit meint.",
+    "tickers": []
+  },
+  {
+    "title": "Berlin plant neue EU-Regel: KI-Anbieter sollen für erzeugte Texte, Musik und Videos zahlen",
+    "url": "https://www.n-tv.de/wirtschaft/KI-Anbieter-sollen-fuer-erzeugte-Texte-Musik-und-Videos-zahlen-id31583377.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T06:23:46.000Z",
+    "excerpt": "KI komponiert Musik, schreibt Texte und produziert Videos. Daher streiten KI-Anbieter und Urheber seit Jahren über die Nutzung von Inhalten zum Training der Systeme. Doch die Bundesregierung sieht beim Einsatz von KI noch ein weiteres Probl",
+    "tickers": []
+  },
+  {
+    "title": "Year-end deadline for EU budget deal in doubt after testy summit",
+    "url": "https://www.ft.com/content/cf5e2884-63e3-4fde-ad32-15c8cfa9603e?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T06:00:02.000Z",
+    "excerpt": "Also in this newsletter: Another turn in Serbia’s momentous political year",
+    "tickers": []
+  },
+  {
+    "title": "English data centres head north",
+    "url": "https://www.ft.com/content/495b5c75-1414-4f60-b5d4-6f73f074173c?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T05:00:23.000Z",
+    "excerpt": "Former power stations and factories eyed up as potential locations as power supply and land around London reach saturation point ",
+    "tickers": []
+  },
+  {
+    "title": "Marine Le Pen: the woman who could break the EU ",
+    "url": "https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1",
+    "source": "Financial Times — Europe",
+    "publishedAt": "2026-11-27T05:00:13.000Z",
+    "excerpt": "The far-right frontrunner for the French presidency is the biggest populist challenge in the bloc’s history",
+    "tickers": []
+  },
+  {
+    "title": "Konzern zeigt sich unbeeindruckt: Verdi will am Black Friday elf Amazon-Standorte lahmlegen",
+    "url": "https://www.n-tv.de/wirtschaft/Verdi-macht-Amazon-Druck-Warnstreiks-am-Black-Friday-elf-Standorte-betroffen-id31583171.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-27T02:45:32.000Z",
+    "excerpt": "Ausgerechnet am umsatzstärksten Einkaufstag des Jahres sollen bei Amazon vielerorts die Paketbänder stillstehen. Gewerkschaftsvertreter klagen über &quot;monotone Arbeitsabläufe&quot; und magere Löhne. Der Versandriese spricht von &quot;pau",
+    "tickers": []
+  },
+  {
+    "title": "&quot;Verdächtige Aktivitäten&quot;: Softwarekonzern SAP räumt IT-Sicherheitsvorfall ein",
+    "url": "https://www.n-tv.de/wirtschaft/Softwarekonzern-SAP-raeumt-IT-Sicherheitsvorfall-ein-id31582944.html",
+    "source": "N-tv Wirtschaft",
+    "publishedAt": "2026-11-26T22:56:22.000Z",
+    "excerpt": "Der IT-Konzern SAP registriert auffällige Vorkommnisse und ergreift nach eigenen Angaben sofort Schutzmaßnahmen. Kundendaten sollen nicht betroffen sein. Laut einem Medienbericht gab es zuvor ungewöhnliche Aktivitäten auf der Entwicklerplat",
+    "tickers": []
+  },
+  {
     "title": "EU-Sondergipfel: Gipfel zum EU-Haushalt vorzeitig beendet",
     "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
     "source": "FAZ Aktuell",
@@ -29,614 +637,6 @@
     "source": "Spiegel Schlagzeilen",
     "publishedAt": "2026-11-26T20:47:00.000Z",
     "excerpt": "Ein heftiger Sturm hat in den USA rund 770.000 Kunden von der Energieversorgung abgeschnitten. Während Hunderte Flüge ausfallen, musste New Yorks traditionelle Parade erstmals wetterbedingt verschoben werden.",
-    "tickers": []
-  },
-  {
-    "title": "Finnland: Die Armee, das sind alle",
-    "url": "https://www.faz.net/aktuell/politik/ausland/finnlands-wehrpflicht-ist-mehr-als-nur-landesverteidigung-201691305.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T20:36:29.000Z",
-    "excerpt": "Finnland ist groß, hat aber relativ wenige Einwohner. Deswegen setzt es auf Reservisten. Die helfen nebenbei, das Land zusammenzuhalten.",
-    "tickers": []
-  },
-  {
-    "title": "Europa League – Gazakrieg: Schwere Ausschreitungen bei Beşiktaş gegen Hapoel Beer-Sheva",
-    "url": "https://www.spiegel.de/sport/fussball/europa-league-gazakrieg-schwere-ausschreitungen-bei-besiktas-gegen-hapoel-beer-sheva-a-0f1e8425-c88a-4e90-a2f0-d787f15297c3#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T20:19:00.000Z",
-    "excerpt": "Der Gazakrieg wirft seine Schatten auch auf den Fußball. Die Partie zwischen Beşiktaş und Beer-Sheva wurde schon nach Georgien verlegt. Offenbar wegen eines Plakats eskalierte die Situation dennoch.",
-    "tickers": []
-  },
-  {
-    "title": "Europa League: Bayer 04 gewinnt locker in Zagreb und ist wieder in der Spur",
-    "url": "https://www.faz.net/aktuell/sport/fussball/europa-league-bayer-leverkusen-siegt-souveraen-bei-dinamo-zagreb-201210527.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T20:12:52.000Z",
-    "excerpt": "Leverkusen ist in der Europa League nach der Niederlage gegen Marseille zurück auf Kurs. Bei Dinamo Zagreb zeigen die Rheinländer von Beginn an eine engagierte Leistung – und werden früh belohnt.",
-    "tickers": []
-  },
-  {
-    "title": "Berlin: Großvater soll beim Kokaindealen geholfen haben",
-    "url": "https://www.spiegel.de/panorama/justiz/berlin-grossvater-soll-beim-kokaindealen-geholfen-haben-a-b3c9047d-77d7-4fed-81bb-b74fef7c3933#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T20:04:00.000Z",
-    "excerpt": "Ein Mann sitzt in Haft, weil er bandenmäßig mit Betäubungsmitteln in nicht geringer Menge handelte. Jetzt ist auch sein Großvater in den Fokus der Behörden gerückt.",
-    "tickers": []
-  },
-  {
-    "title": "Rente: Union überrumpelt SPD mit überraschendem Kompromissvorschlag",
-    "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T20:02:00.000Z",
-    "excerpt": "Der Kompromissvorschlag der Unionsfraktion bringt Bewegung in die festgefahrene Rentendebatte. Die SPD reagiert verschnupft.",
-    "tickers": []
-  },
-  {
-    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-    "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&amp;at_campaign=rss",
-    "source": "BBC Business — Economy",
-    "publishedAt": "2026-11-26T19:55:58.000Z",
-    "excerpt": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
-    "tickers": []
-  },
-  {
-    "title": "Großkonzerne laufen Sturm gegen steigende Transportkosten auf der Schiene",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/grosskonzerne-laufen-sturm-gegen-steigende-transportkosten-auf-der-schiene-a-3d67f09d-ff17-44f3-92af-c541a159d151#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T19:55:00.000Z",
-    "excerpt": "Unternehmen wie BASF, Bayer und Salzgitter sollen immer mehr Geld für den Transport ihrer Güter zahlen. Das liegt am steigenden Preis für die Nutzung der Gleise. In einem Brief an den Verkehrsminister fordern sie Reformen.",
-    "tickers": []
-  },
-  {
-    "title": "Biennale von Venedig: Hoor Al Qasimi kuratiert Ausstellung 2028",
-    "url": "https://www.spiegel.de/ausland/biennale-von-venedig-hoor-al-qasimi-kuratiert-ausstellung-2028-a-e1a599a5-fa53-450f-b594-bd53476bace9#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T19:42:00.000Z",
-    "excerpt": "Hoor Al Qasimi, Tochter eines Scheichs aus den Vereinigten Arabischen Emiraten, übernimmt 2028 die künstlerische Leitung der Kunstbiennale in Venedig. Sie zählt zu den einflussreichsten Persönlichkeiten der Kunstwelt.",
-    "tickers": []
-  },
-  {
-    "title": "Schach-WM: Dommaraju Gukesh und Javokhir Sindarov spielen den Samba de Janeiro",
-    "url": "https://www.spiegel.de/sport/schach/schach-wm-dommaraju-gukesh-und-javokhir-sindarov-spielen-den-samba-de-janeiro-a-858770af-3c12-490a-8a56-9dbcb94c26a1#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T19:30:00.000Z",
-    "excerpt": "Brasilianische Vibes in Genf: Weltmeister Dommaraju Gukesh bringt seinen Herausforderer mit einer ungewöhnlichen Eröffnung zum Nachdenken – und spielt den coolsten Zug der bisherigen WM.",
-    "tickers": []
-  },
-  {
-    "title": "Justizirrtum: Freigesprochen, aber nicht frei – das Leben des Sebastian T. - SPIEGEL TV",
-    "url": "https://www.spiegel.de/panorama/justiz/justizirrtum-freigesprochen-aber-nicht-frei-das-leben-des-sebastian-t-spiegel-tv-a-1945e177-3bcf-43b8-8b18-f27a2287c276#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T19:26:00.000Z",
-    "excerpt": "946 Tage saß Sebastian T. in Haft, verurteilt als Mörder, obwohl er unschuldig ist. Die wiedergewonnene Freiheit nach dem Freispruch ist getrübt: Die Ressentiments und die Gerüchte im Wohnort sind immer noch da.",
-    "tickers": []
-  },
-  {
-    "title": "Prozess gegen Ilona W. in Berlin: Eine Spionin vor dem Kammergericht",
-    "url": "https://www.spiegel.de/panorama/justiz/prozess-gegen-ilona-w-in-berlin-eine-spionin-vor-der-kammergericht-a-05d733d6-9f42-491b-8d2b-89ad25612567#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T19:25:00.000Z",
-    "excerpt": "Die Deutsch-Ukrainerin soll jahrelang für den russischen Geheimdienst spioniert haben. Zu Prozessbeginn erscheint die mutmaßliche Russlandspionin im Rollstuhl. Ilona W. schweigt vor Gericht – und leidet demonstrativ.",
-    "tickers": []
-  },
-  {
-    "title": "SAP wird Opfer von Hackerangriff",
-    "url": "https://www.spiegel.de/netzwelt/sap-wird-opfer-von-hackerangriff-a-6648b5ce-5d74-48dc-86ea-9469705bb91d#ref=rss",
-    "source": "Spiegel Schlagzeilen",
-    "publishedAt": "2026-11-26T19:14:00.000Z",
-    "excerpt": "Die Serie spektakulärer Hackerangriffe reißt nicht ab: Nach SPIEGEL-Informationen kämpft nun der Softwarehersteller SAP mit einem Vorfall. Womöglich haben die Täter sich von KI-Systemen helfen lassen.",
-    "tickers": []
-  },
-  {
-    "title": "Verjüngte Eizellen: Ein künstlicher Kleber soll den Kinderwunsch retten",
-    "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ein-kuenstlicher-kleber-soll-den-kinderwunsch-retten-201720404.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T19:00:06.000Z",
-    "excerpt": "Müssen Frauen im fortgeschrittenen Alter irgendwann keine Angst mehr haben vor immer neuen, vergeblichen künstlichen Befruchtungsversuchen? In Göttingen wurde eine Verjüngungskur für Eizellen erfolgreich ausprobiert.",
-    "tickers": []
-  },
-  {
-    "title": "UK to pay additional ‘participation fee’ as price of EU reset deal",
-    "url": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T18:57:50.000Z",
-    "excerpt": "Terms of agreement signed with Brussels last week include what EU diplomats call a ‘pay-to-play’ financial settlement",
-    "tickers": []
-  },
-  {
-    "title": "Britain’s electricity grid operator makes record number of calls for extra power",
-    "url": "https://www.ft.com/content/21a1331c-c201-4333-b312-ab87b7fd994f?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T18:36:59.000Z",
-    "excerpt": "Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England",
-    "tickers": []
-  },
-  {
-    "title": "Geld für Nahverkehr: Vorrang für Bus und Bahn",
-    "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-nahverkehr-will-die-politik-ihn-gar-nicht-ausbauen-201716591.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T18:34:04.000Z",
-    "excerpt": "Der Ausbau des Nahverkehrs stößt in Frankfurt manchmal auf kaum beeinflussbare Hindernisse. Ob ausreichend Geld bereitsteht, ist allerdings eine politische Entscheidung.",
-    "tickers": []
-  },
-  {
-    "title": "Rente mit 63: Die Union steht dem Umverteilungsstreben der SPD hilflos gegenüber",
-    "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-die-spd-und-das-versteckte-umverteilungsstreben-201720175.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T18:33:31.000Z",
-    "excerpt": "Die Sprüche von der Rentenreform als Gesamtkunstwerk sind wohl Geschwätz von gestern. Schade, dass die Union nicht energischer auftritt.",
-    "tickers": []
-  },
-  {
-    "title": "Abschlagsfrei in den Ruhestand?: Welche Chancen hat die „Respekt-Rente“?",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/streit-um-rente-mit-63-spd-lehnt-cdu-respekt-rente-ab-201719066.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T18:33:20.000Z",
-    "excerpt": "Öffentlich streiten Union und SPD über die wichtigste sozialpolitische Reform dieser Legislaturperiode. Was passiert hinter den geschlossenen Türen?",
-    "tickers": []
-  },
-  {
-    "title": "Italy’s PM rebukes Ukraine for attacks on Russian ships in Mediterranean",
-    "url": "https://www.ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T18:28:26.000Z",
-    "excerpt": "‘This war must not, cannot spread to the Mediterranean,’ Giorgia Meloni says at EU summit",
-    "tickers": []
-  },
-  {
-    "title": "SAP explores at least 10,000 job cuts ",
-    "url": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T18:24:34.000Z",
-    "excerpt": "European software group is latest to restructure as AI hits software sector ",
-    "tickers": []
-  },
-  {
-    "title": "Softwarekonzern baut auf KI: SAP erwägt wohl Streichung von 10.000 Stellen",
-    "url": "https://www.n-tv.de/wirtschaft/SAP-erwaegt-wohl-Streichung-von-10-000-Stellen-id31582340.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T18:12:34.000Z",
-    "excerpt": "SAP beschäftigt mehr als 110.000 Menschen. Berichten zufolge droht nun ein Kahlschlag, der fast jede zehnte Stelle kosten könnte. Demnach sind die Bereiche Vertrieb und Produktentwicklung besonders betroffen.",
-    "tickers": []
-  },
-  {
-    "title": "Sweden’s PM to stay in power without far-right ministers ",
-    "url": "https://www.ft.com/content/12e2cbc3-df17-4a10-94f6-ad121d8b5eeb?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T18:11:44.000Z",
-    "excerpt": "Ulf Kristersson has managed to secure a four-party coalition despite winning fewer seats than the opposition",
-    "tickers": []
-  },
-  {
-    "title": "Risiken für die Konjunktur: DIW-Chef: Wirtschaft muss sich 2027 auf &quot;viele Schocks&quot; einstellen",
-    "url": "https://www.n-tv.de/wirtschaft/DIW-Chef-Wirtschaft-muss-sich-2027-auf-viele-Schocks-einstellen-id31582156.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T17:49:01.000Z",
-    "excerpt": "Top-Ökonom Fratzscher sieht Deutschlands Wirtschaft auf Wachstumskurs, warnt aber zugleich vor Gefahren. Vor allem der private Konsum bleibe eine Schwachstelle. Für den Tankrabatt findet der DIW-Chef deutliche Worte.",
-    "tickers": []
-  },
-  {
-    "title": "Altria explores takeover bid for Imperial Brands ",
-    "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T17:46:48.000Z",
-    "excerpt": "Deal would remove another of the UK’s large listed companies from the London stock market",
-    "tickers": []
-  },
-  {
-    "title": "Pablo Hernández de Cos wins race for ECB presidency",
-    "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T17:36:51.000Z",
-    "excerpt": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot  ",
-    "tickers": []
-  },
-  {
-    "title": "Mohamed El-Erian: „Im schlimmsten Fall könnte eine Vertrauenskrise drohen, ähnlich wie damals bei Lehman Brothers“",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/mohamed-el-erian-im-interview-das-ist-kein-kapitalismus-mehr-wie-wir-ihn-kannten/100272622.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T17:32:37.000Z",
-    "excerpt": "Der US-Ökonom warnt vor den Folgen des zunehmenden Dirigismus – auch mit Blick auf Nvidia. Zugleich will er lieber Teil der chaotischen KI-Revolution sein, als abgehängt zu werden.",
-    "tickers": []
-  },
-  {
-    "title": "Rente mit 63: Überblick über Vorteile und Fallstricke der Reformideen",
-    "url": "https://www.spiegel.de/wirtschaft/rente-mit-63-ueberblick-ueber-vorteile-und-fallstricke-der-reformideen-a-ca75ebf2-bd7a-435d-b02d-3380bc6d8792#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T17:29:00.000Z",
-    "excerpt": "Wie geht’s weiter mit der abschlagsfreien Frührente? Die Union setzt auf Kürzungen für Besserverdiener, die SPD will Zeiten der Arbeitslosigkeit streichen. Ein Überblick über Vorteile und Fallstricke der Reformideen.",
-    "tickers": []
-  },
-  {
-    "title": "Hegseth laut Bericht beteiligt: Pentagon überlegte wohl, Huang mithilfe von Wehrgesetz zu reinstallieren",
-    "url": "https://www.n-tv.de/wirtschaft/Pentagon-ueberlegte-wohl-Huang-mithilfe-von-Wehrgesetz-zu-reinstallieren-id31581906.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T17:19:27.000Z",
-    "excerpt": "Präsident Trump wollte Nvidia-Chef Huang zurück an die Spitze des Unternehmens holen, Verteidigungsminister Hegseth wohl auch. Um die Rückkehr zu erzwingen, soll das Pentagon sogar überlegt haben, ein Gesetz aus dem Kalten Krieg anzuwenden.",
-    "tickers": []
-  },
-  {
-    "title": "EU-Gipfel: Agrarsubventionen treiben Merz, Macron und Meloni auseinander",
-    "url": "https://www.spiegel.de/wirtschaft/eu-gipfel-agrarsubventionen-treiben-merz-macron-und-meloni-auseinander-a-ceae53ab-e73d-40f0-8b3e-f93864547653#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T17:16:00.000Z",
-    "excerpt": "In der Debatte über das künftige EU-Budget drohen sich Kanzler Merz, Frankreichs Präsident Macron und Italiens Ministerpräsidentin Meloni weiter voneinander zu entfernen, statt sich anzunähern. Streitpunkt sind die Agrarsubventionen.",
-    "tickers": []
-  },
-  {
-    "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-    "url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T17:13:40.000Z",
-    "excerpt": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
-    "tickers": []
-  },
-  {
-    "title": "Aussetzer von Musk: Ein Blackout eines unersetzlichen Milliardärs ohne Folgen",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elon-musk-stammelt-bei-tesla-premiere-ein-grund-zur-sorge-201719884.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T17:09:04.000Z",
-    "excerpt": "Elon Musk stammelt während einer Liveschaltung herum. Sein Zustand war offensichtlich höchst labil. Konsequenzen? Wohl kaum. Ein weiterer Grund, sich ernsthaft zu sorgen.",
-    "tickers": []
-  },
-  {
-    "title": "Global stocks climb after volatile US trading over AI risks",
-    "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T16:49:54.000Z",
-    "excerpt": "Tech shares hit this month by fears over whether boom can be sustained",
-    "tickers": []
-  },
-  {
-    "title": "Dax aktuell: Dax schließt im Plus – Tech-Aktien erholen sich",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-deutlich-im-plus-tech-aktien-erholen-sich/100272884.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T16:49:15.000Z",
-    "excerpt": "Nachlassende Zollsorgen bescheren dem deutschen Leitindex Gewinne. Der Dax schafft es wieder über die 25.000‑Punkte-Marke. Anleger haben bei zuletzt stark fallenden Aktien zugegriffen.",
-    "tickers": []
-  },
-  {
-    "title": "Musterdepot – Dynamik: Nach dem Börsenbeben: Warum jetzt Aktien-ETFs ins Depot kommen",
-    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/geldanlage-nach-dem-boersenbeben-warum-jetzt-aktien-etfs-ins-depot-kommen/100272390.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T16:43:45.000Z",
-    "excerpt": "Der Ausverkauf traf auch Unternehmen mit intakten Geschäftsmodellen. Ihre niedrigeren Bewertungen eröffnen Chancen – trotz der anhaltenden Risiken an den Märkten.",
-    "tickers": []
-  },
-  {
-    "title": "Mehr Geld und Einmalzahlung: Tarifeinigung in Metallindustrie - Ausnahmen von 35-Stunden-Woche möglich",
-    "url": "https://www.n-tv.de/wirtschaft/Tarifeinigung-in-Metallindustrie-Ausnahmen-von-35-Stunden-Woche-moeglich-id31581845.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T16:35:00.000Z",
-    "excerpt": "Nach zähem Ringen in Mannheim fällt eine Entscheidung für Millionen Beschäftigte. IG Metall und Arbeitgeber finden im Tarifstreit zusammen. Es gibt mehr Geld, in bestimmten Fällen aber auch unbezahlte Mehrarbeit.",
-    "tickers": []
-  },
-  {
-    "title": "Immobilien: Sieben Grafiken zeigen die tatsächliche Lage am Wohnungsmarkt",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-sieben-grafiken-zeigen-die-tatsaechliche-lage-am-wohnungsmarkt/100269344.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T16:30:16.000Z",
-    "excerpt": "Immer mehr Deutsche beklagen, dass bezahlbarer Wohnraum fehlt. Ob die Klage berechtigt ist, untersucht eine Handelsblatt-Analyse. Ihre Antworten fallen teilweise überraschend aus.",
-    "tickers": []
-  },
-  {
-    "title": "Tarifstreit: IG Metall und Arbeitgeber einigen sich auf 4,3 Prozent mehr Gehalt",
-    "url": "https://www.faz.net/aktuell/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-auf-4-3-prozent-mehr-gehalt-201720943.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T16:21:32.000Z",
-    "excerpt": "Nach einem 24-stündigen Verhandlungsmarathon einigen sich die IG-Metall und Arbeitgeber. Die 35-Stunden-Woche ist nun nicht mehr in Stein gemeißelt.",
-    "tickers": []
-  },
-  {
-    "title": "Märkte Insight: Dem Bitcoin stehen noch schwierigere Zeiten bevor",
-    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/bitcoin-der-kryptowaehrung-stehen-noch-schwierigere-zeiten-bevor/100271553.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T16:07:01.000Z",
-    "excerpt": "Die bekannteste Cyberdevise hat in nur einem Monat mehr als 20 Prozent an Wert verloren. Gleich mehrere Gründe sprechen dafür, dass sich der Abverkauf fortsetzen wird, meint Martin Müller.",
-    "tickers": []
-  },
-  {
-    "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
-    "url": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T16:02:36.000Z",
-    "excerpt": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
-    "tickers": []
-  },
-  {
-    "title": "Deutschlandfunk-Reform: Mehr, mehr, mehr",
-    "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/deutschlandradio-verbraemt-totalumbau-beim-deutschlandfunk-201720488.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T15:51:51.000Z",
-    "excerpt": "Das Deutschlandradio kündigt den Umbau des Programms des Deutschlandfunks mit Superlativen an. Wir glauben davon erst einmal nichts.",
-    "tickers": []
-  },
-  {
-    "title": "European airlines brace for more bankruptcies after Norse suspends flights  ",
-    "url": "https://www.ft.com/content/c4affa94-263d-4bab-959a-b26fc7cc8077?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T15:51:41.000Z",
-    "excerpt": "Wave of failures has swept through low-margin industry since Middle East conflict drove up fuel prices  ",
-    "tickers": []
-  },
-  {
-    "title": "Geldpolitik: Niederlande ziehen zurück – Personalpaket für EZB-Spitze steht",
-    "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-pablo-hernandez-de-cos-wird-neuer-chef-der-euro-notenbank/100272970.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T15:48:39.000Z",
-    "excerpt": "Der Spanier Pablo Hernández de Cos wechselt von der Bank für Internationalen Zahlungsausgleich und wird EZB‑Präsident. Zwei weitere Posten entfallen auf Deutschland und Frankreich.",
-    "tickers": []
-  },
-  {
-    "title": "Nachfolger von Lagarde: Spanier Pablo Hernandez de Cos soll Chef der EZB werden",
-    "url": "https://www.n-tv.de/wirtschaft/Spanier-Pablo-Hernandez-de-Cos-soll-Chef-der-EZB-werden-id31581106.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T15:45:00.000Z",
-    "excerpt": "Christine Lagarde verlässt die EZB früher als geplant. Die Staats- und Regierungschefs der EU einigen sich auf Pablo Hernandez de Cos - einen erfahrener Zentralbanker aus Madrid. Deutschland setzt seinen Kandidaten für den Posten des Chefvo",
-    "tickers": []
-  },
-  {
-    "title": "BoE to cut capital requirements for banks as it warns of AI risks",
-    "url": "https://www.ft.com/content/cf30cef5-0e35-4ebd-a456-797dbd1ad132?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T15:42:39.000Z",
-    "excerpt": "Central bank tells lenders they will need to keep pace with the growing scale and sophistication of cyber threats",
-    "tickers": []
-  },
-  {
-    "title": "Record temperature surge in November as world fails to agree on climate action",
-    "url": "https://www.ft.com/content/738aaed8-7d4a-4321-aead-0f2bf71e286f?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T15:31:30.000Z",
-    "excerpt": "Deviation partly driven by temporary El Niño warming phenomenon",
-    "tickers": []
-  },
-  {
-    "title": "Rheinmetall-Mitarbeiter in Kuwait durch Drohnenangriff getötet",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-mitarbeiter-in-kuwait-durch-drohnenangriff-getoetet-a-c745dda3-d0ef-41cf-825e-3ee0e047e575#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T15:31:00.000Z",
-    "excerpt": "In Kuwait sind zwei Italiener getötet worden. Aus Rom heißt es, sie seien Mitarbeiter des deutschen Rüstungsunternehmens Rheinmetall gewesen.",
-    "tickers": []
-  },
-  {
-    "title": "IG Metall und Arbeitgeber einigen sich in Tarifstreit",
-    "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T15:28:00.000Z",
-    "excerpt": "Im Tarifkonflikt in der deutschen Metall- und Elektroindustrie haben die Vertreter von Arbeitgebern und Arbeitnehmern eine Vereinbarung getroffen. Auch unbezahlte Mehrarbeit und Lohnverzicht sollen künftig möglich sein.",
-    "tickers": []
-  },
-  {
-    "title": "Bringing data to the Thanksgiving table",
-    "url": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T15:26:58.000Z",
-    "excerpt": "Does America really face a food affordability crisis?",
-    "tickers": []
-  },
-  {
-    "title": "»Nius«: Medienunternehmen VRM in Mainz beendet Druckauftrag für rechtes Portal",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nius-medienunternehmen-vrm-in-mainz-beendet-druckauftrag-fuer-rechtes-portal-a-8512d47d-5dd8-46d4-a593-99a4fb6d8cfe#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T15:25:00.000Z",
-    "excerpt": "Das rechte Onlineportal »Nius« veröffentlichte vor einer Woche erstmals auch eine gedruckte Zeitung, mithilfe des Medienunternehmens VRM. Nach heftiger Kritik will es die Zusammenarbeit wieder beenden. Für Julian Reichelt ein »Anschlag auf ",
-    "tickers": []
-  },
-  {
-    "title": "Kein Schutz in der Krise: 2026 wird für Gold ein Jahr zum Vergessen",
-    "url": "https://www.n-tv.de/wirtschaft/2026-wird-fuer-Gold-ein-Jahr-zum-Vergessen-id31580408.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T15:20:59.000Z",
-    "excerpt": "Gold ist seit Januar um rund ein Drittel abgestürzt. Ein Teil der Erklärung liegt ausgerechnet in der Rally, die den Preis zuvor auf Rekordhöhen getrieben hatte. Nun zeigt sich, wie schnell Anleger den vermeintlich sicheren Hafen verkaufen,",
-    "tickers": []
-  },
-  {
-    "title": "Kriminelle Migranten: „Das Thema ist eine Zerreißprobe für die Gesellschaft“",
-    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/frank-urbaniok-ueber-seine-website-zu-kriminalitaet-und-migration-201715915.html",
-    "source": "FAZ Aktuell",
-    "publishedAt": "2026-11-26T15:00:05.000Z",
-    "excerpt": "Der forensische Psychiater Frank Urbaniok informiert darüber, wie Migranten aus bestimmten Ländern bei Gewaltkriminalität überrepräsentiert sind. Kritiker sagen: Alter, Geschlecht und Sozialstatus erklären die Zahlen. Er meint: Das sind Rel",
-    "tickers": []
-  },
-  {
-    "title": "Babcock secures record £8.7bn contract to support Royal Navy submarines",
-    "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T14:57:27.000Z",
-    "excerpt": "Five-year deal comes amid concerns over fleet’s readiness and increased Russian activity in north Atlantic",
-    "tickers": []
-  },
-  {
-    "title": "Immobilien: Vonovia investiert in Bayern – Erstes Projekt in der teuersten Wohnstadt Deutschlands",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-berlin-ist-vonovia-unerwuenscht-in-bayern-willkommen/100270527.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T14:46:45.000Z",
-    "excerpt": "Deutschlands größter Wohnungskonzern will mehr als zwei Milliarden Euro im Freisstaat investieren. Ministerpräsident Söder nutzt das für Seitenhiebe in Richtung Berlin.",
-    "tickers": []
-  },
-  {
-    "title": "Pro und Contra zur Arbeitszeit: Macht die 35-Stunden-Woche Deutschland arm?",
-    "url": "https://www.n-tv.de/wirtschaft/Macht-die-35-Stunden-Woche-Deutschland-arm-id31580768.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T14:37:52.000Z",
-    "excerpt": "Weniger arbeiten und trotzdem produktiver sein - oder braucht Deutschland wieder mehr Arbeitszeit? Ulrich Reitz und Martin to Roxel vertreten zur 35-Stunden-Woche gegensätzliche Positionen. Zwei Kommentare, zwei Antworten auf die Frage, wie",
-    "tickers": []
-  },
-  {
-    "title": "Notenbank: Designierter EZB-Präsident Hernández de Cos: Worauf müssen sich die Märkte unter ihm einstellen?",
-    "url": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-so-tickt-der-designierte-ezb-praesident-pablo-hernandez-de-cos/100270613.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T14:29:02.000Z",
-    "excerpt": "Auf die Juristin Christine Lagarde folgt an der Spitze der EZB ein Ökonom und erfahrener Notenbanker. Pablo Hernández de Cos gilt als diplomatisch versiert – und Anhänger niedriger Zinsen.",
-    "tickers": []
-  },
-  {
-    "title": "Folge von Russland-Sanktionen: US-Konsortium übernimmt Lukoil International",
-    "url": "https://www.n-tv.de/wirtschaft/US-Konsortium-uebernimmt-Lukoil-International-id31581120.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T14:28:33.000Z",
-    "excerpt": "Die USA sichern sich den Zugriff auf die ausländischen Aktivitäten des sanktionierten russischen Öl-Riesen Lukoil. Dazu gehören Bohr- und Förderanlagen in elf Ländern. Einen Verkauf der Tochter an ein Schweizer Unternehmen hatte die US-Regi",
-    "tickers": []
-  },
-  {
-    "title": "New allegations surface of Jordan Bardella’s teenage antisemitism",
-    "url": "https://www.ft.com/content/095d57ac-9f61-4d22-8358-7b6fafbf19bc?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T14:22:01.000Z",
-    "excerpt": "Far-right French politician says he never sent such messages and accuses media of ‘witch-hunts’",
-    "tickers": []
-  },
-  {
-    "title": "Millions of people to see average monthly mortgage payments rise by £100",
-    "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&amp;at_campaign=rss",
-    "source": "BBC Business — Economy",
-    "publishedAt": "2026-11-26T14:00:20.000Z",
-    "excerpt": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-    "tickers": []
-  },
-  {
-    "title": "Tankverhalten entscheidend: Studie kommt beim Spritpreisdeckel zu ernüchterndem Ergebnis",
-    "url": "https://www.n-tv.de/wirtschaft/Studie-Spritpreisdeckel-spart-pro-Kopf-nur-wenige-Euro-im-Jahr-id31580656.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T13:58:33.000Z",
-    "excerpt": "Welche Wirkungen hätte der Spritpreisdeckel gehabt, wäre er bereits seit zwei Jahren in Kraft? Dieser Frage sind Wirtschaftsforscher nachgegangen. Das Fazit: Die Maßnahme dämpft Preisspitzen, doch eine Gruppe hat davon vermutlich gar nichts",
-    "tickers": []
-  },
-  {
-    "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
-    "url": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T13:57:00.000Z",
-    "excerpt": "Auch für die Bundesregierung ist er der Favorit: Der Spanier Pablo Hernández de Cos soll als Nachfolger von Christine Lagarde die Europäische Zentralbank leiten.",
-    "tickers": []
-  },
-  {
-    "title": "British and European banks have taken on a lot of France risk",
-    "url": "https://www.ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T13:32:02.000Z",
-    "excerpt": "Toulouse or not Toulouse",
-    "tickers": []
-  },
-  {
-    "title": "Nvidia’s ‘great man theory’ is flawed",
-    "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T12:56:10.000Z",
-    "excerpt": "Some Big Tech companies have made a striking success of switching from founder mode to manager mode",
-    "tickers": []
-  },
-  {
-    "title": "Milliarden vor Abflug ins All?: US-Behörde erlaubt, wovor sich Musks Geldgeber fürchten",
-    "url": "https://www.n-tv.de/wirtschaft/US-Behoerde-erlaubt-wovor-sich-Musks-Geldgeber-fuerchten-id31580613.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T12:34:57.000Z",
-    "excerpt": "Ende der vergangenen Woche wird bekannt, dass einigen Investoren, die den KI-Ausbau von SpaceX finanzieren, offenbar die Weltraum-Ambitionen von SpaceX-Chef Musk nicht geheuer sind. Nur Tage später kommt die behördliche Genehmigung: Musk da",
-    "tickers": []
-  },
-  {
-    "title": "Paris and Berlin seek to shield EU budget from Marine Le Pen",
-    "url": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T12:23:57.000Z",
-    "excerpt": "France requests an extra €35bn for farmers to raise the cost of far-right leader picking apart deal on bloc’s budget if she becomes president",
-    "tickers": []
-  },
-  {
-    "title": "Steuern: Cum-ex-Skandal: Viele Täter zahlen ihre Beute nicht zurück",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/steuern-so-wenig-haben-cum-ex-straftaeter-an-den-staat-zurueckgezahlt/100271533.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T12:14:18.000Z",
-    "excerpt": "Mehr als ein Dutzend Cum-Ex-Täter hat das Landgericht Bonn verurteilt. Von angeordneten 58,7 Millionen Euro wurde bislang nicht einmal die Hälfte eingezogen. Zwei Kronzeugen brachen ihre Zusagen.",
-    "tickers": []
-  },
-  {
-    "title": "Texas resumes data centre permitting before Democrats take over",
-    "url": "https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3?syn-25a6b1a6=1",
-    "source": "Financial Times — Companies",
-    "publishedAt": "2026-11-26T12:00:10.000Z",
-    "excerpt": "Incoming governor Gina Hinojosa pledged to rein in construction of new projects during her campaign",
-    "tickers": []
-  },
-  {
-    "title": "The perfect Christmas gift for a paranoid king? A unicorn horn",
-    "url": "https://www.ft.com/content/7ba686e4-6df0-455a-9b49-b282423bb28c",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T12:00:09.000Z",
-    "excerpt": "The wunderkammern — cabinets of curiosities — of Renaissance emperors and princes reveal their power, ambition and desire to keep death at bay",
-    "tickers": []
-  },
-  {
-    "title": "Minotaur is a breathtaking portrait of wealthy Russians turning a blind eye to war",
-    "url": "https://www.ft.com/content/77d25f83-9fde-4bf8-a589-4620a5ac6288?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T12:00:09.000Z",
-    "excerpt": "Andrey Zvyagintsev directs a stark thriller about a couple with an unhappy marriage and a callous disregard for events outside their own lives",
-    "tickers": []
-  },
-  {
-    "title": "Deutsche Kette in Russland : Neue Sanktionen sollen Gerhard Schröder den Job kosten",
-    "url": "https://www.n-tv.de/wirtschaft/Neue-Sanktionen-sollen-Gerhard-Schroeder-den-Job-kosten-id31580121.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T11:42:00.000Z",
-    "excerpt": "Seit Kurzem sitzt Ex-Kanzler Schröder im Aufsichtsrat einer Supermarktkette in Russland. Deren deutscher Eigentümer ist Milliardär und pflegt ebenfalls enge Kontakte in das Land. Die EU will die Geschäftsbeziehungen schwächen.",
-    "tickers": []
-  },
-  {
-    "title": "Geldanlage: So entsteht ein ETF-Portfolio, das wenig Arbeit macht  ",
-    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-bauen-sie-mit-wenigen-etfs-ein-starkes-depot-auf-01/100263502.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T11:28:00.000Z",
-    "excerpt": "Ein bis zwei ETFs – und das Depot ist fertig? Das funktioniert. Eine Anleitung in vier Schritten, mit welchen ETFs das gelingt und welcher bekannte Indexfonds außen vor bleiben sollte. ",
-    "tickers": []
-  },
-  {
-    "title": "Lululemon-Gründer Chip Wilson soll sich auf Frauenkonferenz sexistisch geäußert haben",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/lululemon-gruender-chip-wilson-soll-sich-auf-frauenkonferenz-sexistisch-geaeussert-haben-a-7c6a208b-8462-43df-afb8-c82338e36a3b#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T11:26:00.000Z",
-    "excerpt": "Angekündigt war ein »intimes Kamingespräch«, heraus kam offenbar eine Schuldzuweisung an kanadische Frauen. Chip Wilson, Chef der Yoga-Firma Lululemon, hat auf einer Konferenz für Aufsehen gesorgt. Es war nicht das erste Mal.",
-    "tickers": []
-  },
-  {
-    "title": "Nach Huang-Affäre: Bericht: Nvidia verbietet Verkauf von Halbleitern in vier Länder",
-    "url": "https://www.n-tv.de/wirtschaft/Bericht-Nvidia-verbietet-Verkauf-von-Halbleitern-in-vier-Laender-id31580048.html",
-    "source": "N-tv Wirtschaft",
-    "publishedAt": "2026-11-26T11:21:31.000Z",
-    "excerpt": "Aus Gründen der nationalen Sicherheit verbieten die USA den Export von Hochleistungschips von Nvidia nach China. Das Land besorgt sie sich möglicherweise dennoch. Der Chiphersteller zieht die Bremse und stoppt auch den Export von Halbleiter",
-    "tickers": []
-  },
-  {
-    "title": "The space economy and European common goods",
-    "url": "https://www.ft.com/content/0b69fa9a-7e15-4993-acfb-7fc93b81f2d7?syn-25a6b1a6=1",
-    "source": "Financial Times — Europe",
-    "publishedAt": "2026-11-26T11:00:07.000Z",
-    "excerpt": "With its formal budget kept small, the EU should think outside the box on ‘club goods’",
-    "tickers": []
-  },
-  {
-    "title": "Künstliche Intelligenz: Trotz Tech-Ausverkauf – Michael Burry setzt vor allem auf Kursanstiege",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/tech-ausverkauf-michael-burry-setzt-staerker-auf-kursanstiege-bei-ki/100272955.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T10:52:36.000Z",
-    "excerpt": "Lange wettete Investor Michael Burry gegen den Boom von Künstlicher Intelligenz. Nun setzt er vorwiegend auf steigende Kurse der Branche – zumindest vorerst.",
-    "tickers": []
-  },
-  {
-    "title": "Unicredit: Orcel will Aufsichtsratschef der Commerzbank werden und Vorstände rasch austauschen",
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/unicredit-orcel-will-aufsichtsratschef-der-commerzbank-werden/100272891.html",
-    "source": "Handelsblatt Finanzen",
-    "publishedAt": "2026-11-26T10:38:38.000Z",
-    "excerpt": "Unicredit hat alle Genehmigungen für die Übernahme der Commerzbank und will neun Aufsichtsratsmitglieder austauschen. Auch im Vorstand wollen die Italiener schnell Fakten schaffen.",
-    "tickers": []
-  },
-  {
-    "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
-    "source": "Spiegel Wirtschaft",
-    "publishedAt": "2026-11-26T10:19:00.000Z",
-    "excerpt": "Nachdem alle Behörden der Commerzbank-Übernahme zugestimmt haben, drücken die künftigen Eigentümer aus Italien aufs Tempo. Den Aufsichtsrat soll UniCredit-Chef Orcel führen, den bisherigen Vorständen wird das Vertrauen entzogen.",
     "tickers": []
   }
 ]

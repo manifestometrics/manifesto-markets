@@ -1,10 +1,346 @@
 [
   {
+    "title": "Why is Strategy stock gaining today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-gaining-today-93CH-5053886",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T21:31:59.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 1.93%",
+    "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-193-5053883",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T21:30:31.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Canada stocks higher at close of trade; S&amp;P/TSX Composite up 1.20%",
+    "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-120-5053880",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T21:30:04.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Colombia stocks higher at close of trade; COLCAP up 1.53%",
+    "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-153-5053878",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T21:25:06.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.29%",
+    "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-129-5053864",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T21:20:03.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T21:19:31.000Z",
+    "excerpt": "S&amp;P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+    "tickers": []
+  },
+  {
+    "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T21:05:05.000Z",
+    "excerpt": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays.",
+    "tickers": []
+  },
+  {
+    "title": "Brazil stocks higher at close of trade; Bovespa up 0.05%",
+    "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-005-5053837",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T20:30:03.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T20:24:01.000Z",
+    "excerpt": "Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset.",
+    "tickers": []
+  },
+  {
+    "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
+    "url": "https://www.investing.com/news/stock-market-news/is-todays-black-friday-tech-rebound-a-real-rallyor-a-dead-cat-bounce-5053485",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T20:16:41.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Millions of Americans are retiring—lifting this wealth stock 13%",
+    "url": "https://www.investing.com/news/stock-market-news/millions-of-americans-are-retiringlifting-this-wealth-stock-13-5053441",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T20:11:46.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Market Swings Spooked Retail Traders—And Lifted CME Group Up 18%",
+    "url": "https://www.investing.com/news/stock-market-news/market-swings-spooked-retail-tradersand-lifted-cme-group-up-18-5053438",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T20:11:36.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
+    "url": "https://www.investing.com/news/stock-market-news/ai-chip-stocks-swung-wildlywhile-warren-buffetts-apple-climbed-26-5053436",
+    "source": "Investing.com — Nikkei 225 News",
+    "publishedAt": "2026-11-27T20:11:29.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T16:37:27.000Z",
+    "excerpt": "The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.",
+    "tickers": []
+  },
+  {
+    "title": " Kobe city government proposes tax on vacant condo units ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/kobe-vacant-condo-tax/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T08:36:00.000Z",
+    "excerpt": "If enacted, it would mark the first tax in Japan targeting vacant condominium units specifically.",
+    "tickers": []
+  },
+  {
+    "title": " Suzuki to domestically produce rare metal-free EV batteries ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/27/companies/suzuki-rare-metal-free-batteries/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T08:25:00.000Z",
+    "excerpt": "By making rare metal-free batteries, the company aims to curb procurement risks for materials for which Japan relies on imports.",
+    "tickers": []
+  },
+  {
+    "title": " A documentarian’s painstaking portrait of Bunyo Ishikawa, the ‘Battlefield Bohemian’ ",
+    "url": "https://www.japantimes.co.jp/culture/2026/11/27/film/bunyo-ishikawa-documentary-atsunori-kawamura-interview/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T07:45:00.000Z",
+    "excerpt": "Former NHK director Atsunori Kawamura spent seven years making his documentary about a photojournalist on the front lines.",
+    "tickers": []
+  },
+  {
+    "title": " Upper House rejects censure motion against education minister ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/politics/censure-motion-voted-down/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T07:34:00.000Z",
+    "excerpt": "The failure likely ends opposition efforts to unseat Yoshihiro Seki as the focus shifts to getting key bills passed before parliament closes.",
+    "tickers": []
+  },
+  {
+    "title": " Number of students not attending school in Japan reaches record ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/society/japan-school-absency-record/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T07:26:00.000Z",
+    "excerpt": "Over half of the students cited in the education ministry's annual report on student issues did not attend school for at least 90 days.",
+    "tickers": []
+  },
+  {
+    "title": " U.S. tariff plan has Japan asking questions and pushing back ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/27/trump-tariff-japan/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T07:17:00.000Z",
+    "excerpt": "Rates could be taken to 15% on most Japanese goods, from the current 12.5%.",
+    "tickers": []
+  },
+  {
+    "title": " Sony launches its new Walkman series, with a price tag of up to ¥655,000 ",
+    "url": "https://www.japantimes.co.jp/business/2026/11/27/companies/new-sony-walkman/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T07:01:00.000Z",
+    "excerpt": "The new release has \"next-level\" audio technology and retains features that made the original device iconic.",
+    "tickers": []
+  },
+  {
+    "title": " Japan releases new guidelines on use of AI by Self-Defense Forces ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/self-defense-forces-ai-use/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T06:30:00.000Z",
+    "excerpt": "The new guidelines build on the Defense Ministry's basic policy for promoting the use of artificial intelligence, released in 2024.",
+    "tickers": []
+  },
+  {
+    "title": " NFL serves up trio of thrilling finishes on Thanksgiving ",
+    "url": "https://www.japantimes.co.jp/sports/2026/11/27/more-sports/nfl-thanksgiving-day-games/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T06:28:00.000Z",
+    "excerpt": "The Buffalo Bills edged the Kansas City Chiefs 13-10 in a heavyweight AFC matchup, and the Philadelphia Eagles 21-point third-quarter deficit to beat the Dallas Cowboys.",
+    "tickers": []
+  },
+  {
+    "title": " We’re one step closer to understanding consciousness ",
+    "url": "https://www.japantimes.co.jp/commentary/2026/11/27/world/close-to-understanding-consciousness/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T06:07:00.000Z",
+    "excerpt": "Scientists and philosophers are coming closer to understanding what consciousness is, with implications that are mind-boggling.",
+    "tickers": []
+  },
+  {
+    "title": "デジタル庁職員による生成AIの利用実績に関する資料を掲載しました",
+    "url": "https://www.digital.go.jp/news/08ded405-ca03-48c7-9b92-6b8878854a74",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "共創PFキャンプin南東北～EBPM・データ利活用編～を開催しました",
+    "url": "https://www.digital.go.jp/get-involved/co-creation-platform/4c08dbd0-efe0-4734-a589-b2426dea961e",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "電子委任状取扱業務の認定について「認定電子委任状取扱業務」の資料を更新しました",
+    "url": "https://www.digital.go.jp/policies/digitalpoa_certification",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "デジタル推進委員オンラインコミュニティスタートガイドおよび登録マニュアルを更新しました",
+    "url": "https://www.digital.go.jp/policies/digital_promotion_staff/community",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "JP PINTの「日本のPeppol Certified Service Providerについて」「グローバルの取組」を更新しました",
+    "url": "https://www.digital.go.jp/policies/electronic_invoice",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "公金受取口座の登録状況に関するダッシュボードを更新しました",
+    "url": "https://www.digital.go.jp/resources/govdashboard/account_registration_status",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードを更新しました",
+    "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "令和9年度上半期（4月から9月まで）デジタル庁調達計画を掲載しました",
+    "url": "https://www.digital.go.jp/procurement",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "ガバメントAI 源内の公式ロゴをリリースしました",
+    "url": "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df",
+    "source": "Digital Agency Japan (Gov RSS)",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": " Steelers owner says ‘insubordination can’t be tolerated’ after releasing Aaron Rodgers ",
+    "url": "https://www.japantimes.co.jp/sports/2026/11/27/more-sports/aaron-rodgers-steelers-owner/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T05:43:00.000Z",
+    "excerpt": "Rodgers, a four-time NFL MVP, cleared waivers on Thursday and is officially an unrestricted free agent.",
+    "tickers": []
+  },
+  {
+    "title": " JAXA to recruit new astronauts from April ",
+    "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/new-astronauts-recruitment/",
+    "source": "Japan Times — News",
+    "publishedAt": "2026-11-27T05:24:00.000Z",
+    "excerpt": "The agency currently has six active astronauts, with an average age of 49.",
+    "tickers": []
+  },
+  {
+    "title": "China Spurs Biggest Stock Gain Since 2024 on Rare Midday Vow",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T05:00:23.000Z",
+    "excerpt": "Chinese authorities gave markets a boost with a rare midday statement pledging support, sending stocks to their best day in more than two years.",
+    "tickers": []
+  },
+  {
+    "title": "Emerging-Market Stocks Snag Best Week Since June on Tech Rebound",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T03:33:48.000Z",
+    "excerpt": "Emerging-market stocks posted their biggest weekly gain since June as investors piled back into technology shares following a recent selloff, capping a volatile week across global markets.",
+    "tickers": []
+  },
+  {
+    "title": "Brazil’s Real Caps Best Week Since 2020 as Trabuco Lifts Mood",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-27T01:08:00.000Z",
+    "excerpt": "Brazilian markets rallied after President Luiz Inácio Lula da Silva picked one of the nation’s most prominent bankers to be his finance minister, easing the worries about his economic policies that triggered a deep selloff after his surpris",
+    "tickers": []
+  },
+  {
+    "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-26T23:53:35.000Z",
+    "excerpt": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
+    "tickers": []
+  },
+  {
+    "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-26T23:44:27.000Z",
+    "excerpt": "The dollar climbed toward its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
+    "tickers": []
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Nov. 27",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-26T23:05:38.000Z",
+    "excerpt": "Oil swung in thin trading as increasing attacks on energy infrastructure and tankers in the Middle East heightened supply fears.",
+    "tickers": []
+  },
+  {
     "title": "Bradesco’s Trabuco accepts invitation to be Brazil’s finance minister, source says",
     "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
     "source": "Investing.com — Nikkei 225 News",
     "publishedAt": "2026-11-26T22:00:38.000Z",
     "excerpt": "",
+    "tickers": []
+  },
+  {
+    "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-26T21:59:57.000Z",
+    "excerpt": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
     "tickers": []
   },
   {
@@ -240,14 +576,6 @@
     "tickers": []
   },
   {
-    "title": "意見招請：令和9年度ガバメントソリューションサービスに係る端末の借入等を掲載しました",
-    "url": "https://www.digital.go.jp/procurement",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-26T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
     "title": "Copper Rebounds as Tech Rally Lifts Battered Industrial Metals",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
     "source": "Bloomberg — Markets (Japan-relevant)",
@@ -261,6 +589,14 @@
     "source": "Bloomberg — Markets (Japan-relevant)",
     "publishedAt": "2026-11-26T00:18:09.000Z",
     "excerpt": "Gold hovered near the lowest level in about 15 months on Thursday, as investors weighed the prospect of further Federal Reserve rate hikes against a relief rally in wider markets amid a comeback in technology shares.",
+    "tickers": []
+  },
+  {
+    "title": "How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
+    "source": "Bloomberg — Markets (Japan-relevant)",
+    "publishedAt": "2026-11-25T23:18:01.000Z",
+    "excerpt": "Bloomberg’s Romaine Bostick reports on how Exemplar Luxury Group, formerly known as Saks Global, is reinventing itself for a fresh start in luxury since emerging from bankruptcy earlier this year. Exemplar Luxury Group CEO Geoffroy van Raem",
     "tickers": []
   },
   {
@@ -300,342 +636,6 @@
     "url": "https://www.investing.com/news/stock-market-news/why-is-vera-therapeutics-stock-surging-today-93CH-5051578",
     "source": "Investing.com — Nikkei 225 News",
     "publishedAt": "2026-11-25T21:55:17.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Why is Palo Alto Networks stock sliding today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5051576",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:53:45.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Why is Targa Resources stock sliding today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-targa-resources-stock-sliding-today-93CH-5051574",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:52:01.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Why is Kinetik Holdings stock surging today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-kinetik-holdings-stock-surging-today-93CH-5051573",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:51:38.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Vertex shares drop 7.5% as FDA extends review for kidney drug povetacicept",
-    "url": "https://www.investing.com/news/stock-market-news/vertex-shares-drop-75-as-fda-extends-review-for-kidney-drug-povetacicept-5051552",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:44:47.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T21:38:39.000Z",
-    "excerpt": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Lisa Mateo. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "Trump’s newest order curtailing birthright citizenship is blocked by second judge",
-    "url": "https://www.investing.com/news/stock-market-news/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-5051543",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:36:20.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.33%",
-    "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-033-5051523",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:30:57.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Mexico stocks higher at close of trade; S&amp;P/BMV IPC up 3.06%",
-    "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-306-5051513",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-25T21:30:30.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Market Volatility Highly Unlikely To Continue: Kindler",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/market-volatility-highly-unlikely-to-continue-kindler-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T21:23:13.000Z",
-    "excerpt": "Robert Kindler, global chair of the M&A group at Paul, Weiss, Rifkind, Wharton & Garrison, joins Dani Burger on \"Bloomberg Deals.\" They discussed the record pace for M&A. (Source: Bloomberg)",
-    "tickers": []
-  },
-  {
-    "title": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T21:03:17.000Z",
-    "excerpt": "US tariff rates announced Wednesday put pressure on India to agree to a trade deal or face a higher levy, leaving exporters and investors with little clarity on the trade outlook.",
-    "tickers": []
-  },
-  {
-    "title": "The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/where-will-anthropic-s-new-millionaires-donate-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T21:03:11.000Z",
-    "excerpt": "Sarah Holder sits down with GiveDirectly CEO Nick Allardice and Center for Effective Philanthropy President Phil Buchanan, who debate how to turn pledges into action and who should decide how money gets spent. Listen to the Big Take whereve",
-    "tickers": []
-  },
-  {
-    "title": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T21:00:57.000Z",
-    "excerpt": "Targa Resources Corp. is in talks to acquire Kinetik Holdings Inc., a publicly-listed pipeline company partly owned by Blackstone Inc., according to people familiar with the matter.",
-    "tickers": []
-  },
-  {
-    "title": "Mega Rail Deal Gets Unusual WH Meeting ",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/mega-rail-deal-gets-unusual-wh-meeting-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T20:55:44.000Z",
-    "excerpt": "In a highly unusual gathering, White House officials met privately with a group of hedge fund investors betting on whether the $72 billion tie-up between Union Pacific and Norfolk Southern will win approval from the Trump administration, ac",
-    "tickers": []
-  },
-  {
-    "title": "Zelenskyy Eyes New Congress If Trump Can’t Push Putin to Peace",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-25/zelenskyy-eyes-congress-if-no-peace-by-end-of-year-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T20:44:44.000Z",
-    "excerpt": "Ukrainian President Volodymyr Zelenskyy will reach out to the new Democrat-controlled US Congress to intensify pressure on Russia if Donald Trump fails to convince Vladimir Putin to end the war by the end of the year. Ukraine will seek a ro",
-    "tickers": []
-  },
-  {
-    "title": "Caisse’s Infrastructure Arm Pauses Bond Sale as Market Sours",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T19:34:38.000Z",
-    "excerpt": "Deteriorating conditions in financial markets are preventing a new Canadian issuer from selling debt as planned, even with the backing of one of the country’s most important pension managers.",
-    "tickers": []
-  },
-  {
-    "title": "Anthropic’s Post-IPO Woes Contrast With SpaceX’s Start",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T16:45:00.000Z",
-    "excerpt": "Anthropic PBC is experiencing a rougher initiation to public markets than SpaceX, and a host of market and technical factors threaten to weigh down its stock performance before the Claude developer reports for the first time as a public com",
-    "tickers": []
-  },
-  {
-    "title": " Japanese judge dismissed over online casino gambling ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/judge-casino-gambling/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T14:40:00.000Z",
-    "excerpt": "The impeachment court determined that Judge Akifumi Morimoto, 52, at Niigata Summary Court, \"undermined public trust in the judiciary.\"",
-    "tickers": []
-  },
-  {
-    "title": " Japan mulls new Japanese-language test for foreign workers ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/new-language-test-foreign-workers/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T12:06:00.000Z",
-    "excerpt": "The Foreign Ministry is considering setting up a new Japanese-language proficiency test for foreign workers in response to increasing numbers of applicants and rule revisions, it was learned Wednesday.",
-    "tickers": []
-  },
-  {
-    "title": " Japan to declare aim to become AI nation after U.S. and China ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T11:59:00.000Z",
-    "excerpt": "The government will include this goal when it revises the country's three key national security documents later this year.",
-    "tickers": []
-  },
-  {
-    "title": " Ex-CDP chief Izumi proposes two-bloc political system in Japan ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/kenta-izumi-political-system/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T10:23:00.000Z",
-    "excerpt": "Izumi's proposal comes as Japan moves away from a two-party system due to the weakening of opposition parties.",
-    "tickers": []
-  },
-  {
-    "title": " BOJ’s faster inflation indicator backs case for another hike ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/25/economy/boj-inflation-indicator-hike/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T10:03:00.000Z",
-    "excerpt": "Consumer prices excluding fresh food and special factors advanced 3.5% in October from a year earlier, the fastest pace since September 2023.",
-    "tickers": []
-  },
-  {
-    "title": " Starbucks is said to engage banks for sale of Japan business ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/stabucks-banks-sale/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T10:03:00.000Z",
-    "excerpt": "Starbucks has about 2,000 coffeehouses in Japan, making it one of the company's biggest markets.",
-    "tickers": []
-  },
-  {
-    "title": "古川大臣記者会見（令和8年11月24日）要旨を掲載しました",
-    "url": "https://www.digital.go.jp/speech/minister-261124-01",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-25T09:23:04.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": " GPIF agenda may signal portfolio review progress, JPMorgan says ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/25/gpif-portfolio-review-progress/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T09:00:00.000Z",
-    "excerpt": "The development may revive speculation that it could steer more of its ¥314 trillion portfolio toward domestic bonds.",
-    "tickers": []
-  },
-  {
-    "title": " Showdown over Japan defense spending draws near ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/politics/japan-defense-spending-focus/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T08:33:00.000Z",
-    "excerpt": "Proponents of fiscal sustainability are pushing for less than ¥60 trillion over five years, while defense hawks say at least ¥70 trillion is needed.",
-    "tickers": []
-  },
-  {
-    "title": " Mizuho’s Avendus to hire 75 private bankers over four years ",
-    "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/mizuho-avendus-hire-private-bankers/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T08:29:00.000Z",
-    "excerpt": "Its wealth unit, which manages around $9.4 billion of assets, aims to grow them by 20% every year.",
-    "tickers": []
-  },
-  {
-    "title": " Paint inspired by tuna’s slimy skin is helping speed up ships ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/tuna-paint-ships-speed/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T08:07:00.000Z",
-    "excerpt": "The product, developed by Nippon Paint Holdings, is seen improving the fuel efficiency of ships amid soaring energy prices.",
-    "tickers": []
-  },
-  {
-    "title": "US Stocks End Day Lower as AI-Driven Swings Whipsaw Investors",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T07:51:43.000Z",
-    "excerpt": "US stocks finished lower, capping a day of whiplash that saw the Nasdaq 100 Index briefly enter bear-market territory before retracing most of its losses, as dip buyers looked past the biggest concerns clouding the outlook for artificial in",
-    "tickers": []
-  },
-  {
-    "title": " Ebola tied to rising violence against women and girls in Congo, UNICEF says ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/world/science-health/ebola-violence-women-congo-unicef/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T07:20:00.000Z",
-    "excerpt": "The epidemic has killed more than 5,800 people since May.",
-    "tickers": []
-  },
-  {
-    "title": "US Treasury Yields Hit Two-Month Low as Tech Stocks Extend Slide",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-25T06:49:34.000Z",
-    "excerpt": "Treasuries soared on Wednesday as a selloff in global equities over the sustainability of the AI trade prompted investors to rush into the safety of US government debt.",
-    "tickers": []
-  },
-  {
-    "title": " Personal information of over 11 million possibly leaked in September Keio hack ",
-    "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/keio-personal-data-leakage/",
-    "source": "Japan Times — News",
-    "publishedAt": "2026-11-25T06:08:00.000Z",
-    "excerpt": "The number includes customers, clients and workers of the private railway operator, which has subsidiaries in other sectors including hotels.",
-    "tickers": []
-  },
-  {
-    "title": "電子署名に係る「電子署名法に基づく認定認証業務一覧」の資料を更新しました",
-    "url": "https://www.digital.go.jp/policies/digitalsign",
-    "source": "Digital Agency Japan (Gov RSS)",
-    "publishedAt": "2026-11-25T06:00:00.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Gold Bounces Back Above $3,500 as Yields, Dollar Retreat",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-24T23:51:22.000Z",
-    "excerpt": "Gold rebounded above $3,500 an ounce from session lows as Treasury yields and the dollar eased off earlier gains, prompting some bargain buying.",
-    "tickers": []
-  },
-  {
-    "title": "JBS proposes election of Wesley Batista as chairman",
-    "url": "https://www.investing.com/news/stock-market-news/jbs-proposes-election-of-wesley-batista-as-chairman-5049276",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-24T22:36:53.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
-    "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-24T22:36:39.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "S&amp;P upgrades Canadian Pacific Kansas City to A- on cross-border growth momentum",
-    "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-canadian-pacific-kansas-city-to-a-on-crossborder-growth-momentum-5049273",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-24T22:36:01.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Centuri Holdings stock jumps on S&amp;P SmallCap 600 inclusion",
-    "url": "https://www.investing.com/news/stock-market-news/centuri-holdings-stock-jumps-on-sp-smallcap-600-inclusion-5049257",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-24T22:29:43.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-24T22:29:33.000Z",
-    "excerpt": "Carl Icahn’s fortune has dwindled to about $1.3 billion as mounting debt squeezes his business empire, leaving the longtime corporate raider and activist investor facing one of the toughest stretches of his career. When Icahn Enterprises re",
-    "tickers": []
-  },
-  {
-    "title": "Schumer accuses Nvidia CEO of violating US export control law",
-    "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-24T22:18:20.000Z",
-    "excerpt": "",
-    "tickers": []
-  },
-  {
-    "title": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-24T22:12:57.000Z",
-    "excerpt": "Cheaper Asian imports are gaining traction with US steel buyers despite Washington’s tariffs, as a data center construction boom squeezes domestic supplies and drives up prices.",
-    "tickers": []
-  },
-  {
-    "title": "Stocks Pare AI-Driven Losses as Dip Buyers Step In: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-    "source": "Bloomberg — Markets (Japan-relevant)",
-    "publishedAt": "2026-11-24T22:09:18.000Z",
-    "excerpt": "Wild swings lashed Wall Street again, with dip buyers fading a selloff that had briefly sent the Nasdaq 100 to the brink of a bear market.",
-    "tickers": []
-  },
-  {
-    "title": "Wonder not pursuing Grubhub sale, The Information says",
-    "url": "https://www.investing.com/news/stock-market-news/wonder-not-pursuing-grubhub-sale-the-information-says-5049199",
-    "source": "Investing.com — Nikkei 225 News",
-    "publishedAt": "2026-11-24T22:00:42.000Z",
     "excerpt": "",
     "tickers": []
   }
